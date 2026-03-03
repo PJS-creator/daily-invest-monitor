@@ -1,10 +1,11 @@
 name: Daily Investment Monitor (to Discussions)
 
 on:
+  # (선택) GitHub Actions 스케줄(UTC 기준)
+  schedule:
+    - cron: "30 22 * * *"  # 07:30 KST
+  # cron-job.org 또는 수동 실행용
   workflow_dispatch:
-  # (옵션) GitHub Actions 자체 스케줄을 쓰고 싶다면 아래를 활성화하세요. (UTC 기준)
-  # schedule:
-  #   - cron: "30 22 * * *"  # 07:30 KST
 
 permissions:
   contents: write
@@ -30,9 +31,9 @@ jobs:
       - name: Run monitor
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           DISCUSSION_TITLE: "Daily Report"
           DISCUSSION_CATEGORY: "General"
-          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: |
           python monitor.py
 
