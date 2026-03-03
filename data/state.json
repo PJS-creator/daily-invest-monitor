@@ -1,5 +1,268 @@
 {
-  "last_run": null,
-  "press_seen": {},
-  "sec_seen": {}
+  "last_run": "2026-03-03T00:51:50.943447+00:00",
+  "press_seen": {
+    "EQ": [
+      "https://www.globenewswire.com/news-release/2026/02/25/3244592/0/en/Equillium-to-Participate-in-the-Leerink-Partners-2026-Global-Healthcare-Conference.html",
+      "https://www.globenewswire.com/news-release/2026/02/02/3230599/0/en/Equillium-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+      "https://www.globenewswire.com/news-release/2025/12/10/3203440/0/en/Celiac-Disease-Clinical-Trial-Pipeline-Gains-Momentum-20-Companies-Lead-the-Charge-in-Pioneering-New-Treatments-DelveInsight.html",
+      "https://www.globenewswire.com/news-release/2025/11/20/3192430/0/en/Equillium-to-Participate-in-Upcoming-Investor-Conferences.html",
+      "https://www.globenewswire.com/news-release/2025/11/13/3187833/0/en/Equillium-Reports-Third-Quarter-2025-Financial-Results-and-Provides-Operational-Update.html",
+      "https://www.globenewswire.com/news-release/2025/11/04/3180352/0/en/Equillium-to-Participate-in-Upcoming-Investor-Conferences.html",
+      "https://www.globenewswire.com/news-release/2025/11/03/3179807/0/en/Equillium-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+      "https://www.globenewswire.com/news-release/2025/10/22/3171016/0/en/Equillium-to-Host-Ulcerative-Colitis-KOL-Event-on-November-5-2025.html"
+    ],
+    "GPCR": [
+      "https://www.globenewswire.com/news-release/2026/02/26/3246065/0/en/Structure-Therapeutics-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Recent-Highlights.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3245967/0/en/PatentVest-Releases-New-Report-on-The-Oral-Small-Molecule-GLP-1-Patent-Race.html",
+      "https://www.globenewswire.com/news-release/2026/02/24/3243652/0/en/Human-Continuum-Appoints-Dr-Michael-Milligan-MD-MBA-as-its-Chief-Medical-Officer-to-Oversee-Innovative-Applications-for-Next-Generation-Extracellular-Vesicle-Therapeutics.html",
+      "https://www.globenewswire.com/news-release/2026/02/19/3240807/0/en/Global-Amyotrophic-Lateral-Sclerosis-Therapeutics-Market-Size-Share-Worth-USD-1964-Million-by-2035-at-11-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Foreca.html",
+      "https://www.globenewswire.com/news-release/2026/02/16/3238761/0/en/Global-Oligonucleotide-Therapeutics-Market-Set-to-Surge-to-USD-17-70-Billion-by-2030-MarketsandMarkets.html",
+      "https://www.globenewswire.com/news-release/2026/01/30/3229496/0/en/Alps-Group-Inc-Announces-Potential-Pipeline-Expansion-Beyond-CELESOME-Following-Publication-of-Nebulized-Human-Umbilical-Cord-Mesenchymal-Stem-Cell-Exosome-Therapy.html",
+      "https://www.globenewswire.com/news-release/2026/01/22/3223813/0/en/Human-Continuum-Appoints-Dr-Omar-Khalid-Sial-Ph-D-as-its-Chief-Scientific-Officer-to-Spearhead-the-Development-of-Innovative-Extracellular-Vesicle-Topical-Formulations-and-Advanced.html",
+      "https://www.globenewswire.com/news-release/2026/01/16/3220467/0/en/Oral-Protein-and-Peptides-Market-to-Hit-Valuation-of-US-47-33-Billion-By-2035-Astute-Analytica.html"
+    ],
+    "IKT": [
+      "https://www.globenewswire.com/news-release/2025/11/21/3192499/0/en/Inhibikase-Therapeutics-Announces-Pricing-of-100-Million-Public-Offering-of-Common-Stock-and-Pre-Funded-Warrants.html",
+      "https://www.globenewswire.com/news-release/2025/11/20/3192391/0/en/Inhibikase-Therapeutics-Announces-Proposed-Public-Offering-of-Common-Stock-and-Pre-Funded-Warrants.html",
+      "https://www.globenewswire.com/news-release/2025/11/20/3192370/0/en/Inhibikase-Therapeutics-Advancing-IKT-001-to-Global-Phase-3-Study-in-Pulmonary-Arterial-Hypertension.html",
+      "https://www.globenewswire.com/news-release/2025/11/14/3188594/0/en/Inhibikase-Therapeutics-Announces-Third-Quarter-2025-Financial-Results-and-Highlights-Recent-Activity.html",
+      "https://www.globenewswire.com/news-release/2025/08/19/3135653/0/en/Inhibikase-Therapeutics-Strengthens-Leadership-Team-with-Appointment-of-Timothy-Pigot-as-Chief-Commercial-and-Strategy-Officer.html",
+      "https://www.globenewswire.com/news-release/2025/08/14/3133944/0/en/Inhibikase-Therapeutics-Announces-Second-Quarter-2025-Financial-Results-and-Highlights-Recent-Activity.html",
+      "https://www.globenewswire.com/news-release/2025/07/10/3113584/0/en/Cannabinoid-Agonist-Clinical-Trial-Pipeline-Appears-Robust-With-20-Key-Pharma-Companies-Actively-Working-in-the-Therapeutics-Segment-DelveInsight.html",
+      "https://www.globenewswire.com/news-release/2025/05/28/3089398/0/en/ABLi-Therapeutics-Strengthens-Leadership-Team-and-Board-of-Directors.html",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/137/inhibikase-therapeutics-announces-pricing-of-100-million",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/136/inhibikase-therapeutics-announces-proposed-public-offering",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/135/inhibikase-therapeutics-advancing-ikt-001-to-global-phase-3",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/134/inhibikase-therapeutics-announces-third-quarter-2025",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/133/inhibikase-therapeutics-strengthens-leadership-team-with",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/132/inhibikase-therapeutics-announces-second-quarter2025",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/131/inhibikase-therapeutics-announces-first-quarter2025",
+      "https://www.inhibikase.com/investors/news-events/press-releases/detail/130/inhibikase-therapeutics-announces-appointment-of-david"
+    ],
+    "IMMX": [
+      "https://www.globenewswire.com/news-release/2026/03/02/3247318/0/en/Cadrenal-Therapeutics-Highlights-Recent-12-LOX-Inhibitor-Platform-Expansion.html",
+      "https://www.globenewswire.com/news-release/2026/03/02/3246995/0/en/InnoCare-s-next-generation-TRKi-Zurletrectinib-Receives-Priority-Review-for-the-Treatment-of-Pediatric-Patients-with-Solid-Tumors-in-China.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3245178/0/en/InnoCare-Announces-Key-Developments-of-Critical-Clinical-Studies.html",
+      "https://www.globenewswire.com/news-release/2026/02/25/3245111/0/en/Kneat-Achieves-Record-Revenue-for-Fourth-Quarter-and-Full-Year-2025.html",
+      "https://www.globenewswire.com/news-release/2026/02/24/3243989/0/en/Transpire-Bio-Strengthens-its-Leadership-Team-with-Appointment-of-LaDuane-Clifton-as-Chief-Financial-Officer.html",
+      "https://www.globenewswire.com/news-release/2026/02/23/3242560/0/en/UroGen-Pharma-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-Monday-March-2-2026.html",
+      "https://www.globenewswire.com/news-release/2026/02/19/3241606/0/en/Global-Pharmaceutical-Packaging-Manufacturer-Selects-Kneat.html",
+      "https://www.globenewswire.com/news-release/2026/02/17/3239090/0/en/Essential-Pharma-strengthens-rare-disease-portfolio-with-acquisition-of-Ventavis-iloprost-trometamol-for-adult-primary-pulmonary-hypertension.html",
+      "https://immixbio.com/immix-biopharma-receives-u-s-fda-breakthrough-therapy-designation-for-nxc-201/",
+      "https://immixbio.com/immix-biopharma-announces-closing-of-upsized-100-million-underwritten-offering-of-common-stock-and-pre-funded-warrants/",
+      "https://immixbio.com/immix-biopharma-announces-pricing-of-upsized-100-million-underwritten-offering-of-common-stock-and-pre-funded-warrants/",
+      "https://immixbio.com/at-ash-2025-oral-presentation-immix-biopharma-reports-positive-phase-2-nxc-201-results-advancing-toward-bla-submission-as-a-potentially-first-and-best-in-class-therapy-for-relapsed-refractory-al-am/",
+      "https://immixbio.com/immix-biopharma-appoints-chief-commercial-officer-to-drive-nxc-201-launch/",
+      "https://immixbio.com/immix-biopharmas-nxc-201-nexicart-2-clinical-trial-results-selected-for-oral-presentation-at-ash-2025/",
+      "https://immixbio.com/news/"
+    ],
+    "MGTX": [
+      "https://www.globenewswire.com/news-release/2026/02/18/3240412/28124/en/AAV-for-the-Hereditary-Retinal-Diseases-Competitive-Landscape-Report-2026-Comprehensive-Insights-About-75-Companies-and-80-Drugs.html",
+      "https://www.globenewswire.com/news-release/2026/02/17/3239303/0/en/Why-Late-Stage-CNS-Oncology-Assets-Are-Becoming-the-Hottest-Targets-in-Biotech-M-A.html",
+      "https://www.globenewswire.com/news-release/2025/11/19/3191320/0/en/Gene-Therapy-for-Ocular-Rare-Disease-Market-to-Exhibit-Phenomenal-Growth-During-the-Forecast-Period-2025-2034-Due-to-Expanding-Pipeline-and-Clinical-Trial-Activities-DelveInsight.html",
+      "https://www.globenewswire.com/news-release/2025/11/13/3187246/0/en/MeiraGTx-Reports-Third-Quarter-2025-Financial-and-Operational-Results.html",
+      "https://www.globenewswire.com/news-release/2025/11/10/3184353/0/en/MeiraGTx-Enters-into-Strategic-Collaboration-with-Eli-Lilly-and-Company-to-Develop-and-Commercialize-Genetic-Medicines-in-Ophthalmology.html",
+      "https://www.globenewswire.com/news-release/2025/10/07/3162748/0/en/AAV-Gene-Therapy-Market-Size-to-Skyrocket-at-40-1-CAGR-by-2034.html",
+      "https://www.globenewswire.com/news-release/2025/10/07/3162454/0/en/MeiraGTx-Announces-Two-Posters-at-the-European-Society-of-Gene-and-Cell-Therapy-ESGCT-2025-Annual-Congress.html",
+      "https://www.globenewswire.com/news-release/2025/10/03/3161007/0/en/Xerostomia-Drugs-Market-to-Reach-USD-2-87-Billion-by-2032-Amid-Increasing-Polypharmacy-and-Aging-Population-S-S-Insider.html",
+      "https://investors.meiragtx.com/news-releases",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-reports-third-quarter-2025-financial-and-operational",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-enters-strategic-collaboration-eli-lilly-and-company",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-announces-two-posters-european-society-gene-and-cell",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-reports-second-quarter-2025-financial-and-operational",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-announces-presentation-four-posters-american-society",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-reports-first-quarter-2025-financial-and-operational",
+      "https://investors.meiragtx.com/news-releases/news-release-details/meiragtx-granted-fda-regenerative-medicine-advanced-therapy-0"
+    ],
+    "PRAX": [
+      "https://www.globenewswire.com/news-release/2026/03/02/3247251/0/en/Dyadic-Applied-BioSolutions-and-Inzymes-ApS-Announce-Planned-2026-Commercialization-of-Non-Animal-Dairy-Enzyme-Following-Achievement-of-Development-Milestone.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3245982/0/en/Alpha-Controls-Launches-New-Website-Marking-Continued-Growth-of-Canadian-Instrumentation-Leader.html",
+      "https://www.globenewswire.com/news-release/2026/02/20/3241846/0/en/Central-Nervous-System-Therapeutics-Market-Growth-Accelerates-to-USD-285-72-Billion-by-2035-with-Strong-Investment-in-Neuropharma-Innovations.html",
+      "https://www.globenewswire.com/news-release/2026/02/19/3240986/0/en/Praxis-Precision-Medicines-Provides-Corporate-Update-and-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
+      "https://www.globenewswire.com/news-release/2026/02/09/3234882/0/en/Praxis-Precision-Medicines-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-Thursday-February-19-2026-and-Participate-in-Upcoming-Investor-Conferences.html",
+      "https://www.globenewswire.com/news-release/2026/02/04/3232451/0/en/Praxis-Precision-Medicines-Inc-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+      "https://www.globenewswire.com/news-release/2026/01/23/3224913/0/en/Lipid-Nanoparticle-Manufacturing-Market-An-18-9-CAGR-Market-Driven-by-Nucleic-Acid-Therapies.html",
+      "https://www.globenewswire.com/news-release/2026/01/15/3219274/0/en/Latest-Global-Precision-Forestry-Market-Size-Share-Worth-USD-12-66-Billion-by-2034-at-a-7-57-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentatio.html",
+      "https://ir.praxismedicines.com/press-releases",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-provides-corporate-update-and-18",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-report-fourth-quarter-and-full-year-0",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-inc-announces-inducement-grants-15",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-appoints-global-epilepsy-leader-dr",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-enters-its-next-chapter-following",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-inc-announces-inducement-grants-14",
+      "https://ir.praxismedicines.com/news-releases/news-release-details/praxis-precision-medicines-further-positioned-next-phase-growth"
+    ],
+    "QTTB": [
+      "https://www.globenewswire.com/news-release/2026/03/02/3247339/0/en/Jupiter-Neurosciences-to-Present-at-BIO-Investment-and-Growth-Summit-2026.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3245436/37519/en/Akebia-Therapeutics-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Commercial-and-Pipeline-Highlights.html",
+      "https://www.globenewswire.com/news-release/2026/01/13/3218157/0/en/Systemic-Lupus-Erythematosus-Market-to-Exhibit-Growth-at-a-CAGR-of-9-4-During-the-Forecast-Period-2025-2034-Owing-to-Rising-Use-of-Biologics-Approvals-of-BENLYSTA-and-SAPHNELO-Plus.html",
+      "https://www.globenewswire.com/news-release/2025/12/11/3203881/0/en/MLTX-INVESTOR-NOTICE-MoonLake-Immunotherapeutics-Stock-Dropped-90-after-Drug-Trial-Results-Contact-BFA-Law-about-the-Pending-Securities-Class-Action.html",
+      "https://www.globenewswire.com/news-release/2025/12/08/3201854/0/en/Eczema-Clinical-Trial-Pipeline-Accelerates-as-100-Pharma-Companies-Rigorously-Develop-Drugs-for-Market-Entry-DelveInsight.html",
+      "https://www.globenewswire.com/news-release/2025/12/01/3196841/37519/en/Akebia-Announces-Establishment-of-Rare-Kidney-Disease-Pipeline.html",
+      "https://www.globenewswire.com/news-release/2025/11/29/3196512/0/en/MLTX-STOCK-Lose-Money-on-Your-MoonLake-Immunotherapeutics-Investment-Contact-BFA-Law-about-the-Pending-Securities-Class-Action-before-December-15-Deadline.html",
+      "https://www.globenewswire.com/news-release/2025/11/27/3195624/0/en/MLTX-INVESTMENT-MoonLake-Immunotherapeutics-Investors-with-Losses-may-have-Rights-in-Securities-Class-Action-Contact-BFA-Law-by-December-15-Deadline.html"
+    ],
+    "QURE": [
+      "https://www.globenewswire.com/news-release/2026/03/02/3247833/3080/en/uniQure-N-V-Securities-Fraud-Class-Action-Lawsuit-Pending-Contact-Levi-Korsinsky-Before-April-13-2026-to-Discuss-Your-Rights-QURE.html",
+      "https://www.globenewswire.com/news-release/2026/03/02/3247795/23044/en/QURE-ALERT-uniQure-N-V-Sued-for-Securities-Law-Violations-Block-Leviton-Encourages-Investors-Who-Have-Lost-Money-to-Contact-the-Firm.html",
+      "https://www.globenewswire.com/news-release/2026/03/02/3247694/9788/en/Bronstein-Gewirtz-Grossman-LLC-Urges-uniQure-N-V-Investors-to-Act-Class-Action-Filed-Alleging-Investor-Harm.html",
+      "https://www.globenewswire.com/news-release/2026/03/02/3247245/0/en/uniQure-Announces-2025-Financial-Results-and-Provides-Recent-Company-Updates.html",
+      "https://www.globenewswire.com/news-release/2026/03/02/3247236/0/en/uniQure-Provides-Regulatory-Update-on-AMT-130-for-Huntington-s-Disease.html",
+      "https://www.globenewswire.com/news-release/2026/03/01/3246976/0/en/NASDAQ-QURE-Kessler-Topaz-Meltzer-Check-LLP-Files-a-Securities-Fraud-Class-Action-Lawsuit-Against-uniQure-N-V-QURE.html",
+      "https://www.globenewswire.com/news-release/2026/03/01/3246954/673/en/ROSEN-NATIONAL-TRIAL-LAWYERS-Encourages-uniQure-N-V-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-QURE.html",
+      "https://www.globenewswire.com/news-release/2026/02/27/3246244/673/en/ROSEN-A-LEADING-NATIONAL-FIRM-Encourages-uniQure-N-V-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-QURE.html",
+      "https://www.uniqure.com/investors-media/press-releases"
+    ],
+    "AVBP": [
+      "https://www.globenewswire.com/news-release/2026/02/14/3238419/0/fr/Mohawk-Industries-publie-ses-r%C3%A9sultats-financiers-du-quatri%C3%A8me-trimestre-2025.html",
+      "https://www.globenewswire.com/news-release/2026/02/11/3236571/0/fr/EssilorLuxottica-Le-Conseil-d-administration-d-EssilorLuxottica-propose-la-nomination-de-huit-administrateurs-et-administratrices.html",
+      "https://www.globenewswire.com/news-release/2025/12/22/3209157/0/en/ArriVent-Announces-First-Patient-Dosed-in-Global-Pivotal-Phase-3-ALPACCA-Trial-Evaluating-Firmonertinib-for-First-Line-Treatment-of-EGFR-PACC-Mutant-Non-Small-Cell-Lung-Cancer.html",
+      "https://www.globenewswire.com/news-release/2025/12/16/3206240/0/fr/Les-Compagnies-Loblaw-limit%C3%A9e-ach%C3%A8ve-l-%C3%A9mission-de-500-millions-de-dollars-de-billets-de-premier-rang-non-garantis.html",
+      "https://www.globenewswire.com/news-release/2025/12/09/3202278/0/fr/Genetec-publie-son-rapport-mondial-sur-l-%C3%89tat-de-la-s%C3%A9curit%C3%A9-physique-2026.html",
+      "https://www.globenewswire.com/news-release/2025/11/10/3184528/0/en/ArriVent-BioPharma-Reports-Third-Quarter-2025-Financial-Results.html",
+      "https://www.globenewswire.com/news-release/2025/11/06/3182210/0/fr/Quadient-red%C3%A9finit-l-automatisation-du-courrier-avec-une-nouvelle-g%C3%A9n%C3%A9ration-de-syst%C3%A8mes-d-affranchissement-intelligents.html",
+      "https://www.globenewswire.com/news-release/2025/09/22/3154297/0/en/ArriVent-Appoints-Brent-S-Rice-as-Chief-Commercial-Officer.html",
+      "https://ir.arrivent.com/news-events/news-releases",
+      "https://ir.arrivent.com/news-events/events-presentations",
+      "https://ir.arrivent.com/news-releases/news-release-details/arrivent-announces-first-patient-dosed-global-pivotal-phase-3",
+      "https://ir.arrivent.com/news-releases/news-release-details/arrivent-biopharma-reports-third-quarter-2025-financial-results",
+      "https://ir.arrivent.com/news-releases/news-release-details/arrivent-appoints-brent-s-rice-chief-commercial-officer",
+      "https://ir.arrivent.com/news-releases/news-release-details/arrivent-presents-final-analysis-firmonertinib-monotherapy-data",
+      "https://ir.arrivent.com/news-releases/news-release-details/arrivent-biopharma-reports-second-quarter-2025-financial-results",
+      "https://ir.arrivent.com/news-releases/news-release-details/arrivents-topline-pivotal-phase-3-furvent-data-firmonertinib"
+    ],
+    "CGEM": [
+      "https://www.globenewswire.com/news-release/2026/02/24/3243652/0/en/Human-Continuum-Appoints-Dr-Michael-Milligan-MD-MBA-as-its-Chief-Medical-Officer-to-Oversee-Innovative-Applications-for-Next-Generation-Extracellular-Vesicle-Therapeutics.html",
+      "https://www.globenewswire.com/news-release/2026/02/24/3243377/0/en/Cullinan-Therapeutics-to-Participate-in-Upcoming-Investor-Conferences.html",
+      "https://www.globenewswire.com/news-release/2026/02/19/3240807/0/en/Global-Amyotrophic-Lateral-Sclerosis-Therapeutics-Market-Size-Share-Worth-USD-1964-Million-by-2035-at-11-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Foreca.html",
+      "https://www.globenewswire.com/news-release/2026/02/18/3240062/0/en/Cullinan-Therapeutics-to-Participate-in-Fireside-Chat-at-the-Citi-2026-Virtual-Oncology-Leadership-Summit.html",
+      "https://www.globenewswire.com/news-release/2026/02/16/3238868/0/en/IPSC-derived-NK-Cells-Clinical-Trial-Pipeline-Gains-Momentum-12-Companies-Lead-the-Charge-in-Pioneering-New-Treatments-DelveInsight.html",
+      "https://www.globenewswire.com/news-release/2026/02/16/3238761/0/en/Global-Oligonucleotide-Therapeutics-Market-Set-to-Surge-to-USD-17-70-Billion-by-2030-MarketsandMarkets.html",
+      "https://www.globenewswire.com/news-release/2026/02/05/3232850/0/en/Cullinan-Therapeutics-to-Participate-in-Fireside-Chat-at-the-Guggenheim-Emerging-Outlook-Biotech-Summit-2026.html",
+      "https://www.globenewswire.com/news-release/2026/01/30/3229496/0/en/Alps-Group-Inc-Announces-Potential-Pipeline-Expansion-Beyond-CELESOME-Following-Publication-of-Nebulized-Human-Umbilical-Cord-Mesenchymal-Stem-Cell-Exosome-Therapy.html",
+      "https://investors.cullinantherapeutics.com/news-releases/news-release-details/cullinan-therapeutics-participate-upcoming-investor-3",
+      "https://investors.cullinantherapeutics.com/news-releases/news-release-details/cullinan-therapeutics-participate-fireside-chat-citi-2026",
+      "https://investors.cullinantherapeutics.com/news-releases/news-release-details/cullinan-therapeutics-participate-fireside-chat-guggenheim-0",
+      "https://investors.cullinantherapeutics.com/news-releases/news-release-details/cullinan-therapeutics-provides-corporate-update-and-highlights"
+    ],
+    "CMPS": [
+      "https://www.globenewswire.com/news-release/2026/01/05/3212707/0/en/Compass-Therapeutics-Announces-Key-Leadership-Appointments.html",
+      "https://www.globenewswire.com/news-release/2025/12/01/3197258/28124/en/Post-Traumatic-Stress-Disorder-PTSD-Global-Clinical-Trials-Market-Review-2025.html",
+      "https://www.globenewswire.com/news-release/2025/11/19/3191506/0/en/HAREHOLDER-ALERT-The-M-A-Class-Action-Firm-Reminds-hareholders-of-the-Upcoming-Mergers-CMA-HFWA-COMP-and-HOUS.html",
+      "https://www.globenewswire.com/news-release/2025/11/18/3190470/0/en/HAREHOLDER-ALERT-The-M-A-Class-Action-Firm-Continues-to-Investigate-the-Mergers-HOUS-ADVM-HBAN-and-COMP.html",
+      "https://www.globenewswire.com/news-release/2025/11/04/3180398/0/en/Compass-Therapeutics-Presents-Preclinical-Data-on-CTX-10726-a-Differentiated-PD-1-x-VEGF-A-Bispecific-Antibody-at-the-40th-Society-for-Immunotherapy-of-Cancer-SITC-Annual-Meeting.html",
+      "https://www.globenewswire.com/news-release/2025/09/26/3157272/0/en/HAREHOLDER-ALERT-The-M-A-Class-Action-Firm-Is-Investigating-the-Merger-PGRE-BRY-ETNB-and-COMP.html",
+      "https://www.globenewswire.com/news-release/2025/09/11/3148786/0/en/Bipolar-Disorder-Treatment-Pipeline-Shows-Strong-Momentum-as-20-Pharma-Companies-in-the-Race-DelveInsight.html",
+      "https://www.globenewswire.com/news-release/2025/09/10/3148218/0/en/Design-Therapeutics-Appoints-Justin-Gover-to-Board-of-Directors.html"
+    ],
+    "CRNX": [
+      "https://www.globenewswire.com/news-release/2026/03/02/3247116/0/en/SpotSee-and-Controlant-Announce-Strategic-Collaboration-to-Expand-Shipment-Visibility-and-Last-Mile-Proof-for-Life-Sciences.html",
+      "https://www.globenewswire.com/news-release/2026/02/27/3246433/0/en/Dupixent-dupilumab-Recommended-for-EU-Approval-to-Treat-Chronic-Spontaneous-Urticaria-CSU-in-Young-Children-with-Ongoing-Symptoms-Despite-Treatment.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3246079/0/en/Crinetics-Pharmaceuticals-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3245478/0/en/Latest-Global-Laboratory-Informatics-Market-Size-Share-Worth-USD-8-21-Billion-by-2035-at-a-5-32-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmenta.html",
+      "https://www.globenewswire.com/news-release/2026/02/26/3245432/0/en/Phathom-Pharmaceuticals-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-2026-Financial-Guidance.html",
+      "https://www.globenewswire.com/news-release/2026/02/24/3243489/0/en/Lumanity-Launches-EMULaiTOR-an-AI-Powered-Synthetic-Persona-Platform-Transforming-Stakeholder-Engagement-in-Life-Sciences.html",
+      "https://www.globenewswire.com/news-release/2026/02/23/3242630/0/en/PharmAla-To-Supply-Amsterdam-UMC-with-LaNeo-MDMA-Including-Development-of-New-Single-Capsule-Stability-Data.html",
+      "https://www.globenewswire.com/news-release/2026/02/23/3242577/0/en/Phathom-Pharmaceuticals-to-Participate-in-Upcoming-Investor-Conferences.html"
+    ]
+  },
+  "sec_seen": {
+    "EQ": [
+      "https://www.sec.gov/Archives/edgar/data/1746466/000179781826000003/0001797818-26-000003-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1746466/000197005126000003/0001970051-26-000003-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1746466/000127417326000047/0001274173-26-000047-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1746466/000174680826000002/0001746808-26-000002-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1746466/000179781826000001/0001797818-26-000001-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1746466/000161499726000001/0001614997-26-000001-index.htm"
+    ],
+    "GPCR": [
+      "https://www.sec.gov/Archives/edgar/data/1888886/000110465926020645/0001104659-26-020645-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1888886/000110465926020562/0001104659-26-020562-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1888886/000110465926020494/0001104659-26-020494-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1888886/000092189526000466/0000921895-26-000466-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1888886/000117266126000714/0001172661-26-000714-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1888886/000090221926000082/0000902219-26-000082-index.htm"
+    ],
+    "IKT": [
+      "https://www.sec.gov/Archives/edgar/data/1750149/000119312526068079/0001193125-26-068079-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1750149/000119312526068077/0001193125-26-068077-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1750149/000119312526068063/0001193125-26-068063-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1750149/000110465926016623/0001104659-26-016623-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1750149/000110465926016478/0001104659-26-016478-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1750149/000119312526054524/0001193125-26-054524-index.htm"
+    ],
+    "IMMX": [
+      "https://www.sec.gov/Archives/edgar/data/1873835/000110465926016248/0001104659-26-016248-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1873835/000127417326000078/0001274173-26-000078-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1873835/999999999526000261/9999999995-26-000261-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1873835/000149315226002680/0001493152-26-002680-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1873835/000000000026000603/0000000000-26-000603-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1873835/000149315226001159/0001493152-26-001159-index.htm"
+    ],
+    "MGTX": [
+      "https://www.sec.gov/Archives/edgar/data/1735438/000174534726000006/0001745347-26-000006-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1735438/000181516126000006/0001815161-26-000006-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1735438/000174277126000006/0001742771-26-000006-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1735438/000174273426000006/0001742734-26-000006-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1735438/000167860426000006/0001678604-26-000006-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1735438/000110465926015266/0001104659-26-015266-index.htm"
+    ],
+    "PRAX": [
+      "https://www.sec.gov/Archives/edgar/data/1689548/000110465926017306/0001104659-26-017306-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000029/0001689548-26-000029-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000028/0001689548-26-000028-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1689548/000090266426001140/0000902664-26-001140-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1689548/000119312526054527/0001193125-26-054527-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1689548/000094059426000016/0000940594-26-000016-index.htm"
+    ],
+    "QTTB": [
+      "https://www.sec.gov/Archives/edgar/data/1661998/000119312526083588/0001193125-26-083588-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1661998/000119312526083585/0001193125-26-083585-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1661998/000119312526083584/0001193125-26-083584-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1661998/000149315226007650/0001493152-26-007650-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1661998/000090266426001202/0000902664-26-001202-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1661998/000119312526054711/0001193125-26-054711-index.htm"
+    ],
+    "QURE": [
+      "https://www.sec.gov/Archives/edgar/data/1590560/000197337926000068/0001973379-26-000068-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1590560/000197337926000067/0001973379-26-000067-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1590560/000197337926000066/0001973379-26-000066-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1590560/000110465926021898/0001104659-26-021898-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1590560/000110465926021890/0001104659-26-021890-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000141/0000904454-26-000141-index.htm"
+    ],
+    "AVBP": [
+      "https://www.sec.gov/Archives/edgar/data/1868279/000205809326000004/0002058093-26-000004-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1868279/000090266426001013/0000902664-26-001013-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1868279/000110465926010478/0001104659-26-010478-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1868279/000110465926010477/0001104659-26-010477-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1868279/000110465926010473/0001104659-26-010473-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1868279/000110465926010472/0001104659-26-010472-index.htm"
+    ],
+    "CGEM": [
+      "https://www.sec.gov/Archives/edgar/data/1789972/000119312526077259/0001193125-26-077259-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1789972/000119312526072002/0001193125-26-072002-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1789972/000119312526072001/0001193125-26-072001-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1789972/000119312526072000/0001193125-26-072000-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1789972/000119312526071997/0001193125-26-071997-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1789972/000195004726001779/0001950047-26-001779-index.htm"
+    ],
+    "CMPS": [
+      "https://www.sec.gov/Archives/edgar/data/1816590/000162828026009501/0001628280-26-009501-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1816590/000162828026009499/0001628280-26-009499-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1816590/000114036126005810/0001140361-26-005810-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1816590/000162828026008567/0001628280-26-008567-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1816590/000181659026000007/0001816590-26-000007-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1816590/000194025826000004/0001940258-26-000004-index.htm"
+    ],
+    "CRNX": [
+      "https://www.sec.gov/Archives/edgar/data/1658247/000162828026013047/0001628280-26-013047-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1658247/000165824726000014/0001658247-26-000014-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1658247/000165824726000012/0001658247-26-000012-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1658247/000165824726000011/0001658247-26-000011-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1658247/000162828026011730/0001628280-26-011730-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/1658247/000162828026011728/0001628280-26-011728-index.htm"
+    ]
+  },
+  "discussion_id": "D_kwDORc6TNM4Akenu"
 }
