@@ -1,4 +1,3 @@
-\
 import os
 import re
 import json
@@ -28,6 +27,9 @@ SEC_UA = os.getenv("SEC_USER_AGENT") or HEADERS["User-Agent"]
 MONTHS = "(January|February|March|April|May|June|July|August|September|October|November|December)"
 GLOBE_DATE_RE = re.compile(rf"{MONTHS}\s+\d{{1,2}},\s+\d{{4}}\s+\d{{1,2}}:\d{{2}}\s+ET")
 
+# SEC ticker->CIK 캐시 (한 번만 다운로드)
+_SEC_TICKER_CIK: Optional[Dict[str, str]] = None
+
 
 @dataclass
 class NewsItem:
@@ -44,7 +46,7 @@ def load_yaml(path: str) -> dict:
 
 def load_state(path: str) -> dict:
     if not os.path.exists(path):
-        return {"last_run": None, "press_seen": {}, "sec_seen": {}}
+        return {"last_run": None, "press_seen": {}, "sec_seen": {}, "discussion_id": None}
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -60,7 +62,6 @@ def kst_now_str(tz_name: str) -> str:
 
 
 def http_get(url: str, timeout: int = DEFAULT_TIMEOUT) -> requests.Response:
-    # 간단한 재시도
     last_exc = None
     for i in range(3):
         try:
@@ -78,8 +79,8 @@ def normalize_url(url: str) -> str:
     return url
 
 
-def parse_globenewswire_org(url: str, limit: int = 8) -> List[NewsItem]:
-    """GlobeNewswire 'search/organization/...' 페이지에서 최근 PR 목록을 파싱."""
+def parse_globenewswire_page(url: str, limit: int = 8) -> List[NewsItem]:
+    """GlobeNewswire 검색/organization 페이지에서 최근 PR 링크 추출."""
     resp = http_get(url)
     if resp.status_code != 200:
         raise RuntimeError(f"GlobeNewswire fetch failed: {resp.status_code}")
@@ -96,6 +97,7 @@ def parse_globenewswire_org(url: str, limit: int = 8) -> List[NewsItem]:
             continue
         if "/news-release/" not in href:
             continue
+
         full_url = normalize_url(href)
         if full_url.startswith("/"):
             full_url = "https://www.globenewswire.com" + full_url
@@ -103,6 +105,7 @@ def parse_globenewswire_org(url: str, limit: int = 8) -> List[NewsItem]:
         if full_url in seen:
             continue
 
+        # 날짜는 주변 텍스트에서 추정
         container = a.find_parent()
         date_text = None
         if container:
@@ -119,26 +122,54 @@ def parse_globenewswire_org(url: str, limit: int = 8) -> List[NewsItem]:
     return items
 
 
-def parse_businesswire_seed(url: str, limit: int = 8) -> List[NewsItem]:
-    """Business Wire 기사 하단의 'More News From <Company>' 섹션 링크를 추출."""
+def parse_businesswire_search(url: str, limit: int = 8) -> List[NewsItem]:
+    """Business Wire 검색 결과 페이지에서 최근 기사 링크 추출."""
     resp = http_get(url)
     if resp.status_code != 200:
         raise RuntimeError(f"BusinessWire fetch failed: {resp.status_code}")
+
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # 'More News From' 섹션은 보통 본문 하단에 링크가 모여있습니다.
-    # 완벽하지 않지만, 새 PR이 생기면 이 섹션에 최신 몇 개가 뜨는 경우가 많아 daily 체크용으로 유용합니다.
     items: List[NewsItem] = []
     seen = set()
 
-    # 기사 본문 내 링크 중 businesswire news/home 링크만 추출
+    # 검색 결과 리스트 (구버전 BW 페이지 기준)
+    for li in soup.select("div.bw-news-list li"):
+        a = li.select_one("h3 a[href]")
+        if not a:
+            continue
+
+        title = a.get_text(" ", strip=True)
+        href = a.get("href")
+        if not title or not href:
+            continue
+
+        full_url = normalize_url(href)
+        if full_url.startswith("/"):
+            full_url = "https://www.businesswire.com" + full_url
+
+        if full_url in seen:
+            continue
+
+        date_text = None
+        t = li.find("time")
+        if t:
+            date_text = t.get_text(" ", strip=True)
+
+        items.append(NewsItem(title=title, url=full_url, date_text=date_text, source="Business Wire"))
+        seen.add(full_url)
+        if len(items) >= limit:
+            return items
+
+    # fallback: 페이지 내에서 news/home 링크를 최대한 추출
     for a in soup.find_all("a", href=True):
         href = a["href"]
         title = a.get_text(" ", strip=True)
         if not title:
             continue
-        if "businesswire.com/news/home/" not in href:
+        if "businesswire.com/news/home/" not in href and "/news/home/" not in href:
             continue
+
         full_url = normalize_url(href)
         if full_url.startswith("/"):
             full_url = "https://www.businesswire.com" + full_url
@@ -174,14 +205,12 @@ def parse_generic_html_news(url: str, limit: int = 8) -> List[NewsItem]:
 
         full_url = normalize_url(href)
         if full_url.startswith("/"):
-            # 상대경로면 도메인 붙이기
             m = re.match(r"^(https?://[^/]+)", url)
             if m:
                 full_url = m.group(1) + full_url
         if full_url in seen:
             continue
 
-        # 날짜 추정: 같은 컨테이너 텍스트에서 YYYY 또는 Month 찾기
         container = tag.parent
         date_text = None
         if container:
@@ -225,9 +254,10 @@ def parse_generic_html_news(url: str, limit: int = 8) -> List[NewsItem]:
 
 
 def fetch_press_items(company: dict) -> Tuple[List[NewsItem], List[str]]:
-    """company.sources에 정의된 순서대로 시도해서 press release item 목록을 반환."""
+    """company.sources에 정의된 모든 소스에서 item을 모아 dedupe 후 반환."""
     errors: List[str] = []
     sources = company.get("sources") or []
+
     all_items: List[NewsItem] = []
 
     for src in sources:
@@ -235,28 +265,35 @@ def fetch_press_items(company: dict) -> Tuple[List[NewsItem], List[str]]:
         url = (src.get("url") or "").strip()
         if not stype or not url:
             continue
+
         try:
-            if stype == "globenewswire_org":
-                items = parse_globenewswire_org(url)
-            elif stype == "businesswire_seed":
-                items = parse_businesswire_seed(url)
+            if stype in ["globenewswire_org", "globenewswire_keyword"]:
+                items = parse_globenewswire_page(url)
+            elif stype == "businesswire_search":
+                items = parse_businesswire_search(url)
             else:
                 items = parse_generic_html_news(url)
 
-            if items:
-                all_items = items
-                break
+            all_items.extend(items)
         except Exception as e:
             errors.append(f"{stype} {url} -> {e}")
 
-    return all_items, errors
+    # dedupe by URL (preserve order)
+    deduped: List[NewsItem] = []
+    seen = set()
+    for it in all_items:
+        if it.url in seen:
+            continue
+        deduped.append(it)
+        seen.add(it.url)
+
+    return deduped, errors
 
 
 def fetch_prices(tickers: List[str]) -> Dict[str, dict]:
     """yfinance로 최근 2개 거래일 종가/거래량을 받아서 일간 변동을 계산."""
     result: Dict[str, dict] = {}
 
-    # 10d 정도 받으면 휴일/주말 있어도 2개 거래일 확보 가능
     df = yf.download(
         tickers=" ".join(tickers),
         period="10d",
@@ -270,7 +307,6 @@ def fetch_prices(tickers: List[str]) -> Dict[str, dict]:
     def _one_ticker_frame(ticker: str) -> pd.DataFrame:
         if isinstance(df.columns, pd.MultiIndex):
             return df[ticker].dropna(how="all")
-        # ticker 1개인 경우 단일 컬럼
         return df.dropna(how="all")
 
     for t in tickers:
@@ -305,7 +341,6 @@ def fetch_fundamentals(ticker: str) -> dict:
     out = {}
     try:
         info = yf.Ticker(ticker).info or {}
-        # 안전하게 필요한 것만
         out["market_cap"] = info.get("marketCap")
         out["fifty_two_week_low"] = info.get("fiftyTwoWeekLow")
         out["fifty_two_week_high"] = info.get("fiftyTwoWeekHigh")
@@ -315,28 +350,38 @@ def fetch_fundamentals(ticker: str) -> dict:
     return out
 
 
-def sec_fetch_atom_by_ticker(ticker: str, limit: int = 6) -> List[NewsItem]:
-    """
-    SEC Atom feed(공시) - press release가 막히는 경우 대체로 유용.
-    내부적으로 SEC의 company_tickers.json을 사용해 ticker->CIK를 찾습니다.
-    """
-    # 1) ticker->CIK 매핑
+def _sec_load_ticker_cik_map() -> Dict[str, str]:
+    global _SEC_TICKER_CIK
+    if _SEC_TICKER_CIK is not None:
+        return _SEC_TICKER_CIK
+
     mapping_url = "https://www.sec.gov/files/company_tickers.json"
     resp = requests.get(mapping_url, headers={"User-Agent": SEC_UA}, timeout=DEFAULT_TIMEOUT)
     if resp.status_code != 200:
         raise RuntimeError(f"SEC mapping fetch failed: {resp.status_code}")
-    mapping = resp.json()
 
-    cik = None
+    mapping = resp.json()
+    out: Dict[str, str] = {}
     for _, row in mapping.items():
-        if str(row.get("ticker", "")).upper() == ticker.upper():
-            cik = str(row.get("cik_str")).zfill(10)
-            break
+        t = str(row.get("ticker", "")).upper().strip()
+        cik = str(row.get("cik_str", "")).strip()
+        if t and cik:
+            out[t] = cik.zfill(10)
+
+    _SEC_TICKER_CIK = out
+    return out
+
+
+def sec_fetch_atom_by_ticker(ticker: str, limit: int = 6) -> List[NewsItem]:
+    """SEC Atom feed(공시) - ticker->CIK 매핑 후 회사 Atom feed 조회."""
+    mapping = _sec_load_ticker_cik_map()
+    cik = mapping.get(ticker.upper())
     if not cik:
         return []
 
     atom_url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&count=40&output=atom"
     feed = feedparser.parse(atom_url, request_headers={"User-Agent": SEC_UA})
+
     items: List[NewsItem] = []
     for entry in feed.entries[:limit]:
         title = entry.get("title", "").strip()
@@ -354,7 +399,6 @@ def format_money(n: Optional[int]) -> str:
         n = int(n)
     except Exception:
         return "-"
-    # 보기 좋게: B/M
     if abs(n) >= 1_000_000_000:
         return f"${n/1_000_000_000:.2f}B"
     if abs(n) >= 1_000_000:
@@ -362,47 +406,141 @@ def format_money(n: Optional[int]) -> str:
     return f"${n}"
 
 
-def send_email(subject: str, body: str) -> None:
-    import smtplib
-    from email.message import EmailMessage
-
-    host = os.getenv("SMTP_HOST")
-    port = int(os.getenv("SMTP_PORT") or "587")
-    user = os.getenv("SMTP_USER")
-    pw = os.getenv("SMTP_PASS")
-    to_addr = os.getenv("EMAIL_TO")
-    from_addr = os.getenv("EMAIL_FROM") or user
-
-    if not all([host, port, user, pw, to_addr, from_addr]):
-        raise RuntimeError("Missing email env vars. Check GitHub Secrets.")
-
-    msg = EmailMessage()
-    msg["Subject"] = subject
-    msg["From"] = from_addr
-    msg["To"] = to_addr
-    msg.set_content(body)
-
-    with smtplib.SMTP(host, port) as s:
-        s.starttls()
-        s.login(user, pw)
-        s.send_message(msg)
+# ------------------------
+# GitHub Discussions Posting (GraphQL)
+# ------------------------
 
 
-def send_telegram(subject: str, body: str) -> None:
-    token = os.getenv("TELEGRAM_BOT_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
-        raise RuntimeError("Missing TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secrets.")
+def _gh_token() -> str:
+    token = (os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN") or "").strip()
+    if not token:
+        raise RuntimeError("Missing GITHUB_TOKEN (set it in the workflow env).")
+    return token
 
-    text = f"*{subject}*\n\n{body}"
-    # Telegram message length limit (약 4096). 길면 잘라서 전송.
-    if len(text) > 3900:
-        text = text[:3900] + "\n\n...(truncated)"
 
-    url = f"https://api.telegram.org/bot{token}/sendMessage"
-    resp = requests.post(url, data={"chat_id": chat_id, "text": text, "parse_mode": "Markdown"}, timeout=DEFAULT_TIMEOUT)
+def github_graphql(query: str, variables: Optional[dict] = None) -> dict:
+    token = _gh_token()
+    resp = requests.post(
+        "https://api.github.com/graphql",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+        },
+        json={"query": query, "variables": variables or {}},
+        timeout=DEFAULT_TIMEOUT,
+    )
+
     if resp.status_code != 200:
-        raise RuntimeError(f"Telegram send failed: {resp.status_code} {resp.text[:200]}")
+        raise RuntimeError(f"GitHub GraphQL failed: {resp.status_code} {resp.text[:200]}")
+
+    payload = resp.json()
+    if payload.get("errors"):
+        raise RuntimeError(f"GitHub GraphQL errors: {payload['errors']}")
+
+    return payload.get("data") or {}
+
+
+def ensure_daily_discussion(state: dict, title: str, category_name: str) -> str:
+    """Daily Report discussion id를 확보(없으면 생성)하고 state에 저장."""
+
+    # 1) state에 저장된 discussion_id가 있으면 그걸 우선 사용
+    if state.get("discussion_id"):
+        return str(state["discussion_id"])
+
+    repo_full = os.getenv("GITHUB_REPOSITORY", "")
+    if "/" not in repo_full:
+        raise RuntimeError("Missing GITHUB_REPOSITORY env (should be set by GitHub Actions).")
+    owner, repo = repo_full.split("/", 1)
+
+    q = """
+    query($owner:String!, $repo:String!) {
+      repository(owner:$owner, name:$repo) {
+        id
+        discussionCategories(first:50) { nodes { id name } }
+        discussions(first:50, orderBy:{field:UPDATED_AT, direction:DESC}) {
+          nodes { id title url number }
+        }
+      }
+    }
+    """
+    data = github_graphql(q, {"owner": owner, "repo": repo})
+    r = data.get("repository") or {}
+
+    repo_id = r.get("id")
+    if not repo_id:
+        raise RuntimeError("Failed to resolve repository id. Is the token valid?")
+
+    # category 선택
+    cats = (r.get("discussionCategories") or {}).get("nodes") or []
+    cat_id = None
+    for c in cats:
+        if str(c.get("name", "")).strip().lower() == category_name.strip().lower():
+            cat_id = c.get("id")
+            break
+    if not cat_id and cats:
+        cat_id = cats[0].get("id")
+
+    if not cat_id:
+        raise RuntimeError("No discussion categories found. Is Discussions enabled?")
+
+    # 기존 discussion 찾기 (최근 50개에서 title 매칭)
+    nodes = (r.get("discussions") or {}).get("nodes") or []
+    for d in nodes:
+        if str(d.get("title", "")).strip() == title.strip():
+            state["discussion_id"] = d.get("id")
+            return str(d.get("id"))
+
+    # 없으면 생성
+    m = """
+    mutation($repoId:ID!, $catId:ID!, $title:String!, $body:String!) {
+      createDiscussion(input:{repositoryId:$repoId, categoryId:$catId, title:$title, body:$body}) {
+        discussion { id url }
+      }
+    }
+    """
+    body = (
+        "이 글은 GitHub Actions가 매일 자동으로 댓글을 달아 업데이트합니다.\n\n"
+        "(처음 생성된 스레드입니다.)"
+    )
+    out = github_graphql(m, {"repoId": repo_id, "catId": cat_id, "title": title, "body": body})
+    disc = ((out.get("createDiscussion") or {}).get("discussion") or {})
+    disc_id = disc.get("id")
+    if not disc_id:
+        raise RuntimeError("Failed to create discussion.")
+
+    state["discussion_id"] = disc_id
+    return str(disc_id)
+
+
+def add_discussion_comment(discussion_id: str, body: str) -> str:
+    m = """
+    mutation($discussionId:ID!, $body:String!) {
+      addDiscussionComment(input:{discussionId:$discussionId, body:$body}) {
+        comment { url }
+      }
+    }
+    """
+    out = github_graphql(m, {"discussionId": discussion_id, "body": body})
+    url = (((out.get("addDiscussionComment") or {}).get("comment") or {}).get("url"))
+    return str(url or "")
+
+
+def post_report_to_discussions(state: dict, report_md: str) -> None:
+    title = (os.getenv("DISCUSSION_TITLE") or "Daily Report").strip()
+    category = (os.getenv("DISCUSSION_CATEGORY") or "General").strip()
+
+    discussion_id = ensure_daily_discussion(state, title=title, category_name=category)
+    comment_url = add_discussion_comment(discussion_id, report_md)
+
+    if comment_url:
+        print(f"Posted comment: {comment_url}")
+    else:
+        print("Posted comment.")
+
+
+# ------------------------
+# Main
+# ------------------------
 
 
 def main() -> None:
@@ -419,10 +557,10 @@ def main() -> None:
     # 1) 가격/거래량
     price_map = fetch_prices(tickers)
 
-    # 2) 회사별 PR/SEC 수집
+    # 2) 회사별 PR/SEC 수집 + Markdown 리포트
+    now_kst = kst_now_str(tz_name)
     report_lines: List[str] = []
-    report_lines.append(f"Daily Investment Monitor ({kst_now_str(tz_name)})")
-    report_lines.append("=" * 60)
+    report_lines.append(f"## Daily Investment Monitor ({now_kst})")
     report_lines.append("")
 
     total_new_press = 0
@@ -432,13 +570,12 @@ def main() -> None:
         t = c["ticker"]
         name = c.get("name") or t
 
-        report_lines.append(f"[{t}] {name}")
-        report_lines.append("-" * 60)
+        report_lines.append(f"### {t} — {name}")
 
         # Price block
         p = price_map.get(t, {})
         if "error" in p:
-            report_lines.append(f"가격 데이터 오류: {p['error']}")
+            report_lines.append(f"- ⚠️ **가격 데이터 오류:** {p['error']}")
         else:
             fund = fetch_fundamentals(t)
             close = p.get("close")
@@ -448,96 +585,95 @@ def main() -> None:
             vol = p.get("volume")
             dt = p.get("last_date")
 
-            report_lines.append(f"종가({dt}): {close:.2f}  (전일 {prev_close:.2f})  변동: {chg:+.2f} ({pct:+.2f}%)")
+            report_lines.append(
+                f"- **종가({dt})**: `{close:.2f}` (전일 `{prev_close:.2f}`) → **{chg:+.2f} ({pct:+.2f}%)**"
+            )
             if vol and not pd.isna(vol):
-                report_lines.append(f"거래량: {int(vol):,}")
+                report_lines.append(f"- **거래량**: `{int(vol):,}`")
             if fund:
-                report_lines.append(f"시총: {format_money(fund.get('market_cap'))} | 52주: {fund.get('fifty_two_week_low', '-')}-{fund.get('fifty_two_week_high', '-')}")
+                report_lines.append(
+                    f"- **시총**: {format_money(fund.get('market_cap'))} | **52주**: {fund.get('fifty_two_week_low', '-')}-{fund.get('fifty_two_week_high', '-') }"
+                )
                 av = fund.get("avg_volume")
                 if av:
-                    report_lines.append(f"평균거래량(avg): {int(av):,}")
+                    report_lines.append(f"- **평균거래량(avg)**: `{int(av):,}`")
 
         # Checklist
         checklist = c.get("checklist") or []
         if checklist:
             report_lines.append("")
-            report_lines.append("오늘 체크할 항목:")
+            report_lines.append("**오늘 체크할 항목**")
             for item in checklist:
-                report_lines.append(f"  - {item}")
+                report_lines.append(f"- {item}")
 
-        # Press releases (from configured sources)
+        # Press releases
         report_lines.append("")
-        report_lines.append("보도자료/뉴스(Press Releases):")
+        report_lines.append("**보도자료/뉴스 (Press Releases)**")
         press_items, press_errors = fetch_press_items(c)
+
         seen_urls = set(state["press_seen"].get(t, []))
         new_press = [it for it in press_items if it.url not in seen_urls]
 
         if new_press:
             total_new_press += len(new_press)
-            for it in new_press[:8]:
-                dt = f" ({it.date_text})" if it.date_text else ""
-                report_lines.append(f"  + {it.title}{dt}")
-                report_lines.append(f"    {it.url}")
+            for it in new_press[:10]:
+                dtxt = f" — _{it.source}_, {it.date_text}" if it.date_text else (f" — _{it.source}_" if it.source else "")
+                report_lines.append(f"- [{it.title}]({it.url}){dtxt}")
         else:
-            report_lines.append("  (신규 없음)")
+            report_lines.append("- (신규 없음)")
 
-        # SEC filings (always try; useful fallback)
+        # SEC filings
         report_lines.append("")
-        report_lines.append("SEC 공시(EDGAR Atom):")
+        report_lines.append("**SEC 공시 (EDGAR Atom)**")
+        sec_items: List[NewsItem] = []
         try:
-            time.sleep(0.25)  # SEC에 너무 빠르게 요청하지 않기
+            time.sleep(0.25)
             sec_items = sec_fetch_atom_by_ticker(t)
             sec_seen = set(state["sec_seen"].get(t, []))
             new_sec = [it for it in sec_items if it.url not in sec_seen]
             if new_sec:
                 total_new_sec += len(new_sec)
-                for it in new_sec[:6]:
-                    dt = f" ({it.date_text})" if it.date_text else ""
-                    report_lines.append(f"  + {it.title}{dt}")
-                    report_lines.append(f"    {it.url}")
+                for it in new_sec[:8]:
+                    dtxt = f" — {it.date_text}" if it.date_text else ""
+                    report_lines.append(f"- [{it.title}]({it.url}){dtxt}")
             else:
-                report_lines.append("  (신규 없음)")
+                report_lines.append("- (신규 없음)")
         except Exception as e:
-            report_lines.append(f"  SEC 조회 실패: {e}")
+            report_lines.append(f"- ⚠️ SEC 조회 실패: {e}")
 
-        # Debug: errors
+        # Debug errors
         if press_errors:
             report_lines.append("")
-            report_lines.append("DEBUG(보도자료 소스 오류):")
-            for err in press_errors[:3]:
-                report_lines.append(f"  - {err}")
+            report_lines.append("<details><summary>DEBUG(보도자료 소스 오류)</summary>")
+            for err in press_errors[:5]:
+                report_lines.append(f"- {err}")
+            report_lines.append("</details>")
 
         report_lines.append("")
-        report_lines.append("")
 
-        # Update state: mark the fetched items as seen (press + sec)
-        # press
+        # Update state: mark fetched items as seen
         merged_press = list(dict.fromkeys([it.url for it in press_items] + list(seen_urls)))
-        state["press_seen"][t] = merged_press[:300]
-        # sec
+        state["press_seen"][t] = merged_press[:400]
+
         try:
-            merged_sec = list(dict.fromkeys([it.url for it in sec_items] + list(sec_seen)))  # type: ignore
-            state["sec_seen"][t] = merged_sec[:300]
+            merged_sec = list(dict.fromkeys([it.url for it in sec_items] + list(state["sec_seen"].get(t, []))))
+            state["sec_seen"][t] = merged_sec[:400]
         except Exception:
-            # sec_items 없으면 그대로
-            state["sec_seen"][t] = list(sec_seen)[:300]
+            pass
 
     state["last_run"] = datetime.now(timezone.utc).isoformat()
 
-    body = "\n".join(report_lines)
-    subject = f"[Daily Monitor] {total_new_press} new PR / {total_new_sec} new SEC"
+    # Header summary
+    summary = f"**Summary:** {total_new_press} new PR / {total_new_sec} new SEC"
+    report_md = "\n".join([summary, ""] + report_lines)
 
-    # 3) 알림 전송
-    method = (os.getenv("ALERT_METHOD") or "email").strip().lower()
-    if method == "telegram":
-        send_telegram(subject, body)
-    else:
-        send_email(subject, body)
+    # 3) GitHub Discussions에 댓글로 게시
+    post_report_to_discussions(state, report_md)
 
     # 4) state 저장
     save_state(state_path, state)
 
-    print("DONE. Report sent.")
+    print("DONE. Report posted to GitHub Discussions.")
 
 
 if __name__ == "__main__":
