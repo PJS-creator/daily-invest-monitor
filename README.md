@@ -1,12 +1,13 @@
-# invest-monitor (GitHub Discussions 버전)
+# invest-monitor (GitHub Discussions 버전, Dashboard + Anchors)
 
 이 저장소는 **12개 종목**에 대해 매일 1회:
 
-1) 가격/거래량 등 핵심 지표 변동
-2) 회사 뉴스/보도자료(Press Releases)
-3) SEC 공시(EDGAR)
+1) **매일 변하는 지표**: Close/전일대비/거래량/시총/EV(앵커 기반 계산)
+2) **분기·이벤트로 변하는 앵커 지표**: Net Cash, Burn, Runway, Buyout/SOTP (config에 입력)
+3) **뉴스/보도자료**: 회사 IR + GlobeNewswire + Business Wire
+4) **SEC 공시(EDGAR)**
 
-를 모아서 **GitHub Discussions의 "Daily Report" 글에 댓글로 자동 게시**하는 템플릿입니다.
+를 모아서 **GitHub Discussions의 “Daily Report” 글에 댓글로 자동 게시**하는 템플릿입니다.
 
 - 알림은 GitHub의 **Notifications(웹/앱 푸시)** 로 받습니다.
 - 실행은 GitHub Actions 워크플로우를 사용하며,
@@ -41,11 +42,6 @@
 - `data/state.json`
 - `.github/workflows/daily.yml`
 
-> `.github` 폴더가 숨김 처리되는 경우가 있어요.
-> 그럴 땐 GitHub 웹에서 **Add file > Create new file** 로
-> 파일명에 `.github/workflows/daily.yml` 를 입력해서 생성한 뒤
-> 내용을 붙여넣어도 됩니다.
-
 ---
 
 ## 3) Discussions 켜기 + Daily Report 글 만들기
@@ -64,7 +60,7 @@
 Repository > **Settings** > **Actions** > **General**
 
 - Workflow permissions: **Read and write permissions** 선택
-  (state.json 커밋을 위해 필요)
+  - `data/state.json`을 커밋하기 위해 필요
 
 ---
 
@@ -122,12 +118,29 @@ GitHub > Settings > Developer settings > Personal access tokens
 
 ---
 
-## 8) 종목/체크리스트 수정
+## 8) “핵심 지표(Anchors)”와 촉매(Catalysts) 수정
 `config.yaml`에서 회사별로 아래를 수정하면 됩니다.
 
-- `ticker`, `name`
-- `sources` (회사 IR, GlobeNewswire/BusinessWire 검색 URL)
-- `checklist` (내가 매일 확인할 항목)
+### 8-1) anchors(앵커 지표)
+`anchors`는 **매일 변하는 값이 아니라**, 최신 10-Q/10-K/오퍼링 기준으로 업데이트하는 값입니다.
+
+- `net_cash_m` : Net Cash (USD million)
+- `burn_m_per_month` / `burn_m_per_quarter` / `burn_m_per_year`
+- `runway_months`
+- `buyout_per_share` : Bear/Base/Bull (USD/share)
+- `as_of` : 기준일(예: `2025-09-30`)
+
+### 8-2) catalysts(촉매 캘린더)
+`catalysts`는 **파이프라인별 촉매(임상/규제/딜/재무)** 를 적어두는 영역입니다.
+
+- `when`: 표기용(예: `2026 Q2`, `mid-2026`)
+- `date`(선택): `YYYY-MM-DD` (적으면 D-day가 계산됩니다)
+- `event`: 이벤트 설명
+- `importance`(선택): 1~10
 
 ---
 
+## 9) 알림 받기(메일/텔레그램 없이)
+- GitHub 모바일 앱 설치
+- 저장소에서 **Watch** > `Custom` 또는 `All Activity`
+- Notifications 설정에서 Discussions/Comments 알림을 켭니다.
