@@ -1,25 +1,39 @@
 timezone: "Asia/Seoul"
 
 # 12개 투자 기업
+# - sources는 '위에서 아래 순서'로 수집 시도 후, 발견된 기사들을 합쳐서 보여줍니다.
+# - GlobeNewswire/Business Wire는 '검색 페이지'를 사용합니다.
+#   (티커가 짧거나 흔한 경우(EQ 등) 결과가 섞일 수 있어, 회사명 검색 URL을 함께 넣어 두었습니다.)
 companies:
   - ticker: "EQ"
     name: "Equillium"
     sources:
-      # GlobeNewswire 조직(organization) 검색 페이지
-      - type: "globenewswire_org"
-        url: "https://www.globenewswire.com/search/organization/Equillium%CE%B4%2520Inc%C2%A7"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Equillium&searchPage=1"
+      - type: "html"
+        url: "https://www.equillium.com/news/default.aspx"
     checklist: []
 
   - ticker: "GPCR"
     name: "Structure Therapeutics"
     sources:
-      - type: "globenewswire_org"
-        url: "https://www.globenewswire.com/search/organization/Structure%2520Therapeutics%2520Inc%C2%A7"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Structure%20Therapeutics&searchPage=1"
+      - type: "html"
+        url: "https://investors.structuretherapeutics.com/news-releases"
     checklist: []
 
   - ticker: "IKT"
     name: "Inhibikase Therapeutics"
     sources:
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Inhibikase&searchPage=1"
       - type: "html"
         url: "https://www.inhibikase.com/investors/news-events/press-releases"
     checklist: []
@@ -27,6 +41,10 @@ companies:
   - ticker: "IMMX"
     name: "Immix Biopharma"
     sources:
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Immix%20Biopharma&searchPage=1"
       - type: "html"
         url: "https://immixbio.com/news/"
     checklist: []
@@ -34,8 +52,10 @@ companies:
   - ticker: "MGTX"
     name: "MeiraGTx"
     sources:
-      - type: "globenewswire_org"
-        url: "https://www.globenewswire.com/search/organization/MeiraGTx"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=MeiraGTx&searchPage=1"
       - type: "html"
         url: "https://investors.meiragtx.com/news-releases"
     checklist: []
@@ -43,77 +63,84 @@ companies:
   - ticker: "PRAX"
     name: "Praxis Precision Medicines"
     sources:
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Praxis%20Precision%20Medicines&searchPage=1"
       - type: "html"
         url: "https://ir.praxismedicines.com/press-releases/"
     checklist:
-      - "vormatrigine: Phase 3 POWER1 topline (예상 Q2 2026)"
-      - "elsunersen: Phase 2 EMBRAVE Part A topline (예상 1H 2026)"
-      - "relutrigine/ulixacaltamide: NDA 제출/우선심사 여부 업데이트 (예상 1H 2026)"
+      - "(예시) vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
 
   - ticker: "QTTB"
     name: "Q32 Bio"
     sources:
-      - type: "html"
-        url: "https://www.q32bio.com/category/press-releases/"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Q32%20Bio&searchPage=1"
       - type: "html"
         url: "https://ir.q32bio.com/press-releases"
     checklist:
-      - "SIGNAL-AA: Phase 2 Part B topline (예상 mid-2026)"
-      - "Oculis 지분 매각대금 유입(예상 2026-05-28 및 2026-12-31까지)"
-      - "Part A OLE/지속성(durability) 업데이트 (예상 2H 2026)"
+      - "(예시) SIGNAL-AA Phase 2 업데이트"
 
   - ticker: "QURE"
     name: "uniQure"
     sources:
-      - type: "globenewswire_org"
-        url: "https://www.globenewswire.com/search/organization/uniQure%2520Inc%C2%A7"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=uniQure&searchPage=1"
+      - type: "html"
+        url: "https://www.uniqure.com/investors-media/press-releases"
     checklist:
-      - "AMT-130: FDA Type A 미팅 결과/추가 미팅 및 규제 커뮤니케이션 확인"
-      - "AMT-191: DLT(LFT) 관련 업데이트 및 임상 진행 상황"
-      - "AMT-260: 데이터/개발 업데이트"
+      - "(예시) AMT-130 / AMT-191 / AMT-260 업데이트"
 
   - ticker: "AVBP"
     name: "ArriVent BioPharma"
     sources:
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=ArriVent&searchPage=1"
       - type: "html"
         url: "https://ir.arrivent.com/news-events/news-releases"
     checklist:
-      - "FURVENT: Phase 3 topline (예상 early-2026)"
-      - "ALPACCA(ARR-001): FPI(2025-12-22) 이후 등록/초기 데이터 업데이트"
-      - "ARR-217: 초기 임상/개발 업데이트"
+      - "(예시) FURVENT / ALPACCA 관련 업데이트"
 
   - ticker: "CGEM"
     name: "Cullinan Therapeutics"
     sources:
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Cullinan%20Therapeutics&searchPage=1"
       - type: "html"
         url: "https://investors.cullinantherapeutics.com/news-releases"
     checklist:
-      - "CLN-978: 초기 안전성 + B-cell depletion 데이터 (예상 1H 2026)"
-      - "CLN-049: 용량확장/업데이트(종양학 파이프라인) 확인"
-      - "zipalertinib: rolling NDA 진행/완료 관련(예상 Q1 2026) 업데이트"
+      - "(예시) CLN-978 / CLN-049 업데이트"
 
   - ticker: "CMPS"
     name: "Compass Pathways"
     sources:
-      # Business Wire 기사(고정 URL)를 seed로 삼아 'More News From ...' 섹션을 파싱합니다.
-      - type: "businesswire_seed"
-        url: "https://www.businesswire.com/news/home/20260216193669/en/Compass-Pathways-to-Announce-New-Clinical-Data-from-Two-Ongoing-Phase-3-Trials"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Compass%20Pathways&searchPage=1"
       - type: "html"
         url: "https://ir.compasspathways.com/News--Events-/news/default.aspx"
     checklist:
-      - "COMP005: Part B 26-week 데이터 (예상 early Q3 2026)"
-      - "COMP006: 장기 데이터 (예상 early Q3 2026)"
-      - "TRD: NDA 제출 (예상 Q4 2026)"
-      - "PTSD: late-stage trial 시작 (예상 H1 2026)"
+      - "(예시) Phase 3 관련 데이터/일정 업데이트"
 
   - ticker: "CRNX"
     name: "Crinetics Pharmaceuticals"
     sources:
-      - type: "html"
-        url: "https://crinetics.com/news-events/"
+      - type: "globenewswire_keyword"
+        url: "https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Crinetics%20Pharmaceuticals&searchPage=1"
       - type: "html"
         url: "https://ir.crinetics.com/news/default.aspx"
     checklist:
-      - "PALSONIFY: 분기 매출/처방 지표 업데이트(실적/PR 확인)"
-      - "소아 CAH 임상 개시(예상 1H 2026) 관련 PR/공시 체크"
-      - "Atumelnant: ADCS/CAH 등 개발 업데이트"
+      - "(예시) 분기 실적/처방 지표 및 주요 임상 업데이트"
+
