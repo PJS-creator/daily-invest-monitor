@@ -14,6 +14,17 @@ alerts:
   # 거래량이 평균 거래량 대비 이 배수 이상이면 Alert에 표시
   volume_spike_x: 2.5
 
+# 애널리스트 목표가(Price Target) 표시/알림 옵션
+# - 값은 보통 Yahoo Finance(=yfinance)에서 제공하는 컨센서스 목표가입니다.
+price_targets:
+  show_in_dashboard: true
+  show_in_details: true
+  # 목표가 값이 의미있게 바뀐 경우 Alert 컬럼에 PT ... 로 표시
+  alert_on_change: true
+  # 변화 판정 기준 (둘 중 하나만 넘어도 changed로 간주)
+  change_pct: 5.0   # %
+  change_abs: 0.5   # USD
+
 # 12개 투자 기업
 # - sources는 '위에서 아래 순서'로 수집 시도 후, 발견된 기사들을 합쳐서 보여줍니다.
 # - GlobeNewswire/Business Wire는 '검색 페이지'를 사용합니다.
@@ -46,6 +57,12 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10"
+      - type: "businesswire_search"
+        # BusinessWire 구(舊) portal 검색 URL은 종종 timeout/오류가 납니다.
+        # Newsroom 키워드 검색(티커 필터)이 더 안정적입니다.
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aeq"
+      - type: "html"
+        url: "https://www.equilliumbio.com/investors/press-releases/"
     checklist: []
 
   - ticker: "GPCR"
@@ -70,6 +87,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Agpcr"
+      - type: "html"
+        url: "https://ir.structuretx.com/press-releases"
     checklist: []
 
   - ticker: "IKT"
@@ -91,6 +112,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aikt"
+      - type: "html"
+        url: "https://www.inhibikase.com/investors/news-events/press-releases"
     checklist: []
 
   - ticker: "IMMX"
@@ -115,6 +140,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aimmx"
+      - type: "html"
+        url: "https://immixbio.com/news/"
     checklist: []
 
   - ticker: "MGTX"
@@ -139,6 +168,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Amgtx"
+      - type: "html"
+        url: "https://meiragtx.gcs-web.com/news-releases"
     checklist: []
 
   - ticker: "PRAX"
@@ -163,6 +196,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aprax"
+      - type: "html"
+        url: "https://praxismedicines.gcs-web.com/press-releases"
     checklist:
       - "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
 
@@ -189,6 +226,12 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aqttb"
+      - type: "html"
+        # 일부 IR 서브도메인(ir.*)은 GitHub Actions IP에서 차단/지연이 발생할 수 있습니다.
+        # Q32 Bio는 corporate site(WordPress 카테고리) PR 아카이브를 fallback으로 사용합니다.
+        url: "https://www.q32bio.com/category/press-releases/"
     checklist:
       - "SIGNAL-AA Phase 2 업데이트"
 
@@ -214,6 +257,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aqure"
+      - type: "html"
+        url: "https://www.uniqure.com/investors-media/press-releases"
     checklist:
       - "AMT-130 / AMT-191 / AMT-260 업데이트"
 
@@ -239,6 +286,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Aavbp"
+      - type: "html"
+        url: "https://ir.arrivent.com/news-events/news-releases"
     checklist:
       - "FURVENT / ALPACCA 관련 업데이트"
 
@@ -264,6 +315,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Acgem"
+      - type: "html"
+        url: "https://investors.cullinantherapeutics.com/news-releases?mobile=1&page=0"
     checklist:
       - "CLN-978 / CLN-049 업데이트"
 
@@ -289,6 +344,10 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Acmps"
+      - type: "html"
+        url: "https://ir.compasspathways.com/News--Events-/news/default.aspx"
     checklist:
       - "Phase 3 관련 데이터/일정 업데이트"
 
@@ -314,5 +373,9 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10"
+      - type: "businesswire_search"
+        url: "https://www.businesswire.com/newsroom?keywords=TICKER%3Atrue%3Acrnx"
+      - type: "html"
+        url: "https://ir.crinetics.com/news/default.aspx"
     checklist:
       - "분기 실적/처방 지표 및 주요 임상 업데이트"
