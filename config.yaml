@@ -10,10 +10,8 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Equillium&searchPage=1"
       - type: "html"
-        url: "https://www.equillium.com/news/default.aspx"
+        url: "https://www.equillium.com/investors/press-releases/"
     checklist: []
 
   - ticker: "GPCR"
@@ -21,10 +19,8 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Structure%20Therapeutics&searchPage=1"
       - type: "html"
-        url: "https://investors.structuretherapeutics.com/news-releases"
+        url: "https://ir.structuretx.com/press-releases"
     checklist: []
 
   - ticker: "IKT"
@@ -32,8 +28,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Inhibikase&searchPage=1"
       - type: "html"
         url: "https://www.inhibikase.com/investors/news-events/press-releases"
     checklist: []
@@ -43,8 +37,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Immix%20Biopharma&searchPage=1"
       - type: "html"
         url: "https://immixbio.com/news/"
     checklist: []
@@ -54,8 +46,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=MeiraGTx&searchPage=1"
       - type: "html"
         url: "https://investors.meiragtx.com/news-releases"
     checklist: []
@@ -65,8 +55,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Praxis%20Precision%20Medicines&searchPage=1"
       - type: "html"
         url: "https://ir.praxismedicines.com/press-releases/"
     checklist:
@@ -77,10 +65,8 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Q32%20Bio&searchPage=1"
       - type: "html"
-        url: "https://ir.q32bio.com/press-releases"
+        url: "https://ir.q32bio.com/news-and-events/news-releases"
     checklist:
       - "(예시) SIGNAL-AA Phase 2 업데이트"
 
@@ -89,8 +75,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=uniQure&searchPage=1"
       - type: "html"
         url: "https://www.uniqure.com/investors-media/press-releases"
     checklist:
@@ -101,8 +85,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=ArriVent&searchPage=1"
       - type: "html"
         url: "https://ir.arrivent.com/news-events/news-releases"
     checklist:
@@ -113,8 +95,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Cullinan%20Therapeutics&searchPage=1"
       - type: "html"
         url: "https://investors.cullinantherapeutics.com/news-releases"
     checklist:
@@ -125,8 +105,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Compass%20Pathways&searchPage=1"
       - type: "html"
         url: "https://ir.compasspathways.com/News--Events-/news/default.aspx"
     checklist:
@@ -137,8 +115,6 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10"
-      - type: "businesswire_search"
-        url: "https://www.businesswire.com/portal/site/home/search/?searchType=all&searchTerm=Crinetics%20Pharmaceuticals&searchPage=1"
       - type: "html"
         url: "https://ir.crinetics.com/news/default.aspx"
     checklist:
