@@ -360,6 +360,14 @@ def fetch_fundamentals(ticker: str) -> dict:
         out["earnings_timestamp"] = info.get("earningsTimestamp")
         out["earnings_timestamp_start"] = info.get("earningsTimestampStart")
         out["earnings_timestamp_end"] = info.get("earningsTimestampEnd")
+        # Analyst price targets (consensus, usually from Yahoo Finance)
+        out["pt_mean"] = info.get("targetMeanPrice")
+        out["pt_high"] = info.get("targetHighPrice")
+        out["pt_low"] = info.get("targetLowPrice")
+        out["pt_median"] = info.get("targetMedianPrice")
+        out["pt_analysts"] = info.get("numberOfAnalystOpinions")
+        out["recommendation_key"] = info.get("recommendationKey")
+        out["recommendation_mean"] = info.get("recommendationMean")
     except Exception as e:
         out["fund_error"] = str(e)
     return out
@@ -652,6 +660,16 @@ def main() -> None:
     alert_price_pct = float(alert_cfg.get("price_move_pct") or 8.0)
     alert_volume_x = float(alert_cfg.get("volume_spike_x") or 2.5)
 
+    # Analyst price targets (consensus)
+    # - 기본은 yfinance(info)에서 targetMean/High/Low를 가져옵니다.
+    # - show/alert 옵션은 config.yaml의 price_targets 섹션으로 제어할 수 있습니다.
+    pt_cfg = cfg.get("price_targets") or {}
+    pt_show_dashboard = bool(pt_cfg.get("show_in_dashboard") if "show_in_dashboard" in pt_cfg else True)
+    pt_show_details = bool(pt_cfg.get("show_in_details") if "show_in_details" in pt_cfg else True)
+    pt_alert_on_change = bool(pt_cfg.get("alert_on_change") if "alert_on_change" in pt_cfg else True)
+    pt_change_pct = float(pt_cfg.get("change_pct") or 5.0)
+    pt_change_abs = float(pt_cfg.get("change_abs") or 0.5)
+
     companies = cfg.get("companies") or []
     tickers = [c["ticker"] for c in companies]
 
@@ -659,6 +677,7 @@ def main() -> None:
     state = load_state(state_path)
     state.setdefault("press_seen", {})
     state.setdefault("sec_seen", {})
+    state.setdefault("pt_last", {})
 
     # 1) price data
     price_map = fetch_prices(tickers)
@@ -698,6 +717,35 @@ def main() -> None:
         fund = fetch_fundamentals(t)
         mktcap = fund.get("market_cap")
         avg_vol = fund.get("avg_volume")
+
+        # --- Analyst price targets (consensus) ---
+        pt_mean = fund.get("pt_mean")
+        pt_high = fund.get("pt_high")
+        pt_low = fund.get("pt_low")
+        pt_median = fund.get("pt_median")
+        pt_n = fund.get("pt_analysts")
+        reco_key = fund.get("recommendation_key")
+        reco_mean = fund.get("recommendation_mean")
+
+        pt_upside = None
+        if close is not None and pt_mean is not None:
+            try:
+                pt_upside = (float(pt_mean) / float(close) - 1.0) * 100.0
+            except Exception:
+                pt_upside = None
+
+        # Detect PT change vs last run (optional alert)
+        pt_changed = False
+        prev_pt = (state.get("pt_last") or {}).get(t) or {}
+        prev_mean = prev_pt.get("mean")
+        if pt_mean is not None and prev_mean is not None:
+            try:
+                abs_ch = abs(float(pt_mean) - float(prev_mean))
+                pct_ch = abs_ch / float(prev_mean) * 100.0 if float(prev_mean) != 0 else abs_ch
+                if abs_ch >= pt_change_abs or pct_ch >= pt_change_pct:
+                    pt_changed = True
+            except Exception:
+                pt_changed = False
 
         # --- Anchors: Net cash / Burn / Runway / Buyout per share ---
         asof = anchors.get("as_of") or anchors.get("asof") or anchors.get("as_of_date")
@@ -772,6 +820,8 @@ def main() -> None:
                     flags.append(f"VOL {float(vol_x):.1f}x")
             except Exception:
                 pass
+        if pt_changed and pt_alert_on_change:
+            flags.append(f"PT {format_price(prev_mean)}→{format_price(pt_mean)}")
         if flags:
             alert_tickers.append(t)
 
@@ -781,6 +831,8 @@ def main() -> None:
                 "ticker": t,
                 "close": close,
                 "pct": pct,
+                "pt": pt_mean,
+                "pt_upside": pt_upside,
                 "mktcap": format_money_usd(mktcap),
                 "ev": format_money_usd(ev_calc if ev_calc is not None else fund.get("enterprise_value")),
                 "net_cash": (format_money_usd(float(net_cash_m) * 1_000_000) + (f" ({asof})" if asof else ""))
@@ -833,6 +885,24 @@ def main() -> None:
             block.append(f"- **EV**: {format_money_usd(ev_calc)}{note}")
         else:
             block.append(f"- **EV**: {format_money_usd(fund.get('enterprise_value'))} (yfinance)")
+
+        # Analyst price target (Street consensus)
+        if pt_show_details:
+            if pt_mean is not None or pt_high is not None or pt_low is not None:
+                n_str = '-'
+                try:
+                    if pt_n is not None:
+                        n_str = str(int(pt_n))
+                except Exception:
+                    n_str = str(pt_n) if pt_n is not None else '-'
+
+                block.append(
+                    f"- **Price Target (consensus)**: mean `{format_price(pt_mean)}` (low `{format_price(pt_low)}` / high `{format_price(pt_high)}`; n={n_str})"
+                )
+                if pt_upside is not None:
+                    block.append(f"  - Upside to PT (mean): `{pt_upside:+.1f}%`")
+            else:
+                block.append("- **Price Target (consensus)**: -")
 
         if net_cash_m is not None:
             block.append(
@@ -916,6 +986,21 @@ def main() -> None:
         except Exception:
             pass
 
+        # --- Store last-known price target snapshot ---
+        try:
+            state.setdefault("pt_last", {})
+            if any(x is not None for x in [pt_mean, pt_high, pt_low, pt_median, pt_n]):
+                state["pt_last"][t] = {
+                    "mean": pt_mean,
+                    "high": pt_high,
+                    "low": pt_low,
+                    "median": pt_median,
+                    "n": pt_n,
+                    "ts": now_kst,
+                }
+        except Exception:
+            pass
+
     state["last_run"] = datetime.now(timezone.utc).isoformat()
 
     # --- Render report ---
@@ -929,14 +1014,26 @@ def main() -> None:
 
     # Dashboard table
     lines.append("### Dashboard")
-    lines.append("| Ticker | Close | Δ% | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |")
-    lines.append("|---|---:|---:|---:|---:|---:|---:|---|---:|---:|---|")
+    if pt_show_dashboard:
+        lines.append("| Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |")
+        lines.append("|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|")
+    else:
+        lines.append("| Ticker | Close | Δ% | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |")
+        lines.append("|---|---:|---:|---:|---:|---:|---:|---|---:|---:|---|")
+
     for r in dashboard_rows:
         close_s = format_price(r.get("close"))
         pct_s = format_pct(r.get("pct"))
-        lines.append(
-            f"| {r['ticker']} | {close_s} | {pct_s} | {r['mktcap']} | {r['ev']} | {r['net_cash']} | {r['runway']} | {r['next']} | {r['new_pr']} | {r['new_sec']} | {r['alert']} |"
-        )
+        if pt_show_dashboard:
+            pt_s = format_price(r.get("pt"))
+            pt_u = format_pct(r.get("pt_upside"))
+            lines.append(
+                f"| {r['ticker']} | {close_s} | {pct_s} | {pt_s} | {pt_u} | {r['mktcap']} | {r['ev']} | {r['net_cash']} | {r['runway']} | {r['next']} | {r['new_pr']} | {r['new_sec']} | {r['alert']} |"
+            )
+        else:
+            lines.append(
+                f"| {r['ticker']} | {close_s} | {pct_s} | {r['mktcap']} | {r['ev']} | {r['net_cash']} | {r['runway']} | {r['next']} | {r['new_pr']} | {r['new_sec']} | {r['alert']} |"
+            )
 
     lines.append("")
     lines.append("### Details")
@@ -956,4 +1053,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
