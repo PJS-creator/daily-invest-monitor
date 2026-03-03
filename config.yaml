@@ -57,7 +57,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/EQ
     checklist: []
 
@@ -83,7 +83,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/GPCR
     checklist: []
 
@@ -106,7 +106,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/IKT
     checklist: []
 
@@ -132,7 +132,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/IMMX
     checklist: []
 
@@ -158,7 +158,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/MGTX
     checklist: []
 
@@ -184,7 +184,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/PRAX
     checklist:
       - "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -212,7 +212,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/QTTB
     checklist:
       - "SIGNAL-AA Phase 2 업데이트"
@@ -239,7 +239,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/QURE
     checklist:
       - "AMT-130 / AMT-191 / AMT-260 업데이트"
@@ -266,7 +266,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/AVBP
     checklist:
       - "FURVENT / ALPACCA 관련 업데이트"
@@ -293,7 +293,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/CGEM
     checklist:
       - "CLN-978 / CLN-049 업데이트"
@@ -320,7 +320,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/CMPS
     checklist:
       - "Phase 3 관련 데이터/일정 업데이트"
@@ -347,7 +347,7 @@ companies:
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10"
-        - type: rss
+      - type: rss
         url: https://www.stocktitan.net/rss/news/CRNX
     checklist:
       - "분기 실적/처방 지표 및 주요 임상 업데이트"
