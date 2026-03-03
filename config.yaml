@@ -1,122 +1,318 @@
 timezone: "Asia/Seoul"
 
+# 출력/포맷 옵션
+report:
+  # 소스별로 "최근 몇 개"까지 긁을지 (너무 크면 페이지가 길어집니다)
+  max_news_items: 8
+  # 각 기업 섹션을 <details>로 접어서 길이를 줄일지
+  use_collapsible: true
+
+# 자동 알림(⚠️ 표시) 기준
+alerts:
+  # 일간 등락률이 이 값(%) 이상이면 Dashboard의 Alert 컬럼에 표시
+  price_move_pct: 8.0
+  # 거래량이 평균 거래량 대비 이 배수 이상이면 Alert에 표시
+  volume_spike_x: 2.5
+
 # 12개 투자 기업
 # - sources는 '위에서 아래 순서'로 수집 시도 후, 발견된 기사들을 합쳐서 보여줍니다.
 # - GlobeNewswire/Business Wire는 '검색 페이지'를 사용합니다.
-#   (티커가 짧거나 흔한 경우(EQ 등) 결과가 섞일 수 있어, 회사명 검색 URL을 함께 넣어 두었습니다.)
+#   (티커가 짧거나 흔한 경우(EQ 등) 결과가 섞일 수 있어, 회사명 검색 URL을 함께 넣었습니다.)
+#
+# anchors(앵커 지표) 안내
+# - cash/net_cash/burn/runway/buyout_per_share 등은 "매일 변하는 값"이 아니라,
+#   최신 10-Q/10-K 또는 오퍼링(424B5) 기준으로 업데이트되는 값입니다.
+# - Daily Report에서는
+#   1) 매일 변하는 값: Close/Δ%/MktCap/EV(계산)
+#   2) 분기/이벤트로 변하는 값: Net Cash/Burn/Runway/Buyout PT
+#   를 한 화면에 같이 보여주도록 구성했습니다.
 companies:
   - ticker: "EQ"
     name: "Equillium"
+    anchors:
+      as_of: "2025-09-30"
+      fd_shares_m: 91.7
+      net_cash_m: 33.1
+      burn_m_per_month: 2.2
+      runway_months: 15.2
+      buyout_per_share: { bear: 0.52, base: 1.56, bull: 4.99 }
+    catalysts:
+      - when: "mid-2026"
+        event: "EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start"
+        importance: 9
+      - when: "2026H2"
+        event: "EQ504 PD/biopsy update (target engagement)"
+        importance: 7
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10"
-      - type: "html"
-        url: "https://www.equillium.com/investors/press-releases/"
     checklist: []
 
   - ticker: "GPCR"
     name: "Structure Therapeutics"
+    anchors:
+      as_of: "2025-09-30 (pro forma incl. Dec-2025 offering)"
+      fd_shares_m: 79.05
+      net_cash_m: 1510.0   # $1.51B
+      burn_m_per_quarter: 53.0
+      runway_months: null
+      buyout_per_share: { bear: 42.88, base: 106.51, bull: 336.75 }
+    catalysts:
+      - when: "2026 Q1"
+        event: "ACCESS II 44-week results (company guidance)"
+        importance: 9
+      - when: "2026 Q2"
+        event: "End-of-Phase 2 FDA meeting (Phase 3 design)"
+        importance: 8
+      - when: "2026 H2"
+        event: "T2DM/maintenance (SWITCH) + ACCG-2671 Phase 1"
+        importance: 6
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10"
-      - type: "html"
-        url: "https://ir.structuretx.com/press-releases"
     checklist: []
 
   - ticker: "IKT"
     name: "Inhibikase Therapeutics"
+    anchors:
+      as_of: "2025-09-30 + Nov-2025 offering (pro forma est.)"
+      fd_shares_m: 163.4
+      net_cash_m: 160.1
+      burn_m_per_month: 2.3
+      runway_months: 71.0
+      buyout_per_share: { bear: 1.70, base: 4.32, bull: 12.67 }
+    catalysts:
+      - when: "2026 H1"
+        event: "IMPROVE-PAH Phase 3 initiation / first patient dosed"
+        importance: 8
+      - when: "2026"
+        event: "Enrollment execution update (sites / pace)"
+        importance: 6
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10"
-      - type: "html"
-        url: "https://www.inhibikase.com/investors/news-events/press-releases"
     checklist: []
 
   - ticker: "IMMX"
     name: "Immix Biopharma"
+    anchors:
+      as_of: "Sep-2025 + Dec-2025 offering (pro forma)"
+      fd_shares_m: 63.62
+      net_cash_m: 108.5
+      burn_m_per_month: 1.4
+      runway_months: 76.0
+      buyout_per_share: { bear: 8.82, base: 32.69, bull: 67.43 }
+    catalysts:
+      - when: "2026 H1~H2"
+        event: "NEXICART-2 enrollment maturity / data updates"
+        importance: 8
+      - when: "2026 Q2~Q3"
+        event: "BLA submission + FDA filing acceptance (company guidance)"
+        importance: 9
+      - when: "2026"
+        event: "CMC / manufacturing scale-up + commercial readiness updates"
+        importance: 6
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10"
-      - type: "html"
-        url: "https://immixbio.com/news/"
     checklist: []
 
   - ticker: "MGTX"
     name: "MeiraGTx"
+    anchors:
+      as_of: "2025 Q3 (pro forma)"
+      fd_shares_m: 102.7
+      net_cash_m: 170.9
+      burn_m_per_quarter: 34.5
+      runway_months: 21.4
+      buyout_per_share: { bear: 6.40, base: 23.31, bull: 76.34 }
+    catalysts:
+      - when: "2026"
+        event: "AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates"
+        importance: 8
+      - when: "early-2026"
+        event: "AAV-GAD: commercial-ready DP release / Phase 3 start (or structure update)"
+        importance: 7
+      - when: "2026"
+        event: "Hologen transaction closing / cash receipt"
+        importance: 6
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10"
-      - type: "html"
-        url: "https://investors.meiragtx.com/news-releases"
     checklist: []
 
   - ticker: "PRAX"
     name: "Praxis Precision Medicines"
+    anchors:
+      as_of: "(pro forma)"
+      fd_shares_m: 31.36
+      net_cash_m: 1550.0  # $1.55B
+      burn_m_per_year: 600.0
+      runway_months: 31.0
+      buyout_per_share: { bear: 162, base: 471, bull: 1485 }
+    catalysts:
+      - when: "2026 Q2"
+        event: "Vormatrigine POWER1 (adjunctive FOS) topline"
+        importance: 9
+      - when: "2026 H1"
+        event: "Elsunersen EMBRAVE Part A topline"
+        importance: 8
+      - when: "2026"
+        event: "Ulixacaltamide / Relutrigine: NDA filing + PDUFA timeline clarity"
+        importance: 7
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10"
-      - type: "html"
-        url: "https://ir.praxismedicines.com/press-releases/"
     checklist:
-      - "(예시) vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
+      - "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
 
   - ticker: "QTTB"
     name: "Q32 Bio"
+    anchors:
+      as_of: "(pro forma est.)"
+      fd_shares_m: 17.44
+      net_cash_m: 40.2
+      burn_m_per_month: 3.0
+      runway_months: 13.2
+      buyout_per_share: { bear: 4.26, base: 11.96, bull: 42.84 }
+    catalysts:
+      - when: "mid-2026"
+        event: "SIGNAL-AA Part B topline (W36, open-label)"
+        importance: 9
+      - when: "2026-05-28"
+        date: "2026-05-28"
+        event: "ADX-097 asset sale cash receipt ($3.0M)"
+        importance: 4
+      - when: "2026 H2"
+        event: "SIGNAL-AA Part A OLE / durability update (conference season, est.)"
+        importance: 6
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10"
-      - type: "html"
-        url: "https://ir.q32bio.com/news-and-events/news-releases"
     checklist:
-      - "(예시) SIGNAL-AA Phase 2 업데이트"
+      - "SIGNAL-AA Phase 2 업데이트"
 
   - ticker: "QURE"
     name: "uniQure"
+    anchors:
+      as_of: "2025-09-30"
+      fd_shares_m: 69.7
+      net_cash_m: 177.0   # $0.177B
+      burn_m_per_month: 11.2
+      runway_months: 15.9
+      buyout_per_share: { bear: 8.2, base: 36.2, bull: 122.0 }
+    catalysts:
+      - when: "2026 H1"
+        event: "AMT-130 FDA Type A meeting outcome / minutes"
+        importance: 9
+      - when: "2026"
+        event: "AMT-191 DLT(LFT) assessment + hold resolution / dosing strategy"
+        importance: 8
+      - when: "2026"
+        event: "AMT-260 additional patient data + cohort progression"
+        importance: 6
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10"
-      - type: "html"
-        url: "https://www.uniqure.com/investors-media/press-releases"
     checklist:
-      - "(예시) AMT-130 / AMT-191 / AMT-260 업데이트"
+      - "AMT-130 / AMT-191 / AMT-260 업데이트"
 
   - ticker: "AVBP"
     name: "ArriVent BioPharma"
+    anchors:
+      as_of: "2025-09-30"
+      fd_shares_m: 43.53
+      net_cash_m: 305.4
+      burn_m_per_month: 14.4
+      runway_months: 21.2
+      buyout_per_share: { bear: 20.57, base: 56.74, bull: 130.82 }
+    catalysts:
+      - when: "early-2026"
+        event: "FURVENT Phase 3 topline"
+        importance: 9
+      - when: "2026"
+        event: "ALPACCA Phase 3 progress updates (1st patient dosed 2025-12-22)"
+        importance: 6
+      - when: "2026"
+        event: "ARR-217 Phase 1 initial safety/PK update"
+        importance: 5
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10"
-      - type: "html"
-        url: "https://ir.arrivent.com/news-events/news-releases"
     checklist:
-      - "(예시) FURVENT / ALPACCA 관련 업데이트"
+      - "FURVENT / ALPACCA 관련 업데이트"
 
   - ticker: "CGEM"
     name: "Cullinan Therapeutics"
+    anchors:
+      as_of: "(net cash as of latest filings)"
+      fd_shares_m: 67.21
+      net_cash_m: 439.0
+      burn_m_per_quarter: 36.5
+      runway_months: null
+      buyout_per_share: { bear: 8.6, base: 17.9, bull: 45.9 }
+    catalysts:
+      - when: "2026 H1"
+        event: "CLN-978 initial safety + B-cell depletion data (RA/SLE)"
+        importance: 8
+      - when: "2026"
+        event: "CLN-049 expansion / durability updates"
+        importance: 6
+      - when: "2026"
+        event: "Zipalertinib progress / regulatory updates"
+        importance: 5
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10"
-      - type: "html"
-        url: "https://investors.cullinantherapeutics.com/news-releases"
     checklist:
-      - "(예시) CLN-978 / CLN-049 업데이트"
+      - "CLN-978 / CLN-049 업데이트"
 
   - ticker: "CMPS"
     name: "Compass Pathways"
+    anchors:
+      as_of: "(pro forma)"
+      fd_shares_m: 159.38
+      net_cash_m: 259.0
+      burn_m_per_month: 13.3
+      runway_months: 19.5
+      buyout_per_share: { bear: 4.51, base: 16.12, bull: 60.45 }
+    catalysts:
+      - when: "early Q3 2026"
+        event: "COMP005 Part B 26-week data + COMP006 durability / re-dosing"
+        importance: 9
+      - when: "2026 Q4"
+        event: "NDA submission complete (company guidance)"
+        importance: 8
+      - when: "2026 H1~"
+        event: "PTSD late-stage (Phase 2b/3) initiation option"
+        importance: 5
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10"
-      - type: "html"
-        url: "https://ir.compasspathways.com/News--Events-/news/default.aspx"
     checklist:
-      - "(예시) Phase 3 관련 데이터/일정 업데이트"
+      - "Phase 3 관련 데이터/일정 업데이트"
 
   - ticker: "CRNX"
     name: "Crinetics Pharmaceuticals"
+    anchors:
+      as_of: "2025-09-30"
+      fd_shares_m: 110.1
+      net_cash_m: 1350.0  # $1.35B
+      burn_m_per_month: 31.7
+      runway_months: 43.0
+      buyout_per_share: { bear: 40.6, base: 78.5, bull: 139.2 }
+    catalysts:
+      - when: "2026"
+        event: "PALSONIFY quarterly sales / net product revenue updates"
+        importance: 7
+      - when: "2026"
+        event: "Pediatric CAH Phase 2/3 initiation / execution"
+        importance: 6
+      - when: "2026"
+        event: "Atumelnant (ACRO) development / data updates"
+        importance: 5
     sources:
       - type: "globenewswire_keyword"
         url: "https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10"
-      - type: "html"
-        url: "https://ir.crinetics.com/news/default.aspx"
     checklist:
-      - "(예시) 분기 실적/처방 지표 및 주요 임상 업데이트"
-
+      - "분기 실적/처방 지표 및 주요 임상 업데이트"
