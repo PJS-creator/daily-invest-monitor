@@ -5,6 +5,7 @@ import time
 from dataclasses import dataclass
 from datetime import datetime, timezone, date
 from typing import Dict, List, Optional, Tuple
+from urllib.parse import urljoin
 
 import requests
 import feedparser
@@ -16,11 +17,29 @@ from dateutil import tz
 
 
 DEFAULT_TIMEOUT = 25
-DEFAULT_UA = "Mozilla/5.0 (compatible; InvestMonitorBot/2.0; +https://github.com/)"
+
+# 웹 스크래핑 대상(Newswire/IR)은 봇 차단/레이트리밋이 꽤 잦습니다.
+# GitHub Actions/cron 환경에서 통과 확률을 높이기 위해 브라우저 UA를 기본으로 둡니다.
+DEFAULT_UA = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+)
+
+# timeout은 (connect, read) 튜플을 쓰면 '연결은 빠르게 실패' + '응답은 조금 더 기다림'이 가능
+HTTP_CONNECT_TIMEOUT = 10
+HTTP_READ_TIMEOUT_DEFAULT = 25
+HTTP_READ_TIMEOUT_SLOW = 45
+
 HEADERS = {
     "User-Agent": os.getenv("HTTP_USER_AGENT", DEFAULT_UA),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
 }
+
+# requests.Session()으로 커넥션 재사용 → 간헐적 timeout/지연을 줄이는 데 도움이 됩니다.
+SESSION = requests.Session()
 
 SEC_UA = os.getenv("SEC_USER_AGENT") or HEADERS["User-Agent"]
 
@@ -66,15 +85,47 @@ def today_in_tz(tz_name: str) -> date:
     return datetime.now(tzone).date()
 
 
-def http_get(url: str, timeout: int = DEFAULT_TIMEOUT) -> requests.Response:
+def _choose_timeout(url: str) -> Tuple[int, int]:
+    """도메인별로 read timeout을 약간 다르게 줍니다.
+
+    - BusinessWire / IR 페이지는 간헐적으로 느려서 read timeout을 더 길게.
+    - 나머지는 기본값.
+    """
+    u = (url or "").lower()
+    if "businesswire.com" in u:
+        return (HTTP_CONNECT_TIMEOUT, HTTP_READ_TIMEOUT_SLOW)
+    if any(k in u for k in ["ir.", "investors.", "gcs-web.com", "q4web", "q4inc"]):
+        return (HTTP_CONNECT_TIMEOUT, HTTP_READ_TIMEOUT_SLOW)
+    return (HTTP_CONNECT_TIMEOUT, HTTP_READ_TIMEOUT_DEFAULT)
+
+
+def http_get(url: str, timeout: Optional[Tuple[int, int]] = None) -> requests.Response:
+    """GET with small retries.
+
+    사이트 자체가 느리거나 GitHub Actions IP에서만 지연되는 경우가 있어
+    간단한 재시도 + 백오프가 안정성을 크게 올립니다.
+    """
+
+    # allow passing an int for backward compatibility
+    if timeout is None:
+        timeout = _choose_timeout(url)
+    elif isinstance(timeout, (int, float)):
+        timeout = (HTTP_CONNECT_TIMEOUT, int(timeout))
+
     last_exc = None
     for i in range(3):
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=timeout)
+            resp = SESSION.get(url, headers=HEADERS, timeout=timeout)
+
+            # transient status → retry
+            if resp.status_code in (429, 500, 502, 503, 504):
+                raise RuntimeError(f"HTTP {resp.status_code}")
+
             return resp
         except Exception as e:
             last_exc = e
-            time.sleep(1 + i)
+            time.sleep(1 + i)  # 1s, 2s, 3s
+
     raise last_exc
 
 
@@ -127,6 +178,34 @@ def parse_globenewswire_page(url: str, limit: int = 8) -> List[NewsItem]:
     return items
 
 
+# BusinessWire는 로펌/집단소송 알림 PR이 매우 많이 섞입니다.
+# '회사 공식 PR' 모니터링 목적이라면 아래 키워드 포함 제목은 노이즈로 보는 편이 유용합니다.
+BW_SPAM_HINTS = [
+    "investor alert",
+    "investor reminder",
+    "class action",
+    "lawsuit",
+    "deadline",
+    "law firm",
+    "rosen law",
+    "pomerantz",
+    "levi & korsinsky",
+    "kahn swick",
+    "bronstein",
+    "faruqi",
+    "glancy prongay",
+    "gross law",
+    "hagens berman",
+]
+
+
+def _is_bw_spam_title(title: str) -> bool:
+    t = (title or "").strip().lower()
+    if not t:
+        return True
+    return any(h in t for h in BW_SPAM_HINTS)
+
+
 def parse_businesswire_search(url: str, limit: int = 8) -> List[NewsItem]:
     """Business Wire 검색 결과 페이지에서 최근 기사 링크 추출."""
     resp = http_get(url)
@@ -148,9 +227,11 @@ def parse_businesswire_search(url: str, limit: int = 8) -> List[NewsItem]:
         if not title or not href:
             continue
 
-        full_url = normalize_url(href)
-        if full_url.startswith("/"):
-            full_url = "https://www.businesswire.com" + full_url
+        # 로펌/집단소송 노이즈 제거
+        if _is_bw_spam_title(title):
+            continue
+
+        full_url = urljoin("https://www.businesswire.com", normalize_url(href))
 
         if full_url in seen:
             continue
@@ -174,14 +255,48 @@ def parse_businesswire_search(url: str, limit: int = 8) -> List[NewsItem]:
         if "businesswire.com/news/home/" not in href and "/news/home/" not in href:
             continue
 
-        full_url = normalize_url(href)
-        if full_url.startswith("/"):
-            full_url = "https://www.businesswire.com" + full_url
+        if _is_bw_spam_title(title):
+            continue
+
+        full_url = urljoin("https://www.businesswire.com", normalize_url(href))
         if full_url in seen:
             continue
 
         items.append(NewsItem(title=title, url=full_url, source="Business Wire"))
         seen.add(full_url)
+        if len(items) >= limit:
+            break
+
+    return items
+
+
+def parse_rss_feed(url: str, limit: int = 8, source_name: str = "RSS") -> List[NewsItem]:
+    """RSS/Atom 피드를 파싱해서 최근 항목을 가져옵니다.
+
+    IR 사이트가 HTML 페이지를 막거나(403) JS로 렌더링하는 경우가 많아,
+    가능하면 RSS/Atom이 가장 안정적입니다.
+    """
+
+    # RSS는 XML 응답이라 Accept를 조금 넓게 주는 편이 안전
+    resp = http_get(url)
+    if resp.status_code != 200:
+        raise RuntimeError(f"RSS fetch failed: {resp.status_code}")
+
+    feed = feedparser.parse(resp.content)
+    items: List[NewsItem] = []
+    seen = set()
+
+    for entry in feed.entries:
+        title = (entry.get("title") or "").strip()
+        link = (entry.get("link") or "").strip()
+        published = (entry.get("published") or entry.get("updated") or "").strip()
+        if not title or not link:
+            continue
+        if link in seen:
+            continue
+
+        items.append(NewsItem(title=title, url=link, date_text=published or None, source=source_name))
+        seen.add(link)
         if len(items) >= limit:
             break
 
@@ -279,6 +394,8 @@ def fetch_press_items(company: dict, limit: int) -> Tuple[List[NewsItem], List[s
                 items = parse_globenewswire_page(url, limit=limit)
             elif stype == "businesswire_search":
                 items = parse_businesswire_search(url, limit=limit)
+            elif stype in ["rss", "atom"]:
+                items = parse_rss_feed(url, limit=limit, source_name="RSS")
             else:
                 items = parse_generic_html_news(url, limit=limit)
 
