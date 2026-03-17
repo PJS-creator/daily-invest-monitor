@@ -1,0 +1,1969 @@
+{
+  "meta": {
+    "generated_at_local": "2026-03-17 16:20:49 KST",
+    "generated_at_utc": "2026-03-17T07:21:44.107169+00:00",
+    "timezone": "Asia/Seoul",
+    "repository": "PJS-creator/daily-invest-monitor",
+    "ref_name": "main"
+  },
+  "summary": {
+    "total_new_press": 96,
+    "total_new_sec": 96,
+    "alert_tickers": [
+      "GPCR"
+    ],
+    "overall_judgement": "행동 고려"
+  },
+  "dashboard": [
+    {
+      "ticker": "EQ",
+      "close": 2.319999933242798,
+      "pct": -6.072878284614058,
+      "pt": 5.5,
+      "pt_upside": 137.06897233881952,
+      "mktcap": "$141.3M",
+      "ev": "$108.2M",
+      "net_cash": "$33.1M (2025-09-30)",
+      "runway": "15.2m",
+      "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "GPCR",
+      "close": 56.650001525878906,
+      "pct": 5.395351676053783,
+      "pt": 108.93333,
+      "pt_upside": 92.29183948077562,
+      "mktcap": "$4.01B",
+      "ev": "$2.50B",
+      "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
+      "runway": "-",
+      "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "VOL 3.1x"
+    },
+    {
+      "ticker": "IKT",
+      "close": 1.9800000190734863,
+      "pct": -0.9999990463256836,
+      "pt": 5.71429,
+      "pt_upside": 188.6005022703951,
+      "mktcap": "$240.1M",
+      "ev": "$80.0M",
+      "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
+      "runway": "71.0m",
+      "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "IMMX",
+      "close": 10.770000457763672,
+      "pct": 7.70000457763671,
+      "pt": 14.05,
+      "pt_upside": 30.454961957516957,
+      "mktcap": "$570.3M",
+      "ev": "$461.8M",
+      "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
+      "runway": "76.0m",
+      "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "MGTX",
+      "close": 7.690000057220459,
+      "pct": 4.059542573138519,
+      "pt": 26.75,
+      "pt_upside": 247.8543537185454,
+      "mktcap": "$619.0M",
+      "ev": "$448.1M",
+      "net_cash": "$170.9M (2025 Q3 (pro forma))",
+      "runway": "21.4m",
+      "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "PRAX",
+      "close": 305.0,
+      "pct": 3.7591384024798558,
+      "pt": 600.7059,
+      "pt_upside": 96.95275409836066,
+      "mktcap": "$8.49B",
+      "ev": "$6.94B",
+      "net_cash": "$1.55B ((pro forma))",
+      "runway": "31.0m",
+      "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "QTTB",
+      "close": 6.300000190734863,
+      "pct": -7.624632959500932,
+      "pt": 14.33333,
+      "pt_upside": 127.51316771512813,
+      "mktcap": "$81.0M",
+      "ev": "$40.8M",
+      "net_cash": "$40.2M ((pro forma est.))",
+      "runway": "13.2m",
+      "next": "2026-05-28: ADX-097 asset sale cash receipt ($3.0M) (D-72)",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "QURE",
+      "close": 15.9399995803833,
+      "pct": 2.640050576057984,
+      "pt": 38.062637,
+      "pt_upside": 138.78693853193144,
+      "mktcap": "$996.7M",
+      "ev": "$819.7M",
+      "net_cash": "$177.0M (2025-09-30)",
+      "runway": "15.9m",
+      "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "AVBP",
+      "close": 24.309999465942383,
+      "pct": 1.7154805604859824,
+      "pt": 40.4375,
+      "pt_upside": 66.34101558353296,
+      "mktcap": "$1.07B",
+      "ev": "$769.1M",
+      "net_cash": "$305.4M (2025-09-30)",
+      "runway": "21.2m",
+      "next": "early-2026: FURVENT Phase 3 topline",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "CGEM",
+      "close": 14.029999732971191,
+      "pct": 4.002964944515108,
+      "pt": 31.35455,
+      "pt_upside": 123.48218529409705,
+      "mktcap": "$828.8M",
+      "ev": "$389.8M",
+      "net_cash": "$439.0M ((net cash as of latest filings))",
+      "runway": "-",
+      "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "CMPS",
+      "close": 6.309999942779541,
+      "pct": -1.2519550137338853,
+      "pt": 21.91667,
+      "pt_upside": 247.33233278518472,
+      "mktcap": "$716.3M",
+      "ev": "$457.3M",
+      "net_cash": "$259.0M ((pro forma))",
+      "runway": "19.5m",
+      "next": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    },
+    {
+      "ticker": "CRNX",
+      "close": 37.279998779296875,
+      "pct": -0.5601570812693302,
+      "pt": 83.5,
+      "pt_upside": 123.98069402934371,
+      "mktcap": "$3.90B",
+      "ev": "$2.55B",
+      "net_cash": "$1.35B (2025-09-30)",
+      "runway": "43.0m",
+      "next": "2026: PALSONIFY quarterly sales / net product revenue updates",
+      "new_pr": 8,
+      "new_sec": 8,
+      "alert": "-"
+    }
+  ],
+  "companies": [
+    {
+      "ticker": "EQ",
+      "name": "Equillium",
+      "close": 2.319999933242798,
+      "pct": -6.072878284614058,
+      "volume": 989913.0,
+      "volume_x": 1.412210560554206,
+      "last_price_date": "2026-03-16",
+      "market_cap": 141272416,
+      "enterprise_value": 108172416.0,
+      "net_cash_m": 33.1,
+      "runway_months": 15.2,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Equillium Announces $35 Million Financing with RA Capital Management",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255428/0/en/Equillium-Announces-35-Million-Financing-with-RA-Capital-Management.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium to Participate in the Leerink Partners 2026 Global Healthcare Conference",
+          "url": "https://www.globenewswire.com/news-release/2026/02/25/3244592/0/en/Equillium-to-Participate-in-the-Leerink-Partners-2026-Global-Healthcare-Conference.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/02/02/3230599/0/en/Equillium-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Celiac Disease Clinical Trial Pipeline Gains Momentum: 20+ Companies Lead the Charge in Pioneering New Treatments | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2025/12/10/3203440/0/en/Celiac-Disease-Clinical-Trial-Pipeline-Gains-Momentum-20-Companies-Lead-the-Charge-in-Pioneering-New-Treatments-DelveInsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium to Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2025/11/20/3192430/0/en/Equillium-to-Participate-in-Upcoming-Investor-Conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Reports Third Quarter 2025 Financial Results and Provides Operational Update",
+          "url": "https://www.globenewswire.com/news-release/2025/11/13/3187833/0/en/Equillium-Reports-Third-Quarter-2025-Financial-Results-and-Provides-Operational-Update.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium to Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2025/11/04/3180352/0/en/Equillium-to-Participate-in-Upcoming-Investor-Conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2025/11/03/3179807/0/en/Equillium-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000179781826000008/0001797818-26-000008-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000197005126000005/0001970051-26-000005-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526105083/0001193125-26-105083-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4/A [Amend]  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000179781826000006/0001797818-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000179781826000004/0001797818-26-000004-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000197005126000004/0001970051-26-000004-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000179781826000003/0001797818-26-000003-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000197005126000003/0001970051-26-000003-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
+      "checklist": [],
+      "price_target": {
+        "mean": 5.5,
+        "low": 1.0,
+        "high": 12.0,
+        "median": 4.5,
+        "analyst_count": 4,
+        "recommendation_key": "buy",
+        "recommendation_mean": 1.8,
+        "upside_pct": 137.06897233881952
+      },
+      "anchors": {
+        "as_of": "2025-09-30",
+        "net_cash_m": 33.1,
+        "burn_m_per_month": 2.2,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 15.2,
+        "buyout_per_share": {
+          "bear": 0.52,
+          "base": 1.56,
+          "bull": 4.99
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "GPCR",
+      "name": "Structure Therapeutics",
+      "close": 56.650001525878906,
+      "pct": 5.395351676053783,
+      "volume": 3182679.0,
+      "volume_x": 3.146093083531611,
+      "last_price_date": "2026-03-16",
+      "market_cap": 4013188608,
+      "enterprise_value": 2503188608.0,
+      "net_cash_m": 1510.0,
+      "runway_months": null,
+      "alerts": [
+        "VOL 3.1x"
+      ],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Structure Therapeutics Reports Positive Topline Data from Phase 2 ACCESS II Trial with Once-Daily Oral Small Molecule GLP-1 Receptor Agonist, Aleniglipron",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256111/0/en/Structure-Therapeutics-Reports-Positive-Topline-Data-from-Phase-2-ACCESS-II-Trial-with-Once-Daily-Oral-Small-Molecule-GLP-1-Receptor-Agonist-Aleniglipron.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "NKTR SHAREHOLDER NOTICE: Faruqi & Faruqi, LLP Reminds Nektar Therapeutics (NKTR) Investors of Securities Class Action Deadline on May 5, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/03/06/3251348/683/en/NKTR-SHAREHOLDER-NOTICE-Faruqi-Faruqi-LLP-Reminds-Nektar-Therapeutics-NKTR-Investors-of-Securities-Class-Action-Deadline-on-May-5-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Structure Therapeutics Reports Fourth Quarter and Full Year 2025 Financial Results and Recent Highlights",
+          "url": "https://www.globenewswire.com/news-release/2026/02/26/3246065/0/en/Structure-Therapeutics-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Recent-Highlights.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "PatentVest Releases New Report on The Oral Small-Molecule GLP-1 Patent Race",
+          "url": "https://www.globenewswire.com/news-release/2026/02/26/3245967/0/en/PatentVest-Releases-New-Report-on-The-Oral-Small-Molecule-GLP-1-Patent-Race.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Human Continuum Appoints Dr. Michael Milligan, MD, MBA, as its Chief Medical Officer to Oversee Innovative Applications for Next-Generation Extracellular Vesicle Therapeutics",
+          "url": "https://www.globenewswire.com/news-release/2026/02/24/3243652/0/en/Human-Continuum-Appoints-Dr-Michael-Milligan-MD-MBA-as-its-Chief-Medical-Officer-to-Oversee-Innovative-Applications-for-Next-Generation-Extracellular-Vesicle-Therapeutics.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Global Amyotrophic Lateral Sclerosis Therapeutics Market Size/Share Worth USD 1964 Million by 2035 at 11.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+          "url": "https://www.globenewswire.com/news-release/2026/02/19/3240807/0/en/Global-Amyotrophic-Lateral-Sclerosis-Therapeutics-Market-Size-Share-Worth-USD-1964-Million-by-2035-at-11-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Foreca.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Global Oligonucleotide Therapeutics Market Set to Surge to USD 17.70 Billion by 2030 | MarketsandMarkets™",
+          "url": "https://www.globenewswire.com/news-release/2026/02/16/3238761/0/en/Global-Oligonucleotide-Therapeutics-Market-Set-to-Surge-to-USD-17-70-Billion-by-2030-MarketsandMarkets.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Alps Group Inc Announces Potential Pipeline Expansion Beyond CELESOME(+) Following Publication of Nebulized Human Umbilical Cord Mesenchymal Stem Cell Exosome Therapy",
+          "url": "https://www.globenewswire.com/news-release/2026/01/30/3229496/0/en/Alps-Group-Inc-Announces-Potential-Pipeline-Expansion-Beyond-CELESOME-Following-Publication-of-Nebulized-Human-Umbilical-Cord-Mesenchymal-Stem-Cell-Exosome-Therapy.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926028023/0001104659-26-028023-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000203714426000002/0002037144-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196366426000002/0001963664-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000002/0001962926-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241426000002/0001962414-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000180184226000002/0001801842-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000169814926000002/0001698149-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "S-8  - Securities to be offered to employees in employee benefit plans",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926020645/0001104659-26-020645-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
+      "checklist": [],
+      "price_target": {
+        "mean": 108.93333,
+        "low": 90.0,
+        "high": 140.0,
+        "median": 105.0,
+        "analyst_count": 15,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.26667,
+        "upside_pct": 92.29183948077562
+      },
+      "anchors": {
+        "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
+        "net_cash_m": 1510.0,
+        "burn_m_per_month": null,
+        "burn_m_per_quarter": 53.0,
+        "burn_m_per_year": null,
+        "runway_months": null,
+        "buyout_per_share": {
+          "bear": 42.88,
+          "base": 106.51,
+          "bull": 336.75
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "IKT",
+      "name": "Inhibikase Therapeutics",
+      "close": 1.9800000190734863,
+      "pct": -0.9999990463256836,
+      "volume": 1225001.0,
+      "volume_x": 0.7478341824042392,
+      "last_price_date": "2026-03-16",
+      "market_cap": 240108752,
+      "enterprise_value": 80008752.0,
+      "net_cash_m": 160.1,
+      "runway_months": 71.0,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Inhibikase Therapeutics Announces Pricing of $100 Million Public Offering  of Common Stock and Pre-Funded Warrants",
+          "url": "https://www.globenewswire.com/news-release/2025/11/21/3192499/0/en/Inhibikase-Therapeutics-Announces-Pricing-of-100-Million-Public-Offering-of-Common-Stock-and-Pre-Funded-Warrants.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Announces Proposed Public Offering of Common Stock and Pre-Funded Warrants",
+          "url": "https://www.globenewswire.com/news-release/2025/11/20/3192391/0/en/Inhibikase-Therapeutics-Announces-Proposed-Public-Offering-of-Common-Stock-and-Pre-Funded-Warrants.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Advancing IKT-001 to Global Phase 3 Study in Pulmonary Arterial Hypertension",
+          "url": "https://www.globenewswire.com/news-release/2025/11/20/3192370/0/en/Inhibikase-Therapeutics-Advancing-IKT-001-to-Global-Phase-3-Study-in-Pulmonary-Arterial-Hypertension.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Announces Third Quarter 2025 Financial Results and Highlights Recent Activity",
+          "url": "https://www.globenewswire.com/news-release/2025/11/14/3188594/0/en/Inhibikase-Therapeutics-Announces-Third-Quarter-2025-Financial-Results-and-Highlights-Recent-Activity.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Strengthens Leadership Team with Appointment of Timothy Pigot as Chief Commercial and Strategy Officer",
+          "url": "https://www.globenewswire.com/news-release/2025/08/19/3135653/0/en/Inhibikase-Therapeutics-Strengthens-Leadership-Team-with-Appointment-of-Timothy-Pigot-as-Chief-Commercial-and-Strategy-Officer.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Announces Second Quarter 2025 Financial Results and Highlights Recent Activity",
+          "url": "https://www.globenewswire.com/news-release/2025/08/14/3133944/0/en/Inhibikase-Therapeutics-Announces-Second-Quarter-2025-Financial-Results-and-Highlights-Recent-Activity.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cannabinoid Agonist Clinical Trial Pipeline Appears Robust With 20+ Key Pharma Companies Actively Working in the Therapeutics Segment | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2025/07/10/3113584/0/en/Cannabinoid-Agonist-Clinical-Trial-Pipeline-Appears-Robust-With-20-Key-Pharma-Companies-Actively-Working-in-the-Therapeutics-Segment-DelveInsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "ABLi Therapeutics Strengthens Leadership Team and Board of Directors",
+          "url": "https://www.globenewswire.com/news-release/2025/05/28/3089398/0/en/ABLi-Therapeutics-Strengthens-Leadership-Team-and-Board-of-Directors.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526068079/0001193125-26-068079-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526068077/0001193125-26-068077-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526068063/0001193125-26-068063-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000110465926016623/0001104659-26-016623-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000110465926016478/0001104659-26-016478-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526054524/0001193125-26-054524-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000110465926015334/0001104659-26-015334-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000187562026000002/0001875620-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
+      "checklist": [],
+      "price_target": {
+        "mean": 5.71429,
+        "low": 3.0,
+        "high": 8.0,
+        "median": 5.0,
+        "analyst_count": 7,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.14286,
+        "upside_pct": 188.6005022703951
+      },
+      "anchors": {
+        "as_of": "2025-09-30 + Nov-2025 offering (pro forma est.)",
+        "net_cash_m": 160.1,
+        "burn_m_per_month": 2.3,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 71.0,
+        "buyout_per_share": {
+          "bear": 1.7,
+          "base": 4.32,
+          "bull": 12.67
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "IMMX",
+      "name": "Immix Biopharma",
+      "close": 10.770000457763672,
+      "pct": 7.70000457763671,
+      "volume": 859705.0,
+      "volume_x": 1.0051067590902767,
+      "last_price_date": "2026-03-16",
+      "market_cap": 570326784,
+      "enterprise_value": 461826784.0,
+      "net_cash_m": 108.5,
+      "runway_months": 76.0,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Exousia Pro, Inc. Announces Favorable Litigation Settlement, Highlighting Significant Debt Elimination and Share Cancellation to Enhance Shareholder Value",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256422/0/en/Exousia-Pro-Inc-Announces-Favorable-Litigation-Settlement-Highlighting-Significant-Debt-Elimination-and-Share-Cancellation-to-Enhance-Shareholder-Value.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "InnoCare Announces First Healthy Volunteer Dosed in Clinical Trial of Novel VAV1 Degrader ICP-538 in China",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3255965/0/en/InnoCare-Announces-First-Healthy-Volunteer-Dosed-in-Clinical-Trial-of-Novel-VAV1-Degrader-ICP-538-in-China.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cadrenal Therapeutics Highlights Research Supporting 12-LOX Inhibition in Reducing Inflammation in Obesity and Type 2 Diabetes",
+          "url": "https://www.globenewswire.com/news-release/2026/03/12/3254535/0/en/Cadrenal-Therapeutics-Highlights-Research-Supporting-12-LOX-Inhibition-in-Reducing-Inflammation-in-Obesity-and-Type-2-Diabetes.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Corporate Update: Psyence BioMed Advances Vertically Integrated Pharmaceutical Platform Following PsyLabs Export Milestone",
+          "url": "https://www.globenewswire.com/news-release/2026/03/11/3253856/0/en/Corporate-Update-Psyence-BioMed-Advances-Vertically-Integrated-Pharmaceutical-Platform-Following-PsyLabs-Export-Milestone.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "UroGen Pharma Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/03/06/3251317/0/en/UroGen-Pharma-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Exousia Pro, Inc. Announces Strategic Elimination of Future Dilutive Issuance of 47 Million Shares, Progresses Toward Definitive Agreements for Telehealth Acquisitions",
+          "url": "https://www.globenewswire.com/news-release/2026/03/05/3250550/0/en/Exousia-Pro-Inc-Announces-Strategic-Elimination-of-Future-Dilutive-Issuance-of-47-Million-Shares-Progresses-Toward-Definitive-Agreements-for-Telehealth-Acquisitions.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Immix Biopharma to Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2026/03/03/3248394/0/en/Immix-Biopharma-to-Participate-in-Upcoming-Investor-Conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cadrenal Therapeutics Highlights Recent 12-LOX Inhibitor Platform Expansion",
+          "url": "https://www.globenewswire.com/news-release/2026/03/02/3247318/0/en/Cadrenal-Therapeutics-Highlights-Recent-12-LOX-Inhibitor-Platform-Expansion.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000110465926016248/0001104659-26-016248-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000127417326000078/0001274173-26-000078-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "EFFECT  - Notice of Effectiveness",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/999999999526000261/9999999995-26-000261-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "CORRESP [Cover] - Correspondence",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226002680/0001493152-26-002680-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "UPLOAD [Cover] - SEC-generated letter",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000000000026000603/0000000000-26-000603-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "S-3  - Registration statement under Securities Act of 1933",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226001159/0001493152-26-001159-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315225027329/0001493152-25-027329-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315225027109/0001493152-25-027109-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
+      "checklist": [],
+      "price_target": {
+        "mean": 14.05,
+        "low": 7.2,
+        "high": 23.0,
+        "median": 13.0,
+        "analyst_count": 4,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.33333,
+        "upside_pct": 30.454961957516957
+      },
+      "anchors": {
+        "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
+        "net_cash_m": 108.5,
+        "burn_m_per_month": 1.4,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 76.0,
+        "buyout_per_share": {
+          "bear": 8.82,
+          "base": 32.69,
+          "bull": 67.43
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "MGTX",
+      "name": "MeiraGTx",
+      "close": 7.690000057220459,
+      "pct": 4.059542573138519,
+      "volume": 354744.0,
+      "volume_x": 0.9001689986449658,
+      "last_price_date": "2026-03-16",
+      "market_cap": 618974912,
+      "enterprise_value": 448074912.0,
+      "net_cash_m": 170.9,
+      "runway_months": 21.4,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "AAV for the Hereditary Retinal Diseases Competitive Landscape Report 2026: Comprehensive Insights About 75+ Companies and 80+ Drugs",
+          "url": "https://www.globenewswire.com/news-release/2026/02/18/3240412/28124/en/AAV-for-the-Hereditary-Retinal-Diseases-Competitive-Landscape-Report-2026-Comprehensive-Insights-About-75-Companies-and-80-Drugs.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Why Late-Stage CNS, Oncology Assets Are Becoming the Hottest Targets in Biotech M&A",
+          "url": "https://www.globenewswire.com/news-release/2026/02/17/3239303/0/en/Why-Late-Stage-CNS-Oncology-Assets-Are-Becoming-the-Hottest-Targets-in-Biotech-M-A.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Gene Therapy for Ocular Rare Disease Market to Exhibit Phenomenal Growth During the Forecast Period (2025–2034) Due to Expanding Pipeline and Clinical Trial Activities | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2025/11/19/3191320/0/en/Gene-Therapy-for-Ocular-Rare-Disease-Market-to-Exhibit-Phenomenal-Growth-During-the-Forecast-Period-2025-2034-Due-to-Expanding-Pipeline-and-Clinical-Trial-Activities-DelveInsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Reports Third Quarter 2025 Financial and Operational Results",
+          "url": "https://www.globenewswire.com/news-release/2025/11/13/3187246/0/en/MeiraGTx-Reports-Third-Quarter-2025-Financial-and-Operational-Results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Enters into Strategic Collaboration with Eli Lilly and Company to Develop and Commercialize Genetic Medicines in Ophthalmology",
+          "url": "https://www.globenewswire.com/news-release/2025/11/10/3184353/0/en/MeiraGTx-Enters-into-Strategic-Collaboration-with-Eli-Lilly-and-Company-to-Develop-and-Commercialize-Genetic-Medicines-in-Ophthalmology.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "AAV Gene Therapy Market Size to Skyrocket at 40.1% CAGR by 2034",
+          "url": "https://www.globenewswire.com/news-release/2025/10/07/3162748/0/en/AAV-Gene-Therapy-Market-Size-to-Skyrocket-at-40-1-CAGR-by-2034.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Announces Two Posters at the European Society of Gene and Cell Therapy (ESGCT) 2025 Annual Congress",
+          "url": "https://www.globenewswire.com/news-release/2025/10/07/3162454/0/en/MeiraGTx-Announces-Two-Posters-at-the-European-Society-of-Gene-and-Cell-Therapy-ESGCT-2025-Annual-Congress.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Xerostomia Drugs Market to Reach USD 2.87 Billion by 2032 Amid Increasing Polypharmacy and Aging Population – S&S Insider",
+          "url": "https://www.globenewswire.com/news-release/2025/10/03/3161007/0/en/Xerostomia-Drugs-Market-to-Reach-USD-2-87-Billion-by-2032-Amid-Increasing-Polypharmacy-and-Aging-Population-S-S-Insider.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174534726000006/0001745347-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000181516126000006/0001815161-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174277126000006/0001742771-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174273426000006/0001742734-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000167860426000006/0001678604-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926015266/0001104659-26-015266-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926015220/0001104659-26-015220-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174534726000004/0001745347-26-000004-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
+      "checklist": [],
+      "price_target": {
+        "mean": 26.75,
+        "low": 14.0,
+        "high": 50.0,
+        "median": 24.5,
+        "analyst_count": 8,
+        "recommendation_key": "none",
+        "recommendation_mean": null,
+        "upside_pct": 247.8543537185454
+      },
+      "anchors": {
+        "as_of": "2025 Q3 (pro forma)",
+        "net_cash_m": 170.9,
+        "burn_m_per_month": null,
+        "burn_m_per_quarter": 34.5,
+        "burn_m_per_year": null,
+        "runway_months": 21.4,
+        "buyout_per_share": {
+          "bear": 6.4,
+          "base": 23.31,
+          "bull": 76.34
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "PRAX",
+      "name": "Praxis Precision Medicines",
+      "close": 305.0,
+      "pct": 3.7591384024798558,
+      "volume": 225572.0,
+      "volume_x": 0.43864012460792645,
+      "last_price_date": "2026-03-16",
+      "market_cap": 8494503936,
+      "enterprise_value": 6944503936.0,
+      "net_cash_m": 1550.0,
+      "runway_months": 31.0,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "[Latest] Global Silicon Nitride Balls Market Size/Share Worth USD 766 Million by 2034 at a 4.8% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+          "url": "https://www.globenewswire.com/news-release/2026/03/12/3255065/0/en/Latest-Global-Silicon-Nitride-Balls-Market-Size-Share-Worth-USD-766-Million-by-2034-at-a-4-8-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentatio.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines, Inc. Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/03/04/3249717/0/en/Praxis-Precision-Medicines-Inc-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Dyadic Applied BioSolutions and Inzymes ApS Announce Planned 2026 Commercialization of Non-Animal Dairy Enzyme Following Achievement of Development Milestone",
+          "url": "https://www.globenewswire.com/news-release/2026/03/02/3247251/0/en/Dyadic-Applied-BioSolutions-and-Inzymes-ApS-Announce-Planned-2026-Commercialization-of-Non-Animal-Dairy-Enzyme-Following-Achievement-of-Development-Milestone.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Alpha Controls Launches New Website, Marking Continued Growth of Canadian Instrumentation Leader",
+          "url": "https://www.globenewswire.com/news-release/2026/02/26/3245982/0/en/Alpha-Controls-Launches-New-Website-Marking-Continued-Growth-of-Canadian-Instrumentation-Leader.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Central Nervous System Therapeutics Market Growth Accelerates to USD 285.72 Billion by 2035 with Strong Investment in Neuropharma Innovations",
+          "url": "https://www.globenewswire.com/news-release/2026/02/20/3241846/0/en/Central-Nervous-System-Therapeutics-Market-Growth-Accelerates-to-USD-285-72-Billion-by-2035-with-Strong-Investment-in-Neuropharma-Innovations.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines Provides Corporate Update and Reports Fourth Quarter and Full-Year 2025 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/02/19/3240986/0/en/Praxis-Precision-Medicines-Provides-Corporate-Update-and-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines to Report Fourth Quarter and Full Year 2025 Financial Results on Thursday, February 19, 2026, and Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2026/02/09/3234882/0/en/Praxis-Precision-Medicines-to-Report-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-Thursday-February-19-2026-and-Participate-in-Upcoming-Investor-Conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines, Inc. Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/02/04/3232451/0/en/Praxis-Precision-Medicines-Inc-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "S-8  - Securities to be offered to employees in employee benefit plans",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000110465926017306/0001104659-26-017306-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000029/0001689548-26-000029-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000028/0001689548-26-000028-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000090266426001140/0000902664-26-001140-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000119312526054527/0001193125-26-054527-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000094059426000016/0000940594-26-000016-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000090266426000917/0000902664-26-000917-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000018/0001689548-26-000018-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
+      "checklist": [
+        "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
+      ],
+      "price_target": {
+        "mean": 600.7059,
+        "low": 130.0,
+        "high": 1245.0,
+        "median": 525.0,
+        "analyst_count": 17,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.47059,
+        "upside_pct": 96.95275409836066
+      },
+      "anchors": {
+        "as_of": "(pro forma)",
+        "net_cash_m": 1550.0,
+        "burn_m_per_month": null,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": 600.0,
+        "runway_months": 31.0,
+        "buyout_per_share": {
+          "bear": 162,
+          "base": 471,
+          "bull": 1485
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "QTTB",
+      "name": "Q32 Bio",
+      "close": 6.300000190734863,
+      "pct": -7.624632959500932,
+      "volume": 336448.0,
+      "volume_x": 1.793700552321242,
+      "last_price_date": "2026-03-16",
+      "market_cap": 81005696,
+      "enterprise_value": 40805696.0,
+      "net_cash_m": 40.2,
+      "runway_months": 13.2,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Jupiter Neurosciences to Present at BIO Investment and Growth Summit 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/03/02/3247339/0/en/Jupiter-Neurosciences-to-Present-at-BIO-Investment-and-Growth-Summit-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Akebia Therapeutics Reports Fourth Quarter and Full Year 2025 Financial Results and Commercial and Pipeline Highlights",
+          "url": "https://www.globenewswire.com/news-release/2026/02/26/3245436/37519/en/Akebia-Therapeutics-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Commercial-and-Pipeline-Highlights.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Systemic Lupus Erythematosus Market to Exhibit Growth at a CAGR of 9.4% During the Forecast Period (2025–2034) Owing to Rising Use of Biologics – Approvals of BENLYSTA and SAPHNELO, Plus a Strong Pipeline | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/01/13/3218157/0/en/Systemic-Lupus-Erythematosus-Market-to-Exhibit-Growth-at-a-CAGR-of-9-4-During-the-Forecast-Period-2025-2034-Owing-to-Rising-Use-of-Biologics-Approvals-of-BENLYSTA-and-SAPHNELO-Plus.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MLTX INVESTOR NOTICE: MoonLake Immunotherapeutics Stock Dropped 90% after Drug Trial Results; Contact BFA Law about the Pending Securities Class Action",
+          "url": "https://www.globenewswire.com/news-release/2025/12/11/3203881/0/en/MLTX-INVESTOR-NOTICE-MoonLake-Immunotherapeutics-Stock-Dropped-90-after-Drug-Trial-Results-Contact-BFA-Law-about-the-Pending-Securities-Class-Action.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Eczema Clinical Trial Pipeline Accelerates as 100+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2025/12/08/3201854/0/en/Eczema-Clinical-Trial-Pipeline-Accelerates-as-100-Pharma-Companies-Rigorously-Develop-Drugs-for-Market-Entry-DelveInsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Akebia Announces Establishment of Rare Kidney Disease Pipeline",
+          "url": "https://www.globenewswire.com/news-release/2025/12/01/3196841/37519/en/Akebia-Announces-Establishment-of-Rare-Kidney-Disease-Pipeline.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MLTX STOCK: Lose Money on Your MoonLake Immunotherapeutics Investment? Contact BFA Law about the Pending Securities Class Action before December 15 Deadline",
+          "url": "https://www.globenewswire.com/news-release/2025/11/29/3196512/0/en/MLTX-STOCK-Lose-Money-on-Your-MoonLake-Immunotherapeutics-Investment-Contact-BFA-Law-about-the-Pending-Securities-Class-Action-before-December-15-Deadline.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MLTX INVESTMENT: MoonLake Immunotherapeutics Investors with Losses may have Rights in Securities Class Action – Contact BFA Law by December 15 Deadline",
+          "url": "https://www.globenewswire.com/news-release/2025/11/27/3195624/0/en/MLTX-INVESTMENT-MoonLake-Immunotherapeutics-Investors-with-Losses-may-have-Rights-in-Securities-Class-Action-Contact-BFA-Law-by-December-15-Deadline.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "SCHEDULE 13D/A [Amend]  - General Statement of Acquisition of Beneficial Ownership",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000094787126000245/0000947871-26-000245-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "S-8  - Securities to be offered to employees in employee benefit plans",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526099356/0001193125-26-099356-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526099339/0001193125-26-099339-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526099328/0001193125-26-099328-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526083588/0001193125-26-083588-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526083585/0001193125-26-083585-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526083584/0001193125-26-083584-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000149315226007650/0001493152-26-007650-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026-05-28: ADX-097 asset sale cash receipt ($3.0M) (D-72)",
+      "checklist": [
+        "SIGNAL-AA Phase 2 업데이트"
+      ],
+      "price_target": {
+        "mean": 14.33333,
+        "low": 10.0,
+        "high": 20.0,
+        "median": 13.0,
+        "analyst_count": 3,
+        "recommendation_key": "buy",
+        "recommendation_mean": 1.66667,
+        "upside_pct": 127.51316771512813
+      },
+      "anchors": {
+        "as_of": "(pro forma est.)",
+        "net_cash_m": 40.2,
+        "burn_m_per_month": 3.0,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 13.2,
+        "buyout_per_share": {
+          "bear": 4.26,
+          "base": 11.96,
+          "bull": 42.84
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "QURE",
+      "name": "uniQure",
+      "close": 15.9399995803833,
+      "pct": 2.640050576057984,
+      "volume": 1561197.0,
+      "volume_x": 0.4564270916837842,
+      "last_price_date": "2026-03-16",
+      "market_cap": 996718720,
+      "enterprise_value": 819718720.0,
+      "net_cash_m": 177.0,
+      "runway_months": 15.9,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Class Action Filed Against uniQure N.V. (QURE) Seeking Recovery for Investors – Contact Levi & Korsinsky",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256670/3080/en/Class-Action-Filed-Against-uniQure-N-V-QURE-Seeking-Recovery-for-Investors-Contact-Levi-Korsinsky.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Bronstein, Gewirtz & Grossman LLC Urges uniQure N.V. Investors to Act: Class Action Filed Alleging Investor Harm",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256525/9788/en/Bronstein-Gewirtz-Grossman-LLC-Urges-uniQure-N-V-Investors-to-Act-Class-Action-Filed-Alleging-Investor-Harm.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "QURE Investors Have Opportunity to Lead uniQure N.V. Securities Fraud Lawsuit with the Schall Law Firm",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256483/0/en/QURE-Investors-Have-Opportunity-to-Lead-uniQure-N-V-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Portnoy Law Firm Announces Class Action on Behalf of uniQure N.V. Investors",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256482/0/en/Portnoy-Law-Firm-Announces-Class-Action-on-Behalf-of-uniQure-N-V-Investors.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Kessler Topaz Meltzer & Check, LLP Filed a Securities Fraud Class Action Lawsuit Against uniQure N.V. (QURE); April 13, 2026, Lead Plaintiff Deadline",
+          "url": "https://www.globenewswire.com/news-release/2026/03/15/3255940/0/en/Kessler-Topaz-Meltzer-Check-LLP-Filed-a-Securities-Fraud-Class-Action-Lawsuit-Against-uniQure-N-V-QURE-April-13-2026-Lead-Plaintiff-Deadline.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "QURE ALERT: FDA Reportedly Accuses uniQure of Pushing “Distorted” and “Manipulated” Data For “Failed” AMT-130 Drug Amid Pending Securities Class Action – Hagens Berman",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255667/32716/en/QURE-ALERT-FDA-Reportedly-Accuses-uniQure-of-Pushing-Distorted-and-Manipulated-Data-For-Failed-AMT-130-Drug-Amid-Pending-Securities-Class-Action-Hagens-Berman.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "QURE Investors Have Opportunity to Lead uniQure N.V. Securities Fraud Lawsuit with the Schall Law Firm",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255588/0/en/QURE-Investors-Have-Opportunity-to-Lead-uniQure-N-V-Securities-Fraud-Lawsuit-with-the-Schall-Law-Firm.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "QURE DEADLINE ALERT: Faruqi & Faruqi, LLP Reminds uniQure (QURE) Investors of Securities Class Action Deadline on April 13, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255548/683/en/QURE-DEADLINE-ALERT-Faruqi-Faruqi-LLP-Reminds-uniQure-QURE-Investors-of-Securities-Class-Action-Deadline-on-April-13-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000170/0000904454-26-000170-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "3  - Initial statement of beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000168/0000904454-26-000168-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000163/0000904454-26-000163-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000161/0000904454-26-000161-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000159/0000904454-26-000159-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000157/0000904454-26-000157-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000197337926000081/0001973379-26-000081-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000197337926000080/0001973379-26-000080-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
+      "checklist": [
+        "AMT-130 / AMT-191 / AMT-260 업데이트"
+      ],
+      "price_target": {
+        "mean": 38.062637,
+        "low": 8.854419,
+        "high": 94.15949,
+        "median": 34.534073,
+        "analyst_count": 11,
+        "recommendation_key": "buy",
+        "recommendation_mean": 1.69231,
+        "upside_pct": 138.78693853193144
+      },
+      "anchors": {
+        "as_of": "2025-09-30",
+        "net_cash_m": 177.0,
+        "burn_m_per_month": 11.2,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 15.9,
+        "buyout_per_share": {
+          "bear": 8.2,
+          "base": 36.2,
+          "bull": 122.0
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "AVBP",
+      "name": "ArriVent BioPharma",
+      "close": 24.309999465942383,
+      "pct": 1.7154805604859824,
+      "volume": 249275.0,
+      "volume_x": 0.4932251413737292,
+      "last_price_date": "2026-03-16",
+      "market_cap": 1074541440,
+      "enterprise_value": 769141440.0,
+      "net_cash_m": 305.4,
+      "runway_months": 21.2,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Top Aces remporte un contrat de formation de pilotes-instructeurs sur F-16 au profit de l’Armée de l'air argentine",
+          "url": "https://www.globenewswire.com/news-release/2026/03/16/3256331/0/fr/Top-Aces-remporte-un-contrat-de-formation-de-pilotes-instructeurs-sur-F-16-au-profit-de-l-Arm%C3%A9e-de-l-air-argentine.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Les changements climatiques et la fumée des feux de forêt en tête des préoccupations des Canadiens face aux catastrophes, alors que les inquiétudes liées aux conditions météorologiques évoluent selon les régions",
+          "url": "https://www.globenewswire.com/news-release/2026/03/11/3253715/0/fr/Les-changements-climatiques-et-la-fum%C3%A9e-des-feux-de-for%C3%AAt-en-t%C3%AAte-des-pr%C3%A9occupations-des-Canadiens-face-aux-catastrophes-alors-que-les-inqui%C3%A9tudes-li%C3%A9es-aux-conditions-m%C3%A9t%C3%A9orologiq.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Dassault Aviation dévoile le Falcon 10X, nouveau summum de la gamme Falcon",
+          "url": "https://www.globenewswire.com/news-release/2026/03/10/3253269/0/fr/Dassault-Aviation-d%C3%A9voile-le-Falcon-10X-nouveau-summum-de-la-gamme-Falcon.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Lettre ouverte au premier ministre Carney — Respecter l’engagement de 30 % d’ici 2030 : le temps presse",
+          "url": "https://www.globenewswire.com/news-release/2026/03/10/3252984/0/fr/Lettre-ouverte-au-premier-ministre-Carney-Respecter-l-engagement-de-30-d-ici-2030-le-temps-presse.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "ArriVent BioPharma Reports Full Year 2025 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/03/05/3250640/0/en/ArriVent-BioPharma-Reports-Full-Year-2025-Financial-Results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Mohawk Industries publie ses résultats financiers du quatrième trimestre 2025",
+          "url": "https://www.globenewswire.com/news-release/2026/02/14/3238419/0/fr/Mohawk-Industries-publie-ses-r%C3%A9sultats-financiers-du-quatri%C3%A8me-trimestre-2025.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "EssilorLuxottica: Le Conseil d’administration d’EssilorLuxottica propose la nomination de huit administrateurs et administratrices",
+          "url": "https://www.globenewswire.com/news-release/2026/02/11/3236571/0/fr/EssilorLuxottica-Le-Conseil-d-administration-d-EssilorLuxottica-propose-la-nomination-de-huit-administrateurs-et-administratrices.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "ArriVent Announces First Patient Dosed in Global Pivotal Phase 3 ALPACCA Trial Evaluating Firmonertinib for First-Line Treatment of EGFR PACC Mutant Non-Small Cell Lung Cancer",
+          "url": "https://www.globenewswire.com/news-release/2025/12/22/3209157/0/en/ArriVent-Announces-First-Patient-Dosed-in-Global-Pivotal-Phase-3-ALPACCA-Trial-Evaluating-Firmonertinib-for-First-Line-Treatment-of-EGFR-PACC-Mutant-Non-Small-Cell-Lung-Cancer.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "S-8  - Securities to be offered to employees in employee benefit plans",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926024136/0001104659-26-024136-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926024127/0001104659-26-024127-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926024112/0001104659-26-024112-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926023750/0001104659-26-023750-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000205809326000004/0002058093-26-000004-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000090266426001013/0000902664-26-001013-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926010478/0001104659-26-010478-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926010477/0001104659-26-010477-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "early-2026: FURVENT Phase 3 topline",
+      "checklist": [
+        "FURVENT / ALPACCA 관련 업데이트"
+      ],
+      "price_target": {
+        "mean": 40.4375,
+        "low": 25.25,
+        "high": 50.0,
+        "median": 42.5,
+        "analyst_count": 12,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.0,
+        "upside_pct": 66.34101558353296
+      },
+      "anchors": {
+        "as_of": "2025-09-30",
+        "net_cash_m": 305.4,
+        "burn_m_per_month": 14.4,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 21.2,
+        "buyout_per_share": {
+          "bear": 20.57,
+          "base": 56.74,
+          "bull": 130.82
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "CGEM",
+      "name": "Cullinan Therapeutics",
+      "close": 14.029999732971191,
+      "pct": 4.002964944515108,
+      "volume": 647530.0,
+      "volume_x": 0.7994473883047809,
+      "last_price_date": "2026-03-16",
+      "market_cap": 828839936,
+      "enterprise_value": 389839936.0,
+      "net_cash_m": 439.0,
+      "runway_months": null,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Cullinan Therapeutics Provides Corporate Update and Reports Fourth Quarter and Full Year 2025 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/03/10/3252628/0/en/Cullinan-Therapeutics-Provides-Corporate-Update-and-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "NKTR SHAREHOLDER NOTICE: Faruqi & Faruqi, LLP Reminds Nektar Therapeutics (NKTR) Investors of Securities Class Action Deadline on May 5, 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/03/06/3251348/683/en/NKTR-SHAREHOLDER-NOTICE-Faruqi-Faruqi-LLP-Reminds-Nektar-Therapeutics-NKTR-Investors-of-Securities-Class-Action-Deadline-on-May-5-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Human Continuum Appoints Dr. Michael Milligan, MD, MBA, as its Chief Medical Officer to Oversee Innovative Applications for Next-Generation Extracellular Vesicle Therapeutics",
+          "url": "https://www.globenewswire.com/news-release/2026/02/24/3243652/0/en/Human-Continuum-Appoints-Dr-Michael-Milligan-MD-MBA-as-its-Chief-Medical-Officer-to-Oversee-Innovative-Applications-for-Next-Generation-Extracellular-Vesicle-Therapeutics.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cullinan Therapeutics to Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2026/02/24/3243377/0/en/Cullinan-Therapeutics-to-Participate-in-Upcoming-Investor-Conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Global Amyotrophic Lateral Sclerosis Therapeutics Market Size/Share Worth USD 1964 Million by 2035 at 11.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+          "url": "https://www.globenewswire.com/news-release/2026/02/19/3240807/0/en/Global-Amyotrophic-Lateral-Sclerosis-Therapeutics-Market-Size-Share-Worth-USD-1964-Million-by-2035-at-11-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Foreca.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cullinan Therapeutics to Participate in Fireside Chat at the Citi 2026 Virtual Oncology Leadership Summit",
+          "url": "https://www.globenewswire.com/news-release/2026/02/18/3240062/0/en/Cullinan-Therapeutics-to-Participate-in-Fireside-Chat-at-the-Citi-2026-Virtual-Oncology-Leadership-Summit.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "IPSC-derived NK Cells Clinical Trial Pipeline Gains Momentum: 12+ Companies Lead the Charge in Pioneering New Treatments | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/02/16/3238868/0/en/IPSC-derived-NK-Cells-Clinical-Trial-Pipeline-Gains-Momentum-12-Companies-Lead-the-Charge-in-Pioneering-New-Treatments-DelveInsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Global Oligonucleotide Therapeutics Market Set to Surge to USD 17.70 Billion by 2030 | MarketsandMarkets™",
+          "url": "https://www.globenewswire.com/news-release/2026/02/16/3238761/0/en/Global-Oligonucleotide-Therapeutics-Market-Set-to-Surge-to-USD-17-70-Billion-by-2030-MarketsandMarkets.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "S-8  - Securities to be offered to employees in employee benefit plans",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526099373/0001193125-26-099373-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526099362/0001193125-26-099362-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526099355/0001193125-26-099355-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526098781/0001193125-26-098781-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000195004726002270/0001950047-26-002270-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000190788426000005/0001907884-26-000005-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526077259/0001193125-26-077259-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526072002/0001193125-26-072002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
+      "checklist": [
+        "CLN-978 / CLN-049 업데이트"
+      ],
+      "price_target": {
+        "mean": 31.35455,
+        "low": 24.0,
+        "high": 38.0,
+        "median": 30.0,
+        "analyst_count": 11,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.08333,
+        "upside_pct": 123.48218529409705
+      },
+      "anchors": {
+        "as_of": "(net cash as of latest filings)",
+        "net_cash_m": 439.0,
+        "burn_m_per_month": null,
+        "burn_m_per_quarter": 36.5,
+        "burn_m_per_year": null,
+        "runway_months": null,
+        "buyout_per_share": {
+          "bear": 8.6,
+          "base": 17.9,
+          "bull": 45.9
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "CMPS",
+      "name": "Compass Pathways",
+      "close": 6.309999942779541,
+      "pct": -1.2519550137338853,
+      "volume": 2869652.0,
+      "volume_x": 1.0487167923939444,
+      "last_price_date": "2026-03-16",
+      "market_cap": 716292544,
+      "enterprise_value": 457292544.0,
+      "net_cash_m": 259.0,
+      "runway_months": 19.5,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Compass Therapeutics Announces Key Leadership Appointments",
+          "url": "https://www.globenewswire.com/news-release/2026/01/05/3212707/0/en/Compass-Therapeutics-Announces-Key-Leadership-Appointments.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Post-Traumatic Stress Disorder (PTSD) Global Clinical Trials Market Review 2025",
+          "url": "https://www.globenewswire.com/news-release/2025/12/01/3197258/28124/en/Post-Traumatic-Stress-Disorder-PTSD-Global-Clinical-Trials-Market-Review-2025.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Reminds $hareholders of the Upcoming Mergers–CMA, HFWA, COMP, and HOUS",
+          "url": "https://www.globenewswire.com/news-release/2025/11/19/3191506/0/en/HAREHOLDER-ALERT-The-M-A-Class-Action-Firm-Reminds-hareholders-of-the-Upcoming-Mergers-CMA-HFWA-COMP-and-HOUS.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Continues to Investigate the Mergers–HOUS, ADVM, HBAN, and COMP",
+          "url": "https://www.globenewswire.com/news-release/2025/11/18/3190470/0/en/HAREHOLDER-ALERT-The-M-A-Class-Action-Firm-Continues-to-Investigate-the-Mergers-HOUS-ADVM-HBAN-and-COMP.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Compass Therapeutics Presents Preclinical Data on CTX-10726, a Differentiated PD-1 x VEGF-A Bispecific Antibody, at the 40th Society for Immunotherapy of Cancer (SITC) Annual Meeting",
+          "url": "https://www.globenewswire.com/news-release/2025/11/04/3180398/0/en/Compass-Therapeutics-Presents-Preclinical-Data-on-CTX-10726-a-Differentiated-PD-1-x-VEGF-A-Bispecific-Antibody-at-the-40th-Society-for-Immunotherapy-of-Cancer-SITC-Annual-Meeting.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Is Investigating the Merger – PGRE, BRY, ETNB, and COMP",
+          "url": "https://www.globenewswire.com/news-release/2025/09/26/3157272/0/en/HAREHOLDER-ALERT-The-M-A-Class-Action-Firm-Is-Investigating-the-Merger-PGRE-BRY-ETNB-and-COMP.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Bipolar Disorder Treatment Pipeline Shows Strong Momentum as 20+ Pharma Companies in the Race | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2025/09/11/3148786/0/en/Bipolar-Disorder-Treatment-Pipeline-Shows-Strong-Momentum-as-20-Pharma-Companies-in-the-Race-DelveInsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Design Therapeutics Appoints Justin Gover to Board of Directors",
+          "url": "https://www.globenewswire.com/news-release/2025/09/10/3148218/0/en/Design-Therapeutics-Appoints-Justin-Gover-to-Board-of-Directors.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000194025826000006/0001940258-26-000006-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000182911126000004/0001829111-26-000004-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000182911126000002/0001829111-26-000002-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000162828026009501/0001628280-26-009501-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "424B5  - Prospectus [Rule 424(b)(5)]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000162828026009499/0001628280-26-009499-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "SCHEDULE 13D/A [Amend]  - General Statement of Acquisition of Beneficial Ownership",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000114036126005810/0001140361-26-005810-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "424B5  - Prospectus [Rule 424(b)(5)]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000162828026008567/0001628280-26-008567-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1816590/000181659026000007/0001816590-26-000007-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
+      "checklist": [
+        "Phase 3 관련 데이터/일정 업데이트"
+      ],
+      "price_target": {
+        "mean": 21.91667,
+        "low": 8.0,
+        "high": 70.0,
+        "median": 19.5,
+        "analyst_count": 12,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.41667,
+        "upside_pct": 247.33233278518472
+      },
+      "anchors": {
+        "as_of": "(pro forma)",
+        "net_cash_m": 259.0,
+        "burn_m_per_month": 13.3,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 19.5,
+        "buyout_per_share": {
+          "bear": 4.51,
+          "base": 16.12,
+          "bull": 60.45
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    },
+    {
+      "ticker": "CRNX",
+      "name": "Crinetics Pharmaceuticals",
+      "close": 37.279998779296875,
+      "pct": -0.5601570812693302,
+      "volume": 1051507.0,
+      "volume_x": 0.8686342912891802,
+      "last_price_date": "2026-03-16",
+      "market_cap": 3903414528,
+      "enterprise_value": 2553414528.0,
+      "net_cash_m": 1350.0,
+      "runway_months": 43.0,
+      "alerts": [],
+      "new_pr_count": 8,
+      "new_sec_count": 8,
+      "new_press": [
+        {
+          "title": "Sevenfact Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255703/28124/en/Sevenfact-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Roctavian (BioMarin Pharmaceutical) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255698/28124/en/Roctavian-BioMarin-Pharmaceutical-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Repronex Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255697/28124/en/Repronex-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Rybrevant (Johnson & Johnson) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255695/28124/en/Rybrevant-Johnson-Johnson-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Zynteglo (Bluebird bio) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255462/28124/en/Zynteglo-Bluebird-bio-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Veopoz (Regeneron Pharmaceuticals) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255459/28124/en/Veopoz-Regeneron-Pharmaceuticals-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Vaxchora (Bavarian Nordic) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255458/28124/en/Vaxchora-Bavarian-Nordic-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Tenivac (Sanofi Pasteur) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+          "url": "https://www.globenewswire.com/news-release/2026/03/13/3255455/28124/en/Tenivac-Sanofi-Pasteur-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026017948/0001628280-26-017948-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026017947/0001628280-26-017947-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026017946/0001628280-26-017946-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026017797/0001628280-26-017797-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000195004726002543/0001950047-26-002543-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026014775/0001628280-26-014775-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026014772/0001628280-26-014772-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1658247/000195004726002102/0001950047-26-002102-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
+      "next_catalyst": "2026: PALSONIFY quarterly sales / net product revenue updates",
+      "checklist": [
+        "분기 실적/처방 지표 및 주요 임상 업데이트"
+      ],
+      "price_target": {
+        "mean": 83.5,
+        "low": 55.0,
+        "high": 97.0,
+        "median": 88.0,
+        "analyst_count": 14,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.28571,
+        "upside_pct": 123.98069402934371
+      },
+      "anchors": {
+        "as_of": "2025-09-30",
+        "net_cash_m": 1350.0,
+        "burn_m_per_month": 31.7,
+        "burn_m_per_quarter": null,
+        "burn_m_per_year": null,
+        "runway_months": 43.0,
+        "buyout_per_share": {
+          "bear": 40.6,
+          "base": 78.5,
+          "bull": 139.2
+        }
+      },
+      "errors": {
+        "price_error": null,
+        "press_errors": [],
+        "sec_error": null
+      }
+    }
+  ]
+}
