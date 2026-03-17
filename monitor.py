@@ -4,6 +4,7 @@ import json
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone, date
+from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin
 
@@ -70,9 +71,32 @@ def load_state(path: str) -> dict:
         return json.load(f)
 
 
+def ensure_parent_dir(path: str) -> None:
+    parent = Path(path).parent
+    parent.mkdir(parents=True, exist_ok=True)
+
+
+def atomic_write_text(path: str, text: str) -> None:
+    ensure_parent_dir(path)
+    tmp_path = f"{path}.tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        f.write(text)
+    os.replace(tmp_path, path)
+
+
+def atomic_write_json(path: str, payload: dict) -> None:
+    atomic_write_text(path, json.dumps(payload, indent=2, ensure_ascii=False))
+
+
 def save_state(path: str, state: dict) -> None:
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(state, f, indent=2, ensure_ascii=False)
+    atomic_write_json(path, state)
+
+
+def env_flag(name: str, default: bool = False) -> bool:
+    raw = os.getenv(name)
+    if raw is None:
+        return default
+    return str(raw).strip().lower() in {"1", "true", "yes", "y", "on"}
 
 
 def kst_now_str(tz_name: str) -> str:
@@ -760,6 +784,143 @@ def post_report_to_discussions(state: dict, report_md: str) -> None:
         print("Posted comment.")
 
 
+def choose_overall_judgement(alert_tickers: List[str], total_new_press: int, total_new_sec: int) -> str:
+    if alert_tickers:
+        return "행동 고려"
+    if total_new_sec or total_new_press:
+        return "추가 확인 필요"
+    return "감시만"
+
+
+def compact_titles(items: List[dict], limit: int = 2) -> str:
+    titles: List[str] = []
+    for it in items[:limit]:
+        title = str(it.get("title") or "").strip()
+        if title:
+            titles.append(title)
+    return "; ".join(titles)
+
+
+def render_pulse_report(payload: dict) -> str:
+    meta = payload.get("meta") or {}
+    summary = payload.get("summary") or {}
+    companies = payload.get("companies") or []
+
+    changed = [c for c in companies if c.get("new_pr_count") or c.get("new_sec_count") or c.get("alerts")]
+    changed.sort(
+        key=lambda c: (
+            len(c.get("alerts") or []),
+            c.get("new_sec_count") or 0,
+            c.get("new_pr_count") or 0,
+            abs(float(c.get("pct") or 0.0)),
+        ),
+        reverse=True,
+    )
+
+    unchanged = [c.get("ticker") for c in companies if not (c.get("new_pr_count") or c.get("new_sec_count") or c.get("alerts"))]
+
+    lines: List[str] = []
+    lines.append(f"# Pulse Input ({meta.get('generated_at_local')})")
+    lines.append("")
+    lines.append(f"- 전체 판단: **{summary.get('overall_judgement', '-')}**")
+    lines.append(
+        f"- 요약: PR {summary.get('total_new_press', 0)}건 / SEC {summary.get('total_new_sec', 0)}건 / Alert {', '.join(summary.get('alert_tickers') or []) if summary.get('alert_tickers') else '-'}"
+    )
+    lines.append("")
+    lines.append("## Must Watch")
+
+    if changed:
+        for c in changed[:8]:
+            headline_bits: List[str] = []
+            if c.get("alerts"):
+                headline_bits.append(", ".join(c.get("alerts") or []))
+            if c.get("new_sec_count"):
+                headline_bits.append(f"SEC {c.get('new_sec_count')}건")
+            if c.get("new_pr_count"):
+                headline_bits.append(f"PR {c.get('new_pr_count')}건")
+            if c.get("pct") is not None:
+                headline_bits.append(f"주가 {format_pct(c.get('pct'))}")
+
+            lines.append(f"- **{c.get('ticker')}** ({c.get('name')}) — {' | '.join(headline_bits) if headline_bits else '변화 감지'}")
+
+            reason_parts: List[str] = []
+            sec_titles = compact_titles(c.get("new_sec") or [], limit=2)
+            pr_titles = compact_titles(c.get("new_press") or [], limit=2)
+            if sec_titles:
+                reason_parts.append(f"SEC: {sec_titles}")
+            if pr_titles:
+                reason_parts.append(f"PR: {pr_titles}")
+            if reason_parts:
+                lines.append(f"  - 변화: {' / '.join(reason_parts)}")
+            if c.get("next_catalyst"):
+                lines.append(f"  - 다음 촉매: {c.get('next_catalyst')}")
+            checklist = c.get("checklist") or []
+            if checklist:
+                lines.append(f"  - 체크포인트: {checklist[0]}")
+    else:
+        lines.append("- 오늘은 즉시 대응할 내용 없음")
+
+    lines.append("")
+    lines.append("## Ignore / Noise")
+    if unchanged:
+        lines.append("- 큰 변화 없음: " + ", ".join(unchanged))
+    else:
+        lines.append("- 제외할 잡음 없음")
+
+    lines.append("")
+    lines.append("## Source Files")
+    lines.append("- reports/latest.md : 전체 리포트")
+    lines.append("- reports/latest.json : 구조화 JSON")
+    lines.append("- reports/latest_pulse.md : Pulse/Task 입력용 요약")
+
+    return "\n".join(lines)
+
+
+def write_repo_outputs(payload: dict, report_md: str, pulse_md: str, tz_name: str, storage_cfg: dict) -> dict:
+    reports_dir = str(storage_cfg.get("reports_dir") or "reports")
+    archive_enabled = bool(storage_cfg.get("archive_by_run") if "archive_by_run" in storage_cfg else True)
+    latest_enabled = bool(storage_cfg.get("latest_aliases") if "latest_aliases" in storage_cfg else True)
+
+    now_local = datetime.now(tz.gettz(tz_name))
+    run_id = now_local.strftime("%Y%m%d_%H%M%S_%Z")
+    archive_dir = os.path.join(reports_dir, "archive", now_local.strftime("%Y"), now_local.strftime("%m"), now_local.strftime("%d"))
+
+    written = {}
+
+    if latest_enabled:
+        latest_md = os.path.join(reports_dir, "latest.md")
+        latest_json = os.path.join(reports_dir, "latest.json")
+        latest_pulse = os.path.join(reports_dir, "latest_pulse.md")
+        atomic_write_text(latest_md, report_md)
+        atomic_write_json(latest_json, payload)
+        atomic_write_text(latest_pulse, pulse_md)
+        written["latest_md"] = latest_md
+        written["latest_json"] = latest_json
+        written["latest_pulse"] = latest_pulse
+
+    if archive_enabled:
+        archive_md = os.path.join(archive_dir, f"{run_id}_report.md")
+        archive_json = os.path.join(archive_dir, f"{run_id}_report.json")
+        archive_pulse = os.path.join(archive_dir, f"{run_id}_pulse.md")
+        atomic_write_text(archive_md, report_md)
+        atomic_write_json(archive_json, payload)
+        atomic_write_text(archive_pulse, pulse_md)
+        written["archive_md"] = archive_md
+        written["archive_json"] = archive_json
+        written["archive_pulse"] = archive_pulse
+
+    manifest = {
+        "generated_at_local": payload.get("meta", {}).get("generated_at_local"),
+        "generated_at_utc": payload.get("meta", {}).get("generated_at_utc"),
+        "paths": written,
+    }
+    manifest_path = os.path.join(reports_dir, "manifest.json")
+    atomic_write_json(manifest_path, manifest)
+    written["manifest"] = manifest_path
+
+    return written
+
+
 # ------------------------
 # Main
 # ------------------------
@@ -772,6 +933,10 @@ def main() -> None:
     report_cfg = cfg.get("report") or {}
     max_news = int(report_cfg.get("max_news_items") or 8)
     use_details = bool(report_cfg.get("use_collapsible") if "use_collapsible" in report_cfg else True)
+
+    storage_cfg = cfg.get("storage") or {}
+    save_repo_outputs = bool(storage_cfg.get("save_repo_outputs") if "save_repo_outputs" in storage_cfg else True)
+    post_to_discussions = env_flag("POST_TO_DISCUSSIONS", bool(storage_cfg.get("post_to_discussions") if "post_to_discussions" in storage_cfg else True))
 
     alert_cfg = cfg.get("alerts") or {}
     alert_price_pct = float(alert_cfg.get("price_move_pct") or 8.0)
@@ -804,6 +969,7 @@ def main() -> None:
 
     dashboard_rows: List[dict] = []
     details_blocks: List[str] = []
+    company_payloads: List[dict] = []
 
     total_new_press = 0
     total_new_sec = 0
@@ -1093,6 +1259,59 @@ def main() -> None:
 
         details_blocks.append("\n".join(block))
 
+        company_payloads.append(
+            {
+                "ticker": t,
+                "name": name,
+                "close": close,
+                "pct": pct,
+                "volume": vol,
+                "volume_x": vol_x,
+                "last_price_date": last_dt,
+                "market_cap": mktcap,
+                "enterprise_value": ev_calc if ev_calc is not None else fund.get("enterprise_value"),
+                "net_cash_m": net_cash_m,
+                "runway_months": anchors.get("runway_months"),
+                "alerts": flags,
+                "new_pr_count": len(new_press),
+                "new_sec_count": len(new_sec),
+                "new_press": [
+                    {"title": it.title, "url": it.url, "date_text": it.date_text, "source": it.source}
+                    for it in new_press[:max_news]
+                ],
+                "new_sec": [
+                    {"title": it.title, "url": it.url, "date_text": it.date_text, "source": it.source}
+                    for it in new_sec[:max_news]
+                ],
+                "next_catalyst": next_cell,
+                "checklist": checklist,
+                "price_target": {
+                    "mean": pt_mean,
+                    "low": pt_low,
+                    "high": pt_high,
+                    "median": pt_median,
+                    "analyst_count": pt_n,
+                    "recommendation_key": reco_key,
+                    "recommendation_mean": reco_mean,
+                    "upside_pct": pt_upside,
+                },
+                "anchors": {
+                    "as_of": asof,
+                    "net_cash_m": net_cash_m,
+                    "burn_m_per_month": anchors.get("burn_m_per_month"),
+                    "burn_m_per_quarter": anchors.get("burn_m_per_quarter"),
+                    "burn_m_per_year": anchors.get("burn_m_per_year"),
+                    "runway_months": anchors.get("runway_months"),
+                    "buyout_per_share": buyout_ps,
+                },
+                "errors": {
+                    "price_error": price_error,
+                    "press_errors": press_errors,
+                    "sec_error": sec_error,
+                },
+            }
+        )
+
         # --- Update state ---
         merged_press = list(dict.fromkeys([it.url for it in press_items] + list(seen_urls)))
         state["press_seen"][t] = merged_press[:600]
@@ -1159,13 +1378,48 @@ def main() -> None:
 
     report_md = "\n".join(lines)
 
-    # Post to GitHub Discussions
-    post_report_to_discussions(state, report_md)
+    overall_judgement = choose_overall_judgement(alert_tickers, total_new_press, total_new_sec)
+    payload = {
+        "meta": {
+            "generated_at_local": now_kst,
+            "generated_at_utc": datetime.now(timezone.utc).isoformat(),
+            "timezone": tz_name,
+            "repository": os.getenv("GITHUB_REPOSITORY"),
+            "ref_name": os.getenv("GITHUB_REF_NAME"),
+        },
+        "summary": {
+            "total_new_press": total_new_press,
+            "total_new_sec": total_new_sec,
+            "alert_tickers": alert_tickers,
+            "overall_judgement": overall_judgement,
+        },
+        "dashboard": dashboard_rows,
+        "companies": company_payloads,
+    }
+
+    pulse_md = render_pulse_report(payload)
+
+    written = {}
+    if save_repo_outputs:
+        written = write_repo_outputs(payload, report_md, pulse_md, tz_name, storage_cfg)
+        payload.setdefault("meta", {})["written_files"] = written
+        state["last_written_files"] = written
+
+    discussion_status = "skipped"
+    if post_to_discussions:
+        try:
+            post_report_to_discussions(state, report_md)
+            discussion_status = "posted"
+        except Exception as e:
+            discussion_status = f"failed: {e}"
+            print(f"WARNING: discussion posting failed, but repo outputs were saved. -> {e}")
+
+    state["last_discussion_status"] = discussion_status
 
     # Save state
     save_state(state_path, state)
 
-    print("DONE. Report posted to GitHub Discussions.")
+    print(f"DONE. Repo outputs saved. Discussion status: {discussion_status}")
 
 
 if __name__ == "__main__":

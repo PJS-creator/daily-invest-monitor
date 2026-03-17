@@ -7,6 +7,19 @@ report:
   # 각 기업 섹션을 <details>로 접어서 길이를 줄일지
   use_collapsible: true
 
+# 저장소 저장 옵션
+storage:
+  # reports/ 아래에 latest.* + archive/* 를 생성
+  save_repo_outputs: true
+  # latest.md / latest.json / latest_pulse.md 유지
+  latest_aliases: true
+  # 실행 시각별 스냅샷 보관
+  archive_by_run: true
+  # Discussion 댓글도 계속 달지 여부
+  post_to_discussions: true
+  # 저장 폴더
+  reports_dir: "reports"
+
 # 자동 알림(⚠️ 표시) 기준
 alerts:
   # 일간 등락률이 이 값(%) 이상이면 Dashboard의 Alert 컬럼에 표시
