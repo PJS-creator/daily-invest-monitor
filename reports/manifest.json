@@ -1,12 +1,12 @@
 {
-  "generated_at_local": "2026-04-23 09:09:29 KST",
-  "generated_at_utc": "2026-04-23T00:09:50.018667+00:00",
+  "generated_at_local": "2026-04-23 12:00:42 KST",
+  "generated_at_utc": "2026-04-23T03:01:01.189421+00:00",
   "paths": {
     "latest_md": "reports/latest.md",
     "latest_json": "reports/latest.json",
     "latest_pulse": "reports/latest_pulse.md",
-    "archive_md": "reports/archive/2026/04/23/20260423_090950_KST_report.md",
-    "archive_json": "reports/archive/2026/04/23/20260423_090950_KST_report.json",
-    "archive_pulse": "reports/archive/2026/04/23/20260423_090950_KST_pulse.md"
+    "archive_md": "reports/archive/2026/04/23/20260423_120101_KST_report.md",
+    "archive_json": "reports/archive/2026/04/23/20260423_120101_KST_report.json",
+    "archive_pulse": "reports/archive/2026/04/23/20260423_120101_KST_pulse.md"
   }
 }
