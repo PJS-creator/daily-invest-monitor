@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-11 12:00:50 KST",
-    "generated_at_utc": "2026-10-11T03:01:07.370120+00:00",
+    "generated_at_local": "2026-10-11 18:00:48 KST",
+    "generated_at_utc": "2026-10-11T09:01:03.956987+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,8 +9,10 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [],
-    "overall_judgement": "감시만"
+    "alert_tickers": [
+      "AVBP"
+    ],
+    "overall_judgement": "행동 고려"
   },
   "dashboard": [
     {
@@ -137,8 +139,8 @@
       "ticker": "AVBP",
       "close": 16.729999542236328,
       "pct": 0.11969155511359908,
-      "pt": 20.55556,
-      "pt_upside": 22.866470785642967,
+      "pt": 22.77778,
+      "pt_upside": 36.14931633737064,
       "mktcap": "$824.9M",
       "ev": "$519.5M",
       "net_cash": "$305.4M (2025-09-30)",
@@ -146,7 +148,7 @@
       "next": "early-2026: FURVENT Phase 3 topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 20.56→22.78"
     },
     {
       "ticker": "CGEM",
@@ -154,8 +156,8 @@
       "pct": 0.45277939619339236,
       "pt": 33.45455,
       "pt_upside": 115.41887041358945,
-      "mktcap": "$954.4M",
-      "ev": "$515.4M",
+      "mktcap": "$999.4M",
+      "ev": "$560.4M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -420,8 +422,8 @@
         "high": 50.0,
         "median": 23.5,
         "analyst_count": 8,
-        "recommendation_key": "none",
-        "recommendation_mean": null,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.5,
         "upside_pct": 159.58841056385705
       },
       "anchors": {
@@ -614,7 +616,9 @@
       "enterprise_value": 519518272.0,
       "net_cash_m": 305.4,
       "runway_months": 21.2,
-      "alerts": [],
+      "alerts": [
+        "PT 20.56→22.78"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -624,14 +628,14 @@
         "FURVENT / ALPACCA 관련 업데이트"
       ],
       "price_target": {
-        "mean": 20.55556,
+        "mean": 22.77778,
         "low": 15.0,
-        "high": 29.0,
+        "high": 47.0,
         "median": 18.0,
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 22.866470785642967
+        "upside_pct": 36.14931633737064
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -662,8 +666,8 @@
       "volume": 567500.0,
       "volume_x": 0.644873173048733,
       "last_price_date": "2026-10-09",
-      "market_cap": 954443456,
-      "enterprise_value": 515443456.0,
+      "market_cap": 999428416,
+      "enterprise_value": 560428416.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
