@@ -1,6 +1,6 @@
-## Daily Report (2026-10-12 00:00:50 KST)
+## Daily Report (2026-10-12 01:41:40 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** AVBP
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -13,7 +13,7 @@
 | PRAX | 259.86 | -1.40% | 644.42 | +147.99% | $7.26B | $5.71B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.34 | +3.09% | 39.60 | +374.82% | $248.3M | $208.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 22.59 | +0.22% | 62.35 | +176.00% | $1.57B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 16.73 | +0.12% | 20.56 | +22.87% | $824.9M | $519.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PT 22.78→20.56 |
+| AVBP | 16.73 | +0.12% | 20.56 | +22.87% | $824.9M | $519.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 15.53 | +0.45% | 33.45 | +115.42% | $954.4M | $515.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 12.00 | +4.62% | 23.75 | +97.92% | $1.66B | $1.40B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
@@ -323,7 +323,7 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 16.73 (+0.12%) | ⚠️ PT 22.78→20.56 | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 16.73 (+0.12%) | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics

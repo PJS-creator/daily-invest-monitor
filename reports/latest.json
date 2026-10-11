@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-12 00:00:50 KST",
-    "generated_at_utc": "2026-10-11T15:01:06.156217+00:00",
+    "generated_at_local": "2026-10-12 01:41:40 KST",
+    "generated_at_utc": "2026-10-11T16:41:56.322992+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,10 +9,8 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [
-      "AVBP"
-    ],
-    "overall_judgement": "행동 고려"
+    "alert_tickers": [],
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -148,7 +146,7 @@
       "next": "early-2026: FURVENT Phase 3 topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 22.78→20.56"
+      "alert": "-"
     },
     {
       "ticker": "CGEM",
@@ -616,9 +614,7 @@
       "enterprise_value": 519518272.0,
       "net_cash_m": 305.4,
       "runway_months": 21.2,
-      "alerts": [
-        "PT 22.78→20.56"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
