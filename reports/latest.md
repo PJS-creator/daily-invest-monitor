@@ -1,6 +1,6 @@
-## Daily Report (2026-10-12 12:00:53 KST)
+## Daily Report (2026-10-12 18:00:52 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** AVBP
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -12,9 +12,9 @@
 | MGTX | 10.69 | +1.81% | 27.75 | +159.59% | $1.03B | $855.8M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 259.86 | -1.40% | 644.42 | +147.99% | $7.26B | $5.71B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.34 | +3.09% | 39.60 | +374.82% | $248.3M | $208.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.59 | +0.22% | 62.38 | +176.12% | $1.57B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 16.73 | +0.12% | 20.56 | +22.87% | $824.9M | $519.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 15.53 | +0.45% | 33.45 | +115.42% | $954.4M | $515.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| QURE | 22.59 | +0.22% | 62.29 | +175.75% | $1.57B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| AVBP | 16.73 | +0.12% | 22.78 | +36.15% | $824.9M | $519.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PT 20.56→22.78 |
+| CGEM | 15.53 | +0.45% | 33.45 | +115.42% | $999.4M | $560.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 12.00 | +4.62% | 23.75 | +97.92% | $1.66B | $1.40B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -293,8 +293,8 @@
 - **Volume**: `2,049,800` (≈ `1.04x` avg)
 - **Market Cap**: $1.57B
 - **EV**: $1.39B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `62.38` (low `28.00` / high `91.57`; n=11)
-  - Upside to PT (mean): `+176.1%`
+- **Price Target (consensus)**: mean `62.29` (low `27.97` / high `91.45`; n=11)
+  - Upside to PT (mean): `+175.8%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -323,7 +323,7 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 16.73 (+0.12%) | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 16.73 (+0.12%) | ⚠️ PT 20.56→22.78 | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics
@@ -331,8 +331,8 @@
 - **Volume**: `1,731,100` (≈ `1.86x` avg)
 - **Market Cap**: $824.9M
 - **EV**: $519.5M (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `20.56` (low `15.00` / high `29.00`; n=9)
-  - Upside to PT (mean): `+22.9%`
+- **Price Target (consensus)**: mean `22.78` (low `15.00` / high `47.00`; n=9)
+  - Upside to PT (mean): `+36.1%`
 - **Net Cash (anchor)**: $305.4M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$14.4M / month
 - **Runway (anchor)**: ~21.2 months
@@ -367,8 +367,8 @@
 #### Key Metrics
 - **Close (2026-10-09)**: `15.53` (+0.45%)
 - **Volume**: `567,500` (≈ `0.64x` avg)
-- **Market Cap**: $954.4M
-- **EV**: $515.4M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $999.4M
+- **EV**: $560.4M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `33.45` (low `23.00` / high `42.00`; n=11)
   - Upside to PT (mean): `+115.4%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
