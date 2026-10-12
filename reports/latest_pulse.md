@@ -1,10 +1,11 @@
-# Pulse Input (2026-10-13 00:03:32 KST)
+# Pulse Input (2026-10-13 05:22:26 KST)
 
-- 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert AVBP
+- 전체 판단: **추가 확인 필요**
+- 요약: PR 1건 / SEC 0건 / Alert -
 
 ## Must Watch
-- **AVBP** (ArriVent BioPharma) — PT 22.78→20.56 | 주가 -1.26%
+- **AVBP** (ArriVent BioPharma) — PR 1건 | 주가 -1.61%
+  - 변화: PR: ArriVent Announces First Patient Dosed with Novel Tetravalent MUC16/NaPi2b Dual Target ADC, ARR-002 | AVBP Stock News
   - 다음 촉매: early-2026: FURVENT Phase 3 topline
   - 체크포인트: FURVENT / ALPACCA 관련 업데이트
 
