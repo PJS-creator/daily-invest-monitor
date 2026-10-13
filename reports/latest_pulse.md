@@ -1,16 +1,17 @@
-# Pulse Input (2026-10-14 00:00:56 KST)
+# Pulse Input (2026-10-14 03:25:02 KST)
 
-- 전체 판단: **추가 확인 필요**
-- 요약: PR 0건 / SEC 1건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 0건 / SEC 0건 / Alert EQ, QTTB
 
 ## Must Watch
-- **AVBP** (ArriVent BioPharma) — SEC 1건 | 주가 -0.94%
-  - 변화: SEC: 8-K  - Current report
-  - 다음 촉매: early-2026: FURVENT Phase 3 topline
-  - 체크포인트: FURVENT / ALPACCA 관련 업데이트
+- **EQ** (Equillium) — PRICE -9.7% | 주가 -9.67%
+  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
+- **QTTB** (Q32 Bio) — PRICE -9.4% | 주가 -9.38%
+  - 다음 촉매: mid-2026: SIGNAL-AA Part B topline (W36, open-label)
+  - 체크포인트: SIGNAL-AA Phase 2 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, CGEM, CMPS, CRNX
+- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, PRAX, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
