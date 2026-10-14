@@ -1,14 +1,18 @@
-# Pulse Input (2026-10-14 18:01:00 KST)
+# Pulse Input (2026-10-15 00:52:20 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert EQ
+- 요약: PR 1건 / SEC 0건 / Alert IKT
 
 ## Must Watch
-- **EQ** (Equillium) — PRICE -12.0% | 주가 -12.00%
-  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
+- **IKT** (Inhibikase Therapeutics) — PT 6.00→5.55 | 주가 +3.41%
+  - 다음 촉매: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed
+- **CMPS** (Compass Pathways) — PR 1건 | 주가 +1.26%
+  - 변화: PR: Compass Pathways Joins Forces with Leading Mental Health Organizations to Mark First-Ever U.S. Treatment-Resistant Depression (TRD) Awareness Day | CMPS Stock News
+  - 다음 촉매: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing
+  - 체크포인트: Phase 3 관련 데이터/일정 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
