@@ -1,4 +1,4 @@
-## Daily Report (2026-10-15 12:00:54 KST)
+## Daily Report (2026-10-15 18:00:52 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** IKT
 
@@ -12,7 +12,7 @@
 | MGTX | 9.41 | -5.33% | 27.75 | +194.90% | $903.8M | $732.9M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 239.02 | -1.78% | 644.42 | +169.61% | $6.67B | $5.12B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.01 | -0.62% | 39.67 | +395.21% | $238.5M | $198.3M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 20.97 | -1.46% | 62.54 | +198.23% | $1.45B | $1.28B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 20.97 | -1.46% | 62.42 | +197.66% | $1.45B | $1.28B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 16.20 | +0.68% | 20.56 | +26.89% | $798.8M | $493.4M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 13.64 | -3.26% | 33.45 | +145.27% | $877.8M | $438.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.27 | +1.17% | 23.75 | +110.74% | $1.56B | $1.30B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -293,8 +293,8 @@
 - **Volume**: `3,323,200` (≈ `1.64x` avg)
 - **Market Cap**: $1.45B
 - **EV**: $1.28B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `62.54` (low `28.08` / high `91.81`; n=11)
-  - Upside to PT (mean): `+198.2%`
+- **Price Target (consensus)**: mean `62.42` (low `28.02` / high `91.63`; n=11)
+  - Upside to PT (mean): `+197.7%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
