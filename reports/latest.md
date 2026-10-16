@@ -1,6 +1,6 @@
-## Daily Report (2026-10-16 12:00:56 KST)
+## Daily Report (2026-10-16 18:00:51 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** PRAX
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -10,11 +10,11 @@
 | IKT | 1.83 | +1.67% | 5.55 | +203.28% | $255.4M | $95.3M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 8.68 | +2.00% | 24.30 | +179.95% | $719.6M | $611.1M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.89 | +5.10% | 27.75 | +180.59% | $949.9M | $779.0M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 248.24 | +3.86% | 647.50 | +160.84% | $6.93B | $5.38B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
+| PRAX | 248.24 | +3.86% | 650.00 | +161.84% | $6.93B | $5.38B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PT 647.50→650.00 |
 | QTTB | 7.77 | -3.00% | 39.67 | +410.51% | $231.3M | $191.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.52 | +7.39% | 61.27 | +172.08% | $1.56B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 22.52 | +7.39% | 61.42 | +172.72% | $1.56B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 16.79 | +3.64% | 20.56 | +22.43% | $827.9M | $522.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 14.00 | +2.64% | 33.45 | +138.96% | $901.0M | $462.0M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 14.00 | +2.64% | 33.45 | +138.96% | $860.4M | $421.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.62 | +3.11% | 23.75 | +104.39% | $1.61B | $1.35B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-10-15)**: `22.19` (+1.42%)
-- **Volume**: `1,411,000` (≈ `1.38x` avg)
+- **Volume**: `1,411,000` (≈ `1.39x` avg)
 - **Market Cap**: $1.58B
 - **EV**: $72.4M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `105.78` (low `70.00` / high `145.00`; n=15)
@@ -208,7 +208,7 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 248.24 (+3.86%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 248.24 (+3.86%) | ⚠️ PT 647.50→650.00 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
@@ -216,8 +216,8 @@
 - **Volume**: `632,800` (≈ `1.48x` avg)
 - **Market Cap**: $6.93B
 - **EV**: $5.38B (calc; net cash as-of (pro forma))
-- **Price Target (consensus)**: mean `647.50` (low `188.00` / high `1201.00`; n=20)
-  - Upside to PT (mean): `+160.8%`
+- **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
+  - Upside to PT (mean): `+161.8%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
@@ -290,11 +290,11 @@
 
 #### Key Metrics
 - **Close (2026-10-15)**: `22.52` (+7.39%)
-- **Volume**: `1,610,000` (≈ `0.79x` avg)
+- **Volume**: `1,610,000` (≈ `0.78x` avg)
 - **Market Cap**: $1.56B
 - **EV**: $1.39B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `61.27` (low `28.03` / high `91.66`; n=12)
-  - Upside to PT (mean): `+172.1%`
+- **Price Target (consensus)**: mean `61.42` (low `28.10` / high `91.88`; n=12)
+  - Upside to PT (mean): `+172.7%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -367,8 +367,8 @@
 #### Key Metrics
 - **Close (2026-10-15)**: `14.00` (+2.64%)
 - **Volume**: `972,100` (≈ `1.10x` avg)
-- **Market Cap**: $901.0M
-- **EV**: $462.0M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $860.4M
+- **EV**: $421.4M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `33.45` (low `23.00` / high `42.00`; n=11)
   - Upside to PT (mean): `+139.0%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))

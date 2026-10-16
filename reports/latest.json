@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-16 12:00:56 KST",
-    "generated_at_utc": "2026-10-16T03:01:14.302040+00:00",
+    "generated_at_local": "2026-10-16 18:00:51 KST",
+    "generated_at_utc": "2026-10-16T09:01:06.119983+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,8 +9,10 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [],
-    "overall_judgement": "감시만"
+    "alert_tickers": [
+      "PRAX"
+    ],
+    "overall_judgement": "행동 고려"
   },
   "dashboard": [
     {
@@ -92,8 +94,8 @@
       "ticker": "PRAX",
       "close": 248.24000549316406,
       "pct": 3.8574182310670446,
-      "pt": 647.5,
-      "pt_upside": 160.83628169184462,
+      "pt": 650.0,
+      "pt_upside": 161.84337158254672,
       "mktcap": "$6.93B",
       "ev": "$5.38B",
       "net_cash": "$1.55B ((pro forma))",
@@ -101,7 +103,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 647.50→650.00"
     },
     {
       "ticker": "QTTB",
@@ -122,8 +124,8 @@
       "ticker": "QURE",
       "close": 22.520000457763672,
       "pct": 7.3915173827501235,
-      "pt": 61.272213,
-      "pt_upside": 172.07909304849358,
+      "pt": 61.416954,
+      "pt_upside": 172.72181506029574,
       "mktcap": "$1.56B",
       "ev": "$1.39B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -154,8 +156,8 @@
       "pct": 2.6392936042225035,
       "pt": 33.45455,
       "pt_upside": 138.9610714285714,
-      "mktcap": "$901.0M",
-      "ev": "$462.0M",
+      "mktcap": "$860.4M",
+      "ev": "$421.4M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -251,7 +253,7 @@
       "close": 22.190000534057617,
       "pct": 1.4168253436082523,
       "volume": 1411000.0,
-      "volume_x": 1.3806694534466832,
+      "volume_x": 1.3884775063691854,
       "last_price_date": "2026-10-15",
       "market_cap": 1582365696,
       "enterprise_value": 72365696.0,
@@ -270,8 +272,8 @@
         "high": 145.0,
         "median": 101.0,
         "analyst_count": 15,
-        "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.375,
+        "recommendation_key": "none",
+        "recommendation_mean": null,
         "upside_pct": 376.71621205074706
       },
       "anchors": {
@@ -351,7 +353,7 @@
       "close": 8.680000305175781,
       "pct": 1.9976506665297933,
       "volume": 1314400.0,
-      "volume_x": 0.7989443042698905,
+      "volume_x": 0.8000321376269528,
       "last_price_date": "2026-10-15",
       "market_cap": 719597632,
       "enterprise_value": 611097632.0,
@@ -457,7 +459,9 @@
       "enterprise_value": 5380857984.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [],
+      "alerts": [
+        "PT 647.50→650.00"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -467,14 +471,14 @@
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
       ],
       "price_target": {
-        "mean": 647.5,
+        "mean": 650.0,
         "low": 188.0,
         "high": 1201.0,
-        "median": 578.5,
-        "analyst_count": 20,
+        "median": 582.0,
+        "analyst_count": 21,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.45,
-        "upside_pct": 160.83628169184462
+        "upside_pct": 161.84337158254672
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -556,7 +560,7 @@
       "close": 22.520000457763672,
       "pct": 7.3915173827501235,
       "volume": 1610000.0,
-      "volume_x": 0.7893553712201031,
+      "volume_x": 0.7845782136762216,
       "last_price_date": "2026-10-15",
       "market_cap": 1562131712,
       "enterprise_value": 1385131712.0,
@@ -572,14 +576,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.272213,
-        "low": 28.031645,
-        "high": 91.66311,
-        "median": 66.84884,
+        "mean": 61.416954,
+        "low": 28.097864,
+        "high": 91.87965,
+        "median": 67.00675,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 172.07909304849358
+        "upside_pct": 172.72181506029574
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -662,8 +666,8 @@
       "volume": 972100.0,
       "volume_x": 1.1032173863700845,
       "last_price_date": "2026-10-15",
-      "market_cap": 900965760,
-      "enterprise_value": 461965760.0,
+      "market_cap": 860412672,
+      "enterprise_value": 421412672.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
@@ -733,8 +737,8 @@
         "high": 65.0,
         "median": 21.0,
         "analyst_count": 16,
-        "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.3125,
+        "recommendation_key": "none",
+        "recommendation_mean": null,
         "upside_pct": 104.38898652241507
       },
       "anchors": {
