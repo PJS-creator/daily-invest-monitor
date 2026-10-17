@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-17 23:18:19 KST",
-    "generated_at_utc": "2026-10-17T14:18:36.036639+00:00",
+    "generated_at_local": "2026-10-18 00:00:49 KST",
+    "generated_at_utc": "2026-10-17T15:01:05.566095+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -126,8 +126,8 @@
       "ticker": "QURE",
       "close": 21.780000686645508,
       "pct": -3.2859669452762086,
-      "pt": 61.382427,
-      "pt_upside": 181.8293161838001,
+      "pt": 61.427395,
+      "pt_upside": 182.03578082375566,
       "mktcap": "$1.51B",
       "ev": "$1.33B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -582,14 +582,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.382427,
+        "mean": 61.427395,
         "low": 28.082067,
         "high": 91.82799,
         "median": 66.96908,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 181.8293161838001
+        "upside_pct": 182.03578082375566
       },
       "anchors": {
         "as_of": "2025-09-30",
