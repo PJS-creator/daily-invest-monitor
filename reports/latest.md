@@ -1,4 +1,4 @@
-## Daily Report (2026-10-19 00:00:52 KST)
+## Daily Report (2026-10-19 06:00:49 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, IKT, IMMX
 
@@ -12,7 +12,7 @@
 | MGTX | 9.28 | -6.17% | 27.75 | +199.03% | $891.3M | $720.4M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 241.76 | -2.61% | 650.00 | +168.86% | $6.75B | $5.20B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 7.52 | -3.22% | 39.67 | +427.48% | $223.9M | $183.7M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 21.78 | -3.29% | 61.43 | +182.04% | $1.51B | $1.33B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 21.78 | -3.29% | 61.22 | +181.09% | $1.51B | $1.33B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 16.66 | -0.77% | 21.56 | +29.39% | $821.5M | $516.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 12.93 | -7.64% | 33.45 | +158.74% | $832.1M | $393.1M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 10.75 | -7.49% | 23.75 | +120.93% | $1.49B | $1.23B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -293,8 +293,8 @@
 - **Volume**: `1,294,000` (≈ `0.63x` avg)
 - **Market Cap**: $1.51B
 - **EV**: $1.33B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `61.43` (low `28.08` / high `91.83`; n=12)
-  - Upside to PT (mean): `+182.0%`
+- **Price Target (consensus)**: mean `61.22` (low `27.99` / high `91.52`; n=12)
+  - Upside to PT (mean): `+181.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
