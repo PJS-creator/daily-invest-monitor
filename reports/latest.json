@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-19 10:30:28 KST",
-    "generated_at_utc": "2026-10-19T01:30:46.286711+00:00",
+    "generated_at_local": "2026-10-19 12:00:52 KST",
+    "generated_at_utc": "2026-10-19T03:01:09.409991+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -158,8 +158,8 @@
       "pct": -7.642854963030132,
       "pt": 33.45455,
       "pt_upside": 158.73587943078698,
-      "mktcap": "$794.7M",
-      "ev": "$355.7M",
+      "mktcap": "$832.1M",
+      "ev": "$393.1M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -672,8 +672,8 @@
       "volume": 1123300.0,
       "volume_x": 1.2601115736643076,
       "last_price_date": "2026-10-16",
-      "market_cap": 794652608,
-      "enterprise_value": 355652608.0,
+      "market_cap": 832106240,
+      "enterprise_value": 393106240.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
