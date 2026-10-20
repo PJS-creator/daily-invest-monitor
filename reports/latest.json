@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-20 10:59:13 KST",
-    "generated_at_utc": "2026-10-20T01:59:41.223953+00:00",
+    "generated_at_local": "2026-10-20 12:00:52 KST",
+    "generated_at_utc": "2026-10-20T03:01:09.440323+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -29,7 +29,7 @@
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "VOL 5.4x"
+      "alert": "VOL 5.8x"
     },
     {
       "ticker": "GPCR",
@@ -125,8 +125,8 @@
       "ticker": "QURE",
       "close": 22.200000762939453,
       "pct": 1.9283749451462162,
-      "pt": 61.323986,
-      "pt_upside": 176.23416167793062,
+      "pt": 61.36531,
+      "pt_upside": 176.4203058156776,
       "mktcap": "$1.54B",
       "ev": "$1.36B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -157,8 +157,8 @@
       "pct": 8.120643559770379,
       "pt": 33.45455,
       "pt_upside": 139.30294059686642,
-      "mktcap": "$859.2M",
-      "ev": "$420.2M",
+      "mktcap": "$899.7M",
+      "ev": "$460.7M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -204,14 +204,14 @@
       "close": 1.2400000095367432,
       "pct": 4.2016764631988,
       "volume": 3192000.0,
-      "volume_x": 5.372118503010036,
+      "volume_x": 5.825816837194702,
       "last_price_date": "2026-10-19",
       "market_cap": 78626016,
       "enterprise_value": 45526016.0,
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [
-        "VOL 5.4x"
+        "VOL 5.8x"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -256,7 +256,7 @@
       "close": 22.010000228881836,
       "pct": 4.411766169552611,
       "volume": 1312600.0,
-      "volume_x": 1.2548313300581146,
+      "volume_x": 1.272042206294506,
       "last_price_date": "2026-10-19",
       "market_cap": 1569529984,
       "enterprise_value": 59529984.0,
@@ -306,7 +306,7 @@
       "close": 1.6449999809265137,
       "pct": -0.30303001841675004,
       "volume": 1330200.0,
-      "volume_x": 2.185298601619178,
+      "volume_x": 2.227200578650218,
       "last_price_date": "2026-10-19",
       "market_cap": 229536560,
       "enterprise_value": 69436560.0,
@@ -356,7 +356,7 @@
       "close": 8.220000267028809,
       "pct": 3.0075218970135653,
       "volume": 1302400.0,
-      "volume_x": 0.810923053837595,
+      "volume_x": 0.8084961623746346,
       "last_price_date": "2026-10-19",
       "market_cap": 681462272,
       "enterprise_value": 572962272.0,
@@ -406,7 +406,7 @@
       "close": 9.449999809265137,
       "pct": 1.8318974265693955,
       "volume": 759500.0,
-      "volume_x": 0.9708402785589382,
+      "volume_x": 0.9649627673023097,
       "last_price_date": "2026-10-19",
       "market_cap": 907606272,
       "enterprise_value": 736706272.0,
@@ -508,7 +508,7 @@
       "close": 7.789999961853027,
       "pct": 3.5904252873847575,
       "volume": 609900.0,
-      "volume_x": 0.8280305797028648,
+      "volume_x": 0.8376677155253518,
       "last_price_date": "2026-10-19",
       "market_cap": 231904144,
       "enterprise_value": 191704144.0,
@@ -549,7 +549,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -560,7 +561,7 @@
       "close": 22.200000762939453,
       "pct": 1.9283749451462162,
       "volume": 1368700.0,
-      "volume_x": 0.6660168861824974,
+      "volume_x": 0.6675279616036083,
       "last_price_date": "2026-10-19",
       "market_cap": 1539934464,
       "enterprise_value": 1362934464.0,
@@ -576,14 +577,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.323986,
-        "low": 28.034794,
-        "high": 91.6734,
-        "median": 66.856346,
+        "mean": 61.36531,
+        "low": 28.053684,
+        "high": 91.735176,
+        "median": 66.90139,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 176.23416167793062
+        "upside_pct": 176.4203058156776
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -612,7 +613,7 @@
       "close": 17.940000534057617,
       "pct": 7.683077421182194,
       "volume": 1013200.0,
-      "volume_x": 1.0095052109280036,
+      "volume_x": 1.0082474883372872,
       "last_price_date": "2026-10-19",
       "market_cap": 884580672,
       "enterprise_value": 579180672.0,
@@ -664,10 +665,10 @@
       "close": 13.979999542236328,
       "pct": 8.120643559770379,
       "volume": 862500.0,
-      "volume_x": 0.9675476117559559,
+      "volume_x": 0.9603800098431992,
       "last_price_date": "2026-10-19",
-      "market_cap": 859183488,
-      "enterprise_value": 420183488.0,
+      "market_cap": 899678592,
+      "enterprise_value": 460678592.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [
@@ -759,8 +760,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/CMPS -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
