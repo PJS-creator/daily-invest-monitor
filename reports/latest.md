@@ -1,41 +1,41 @@
-## Daily Report (2026-10-22 00:00:57 KST)
+## Daily Report (2026-10-22 01:00:50 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.50 | +8.70% | 8.56 | +470.37% | $95.1M | $62.0M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | PRICE +8.7% |
-| GPCR | 22.49 | -1.73% | 105.78 | +370.46% | $1.60B | $93.4M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
-| IKT | 1.73 | +0.88% | 5.55 | +221.74% | $240.7M | $80.6M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | 8.87 | -0.45% | 24.43 | +175.37% | $734.5M | $626.0M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
-| MGTX | 9.96 | -0.10% | 27.75 | +178.61% | $956.6M | $785.7M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 265.10 | +0.23% | 650.00 | +145.19% | $7.40B | $5.85B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
-| QTTB | 8.70 | +0.93% | 39.67 | +355.94% | $259.0M | $218.8M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.64 | -0.33% | 61.34 | +170.96% | $1.57B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 18.92 | +0.37% | 22.30 | +17.86% | $932.9M | $627.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 15.23 | +2.73% | 33.45 | +119.59% | $936.3M | $497.3M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
-| CMPS | 11.96 | +0.50% | 23.75 | +98.58% | $1.65B | $1.39B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
+| EQ | 1.43 | +3.99% | 8.56 | +496.21% | $91.0M | $57.9M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
+| GPCR | 22.24 | -2.80% | 105.78 | +375.64% | $1.59B | $75.9M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
+| IKT | 1.67 | -2.05% | 5.55 | +231.34% | $233.7M | $73.6M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
+| IMMX | 8.80 | -1.23% | 24.43 | +177.56% | $729.5M | $621.0M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| MGTX | 10.04 | +0.70% | 27.75 | +176.39% | $964.3M | $793.4M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
+| PRAX | 263.23 | -0.48% | 650.00 | +146.93% | $7.35B | $5.80B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
+| QTTB | 8.57 | -0.58% | 39.67 | +362.85% | $255.1M | $214.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
+| QURE | 22.78 | +0.31% | 61.32 | +169.14% | $1.58B | $1.40B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| AVBP | 18.77 | -0.42% | 22.30 | +18.81% | $925.5M | $620.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
+| CGEM | 14.92 | +0.61% | 33.45 | +124.23% | $916.3M | $477.3M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CMPS | 11.83 | -0.59% | 23.75 | +100.76% | $1.64B | $1.38B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.50 (+8.70%) | ⚠️ PRICE +8.7% | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.43 (+3.99%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `1.50` (+8.70%)
-- **Volume**: `140,481` (≈ `0.23x` avg)
-- **Market Cap**: $95.1M
-- **EV**: $62.0M (calc; net cash as-of 2025-09-30)
+- **Close (2026-10-21)**: `1.43` (+3.99%)
+- **Volume**: `234,626` (≈ `0.39x` avg)
+- **Market Cap**: $91.0M
+- **EV**: $57.9M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
-  - Upside to PT (mean): `+470.4%`
+  - Upside to PT (mean): `+496.2%`
 - **Net Cash (anchor)**: $33.1M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$2.2M / month
 - **Runway (anchor)**: ~15.2 months
 - **Buyout/SOTP (anchor)**: Bear `0.52` / Base `1.56` / Bull `4.99` (USD/share)
-  - Upside to Base (simple): `+4.0%`
+  - Upside to Base (simple): `+8.7%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -58,20 +58,20 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 22.49 (-1.73%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 22.24 (-2.80%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `22.49` (-1.73%)
-- **Volume**: `185,330` (≈ `0.17x` avg)
-- **Market Cap**: $1.60B
-- **EV**: $93.4M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
+- **Close (2026-10-21)**: `22.24` (-2.80%)
+- **Volume**: `266,273` (≈ `0.25x` avg)
+- **Market Cap**: $1.59B
+- **EV**: $75.9M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `105.78` (low `70.00` / high `145.00`; n=15)
-  - Upside to PT (mean): `+370.5%`
+  - Upside to PT (mean): `+375.6%`
 - **Net Cash (anchor)**: $1.51B (as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Burn (anchor)**: ~$53.0M / quarter
 - **Buyout/SOTP (anchor)**: Bear `42.88` / Base `106.51` / Bull `336.75` (USD/share)
-  - Upside to Base (simple): `+373.7%`
+  - Upside to Base (simple): `+378.9%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -95,21 +95,21 @@
 
 </details>
 <details>
-<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.73 (+0.88%) | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
+<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.67 (-2.05%) | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `1.73` (+0.88%)
-- **Volume**: `115,112` (≈ `0.19x` avg)
-- **Market Cap**: $240.7M
-- **EV**: $80.6M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
+- **Close (2026-10-21)**: `1.67` (-2.05%)
+- **Volume**: `173,341` (≈ `0.29x` avg)
+- **Market Cap**: $233.7M
+- **EV**: $73.6M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
-  - Upside to PT (mean): `+221.7%`
+  - Upside to PT (mean): `+231.3%`
 - **Net Cash (anchor)**: $160.1M (as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Burn (anchor)**: ~$2.3M / month
 - **Runway (anchor)**: ~71.0 months
 - **Buyout/SOTP (anchor)**: Bear `1.7` / Base `4.32` / Bull `12.67` (USD/share)
-  - Upside to Base (simple): `+150.4%`
+  - Upside to Base (simple): `+157.9%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -132,21 +132,21 @@
 
 </details>
 <details>
-<summary><strong>IMMX — Immix Biopharma</strong> — Close 8.87 (-0.45%) | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
+<summary><strong>IMMX — Immix Biopharma</strong> — Close 8.80 (-1.23%) | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `8.87` (-0.45%)
-- **Volume**: `155,998` (≈ `0.10x` avg)
-- **Market Cap**: $734.5M
-- **EV**: $626.0M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
+- **Close (2026-10-21)**: `8.80` (-1.23%)
+- **Volume**: `265,476` (≈ `0.17x` avg)
+- **Market Cap**: $729.5M
+- **EV**: $621.0M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.43` (low `17.40` / high `30.00`; n=8)
-  - Upside to PT (mean): `+175.4%`
+  - Upside to PT (mean): `+177.6%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months
 - **Buyout/SOTP (anchor)**: Bear `8.82` / Base `32.69` / Bull `67.43` (USD/share)
-  - Upside to Base (simple): `+268.5%`
+  - Upside to Base (simple): `+271.5%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -170,21 +170,21 @@
 
 </details>
 <details>
-<summary><strong>MGTX — MeiraGTx</strong> — Close 9.96 (-0.10%) | Next: 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates</summary>
+<summary><strong>MGTX — MeiraGTx</strong> — Close 10.04 (+0.70%) | Next: 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `9.96` (-0.10%)
-- **Volume**: `106,306` (≈ `0.13x` avg)
-- **Market Cap**: $956.6M
-- **EV**: $785.7M (calc; net cash as-of 2025 Q3 (pro forma))
+- **Close (2026-10-21)**: `10.04` (+0.70%)
+- **Volume**: `191,004` (≈ `0.24x` avg)
+- **Market Cap**: $964.3M
+- **EV**: $793.4M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
-  - Upside to PT (mean): `+178.6%`
+  - Upside to PT (mean): `+176.4%`
 - **Net Cash (anchor)**: $170.9M (as-of 2025 Q3 (pro forma))
 - **Burn (anchor)**: ~$34.5M / quarter
 - **Runway (anchor)**: ~21.4 months
 - **Buyout/SOTP (anchor)**: Bear `6.4` / Base `23.31` / Bull `76.34` (USD/share)
-  - Upside to Base (simple): `+134.0%`
+  - Upside to Base (simple): `+132.2%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -208,21 +208,21 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 265.10 (+0.23%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 263.23 (-0.48%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `265.10` (+0.23%)
-- **Volume**: `78,401` (≈ `0.17x` avg)
-- **Market Cap**: $7.40B
-- **EV**: $5.85B (calc; net cash as-of (pro forma))
+- **Close (2026-10-21)**: `263.23` (-0.48%)
+- **Volume**: `126,935` (≈ `0.28x` avg)
+- **Market Cap**: $7.35B
+- **EV**: $5.80B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
-  - Upside to PT (mean): `+145.2%`
+  - Upside to PT (mean): `+146.9%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
 - **Buyout/SOTP (anchor)**: Bear `162` / Base `471` / Bull `1485` (USD/share)
-  - Upside to Base (simple): `+77.7%`
+  - Upside to Base (simple): `+78.9%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -246,21 +246,21 @@
 
 </details>
 <details>
-<summary><strong>QTTB — Q32 Bio</strong> — Close 8.70 (+0.93%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
+<summary><strong>QTTB — Q32 Bio</strong> — Close 8.57 (-0.58%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `8.70` (+0.93%)
-- **Volume**: `67,356` (≈ `0.09x` avg)
-- **Market Cap**: $259.0M
-- **EV**: $218.8M (calc; net cash as-of (pro forma est.))
+- **Close (2026-10-21)**: `8.57` (-0.58%)
+- **Volume**: `90,468` (≈ `0.13x` avg)
+- **Market Cap**: $255.1M
+- **EV**: $214.9M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
-  - Upside to PT (mean): `+355.9%`
+  - Upside to PT (mean): `+362.9%`
 - **Net Cash (anchor)**: $40.2M (as-of (pro forma est.))
 - **Burn (anchor)**: ~$3.0M / month
 - **Runway (anchor)**: ~13.2 months
 - **Buyout/SOTP (anchor)**: Bear `4.26` / Base `11.96` / Bull `42.84` (USD/share)
-  - Upside to Base (simple): `+37.5%`
+  - Upside to Base (simple): `+39.6%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -284,21 +284,21 @@
 
 </details>
 <details>
-<summary><strong>QURE — uniQure</strong> — Close 22.64 (-0.33%) | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
+<summary><strong>QURE — uniQure</strong> — Close 22.78 (+0.31%) | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `22.64` (-0.33%)
-- **Volume**: `117,628` (≈ `0.06x` avg)
-- **Market Cap**: $1.57B
-- **EV**: $1.39B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `61.34` (low `28.04` / high `91.70`; n=12)
-  - Upside to PT (mean): `+171.0%`
+- **Close (2026-10-21)**: `22.78` (+0.31%)
+- **Volume**: `195,370` (≈ `0.09x` avg)
+- **Market Cap**: $1.58B
+- **EV**: $1.40B (calc; net cash as-of 2025-09-30)
+- **Price Target (consensus)**: mean `61.32` (low `28.03` / high `91.67`; n=12)
+  - Upside to PT (mean): `+169.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
 - **Buyout/SOTP (anchor)**: Bear `8.2` / Base `36.2` / Bull `122.0` (USD/share)
-  - Upside to Base (simple): `+59.9%`
+  - Upside to Base (simple): `+58.9%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -322,21 +322,21 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 18.92 (+0.37%) | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 18.77 (-0.42%) | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `18.92` (+0.37%)
-- **Volume**: `207,175` (≈ `0.21x` avg)
-- **Market Cap**: $932.9M
-- **EV**: $627.5M (calc; net cash as-of 2025-09-30)
+- **Close (2026-10-21)**: `18.77` (-0.42%)
+- **Volume**: `276,767` (≈ `0.27x` avg)
+- **Market Cap**: $925.5M
+- **EV**: $620.1M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `22.30` (low `15.00` / high `29.00`; n=10)
-  - Upside to PT (mean): `+17.9%`
+  - Upside to PT (mean): `+18.8%`
 - **Net Cash (anchor)**: $305.4M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$14.4M / month
 - **Runway (anchor)**: ~21.2 months
 - **Buyout/SOTP (anchor)**: Bear `20.57` / Base `56.74` / Bull `130.82` (USD/share)
-  - Upside to Base (simple): `+199.9%`
+  - Upside to Base (simple): `+202.3%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -360,20 +360,20 @@
 
 </details>
 <details>
-<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 15.23 (+2.73%) | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
+<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 14.92 (+0.61%) | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `15.23` (+2.73%)
-- **Volume**: `159,572` (≈ `0.18x` avg)
-- **Market Cap**: $936.3M
-- **EV**: $497.3M (calc; net cash as-of (net cash as of latest filings))
+- **Close (2026-10-21)**: `14.92` (+0.61%)
+- **Volume**: `203,371` (≈ `0.23x` avg)
+- **Market Cap**: $916.3M
+- **EV**: $477.3M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `33.45` (low `23.00` / high `42.00`; n=11)
-  - Upside to PT (mean): `+119.6%`
+  - Upside to PT (mean): `+124.2%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
 - **Burn (anchor)**: ~$36.5M / quarter
 - **Buyout/SOTP (anchor)**: Bear `8.6` / Base `17.9` / Bull `45.9` (USD/share)
-  - Upside to Base (simple): `+17.5%`
+  - Upside to Base (simple): `+20.0%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -393,26 +393,25 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/CGEM -> HTTP 429
 </details>
 
 </details>
 <details>
-<summary><strong>CMPS — Compass Pathways</strong> — Close 11.96 (+0.50%) | Next: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing</summary>
+<summary><strong>CMPS — Compass Pathways</strong> — Close 11.83 (-0.59%) | Next: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-21)**: `11.96` (+0.50%)
-- **Volume**: `401,733` (≈ `0.15x` avg)
-- **Market Cap**: $1.65B
-- **EV**: $1.39B (calc; net cash as-of (pro forma))
+- **Close (2026-10-21)**: `11.83` (-0.59%)
+- **Volume**: `551,885` (≈ `0.20x` avg)
+- **Market Cap**: $1.64B
+- **EV**: $1.38B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)
-  - Upside to PT (mean): `+98.6%`
+  - Upside to PT (mean): `+100.8%`
 - **Net Cash (anchor)**: $259.0M (as-of (pro forma))
 - **Burn (anchor)**: ~$13.3M / month
 - **Runway (anchor)**: ~19.5 months
 - **Buyout/SOTP (anchor)**: Bear `4.51` / Base `16.12` / Bull `60.45` (USD/share)
-  - Upside to Base (simple): `+34.8%`
+  - Upside to Base (simple): `+36.3%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
