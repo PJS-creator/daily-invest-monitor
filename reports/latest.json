@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-21 06:00:51 KST",
-    "generated_at_utc": "2026-10-20T21:01:06.269900+00:00",
+    "generated_at_local": "2026-10-21 10:50:03 KST",
+    "generated_at_utc": "2026-10-21T01:50:20.857562+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 1,
-    "total_new_sec": 1,
+    "total_new_press": 0,
+    "total_new_sec": 2,
     "alert_tickers": [
       "EQ",
       "IMMX",
@@ -58,8 +58,8 @@
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
       "runway": "71.0m",
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
-      "new_pr": 1,
-      "new_sec": 1,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -89,7 +89,7 @@
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "new_pr": 0,
-      "new_sec": 0,
+      "new_sec": 2,
       "alert": "-"
     },
     {
@@ -126,8 +126,8 @@
       "ticker": "QURE",
       "close": 22.71500015258789,
       "pct": 2.319816990764134,
-      "pt": 61.427395,
-      "pt_upside": 170.42656653031833,
+      "pt": 61.35153,
+      "pt_upside": 170.09258017993142,
       "mktcap": "$1.58B",
       "ev": "$1.40B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -204,8 +204,8 @@
       "name": "Equillium",
       "close": 1.3799999952316284,
       "pct": 11.290321340173893,
-      "volume": 765975.0,
-      "volume_x": 1.2891317262979674,
+      "volume": 774500.0,
+      "volume_x": 1.2974220751047403,
       "last_price_date": "2026-10-20",
       "market_cap": 87503152,
       "enterprise_value": 54403152.0,
@@ -256,8 +256,8 @@
       "name": "Structure Therapeutics",
       "close": 22.8799991607666,
       "pct": 3.9527438565999606,
-      "volume": 1406401.0,
-      "volume_x": 1.344504066299758,
+      "volume": 1408600.0,
+      "volume_x": 1.3394635869591058,
       "last_price_date": "2026-10-20",
       "market_cap": 1631569408,
       "enterprise_value": 121569408.0,
@@ -306,32 +306,18 @@
       "name": "Inhibikase Therapeutics",
       "close": 1.7100000381469727,
       "pct": 3.951371305417828,
-      "volume": 352242.0,
-      "volume_x": 0.5786753495952055,
+      "volume": 363400.0,
+      "volume_x": 0.5970060982020818,
       "last_price_date": "2026-10-20",
       "market_cap": 238606400,
       "enterprise_value": 78506400.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 1,
-      "new_press": [
-        {
-          "title": "Inhibikase Therapeutics Appoints Scott Wasserman to Board of Directors | IKT Stock News",
-          "url": "https://www.stocktitan.net/news/IKT/inhibikase-therapeutics-appoints-scott-wasserman-to-board-of-tyqqsoa55lgi.html",
-          "date_text": "Tue, 20 Oct 2026 20:01:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526426811/0001193125-26-426811-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "checklist": [],
       "price_target": {
@@ -370,8 +356,8 @@
       "name": "Immix Biopharma",
       "close": 8.90999984741211,
       "pct": 8.3941552064293,
-      "volume": 1215718.0,
-      "volume_x": 0.7569515918038493,
+      "volume": 1226000.0,
+      "volume_x": 0.7727916815846138,
       "last_price_date": "2026-10-20",
       "market_cap": 738665280,
       "enterprise_value": 630165280.0,
@@ -422,8 +408,8 @@
       "name": "MeiraGTx",
       "close": 9.970000267028809,
       "pct": 5.502650457768721,
-      "volume": 750155.0,
-      "volume_x": 0.9536119169232412,
+      "volume": 755900.0,
+      "volume_x": 0.9609150748875606,
       "last_price_date": "2026-10-20",
       "market_cap": 957548672,
       "enterprise_value": 786648672.0,
@@ -431,9 +417,22 @@
       "runway_months": 21.4,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 0,
+      "new_sec_count": 2,
       "new_press": [],
-      "new_sec": [],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174273426000022/0001742734-26-000022-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174273426000021/0001742734-26-000021-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "checklist": [],
       "price_target": {
@@ -472,8 +471,8 @@
       "name": "Praxis Precision Medicines",
       "close": 264.489990234375,
       "pct": 1.6604437804822458,
-      "volume": 774972.0,
-      "volume_x": 1.7427006314426035,
+      "volume": 886000.0,
+      "volume_x": 1.9624085796680295,
       "last_price_date": "2026-10-20",
       "market_cap": 7384557568,
       "enterprise_value": 5834557568.0,
@@ -524,8 +523,8 @@
       "name": "Q32 Bio",
       "close": 8.619999885559082,
       "pct": 10.654684567015327,
-      "volume": 502399.0,
-      "volume_x": 0.6917752386932252,
+      "volume": 506100.0,
+      "volume_x": 0.6968713080691666,
       "last_price_date": "2026-10-20",
       "market_cap": 256612800,
       "enterprise_value": 216412800.0,
@@ -568,8 +567,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
@@ -579,8 +577,8 @@
       "name": "uniQure",
       "close": 22.71500015258789,
       "pct": 2.319816990764134,
-      "volume": 1303195.0,
-      "volume_x": 0.6341417958563599,
+      "volume": 1417000.0,
+      "volume_x": 0.6928295805471838,
       "last_price_date": "2026-10-20",
       "market_cap": 1575658112,
       "enterprise_value": 1398658112.0,
@@ -596,14 +594,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.427395,
-        "low": 28.082067,
-        "high": 91.82799,
-        "median": 66.96908,
+        "mean": 61.35153,
+        "low": 28.047382,
+        "high": 91.71457,
+        "median": 66.88637,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 170.42656653031833
+        "upside_pct": 170.09258017993142
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -631,8 +629,8 @@
       "name": "ArriVent BioPharma",
       "close": 18.850000381469727,
       "pct": 5.072462766567654,
-      "volume": 813987.0,
-      "volume_x": 0.8099034667207937,
+      "volume": 817800.0,
+      "volume_x": 0.8136973380216946,
       "last_price_date": "2026-10-20",
       "market_cap": 929450688,
       "enterprise_value": 624050688.0,
@@ -683,8 +681,8 @@
       "name": "Cullinan Therapeutics",
       "close": 14.829999923706055,
       "pct": 6.080117376983507,
-      "volume": 684300.0,
-      "volume_x": 0.762429166397408,
+      "volume": 694000.0,
+      "volume_x": 0.7696726783943785,
       "last_price_date": "2026-10-20",
       "market_cap": 911422848,
       "enterprise_value": 472422848.0,
@@ -735,8 +733,8 @@
       "name": "Compass Pathways",
       "close": 11.899999618530273,
       "pct": 7.110710947486187,
-      "volume": 2198015.0,
-      "volume_x": 0.7998849308966729,
+      "volume": 3331800.0,
+      "volume_x": 1.209369181013361,
       "last_price_date": "2026-10-20",
       "market_cap": 1647874048,
       "enterprise_value": 1388874048.0,

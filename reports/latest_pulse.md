@@ -1,7 +1,7 @@
-# Pulse Input (2026-10-21 06:00:51 KST)
+# Pulse Input (2026-10-21 10:50:03 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 1건 / SEC 1건 / Alert EQ, IMMX, QTTB
+- 요약: PR 0건 / SEC 2건 / Alert EQ, IMMX, QTTB
 
 ## Must Watch
 - **EQ** (Equillium) — PRICE +11.3% | 주가 +11.29%
@@ -11,12 +11,12 @@
   - 체크포인트: SIGNAL-AA Phase 2 업데이트
 - **IMMX** (Immix Biopharma) — PRICE +8.4% | 주가 +8.39%
   - 다음 촉매: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates
-- **IKT** (Inhibikase Therapeutics) — SEC 1건 | PR 1건 | 주가 +3.95%
-  - 변화: SEC: 8-K  - Current report / PR: Inhibikase Therapeutics Appoints Scott Wasserman to Board of Directors | IKT Stock News
-  - 다음 촉매: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed
+- **MGTX** (MeiraGTx) — SEC 2건 | 주가 +5.50%
+  - 변화: SEC: 4  - Statement of changes in beneficial ownership of securities; 144  - Report of proposed sale of securities
+  - 다음 촉매: 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates
 
 ## Ignore / Noise
-- 큰 변화 없음: GPCR, MGTX, PRAX, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: GPCR, IKT, PRAX, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
