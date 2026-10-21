@@ -1,6 +1,6 @@
-## Daily Report (2026-10-21 12:00:55 KST)
+## Daily Report (2026-10-21 18:00:52 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, IMMX, QTTB
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, IMMX, QTTB, AVBP
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -12,9 +12,9 @@
 | MGTX | 9.97 | +5.50% | 27.75 | +178.33% | $957.5M | $786.6M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 264.49 | +1.66% | 650.00 | +145.76% | $7.38B | $5.83B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.62 | +10.65% | 39.67 | +360.17% | $256.6M | $216.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | PRICE +10.7% |
-| QURE | 22.72 | +2.32% | 61.36 | +170.12% | $1.58B | $1.40B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 18.85 | +5.07% | 21.56 | +14.35% | $929.5M | $624.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 14.83 | +6.08% | 33.45 | +125.59% | $911.4M | $472.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| QURE | 22.72 | +2.32% | 61.32 | +169.94% | $1.58B | $1.40B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| AVBP | 18.85 | +5.07% | 22.30 | +18.30% | $929.5M | $624.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PT 21.56→22.30 |
+| CGEM | 14.83 | +6.08% | 33.45 | +125.59% | $954.4M | $515.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.90 | +7.11% | 23.75 | +99.58% | $1.65B | $1.39B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -26,7 +26,7 @@
 
 #### Key Metrics
 - **Close (2026-10-20)**: `1.38` (+11.29%)
-- **Volume**: `774,500` (≈ `1.30x` avg)
+- **Volume**: `774,500` (≈ `1.29x` avg)
 - **Market Cap**: $87.5M
 - **EV**: $54.4M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-10-20)**: `22.88` (+3.95%)
-- **Volume**: `1,408,600` (≈ `1.32x` avg)
+- **Volume**: `1,408,600` (≈ `1.34x` avg)
 - **Market Cap**: $1.63B
 - **EV**: $121.6M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `105.78` (low `70.00` / high `145.00`; n=15)
@@ -280,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -292,8 +293,8 @@
 - **Volume**: `1,417,000` (≈ `0.69x` avg)
 - **Market Cap**: $1.58B
 - **EV**: $1.40B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `61.36` (low `28.05` / high `91.72`; n=12)
-  - Upside to PT (mean): `+170.1%`
+- **Price Target (consensus)**: mean `61.32` (low `28.03` / high `91.66`; n=12)
+  - Upside to PT (mean): `+169.9%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -322,7 +323,7 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 18.85 (+5.07%) | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 18.85 (+5.07%) | ⚠️ PT 21.56→22.30 | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics
@@ -330,8 +331,8 @@
 - **Volume**: `817,800` (≈ `0.81x` avg)
 - **Market Cap**: $929.5M
 - **EV**: $624.1M (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `21.56` (low `15.00` / high `29.00`; n=9)
-  - Upside to PT (mean): `+14.4%`
+- **Price Target (consensus)**: mean `22.30` (low `15.00` / high `29.00`; n=10)
+  - Upside to PT (mean): `+18.3%`
 - **Net Cash (anchor)**: $305.4M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$14.4M / month
 - **Runway (anchor)**: ~21.2 months
@@ -366,8 +367,8 @@
 #### Key Metrics
 - **Close (2026-10-20)**: `14.83` (+6.08%)
 - **Volume**: `694,000` (≈ `0.78x` avg)
-- **Market Cap**: $911.4M
-- **EV**: $472.4M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $954.4M
+- **EV**: $515.4M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `33.45` (low `23.00` / high `42.00`; n=11)
   - Upside to PT (mean): `+125.6%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))

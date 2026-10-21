@@ -1,7 +1,7 @@
-# Pulse Input (2026-10-21 12:00:55 KST)
+# Pulse Input (2026-10-21 18:00:52 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert EQ, IMMX, QTTB
+- 요약: PR 0건 / SEC 0건 / Alert EQ, IMMX, QTTB, AVBP
 
 ## Must Watch
 - **EQ** (Equillium) — PRICE +11.3% | 주가 +11.29%
@@ -11,9 +11,12 @@
   - 체크포인트: SIGNAL-AA Phase 2 업데이트
 - **IMMX** (Immix Biopharma) — PRICE +8.4% | 주가 +8.39%
   - 다음 촉매: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates
+- **AVBP** (ArriVent BioPharma) — PT 21.56→22.30 | 주가 +5.07%
+  - 다음 촉매: early-2026: FURVENT Phase 3 topline
+  - 체크포인트: FURVENT / ALPACCA 관련 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: GPCR, IKT, MGTX, PRAX, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: GPCR, IKT, MGTX, PRAX, QURE, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-21 12:00:55 KST",
-    "generated_at_utc": "2026-10-21T03:01:15.304777+00:00",
+    "generated_at_local": "2026-10-21 18:00:52 KST",
+    "generated_at_utc": "2026-10-21T09:01:09.277855+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -12,7 +12,8 @@
     "alert_tickers": [
       "EQ",
       "IMMX",
-      "QTTB"
+      "QTTB",
+      "AVBP"
     ],
     "overall_judgement": "행동 고려"
   },
@@ -126,8 +127,8 @@
       "ticker": "QURE",
       "close": 22.71500015258789,
       "pct": 2.319816990764134,
-      "pt": 61.358418,
-      "pt_upside": 170.1229037544581,
+      "pt": 61.3171,
+      "pt_upside": 169.94100633107072,
       "mktcap": "$1.58B",
       "ev": "$1.40B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -141,8 +142,8 @@
       "ticker": "AVBP",
       "close": 18.850000381469727,
       "pct": 5.072462766567654,
-      "pt": 21.55556,
-      "pt_upside": 14.353101134098335,
+      "pt": 22.3,
+      "pt_upside": 18.30238487380487,
       "mktcap": "$929.5M",
       "ev": "$624.1M",
       "net_cash": "$305.4M (2025-09-30)",
@@ -150,7 +151,7 @@
       "next": "early-2026: FURVENT Phase 3 topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 21.56→22.30"
     },
     {
       "ticker": "CGEM",
@@ -158,8 +159,8 @@
       "pct": 6.080117376983507,
       "pt": 33.45455,
       "pt_upside": 125.5869870000621,
-      "mktcap": "$911.4M",
-      "ev": "$472.4M",
+      "mktcap": "$954.4M",
+      "ev": "$515.4M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -205,7 +206,7 @@
       "close": 1.3799999952316284,
       "pct": 11.290321340173893,
       "volume": 774500.0,
-      "volume_x": 1.2974220751047403,
+      "volume_x": 1.2917418584404365,
       "last_price_date": "2026-10-20",
       "market_cap": 87503152,
       "enterprise_value": 54403152.0,
@@ -257,7 +258,7 @@
       "close": 22.8799991607666,
       "pct": 3.9527438565999606,
       "volume": 1408600.0,
-      "volume_x": 1.3246565165464514,
+      "volume_x": 1.3394635869591058,
       "last_price_date": "2026-10-20",
       "market_cap": 1631569408,
       "enterprise_value": 121569408.0,
@@ -357,7 +358,7 @@
       "close": 8.90999984741211,
       "pct": 8.3941552064293,
       "volume": 1226000.0,
-      "volume_x": 0.7661427400163977,
+      "volume_x": 0.7727916815846138,
       "last_price_date": "2026-10-20",
       "market_cap": 738665280,
       "enterprise_value": 630165280.0,
@@ -511,7 +512,7 @@
       "close": 8.619999885559082,
       "pct": 10.654684567015327,
       "volume": 506100.0,
-      "volume_x": 0.7001355725866696,
+      "volume_x": 0.7021540493519538,
       "last_price_date": "2026-10-20",
       "market_cap": 256612800,
       "enterprise_value": 216412800.0,
@@ -554,7 +555,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -565,7 +567,7 @@
       "close": 22.71500015258789,
       "pct": 2.319816990764134,
       "volume": 1417000.0,
-      "volume_x": 0.6865559552793827,
+      "volume_x": 0.6928295805471838,
       "last_price_date": "2026-10-20",
       "market_cap": 1575658112,
       "enterprise_value": 1398658112.0,
@@ -581,14 +583,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.358418,
-        "low": 28.050533,
-        "high": 91.72488,
-        "median": 66.89388,
+        "mean": 61.3171,
+        "low": 28.031645,
+        "high": 91.66311,
+        "median": 66.84884,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 170.1229037544581
+        "upside_pct": 169.94100633107072
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -623,7 +625,9 @@
       "enterprise_value": 624050688.0,
       "net_cash_m": 305.4,
       "runway_months": 21.2,
-      "alerts": [],
+      "alerts": [
+        "PT 21.56→22.30"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -633,14 +637,14 @@
         "FURVENT / ALPACCA 관련 업데이트"
       ],
       "price_target": {
-        "mean": 21.55556,
+        "mean": 22.3,
         "low": 15.0,
         "high": 29.0,
-        "median": 20.0,
-        "analyst_count": 9,
+        "median": 21.0,
+        "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 14.353101134098335
+        "upside_pct": 18.30238487380487
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -671,8 +675,8 @@
       "volume": 694000.0,
       "volume_x": 0.7759435148899535,
       "last_price_date": "2026-10-20",
-      "market_cap": 911422848,
-      "enterprise_value": 472422848.0,
+      "market_cap": 954380160,
+      "enterprise_value": 515380160.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
