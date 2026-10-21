@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-21 10:50:03 KST",
-    "generated_at_utc": "2026-10-21T01:50:20.857562+00:00",
+    "generated_at_local": "2026-10-21 12:00:55 KST",
+    "generated_at_utc": "2026-10-21T03:01:15.304777+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 2,
+    "total_new_sec": 0,
     "alert_tickers": [
       "EQ",
       "IMMX",
@@ -89,7 +89,7 @@
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "new_pr": 0,
-      "new_sec": 2,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -126,8 +126,8 @@
       "ticker": "QURE",
       "close": 22.71500015258789,
       "pct": 2.319816990764134,
-      "pt": 61.35153,
-      "pt_upside": 170.09258017993142,
+      "pt": 61.358418,
+      "pt_upside": 170.1229037544581,
       "mktcap": "$1.58B",
       "ev": "$1.40B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -257,7 +257,7 @@
       "close": 22.8799991607666,
       "pct": 3.9527438565999606,
       "volume": 1408600.0,
-      "volume_x": 1.3394635869591058,
+      "volume_x": 1.3246565165464514,
       "last_price_date": "2026-10-20",
       "market_cap": 1631569408,
       "enterprise_value": 121569408.0,
@@ -307,7 +307,7 @@
       "close": 1.7100000381469727,
       "pct": 3.951371305417828,
       "volume": 363400.0,
-      "volume_x": 0.5970060982020818,
+      "volume_x": 0.6053639846743295,
       "last_price_date": "2026-10-20",
       "market_cap": 238606400,
       "enterprise_value": 78506400.0,
@@ -357,7 +357,7 @@
       "close": 8.90999984741211,
       "pct": 8.3941552064293,
       "volume": 1226000.0,
-      "volume_x": 0.7727916815846138,
+      "volume_x": 0.7661427400163977,
       "last_price_date": "2026-10-20",
       "market_cap": 738665280,
       "enterprise_value": 630165280.0,
@@ -409,7 +409,7 @@
       "close": 9.970000267028809,
       "pct": 5.502650457768721,
       "volume": 755900.0,
-      "volume_x": 0.9609150748875606,
+      "volume_x": 0.9542938806015372,
       "last_price_date": "2026-10-20",
       "market_cap": 957548672,
       "enterprise_value": 786648672.0,
@@ -417,22 +417,9 @@
       "runway_months": 21.4,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 2,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174273426000022/0001742734-26-000022-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "144  - Report of proposed sale of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000174273426000021/0001742734-26-000021-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "checklist": [],
       "price_target": {
@@ -524,7 +511,7 @@
       "close": 8.619999885559082,
       "pct": 10.654684567015327,
       "volume": 506100.0,
-      "volume_x": 0.6968713080691666,
+      "volume_x": 0.7001355725866696,
       "last_price_date": "2026-10-20",
       "market_cap": 256612800,
       "enterprise_value": 216412800.0,
@@ -578,7 +565,7 @@
       "close": 22.71500015258789,
       "pct": 2.319816990764134,
       "volume": 1417000.0,
-      "volume_x": 0.6928295805471838,
+      "volume_x": 0.6865559552793827,
       "last_price_date": "2026-10-20",
       "market_cap": 1575658112,
       "enterprise_value": 1398658112.0,
@@ -594,14 +581,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.35153,
-        "low": 28.047382,
-        "high": 91.71457,
-        "median": 66.88637,
+        "mean": 61.358418,
+        "low": 28.050533,
+        "high": 91.72488,
+        "median": 66.89388,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 170.09258017993142
+        "upside_pct": 170.1229037544581
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -630,7 +617,7 @@
       "close": 18.850000381469727,
       "pct": 5.072462766567654,
       "volume": 817800.0,
-      "volume_x": 0.8136973380216946,
+      "volume_x": 0.8109466895268089,
       "last_price_date": "2026-10-20",
       "market_cap": 929450688,
       "enterprise_value": 624050688.0,
@@ -682,7 +669,7 @@
       "close": 14.829999923706055,
       "pct": 6.080117376983507,
       "volume": 694000.0,
-      "volume_x": 0.7696726783943785,
+      "volume_x": 0.7759435148899535,
       "last_price_date": "2026-10-20",
       "market_cap": 911422848,
       "enterprise_value": 472422848.0,
@@ -734,7 +721,7 @@
       "close": 11.899999618530273,
       "pct": 7.110710947486187,
       "volume": 3331800.0,
-      "volume_x": 1.209369181013361,
+      "volume_x": 1.208533074878414,
       "last_price_date": "2026-10-20",
       "market_cap": 1647874048,
       "enterprise_value": 1388874048.0,
