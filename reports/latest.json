@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-22 10:41:30 KST",
-    "generated_at_utc": "2026-10-22T01:41:45.108733+00:00",
+    "generated_at_local": "2026-10-22 12:00:52 KST",
+    "generated_at_utc": "2026-10-22T03:01:14.814786+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 22.690000534057617,
       "pct": -0.1100577519803636,
-      "pt": 61.3722,
-      "pt_upside": 170.48126291526756,
+      "pt": 61.448124,
+      "pt_upside": 170.81587727495452,
       "mktcap": "$1.57B",
       "ev": "$1.40B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -251,7 +251,7 @@
       "close": 22.010000228881836,
       "pct": -3.802443023584512,
       "volume": 804400.0,
-      "volume_x": 0.754383612132034,
+      "volume_x": 0.7593077499608264,
       "last_price_date": "2026-10-21",
       "market_cap": 1569529984,
       "enterprise_value": 59529984.0,
@@ -301,7 +301,7 @@
       "close": 1.659999966621399,
       "pct": -2.9239807257405603,
       "volume": 529000.0,
-      "volume_x": 0.8812260536398467,
+      "volume_x": 0.8828393716319844,
       "last_price_date": "2026-10-21",
       "market_cap": 231629600,
       "enterprise_value": 71529600.0,
@@ -351,7 +351,7 @@
       "close": 8.510000228881836,
       "pct": -4.4893336181868975,
       "volume": 1539900.0,
-      "volume_x": 0.9732103300977255,
+      "volume_x": 0.9710923606644216,
       "last_price_date": "2026-10-21",
       "market_cap": 705504128,
       "enterprise_value": 597004128.0,
@@ -401,7 +401,7 @@
       "close": 9.859999656677246,
       "pct": -1.103316022120271,
       "volume": 635600.0,
-      "volume_x": 0.8024198842576228,
+      "volume_x": 0.7984413058962303,
       "last_price_date": "2026-10-21",
       "market_cap": 946983872,
       "enterprise_value": 776083872.0,
@@ -451,7 +451,7 @@
       "close": 256.4700012207031,
       "pct": -3.032246704899888,
       "volume": 497000.0,
-      "volume_x": 1.082484443369946,
+      "volume_x": 1.0908811554121534,
       "last_price_date": "2026-10-21",
       "market_cap": 7160639488,
       "enterprise_value": 5610639488.0,
@@ -503,7 +503,7 @@
       "close": 8.670000076293945,
       "pct": 0.5800486241145819,
       "volume": 322100.0,
-      "volume_x": 0.4468757543889831,
+      "volume_x": 0.4507107685031393,
       "last_price_date": "2026-10-21",
       "market_cap": 258101280,
       "enterprise_value": 217901280.0,
@@ -544,8 +544,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
@@ -556,7 +555,7 @@
       "close": 22.690000534057617,
       "pct": -0.1100577519803636,
       "volume": 1115300.0,
-      "volume_x": 0.5401277167411987,
+      "volume_x": 0.5442266496855069,
       "last_price_date": "2026-10-21",
       "market_cap": 1573923968,
       "enterprise_value": 1396923968.0,
@@ -572,14 +571,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.3722,
-        "low": 28.056835,
-        "high": 91.745476,
-        "median": 66.908905,
+        "mean": 61.448124,
+        "low": 28.091543,
+        "high": 91.85897,
+        "median": 66.99168,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 170.48126291526756
+        "upside_pct": 170.81587727495452
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -608,7 +607,7 @@
       "close": 19.1200008392334,
       "pct": 1.4323631421731653,
       "volume": 1489200.0,
-      "volume_x": 1.4767202372747907,
+      "volume_x": 1.4587671987007058,
       "last_price_date": "2026-10-21",
       "market_cap": 942763776,
       "enterprise_value": 637363776.0,
@@ -660,7 +659,7 @@
       "close": 14.890000343322754,
       "pct": 0.404588131661332,
       "volume": 691000.0,
-      "volume_x": 0.7637418265256047,
+      "volume_x": 0.7691100472930331,
       "last_price_date": "2026-10-21",
       "market_cap": 915110336,
       "enterprise_value": 476110336.0,
@@ -712,7 +711,7 @@
       "close": 11.84000015258789,
       "pct": -0.5041972089558144,
       "volume": 1826800.0,
-      "volume_x": 0.662637928657966,
+      "volume_x": 0.6664699021418755,
       "last_price_date": "2026-10-21",
       "market_cap": 1639565568,
       "enterprise_value": 1380565568.0,
@@ -805,7 +804,8 @@
       "errors": {
         "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/CRNX -> HTTP 429"
         ],
         "sec_error": null
       }

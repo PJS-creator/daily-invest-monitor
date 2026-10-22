@@ -1,4 +1,4 @@
-## Daily Report (2026-10-22 10:41:30 KST)
+## Daily Report (2026-10-22 12:00:52 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -12,7 +12,7 @@
 | MGTX | 9.86 | -1.10% | 27.75 | +181.44% | $947.0M | $776.1M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 256.47 | -3.03% | 650.00 | +153.44% | $7.16B | $5.61B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.67 | +0.58% | 39.67 | +357.52% | $258.1M | $217.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.69 | -0.11% | 61.37 | +170.48% | $1.57B | $1.40B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 22.69 | -0.11% | 61.45 | +170.82% | $1.57B | $1.40B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 19.12 | +1.43% | 22.30 | +16.63% | $942.8M | $637.4M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 14.89 | +0.40% | 33.45 | +124.68% | $915.1M | $476.1M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.84 | -0.50% | 23.75 | +100.59% | $1.64B | $1.38B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-10-21)**: `22.01` (-3.80%)
-- **Volume**: `804,400` (≈ `0.75x` avg)
+- **Volume**: `804,400` (≈ `0.76x` avg)
 - **Market Cap**: $1.57B
 - **EV**: $59.5M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `105.78` (low `70.00` / high `145.00`; n=15)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-10-21)**: `256.47` (-3.03%)
-- **Volume**: `497,000` (≈ `1.08x` avg)
+- **Volume**: `497,000` (≈ `1.09x` avg)
 - **Market Cap**: $7.16B
 - **EV**: $5.61B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
@@ -280,7 +280,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -293,8 +292,8 @@
 - **Volume**: `1,115,300` (≈ `0.54x` avg)
 - **Market Cap**: $1.57B
 - **EV**: $1.40B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `61.37` (low `28.06` / high `91.75`; n=12)
-  - Upside to PT (mean): `+170.5%`
+- **Price Target (consensus)**: mean `61.45` (low `28.09` / high `91.86`; n=12)
+  - Upside to PT (mean): `+170.8%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -328,7 +327,7 @@
 
 #### Key Metrics
 - **Close (2026-10-21)**: `19.12` (+1.43%)
-- **Volume**: `1,489,200` (≈ `1.48x` avg)
+- **Volume**: `1,489,200` (≈ `1.46x` avg)
 - **Market Cap**: $942.8M
 - **EV**: $637.4M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `22.30` (low `15.00` / high `29.00`; n=10)
@@ -366,7 +365,7 @@
 
 #### Key Metrics
 - **Close (2026-10-21)**: `14.89` (+0.40%)
-- **Volume**: `691,000` (≈ `0.76x` avg)
+- **Volume**: `691,000` (≈ `0.77x` avg)
 - **Market Cap**: $915.1M
 - **EV**: $476.1M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `33.45` (low `23.00` / high `42.00`; n=11)
@@ -403,7 +402,7 @@
 
 #### Key Metrics
 - **Close (2026-10-21)**: `11.84` (-0.50%)
-- **Volume**: `1,826,800` (≈ `0.66x` avg)
+- **Volume**: `1,826,800` (≈ `0.67x` avg)
 - **Market Cap**: $1.64B
 - **EV**: $1.38B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)
@@ -467,6 +466,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/CRNX -> HTTP 429
 </details>
 
 </details>
