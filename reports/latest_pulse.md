@@ -1,13 +1,16 @@
-# Pulse Input (2026-10-24 00:48:06 KST)
+# Pulse Input (2026-10-24 06:00:52 KST)
 
-- 전체 판단: **감시만**
-- 요약: PR 0건 / SEC 0건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 1건 / SEC 0건 / Alert AVBP
 
 ## Must Watch
-- 오늘은 즉시 대응할 내용 없음
+- **AVBP** (ArriVent BioPharma) — PRICE +9.4%, VOL 3.2x | PR 1건 | 주가 +9.37%
+  - 변화: PR: ArriVent to Present Initial Phase 1 Data for CDH17-targeted ADC ARR-217 in Patients with Gastrointestinal Cancers at the ESMO Congress 2026 | AVBP Stock News
+  - 다음 촉매: early-2026: FURVENT Phase 3 topline
+  - 체크포인트: FURVENT / ALPACCA 관련 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
