@@ -1,6 +1,6 @@
-## Daily Report (2026-10-23 12:00:59 KST)
+## Daily Report (2026-10-23 18:00:53 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, QURE, CGEM
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -12,9 +12,9 @@
 | MGTX | 9.77 | -0.91% | 27.75 | +184.03% | $938.3M | $767.4M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 258.92 | +0.96% | 650.00 | +151.04% | $7.23B | $5.68B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.80 | +1.50% | 39.67 | +350.76% | $262.0M | $221.8M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 23.11 | +1.85% | 61.28 | +165.15% | $1.60B | $1.43B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 23.11 | +1.85% | 60.32 | +161.01% | $1.60B | $1.43B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PT 61.28→60.32 |
 | AVBP | 19.20 | +0.42% | 22.30 | +16.15% | $946.7M | $641.3M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 14.92 | +0.20% | 33.45 | +124.23% | $917.0M | $478.0M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 14.92 | +0.20% | 34.50 | +131.23% | $917.0M | $478.0M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | PT 33.45→34.50 |
 | CMPS | 11.63 | -1.77% | 23.75 | +104.21% | $1.61B | $1.35B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -285,7 +285,7 @@
 
 </details>
 <details>
-<summary><strong>QURE — uniQure</strong> — Close 23.11 (+1.85%) | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
+<summary><strong>QURE — uniQure</strong> — Close 23.11 (+1.85%) | ⚠️ PT 61.28→60.32 | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
 
 
 #### Key Metrics
@@ -293,8 +293,8 @@
 - **Volume**: `1,546,400` (≈ `0.75x` avg)
 - **Market Cap**: $1.60B
 - **EV**: $1.43B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `61.28` (low `28.01` / high `91.60`; n=12)
-  - Upside to PT (mean): `+165.1%`
+- **Price Target (consensus)**: mean `60.32` (low `27.96` / high `91.44`; n=11)
+  - Upside to PT (mean): `+161.0%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -361,7 +361,7 @@
 
 </details>
 <details>
-<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 14.92 (+0.20%) | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
+<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 14.92 (+0.20%) | ⚠️ PT 33.45→34.50 | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
 
 
 #### Key Metrics
@@ -369,8 +369,8 @@
 - **Volume**: `392,700` (≈ `0.44x` avg)
 - **Market Cap**: $917.0M
 - **EV**: $478.0M (calc; net cash as-of (net cash as of latest filings))
-- **Price Target (consensus)**: mean `33.45` (low `23.00` / high `42.00`; n=11)
-  - Upside to PT (mean): `+124.2%`
+- **Price Target (consensus)**: mean `34.50` (low `27.00` / high `42.00`; n=10)
+  - Upside to PT (mean): `+131.2%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
 - **Burn (anchor)**: ~$36.5M / quarter
 - **Buyout/SOTP (anchor)**: Bear `8.6` / Base `17.9` / Bull `45.9` (USD/share)

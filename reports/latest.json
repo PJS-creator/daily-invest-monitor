@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-23 12:00:59 KST",
-    "generated_at_utc": "2026-10-23T03:01:15.244081+00:00",
+    "generated_at_local": "2026-10-23 18:00:53 KST",
+    "generated_at_utc": "2026-10-23T09:01:10.586155+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -10,7 +10,9 @@
     "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
-      "EQ"
+      "EQ",
+      "QURE",
+      "CGEM"
     ],
     "overall_judgement": "행동 고려"
   },
@@ -124,8 +126,8 @@
       "ticker": "QURE",
       "close": 23.110000610351562,
       "pct": 1.8510359912223384,
-      "pt": 61.275845,
-      "pt_upside": 165.14860831528048,
+      "pt": 60.31832,
+      "pt_upside": 161.00527220662158,
       "mktcap": "$1.60B",
       "ev": "$1.43B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -133,7 +135,7 @@
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 61.28→60.32"
     },
     {
       "ticker": "AVBP",
@@ -154,8 +156,8 @@
       "ticker": "CGEM",
       "close": 14.920000076293945,
       "pct": 0.20147570369026813,
-      "pt": 33.45455,
-      "pt_upside": 124.22620528772774,
+      "pt": 34.5,
+      "pt_upside": 131.2332427854091,
       "mktcap": "$917.0M",
       "ev": "$478.0M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
@@ -163,7 +165,7 @@
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 33.45→34.50"
     },
     {
       "ticker": "CMPS",
@@ -566,7 +568,9 @@
       "enterprise_value": 1426057920.0,
       "net_cash_m": 177.0,
       "runway_months": 15.9,
-      "alerts": [],
+      "alerts": [
+        "PT 61.28→60.32"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -576,14 +580,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.275845,
-        "low": 28.012785,
-        "high": 91.60143,
-        "median": 66.803856,
-        "analyst_count": 12,
+        "mean": 60.31832,
+        "low": 27.96261,
+        "high": 91.43736,
+        "median": 64.21471,
+        "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 165.14860831528048
+        "upside_pct": 161.00527220662158
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -670,7 +674,9 @@
       "enterprise_value": 477954112.0,
       "net_cash_m": 439.0,
       "runway_months": null,
-      "alerts": [],
+      "alerts": [
+        "PT 33.45→34.50"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -680,14 +686,14 @@
         "CLN-978 / CLN-049 업데이트"
       ],
       "price_target": {
-        "mean": 33.45455,
-        "low": 23.0,
+        "mean": 34.5,
+        "low": 27.0,
         "high": 42.0,
         "median": 35.0,
-        "analyst_count": 11,
+        "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 124.22620528772774
+        "upside_pct": 131.2332427854091
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
