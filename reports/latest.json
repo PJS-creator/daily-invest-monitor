@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-23 10:44:20 KST",
-    "generated_at_utc": "2026-10-23T01:44:34.398759+00:00",
+    "generated_at_local": "2026-10-23 12:00:59 KST",
+    "generated_at_utc": "2026-10-23T03:01:15.244081+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -92,10 +92,10 @@
     },
     {
       "ticker": "PRAX",
-      "close": null,
-      "pct": null,
+      "close": 258.9200134277344,
+      "pct": 0.9552821754474472,
       "pt": 650.0,
-      "pt_upside": null,
+      "pt_upside": 151.04278012152105,
       "mktcap": "$7.23B",
       "ev": "$5.68B",
       "net_cash": "$1.55B ((pro forma))",
@@ -124,8 +124,8 @@
       "ticker": "QURE",
       "close": 23.110000610351562,
       "pct": 1.8510359912223384,
-      "pt": 61.3171,
-      "pt_upside": 165.32712410459433,
+      "pt": 61.275845,
+      "pt_upside": 165.14860831528048,
       "mktcap": "$1.60B",
       "ev": "$1.43B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -452,11 +452,11 @@
     {
       "ticker": "PRAX",
       "name": "Praxis Precision Medicines",
-      "close": null,
-      "pct": null,
-      "volume": null,
-      "volume_x": null,
-      "last_price_date": null,
+      "close": 258.9200134277344,
+      "pct": 0.9552821754474472,
+      "volume": 355700.0,
+      "volume_x": 0.777421766060961,
+      "last_price_date": "2026-10-22",
       "market_cap": 7229043712,
       "enterprise_value": 5679043712.0,
       "net_cash_m": 1550.0,
@@ -478,7 +478,7 @@
         "analyst_count": 21,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.47619,
-        "upside_pct": null
+        "upside_pct": 151.04278012152105
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -494,7 +494,7 @@
         }
       },
       "errors": {
-        "price_error": "Not enough price rows (need >= 2 trading days).",
+        "price_error": null,
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -507,7 +507,7 @@
       "close": 8.800000190734863,
       "pct": 1.4994246055011207,
       "volume": 363600.0,
-      "volume_x": 0.5076255521614573,
+      "volume_x": 0.5115003165224731,
       "last_price_date": "2026-10-22",
       "market_cap": 261971312,
       "enterprise_value": 221771312.0,
@@ -576,14 +576,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 61.3171,
-        "low": 28.031645,
-        "high": 91.66311,
-        "median": 66.84884,
+        "mean": 61.275845,
+        "low": 28.012785,
+        "high": 91.60143,
+        "median": 66.803856,
         "analyst_count": 12,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 165.32712410459433
+        "upside_pct": 165.14860831528048
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -664,7 +664,7 @@
       "close": 14.920000076293945,
       "pct": 0.20147570369026813,
       "volume": 392700.0,
-      "volume_x": 0.43403967478524597,
+      "volume_x": 0.43785219394388086,
       "last_price_date": "2026-10-22",
       "market_cap": 916954112,
       "enterprise_value": 477954112.0,
@@ -716,7 +716,7 @@
       "close": 11.630000114440918,
       "pct": -1.7736489479780349,
       "volume": 1340900.0,
-      "volume_x": 0.48638668630253257,
+      "volume_x": 0.4902605997054561,
       "last_price_date": "2026-10-22",
       "market_cap": 1610485376,
       "enterprise_value": 1351485376.0,
