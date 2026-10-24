@@ -1,12 +1,12 @@
-## Daily Report (2026-10-24 10:48:06 KST)
+## Daily Report (2026-10-24 12:00:53 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** GPCR, AVBP
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** AVBP
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.23 | -3.15% | 8.56 | +595.57% | $78.0M | $44.9M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
-| GPCR | 21.19 | -3.37% | 107.29 | +406.30% | $1.51B | $1.1M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | PT 105.78→107.29 |
+| EQ | - | - | 8.56 | - | $78.0M | $44.9M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
+| GPCR | 21.19 | -3.37% | 107.29 | +406.30% | $1.51B | $1.1M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.59 | -2.45% | 5.55 | +249.06% | $221.9M | $61.8M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 8.15 | -2.40% | 24.43 | +199.69% | $675.7M | $567.2M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.21 | -5.73% | 27.75 | +201.30% | $884.6M | $713.7M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
@@ -21,21 +21,18 @@
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.23 (-3.15%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
-- **Close (2026-10-23)**: `1.23` (-3.15%)
-- **Volume**: `315,600` (≈ `0.54x` avg)
+- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
 - **Market Cap**: $78.0M
 - **EV**: $44.9M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
-  - Upside to PT (mean): `+595.6%`
 - **Net Cash (anchor)**: $33.1M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$2.2M / month
 - **Runway (anchor)**: ~15.2 months
 - **Buyout/SOTP (anchor)**: Bear `0.52` / Base `1.56` / Bull `4.99` (USD/share)
-  - Upside to Base (simple): `+26.8%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -58,7 +55,7 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 21.19 (-3.37%) | ⚠️ PT 105.78→107.29 | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 21.19 (-3.37%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
@@ -251,7 +248,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `8.65` (-1.70%)
-- **Volume**: `404,000` (≈ `0.56x` avg)
+- **Volume**: `404,000` (≈ `0.57x` avg)
 - **Market Cap**: $257.5M
 - **EV**: $217.3M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -403,7 +400,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `11.18` (-3.87%)
-- **Volume**: `1,158,900` (≈ `0.42x` avg)
+- **Volume**: `1,158,900` (≈ `0.43x` avg)
 - **Market Cap**: $1.55B
 - **EV**: $1.29B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)

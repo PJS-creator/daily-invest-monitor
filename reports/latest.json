@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-24 10:48:06 KST",
-    "generated_at_utc": "2026-10-24T01:48:21.110472+00:00",
+    "generated_at_local": "2026-10-24 12:00:53 KST",
+    "generated_at_utc": "2026-10-24T03:01:08.156197+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -10,7 +10,6 @@
     "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
-      "GPCR",
       "AVBP"
     ],
     "overall_judgement": "행동 고려"
@@ -18,10 +17,10 @@
   "dashboard": [
     {
       "ticker": "EQ",
-      "close": 1.2300000190734863,
-      "pct": -3.149603342816265,
+      "close": null,
+      "pct": null,
       "pt": 8.55556,
-      "pt_upside": 595.5739729536417,
+      "pt_upside": null,
       "mktcap": "$78.0M",
       "ev": "$44.9M",
       "net_cash": "$33.1M (2025-09-30)",
@@ -44,7 +43,7 @@
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 105.78→107.29"
+      "alert": "-"
     },
     {
       "ticker": "IKT",
@@ -201,11 +200,11 @@
     {
       "ticker": "EQ",
       "name": "Equillium",
-      "close": 1.2300000190734863,
-      "pct": -3.149603342816265,
-      "volume": 315600.0,
-      "volume_x": 0.5351247691892927,
-      "last_price_date": "2026-10-23",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 77991936,
       "enterprise_value": 44891936.0,
       "net_cash_m": 33.1,
@@ -225,7 +224,7 @@
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.11111,
-        "upside_pct": 595.5739729536417
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -241,7 +240,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -260,9 +259,7 @@
       "enterprise_value": 1055872.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
-      "alerts": [
-        "PT 105.78→107.29"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -508,7 +505,7 @@
       "close": 8.649999618530273,
       "pct": -1.704551919925168,
       "volume": 404000.0,
-      "volume_x": 0.5644208120394871,
+      "volume_x": 0.5682289681440151,
       "last_price_date": "2026-10-23",
       "market_cap": 257505872,
       "enterprise_value": 217305872.0,
@@ -668,7 +665,7 @@
       "close": 14.369999885559082,
       "pct": -3.686328337281619,
       "volume": 485200.0,
-      "volume_x": 0.5360544097435512,
+      "volume_x": 0.5399077750280413,
       "last_price_date": "2026-10-23",
       "market_cap": 883152128,
       "enterprise_value": 444152128.0,
@@ -720,7 +717,7 @@
       "close": 11.180000305175781,
       "pct": -3.8693018472663154,
       "volume": 1158900.0,
-      "volume_x": 0.42151903982843897,
+      "volume_x": 0.4253042251877427,
       "last_price_date": "2026-10-23",
       "market_cap": 1548170880,
       "enterprise_value": 1289170880.0,
