@@ -1,15 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-24 06:00:52 KST",
-    "generated_at_utc": "2026-10-23T21:01:08.809536+00:00",
+    "generated_at_local": "2026-10-24 10:48:06 KST",
+    "generated_at_utc": "2026-10-24T01:48:21.110472+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 1,
+    "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
+      "GPCR",
       "AVBP"
     ],
     "overall_judgement": "행동 고려"
@@ -34,8 +35,8 @@
       "ticker": "GPCR",
       "close": 21.190000534057617,
       "pct": -3.3743719143657036,
-      "pt": 105.78333,
-      "pt_upside": 399.2134371586249,
+      "pt": 107.28571,
+      "pt_upside": 406.30347945279703,
       "mktcap": "$1.51B",
       "ev": "$1.1M",
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
@@ -43,7 +44,7 @@
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 105.78→107.29"
     },
     {
       "ticker": "IKT",
@@ -124,8 +125,8 @@
       "ticker": "QURE",
       "close": 22.43000030517578,
       "pct": -2.9424503990328366,
-      "pt": 60.392693,
-      "pt_upside": 169.24963075486107,
+      "pt": 60.372395,
+      "pt_upside": 169.15913588315425,
       "mktcap": "$1.56B",
       "ev": "$1.38B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -146,9 +147,9 @@
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE +9.4%; VOL 3.2x"
+      "alert": "PRICE +9.4%; VOL 3.1x"
     },
     {
       "ticker": "CGEM",
@@ -202,8 +203,8 @@
       "name": "Equillium",
       "close": 1.2300000190734863,
       "pct": -3.149603342816265,
-      "volume": 315632.0,
-      "volume_x": 0.5313195960629775,
+      "volume": 315600.0,
+      "volume_x": 0.5351247691892927,
       "last_price_date": "2026-10-23",
       "market_cap": 77991936,
       "enterprise_value": 44891936.0,
@@ -252,14 +253,16 @@
       "name": "Structure Therapeutics",
       "close": 21.190000534057617,
       "pct": -3.3743719143657036,
-      "volume": 795944.0,
-      "volume_x": 0.7460587796956504,
+      "volume": 796800.0,
+      "volume_x": 0.7497812197118687,
       "last_price_date": "2026-10-23",
       "market_cap": 1511055872,
       "enterprise_value": 1055872.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
-      "alerts": [],
+      "alerts": [
+        "PT 105.78→107.29"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -267,14 +270,14 @@
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
       "price_target": {
-        "mean": 105.78333,
+        "mean": 107.28571,
         "low": 70.0,
         "high": 145.0,
-        "median": 101.0,
-        "analyst_count": 15,
+        "median": 102.5,
+        "analyst_count": 14,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 399.2134371586249
+        "upside_pct": 406.30347945279703
       },
       "anchors": {
         "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
@@ -302,8 +305,8 @@
       "name": "Inhibikase Therapeutics",
       "close": 1.590000033378601,
       "pct": -2.453985396935121,
-      "volume": 408779.0,
-      "volume_x": 0.7017882097644219,
+      "volume": 408800.0,
+      "volume_x": 0.7050585536641314,
       "last_price_date": "2026-10-23",
       "market_cap": 221862096,
       "enterprise_value": 61762096.0,
@@ -352,8 +355,8 @@
       "name": "Immix Biopharma",
       "close": 8.149999618530273,
       "pct": -2.3952186084122085,
-      "volume": 1203415.0,
-      "volume_x": 0.7618913460503574,
+      "volume": 1203500.0,
+      "volume_x": 0.7647455783281206,
       "last_price_date": "2026-10-23",
       "market_cap": 675659008,
       "enterprise_value": 567159008.0,
@@ -402,8 +405,8 @@
       "name": "MeiraGTx",
       "close": 9.210000038146973,
       "pct": -5.731836165592997,
-      "volume": 595502.0,
-      "volume_x": 0.7467147170644116,
+      "volume": 595500.0,
+      "volume_x": 0.749632736606373,
       "last_price_date": "2026-10-23",
       "market_cap": 884555968,
       "enterprise_value": 713655968.0,
@@ -452,8 +455,8 @@
       "name": "Praxis Precision Medicines",
       "close": 252.9600067138672,
       "pct": -2.301871776911002,
-      "volume": 366579.0,
-      "volume_x": 0.7975992323809897,
+      "volume": 371600.0,
+      "volume_x": 0.8109128443269925,
       "last_price_date": "2026-10-23",
       "market_cap": 7062640128,
       "enterprise_value": 5512640128.0,
@@ -504,8 +507,8 @@
       "name": "Q32 Bio",
       "close": 8.649999618530273,
       "pct": -1.704551919925168,
-      "volume": 403793.0,
-      "volume_x": 0.5641316162273777,
+      "volume": 404000.0,
+      "volume_x": 0.5644208120394871,
       "last_price_date": "2026-10-23",
       "market_cap": 257505872,
       "enterprise_value": 217305872.0,
@@ -557,8 +560,8 @@
       "name": "uniQure",
       "close": 22.43000030517578,
       "pct": -2.9424503990328366,
-      "volume": 883649.0,
-      "volume_x": 0.42565698361966603,
+      "volume": 884400.0,
+      "volume_x": 0.4298142574501867,
       "last_price_date": "2026-10-23",
       "market_cap": 1555888768,
       "enterprise_value": 1378888768.0,
@@ -574,14 +577,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.392693,
-        "low": 27.997086,
-        "high": 91.5501,
-        "median": 64.29388,
+        "mean": 60.372395,
+        "low": 27.987677,
+        "high": 91.51933,
+        "median": 64.27227,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 169.24963075486107
+        "upside_pct": 169.15913588315425
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -609,8 +612,8 @@
       "name": "ArriVent BioPharma",
       "close": 21.0,
       "pct": 9.374995653828154,
-      "volume": 3277802.0,
-      "volume_x": 3.184907794361848,
+      "volume": 3277900.0,
+      "volume_x": 3.081419451513166,
       "last_price_date": "2026-10-23",
       "market_cap": 1035462272,
       "enterprise_value": 730062272.0,
@@ -618,18 +621,11 @@
       "runway_months": 21.2,
       "alerts": [
         "PRICE +9.4%",
-        "VOL 3.2x"
+        "VOL 3.1x"
       ],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "ArriVent to Present Initial Phase 1 Data for CDH17-targeted ADC ARR-217 in Patients with Gastrointestinal Cancers at the ESMO Congress 2026 | AVBP Stock News",
-          "url": "https://www.stocktitan.net/news/AVBP/arri-vent-to-present-initial-phase-1-data-for-cdh17-targeted-adc-arr-utprgwtjx30b.html",
-          "date_text": "Fri, 23 Oct 2026 20:00:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "early-2026: FURVENT Phase 3 topline",
       "checklist": [
@@ -671,8 +667,8 @@
       "name": "Cullinan Therapeutics",
       "close": 14.369999885559082,
       "pct": -3.686328337281619,
-      "volume": 485201.0,
-      "volume_x": 0.5360555145547832,
+      "volume": 485200.0,
+      "volume_x": 0.5360544097435512,
       "last_price_date": "2026-10-23",
       "market_cap": 883152128,
       "enterprise_value": 444152128.0,
@@ -723,8 +719,8 @@
       "name": "Compass Pathways",
       "close": 11.180000305175781,
       "pct": -3.8693018472663154,
-      "volume": 1158790.0,
-      "volume_x": 0.42147903025523925,
+      "volume": 1158900.0,
+      "volume_x": 0.42151903982843897,
       "last_price_date": "2026-10-23",
       "market_cap": 1548170880,
       "enterprise_value": 1289170880.0,
