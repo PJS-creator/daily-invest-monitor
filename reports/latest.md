@@ -1,4 +1,4 @@
-## Daily Report (2026-10-24 18:00:56 KST)
+## Daily Report (2026-10-24 23:42:19 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** AVBP
 
@@ -14,7 +14,7 @@
 | QTTB | 8.65 | -1.70% | 39.67 | +358.57% | $257.5M | $217.3M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 22.43 | -2.94% | 60.37 | +169.16% | $1.56B | $1.38B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 21.00 | +9.37% | 22.30 | +6.19% | $1.04B | $730.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE +9.4%; VOL 3.1x |
-| CGEM | 14.37 | -3.69% | 34.50 | +140.08% | $924.8M | $485.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 14.37 | -3.69% | 34.50 | +140.08% | $883.2M | $444.2M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.18 | -3.87% | 23.75 | +112.43% | $1.55B | $1.29B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -26,7 +26,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `1.23` (-3.15%)
-- **Volume**: `315,600` (≈ `0.54x` avg)
+- **Volume**: `315,600` (≈ `0.53x` avg)
 - **Market Cap**: $78.0M
 - **EV**: $44.9M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `1.59` (-2.45%)
-- **Volume**: `408,800` (≈ `0.71x` avg)
+- **Volume**: `408,800` (≈ `0.74x` avg)
 - **Market Cap**: $221.9M
 - **EV**: $61.8M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -137,7 +137,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `8.15` (-2.40%)
-- **Volume**: `1,203,500` (≈ `0.76x` avg)
+- **Volume**: `1,203,500` (≈ `0.77x` avg)
 - **Market Cap**: $675.7M
 - **EV**: $567.2M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.43` (low `17.40` / high `30.00`; n=8)
@@ -251,7 +251,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `8.65` (-1.70%)
-- **Volume**: `404,000` (≈ `0.57x` avg)
+- **Volume**: `404,000` (≈ `0.56x` avg)
 - **Market Cap**: $257.5M
 - **EV**: $217.3M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -280,7 +280,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -328,7 +327,7 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `21.00` (+9.37%)
-- **Volume**: `3,277,900` (≈ `3.08x` avg)
+- **Volume**: `3,277,900` (≈ `3.06x` avg)
 - **Market Cap**: $1.04B
 - **EV**: $730.1M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `22.30` (low `15.00` / high `29.00`; n=10)
@@ -366,9 +365,9 @@
 
 #### Key Metrics
 - **Close (2026-10-23)**: `14.37` (-3.69%)
-- **Volume**: `485,200` (≈ `0.54x` avg)
-- **Market Cap**: $924.8M
-- **EV**: $485.8M (calc; net cash as-of (net cash as of latest filings))
+- **Volume**: `485,200` (≈ `0.53x` avg)
+- **Market Cap**: $883.2M
+- **EV**: $444.2M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.50` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+140.1%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
