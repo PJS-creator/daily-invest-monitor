@@ -1,4 +1,4 @@
-## Daily Report (2026-10-24 23:42:19 KST)
+## Daily Report (2026-10-25 00:00:57 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** AVBP
 
@@ -14,7 +14,7 @@
 | QTTB | 8.65 | -1.70% | 39.67 | +358.57% | $257.5M | $217.3M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 22.43 | -2.94% | 60.37 | +169.16% | $1.56B | $1.38B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 21.00 | +9.37% | 22.30 | +6.19% | $1.04B | $730.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE +9.4%; VOL 3.1x |
-| CGEM | 14.37 | -3.69% | 34.50 | +140.08% | $883.2M | $444.2M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 14.37 | -3.69% | 34.50 | +140.08% | $924.8M | $485.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.18 | -3.87% | 23.75 | +112.43% | $1.55B | $1.29B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -266,7 +266,7 @@
 | When | D-day | Event | Importance |
 |---|---:|---|---:|
 | mid-2026 | - | SIGNAL-AA Part B topline (W36, open-label) | 9 |
-| 2026-05-28 | D+149 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
+| 2026-05-28 | D+150 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
 | 2026 H2 | - | SIGNAL-AA Part A OLE / durability update (conference season, est.) | 6 |
 
 #### Today’s Checklist
@@ -366,8 +366,8 @@
 #### Key Metrics
 - **Close (2026-10-23)**: `14.37` (-3.69%)
 - **Volume**: `485,200` (≈ `0.53x` avg)
-- **Market Cap**: $883.2M
-- **EV**: $444.2M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $924.8M
+- **EV**: $485.8M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.50` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+140.1%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
