@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-25 18:00:52 KST",
-    "generated_at_utc": "2026-10-25T09:01:07.676551+00:00",
+    "generated_at_local": "2026-10-25 23:59:04 KST",
+    "generated_at_utc": "2026-10-25T14:59:18.737178+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 0,
+    "total_new_press": 1,
     "total_new_sec": 0,
     "alert_tickers": [
       "AVBP"
@@ -146,7 +146,7 @@
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
-      "new_pr": 0,
+      "new_pr": 1,
       "new_sec": 0,
       "alert": "PRICE +9.4%; VOL 3.1x"
     },
@@ -156,8 +156,8 @@
       "pct": -3.686328337281619,
       "pt": 34.5,
       "pt_upside": 140.08350921888498,
-      "mktcap": "$924.8M",
-      "ev": "$485.8M",
+      "mktcap": "$883.2M",
+      "ev": "$444.2M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -620,9 +620,16 @@
         "PRICE +9.4%",
         "VOL 3.1x"
       ],
-      "new_pr_count": 0,
+      "new_pr_count": 1,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "ArriVent Announces Initial Phase 1 Data for CDH17-targeted ADC ARR-217 in Patients with Gastrointestinal Cancers at ESMO Congress 2026 | AVBP Stock News",
+          "url": "https://www.stocktitan.net/news/AVBP/arri-vent-announces-initial-phase-1-data-for-cdh17-targeted-adc-arr-9yfecsik7lnb.html",
+          "date_text": "Sun, 25 Oct 2026 13:00:00 GMT",
+          "source": "RSS"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "early-2026: FURVENT Phase 3 topline",
       "checklist": [
@@ -667,8 +674,8 @@
       "volume": 485200.0,
       "volume_x": 0.5344995676193729,
       "last_price_date": "2026-10-23",
-      "market_cap": 924776960,
-      "enterprise_value": 485776960.0,
+      "market_cap": 883152128,
+      "enterprise_value": 444152128.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
