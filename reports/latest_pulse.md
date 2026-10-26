@@ -1,10 +1,10 @@
-# Pulse Input (2026-10-27 02:29:49 KST)
+# Pulse Input (2026-10-27 06:00:57 KST)
 
 - 전체 판단: **행동 고려**
 - 요약: PR 0건 / SEC 0건 / Alert AVBP
 
 ## Must Watch
-- **AVBP** (ArriVent BioPharma) — PRICE -26.0%, VOL 2.8x | 주가 -25.95%
+- **AVBP** (ArriVent BioPharma) — PRICE -26.9%, VOL 5.5x | 주가 -26.86%
   - 다음 촉매: early-2026: FURVENT Phase 3 topline
   - 체크포인트: FURVENT / ALPACCA 관련 업데이트
 
