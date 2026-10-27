@@ -1,32 +1,32 @@
-## Daily Report (2026-10-27 06:00:57 KST)
+## Daily Report (2026-10-27 11:17:23 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** AVBP
+**Summary:** 0 new PR / 1 new SEC | **Alerts:** AVBP
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.25 | +1.63% | 8.56 | +584.44% | $79.3M | $46.2M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
+| EQ | 1.25 | +1.63% | 8.56 | +584.44% | $79.3M | $46.2M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 1 | - |
 | GPCR | 21.10 | -0.42% | 107.29 | +408.46% | $1.50B | -$5.4M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.52 | -4.40% | 5.55 | +265.13% | $212.1M | $52.0M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 8.06 | -1.10% | 24.43 | +203.04% | $668.2M | $559.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.18 | -0.33% | 27.75 | +202.29% | $881.7M | $710.8M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 267.39 | +5.70% | 650.00 | +143.09% | $7.47B | $5.92B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.45 | -2.31% | 39.67 | +369.43% | $251.6M | $211.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 21.65 | -3.48% | 60.24 | +178.23% | $1.50B | $1.32B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 15.36 | -26.86% | 22.30 | +45.18% | $757.4M | $452.0M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -26.9%; VOL 5.5x |
-| CGEM | 14.54 | +1.18% | 34.50 | +137.28% | $935.7M | $496.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| QURE | 21.65 | -3.48% | 60.21 | +178.11% | $1.50B | $1.32B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| AVBP | 15.36 | -26.86% | 25.80 | +67.97% | $757.4M | $452.0M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -26.9%; VOL 5.2x; PT 22.30→25.80 |
+| CGEM | 14.54 | +1.18% | 34.50 | +137.28% | $893.6M | $454.6M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.05 | -1.16% | 23.75 | +114.93% | $1.53B | $1.27B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.25 (+1.63%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.25 (+1.63%) | PR 0 / SEC 1 | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
 - **Close (2026-10-26)**: `1.25` (+1.63%)
-- **Volume**: `192,853` (≈ `0.32x` avg)
+- **Volume**: `192,900` (≈ `0.33x` avg)
 - **Market Cap**: $79.3M
 - **EV**: $46.2M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -50,7 +50,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [8-K  - Current report](https://www.sec.gov/Archives/edgar/data/1746466/000119312526432158/0001193125-26-432158-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `21.10` (-0.42%)
-- **Volume**: `685,627` (≈ `0.64x` avg)
+- **Volume**: `685,900` (≈ `0.65x` avg)
 - **Market Cap**: $1.50B
 - **EV**: -$5.4M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `107.29` (low `70.00` / high `145.00`; n=14)
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `1.52` (-4.40%)
-- **Volume**: `860,469` (≈ `1.55x` avg)
+- **Volume**: `860,500` (≈ `1.54x` avg)
 - **Market Cap**: $212.1M
 - **EV**: $52.0M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -137,7 +137,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `8.06` (-1.10%)
-- **Volume**: `1,116,278` (≈ `0.71x` avg)
+- **Volume**: `1,116,300` (≈ `0.72x` avg)
 - **Market Cap**: $668.2M
 - **EV**: $559.7M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.43` (low `17.40` / high `30.00`; n=8)
@@ -175,7 +175,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `9.18` (-0.33%)
-- **Volume**: `648,655` (≈ `0.81x` avg)
+- **Volume**: `649,200` (≈ `0.81x` avg)
 - **Market Cap**: $881.7M
 - **EV**: $710.8M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `267.39` (+5.70%)
-- **Volume**: `355,448` (≈ `0.77x` avg)
+- **Volume**: `389,800` (≈ `0.85x` avg)
 - **Market Cap**: $7.47B
 - **EV**: $5.92B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
@@ -251,7 +251,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `8.45` (-2.31%)
-- **Volume**: `563,686` (≈ `0.78x` avg)
+- **Volume**: `563,700` (≈ `0.79x` avg)
 - **Market Cap**: $251.6M
 - **EV**: $211.4M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -290,11 +290,11 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `21.65` (-3.48%)
-- **Volume**: `988,648` (≈ `0.48x` avg)
+- **Volume**: `988,600` (≈ `0.48x` avg)
 - **Market Cap**: $1.50B
 - **EV**: $1.32B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.24` (low `27.93` / high `91.31`; n=11)
-  - Upside to PT (mean): `+178.2%`
+- **Price Target (consensus)**: mean `60.21` (low `27.91` / high `91.27`; n=11)
+  - Upside to PT (mean): `+178.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -323,16 +323,16 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 15.36 (-26.86%) | ⚠️ PRICE -26.9%, VOL 5.5x | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 15.36 (-26.86%) | ⚠️ PRICE -26.9%, VOL 5.2x, PT 22.30→25.80 | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics
 - **Close (2026-10-26)**: `15.36` (-26.86%)
-- **Volume**: `5,946,714` (≈ `5.54x` avg)
+- **Volume**: `5,946,900` (≈ `5.18x` avg)
 - **Market Cap**: $757.4M
 - **EV**: $452.0M (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `22.30` (low `15.00` / high `29.00`; n=10)
-  - Upside to PT (mean): `+45.2%`
+- **Price Target (consensus)**: mean `25.80` (low `20.00` / high `30.00`; n=10)
+  - Upside to PT (mean): `+68.0%`
 - **Net Cash (anchor)**: $305.4M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$14.4M / month
 - **Runway (anchor)**: ~21.2 months
@@ -366,9 +366,9 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `14.54` (+1.18%)
-- **Volume**: `438,389` (≈ `0.48x` avg)
-- **Market Cap**: $935.7M
-- **EV**: $496.7M (calc; net cash as-of (net cash as of latest filings))
+- **Volume**: `438,500` (≈ `0.49x` avg)
+- **Market Cap**: $893.6M
+- **EV**: $454.6M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.50` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+137.3%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
@@ -403,7 +403,7 @@
 
 #### Key Metrics
 - **Close (2026-10-26)**: `11.05` (-1.16%)
-- **Volume**: `1,519,592` (≈ `0.56x` avg)
+- **Volume**: `1,519,900` (≈ `0.56x` avg)
 - **Market Cap**: $1.53B
 - **EV**: $1.27B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)
