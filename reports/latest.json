@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-27 11:17:23 KST",
-    "generated_at_utc": "2026-10-27T02:17:42.114364+00:00",
+    "generated_at_local": "2026-10-27 12:00:53 KST",
+    "generated_at_utc": "2026-10-27T03:01:11.157385+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 1,
+    "total_new_sec": 0,
     "alert_tickers": [
       "AVBP"
     ],
@@ -27,7 +27,7 @@
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -148,7 +148,7 @@
       "next": "early-2026: FURVENT Phase 3 topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE -26.9%; VOL 5.2x; PT 22.30→25.80"
+      "alert": "PRICE -26.9%; VOL 5.2x"
     },
     {
       "ticker": "CGEM",
@@ -156,8 +156,8 @@
       "pct": 1.1830207212790933,
       "pt": 34.5,
       "pt_upside": 137.27647930202062,
-      "mktcap": "$893.6M",
-      "ev": "$454.6M",
+      "mktcap": "$935.7M",
+      "ev": "$496.7M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -211,16 +211,9 @@
       "runway_months": 15.2,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526432158/0001193125-26-432158-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -625,8 +618,7 @@
       "runway_months": 21.2,
       "alerts": [
         "PRICE -26.9%",
-        "VOL 5.2x",
-        "PT 22.30→25.80"
+        "VOL 5.2x"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -675,8 +667,8 @@
       "volume": 438500.0,
       "volume_x": 0.48692681995145165,
       "last_price_date": "2026-10-26",
-      "market_cap": 893600000,
-      "enterprise_value": 454600000.0,
+      "market_cap": 935717248,
+      "enterprise_value": 496717248.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
