@@ -1,17 +1,20 @@
-# Pulse Input (2026-10-28 18:00:56 KST)
+# Pulse Input (2026-10-29 00:00:59 KST)
 
-- 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert EQ, QURE
+- 전체 판단: **추가 확인 필요**
+- 요약: PR 2건 / SEC 1건 / Alert -
 
 ## Must Watch
-- **QURE** (uniQure) — PRICE +12.1% | 주가 +12.15%
+- **CMPS** (Compass Pathways) — SEC 1건 | PR 1건 | 주가 +1.69%
+  - 변화: SEC: SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors / PR: Compass Pathways to Highlight Scientific Research and TRD Disease State Education Efforts at the 2026 Neuroscience Education Institute Fall Congress | CMPS Stock News
+  - 다음 촉매: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing
+  - 체크포인트: Phase 3 관련 데이터/일정 업데이트
+- **QURE** (uniQure) — PR 1건 | 주가 +2.68%
+  - 변화: PR: uniQure to Announce Third Quarter 2026 Financial Results | QURE Stock News
   - 다음 촉매: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes
   - 체크포인트: AMT-130 / AMT-191 / AMT-260 업데이트
-- **EQ** (Equillium) — PRICE +8.8% | 주가 +8.80%
-  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
 
 ## Ignore / Noise
-- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, PRAX, QTTB, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, AVBP, CGEM, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
