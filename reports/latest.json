@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-28 12:00:55 KST",
-    "generated_at_utc": "2026-10-28T03:01:09.889802+00:00",
+    "generated_at_local": "2026-10-28 18:00:56 KST",
+    "generated_at_utc": "2026-10-28T09:01:11.713834+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -125,8 +125,8 @@
       "ticker": "QURE",
       "close": 24.280000686645508,
       "pct": 12.147811152219191,
-      "pt": 59.969234,
-      "pt_upside": 146.99024836924445,
+      "pt": 59.95589,
+      "pt_upside": 146.93528955696013,
       "mktcap": "$1.68B",
       "ev": "$1.51B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -155,8 +155,8 @@
       "ticker": "CGEM",
       "close": 14.84000015258789,
       "pct": 2.0632750448551507,
-      "pt": 34.5,
-      "pt_upside": 132.47978197617255,
+      "pt": 34.6,
+      "pt_upside": 133.1536364166832,
       "mktcap": "$912.0M",
       "ev": "$473.0M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
@@ -325,8 +325,8 @@
         "high": 8.0,
         "median": 5.5,
         "analyst_count": 10,
-        "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.3,
+        "recommendation_key": "none",
+        "recommendation_mean": null,
         "upside_pct": 253.50317290319788
       },
       "anchors": {
@@ -579,14 +579,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.969234,
-        "low": 27.80078,
-        "high": 90.90818,
-        "median": 63.84307,
+        "mean": 59.95589,
+        "low": 27.794592,
+        "high": 90.88795,
+        "median": 63.82886,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 146.99024836924445
+        "upside_pct": 146.93528955696013
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -683,14 +683,14 @@
         "CLN-978 / CLN-049 업데이트"
       ],
       "price_target": {
-        "mean": 34.5,
+        "mean": 34.6,
         "low": 27.0,
         "high": 42.0,
         "median": 35.0,
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 132.47978197617255
+        "upside_pct": 133.1536364166832
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
