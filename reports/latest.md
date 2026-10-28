@@ -1,6 +1,6 @@
-## Daily Report (2026-10-28 11:30:02 KST)
+## Daily Report (2026-10-28 12:00:55 KST)
 
-**Summary:** 0 new PR / 1 new SEC | **Alerts:** EQ, QURE
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, QURE
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -8,11 +8,11 @@
 | EQ | 1.36 | +8.80% | 8.56 | +529.09% | $86.2M | $53.1M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | PRICE +8.8% |
 | GPCR | 21.55 | +2.13% | 107.29 | +397.85% | $1.54B | $26.7M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.57 | +3.29% | 5.55 | +253.50% | $219.1M | $59.0M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | 8.05 | -0.12% | 24.43 | +203.42% | $667.4M | $558.9M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 1 | - |
+| IMMX | 8.05 | -0.12% | 24.43 | +203.42% | $667.4M | $558.9M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.40 | +2.40% | 27.75 | +195.21% | $902.8M | $731.9M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 267.59 | +0.07% | 650.00 | +142.91% | $7.47B | $5.92B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.71 | +3.08% | 39.67 | +355.42% | $259.3M | $219.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 24.28 | +12.15% | 59.95 | +146.91% | $1.68B | $1.51B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE +12.1% |
+| QURE | 24.28 | +12.15% | 59.97 | +146.99% | $1.68B | $1.51B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE +12.1% |
 | AVBP | 15.40 | +0.26% | 25.80 | +67.53% | $759.3M | $453.9M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 14.84 | +2.06% | 34.50 | +132.48% | $912.0M | $473.0M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.81 | +6.88% | 23.75 | +101.10% | $1.64B | $1.38B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -132,7 +132,7 @@
 
 </details>
 <details>
-<summary><strong>IMMX — Immix Biopharma</strong> — Close 8.05 (-0.12%) | PR 0 / SEC 1 | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
+<summary><strong>IMMX — Immix Biopharma</strong> — Close 8.05 (-0.12%) | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
 
 
 #### Key Metrics
@@ -162,7 +162,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1873835/000201238326003795/0002012383-26-003795-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -293,8 +293,8 @@
 - **Volume**: `1,571,400` (≈ `0.77x` avg)
 - **Market Cap**: $1.68B
 - **EV**: $1.51B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.95` (low `27.79` / high `90.88`; n=11)
-  - Upside to PT (mean): `+146.9%`
+- **Price Target (consensus)**: mean `59.97` (low `27.80` / high `90.91`; n=11)
+  - Upside to PT (mean): `+147.0%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months

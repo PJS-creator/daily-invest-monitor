@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-28 11:30:02 KST",
-    "generated_at_utc": "2026-10-28T02:30:20.673757+00:00",
+    "generated_at_local": "2026-10-28 12:00:55 KST",
+    "generated_at_utc": "2026-10-28T03:01:09.889802+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 1,
+    "total_new_sec": 0,
     "alert_tickers": [
       "EQ",
       "QURE"
@@ -73,7 +73,7 @@
       "runway": "76.0m",
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -125,8 +125,8 @@
       "ticker": "QURE",
       "close": 24.280000686645508,
       "pct": 12.147811152219191,
-      "pt": 59.949223,
-      "pt_upside": 146.90783074389816,
+      "pt": 59.969234,
+      "pt_upside": 146.99024836924445,
       "mktcap": "$1.68B",
       "ev": "$1.51B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -364,16 +364,9 @@
       "runway_months": 76.0,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000201238326003795/0002012383-26-003795-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
@@ -586,14 +579,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.949223,
-        "low": 27.7915,
-        "high": 90.87784,
-        "median": 63.821762,
+        "mean": 59.969234,
+        "low": 27.80078,
+        "high": 90.90818,
+        "median": 63.84307,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 146.90783074389816
+        "upside_pct": 146.99024836924445
       },
       "anchors": {
         "as_of": "2025-09-30",
