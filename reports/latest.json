@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-29 11:38:23 KST",
-    "generated_at_utc": "2026-10-29T02:38:42.177935+00:00",
+    "generated_at_local": "2026-10-29 12:00:58 KST",
+    "generated_at_utc": "2026-10-29T03:01:37.247803+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 24.969999313354492,
       "pct": 2.841839403606361,
-      "pt": 60.116432,
-      "pt_upside": 140.7546401807406,
+      "pt": 60.089615,
+      "pt_upside": 140.64724330153578,
       "mktcap": "$1.73B",
       "ev": "$1.56B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -544,8 +544,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
@@ -572,14 +571,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.116432,
-        "low": 27.869017,
-        "high": 91.13132,
-        "median": 63.999775,
+        "mean": 60.089615,
+        "low": 27.856585,
+        "high": 91.09067,
+        "median": 63.971226,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 140.7546401807406
+        "upside_pct": 140.64724330153578
       },
       "anchors": {
         "as_of": "2025-09-30",
