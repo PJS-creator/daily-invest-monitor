@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-29 12:00:58 KST",
-    "generated_at_utc": "2026-10-29T03:01:37.247803+00:00",
+    "generated_at_local": "2026-10-29 18:00:52 KST",
+    "generated_at_utc": "2026-10-29T09:01:09.352340+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 24.969999313354492,
       "pct": 2.841839403606361,
-      "pt": 60.089615,
-      "pt_upside": 140.64724330153578,
+      "pt": 60.036057,
+      "pt_upside": 140.43275390837286,
       "mktcap": "$1.73B",
       "ev": "$1.56B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -154,8 +154,8 @@
       "pct": 4.851753771062128,
       "pt": 34.6,
       "pt_upside": 122.36503256374802,
-      "mktcap": "$1.00B",
-      "ev": "$562.4M",
+      "mktcap": "$956.3M",
+      "ev": "$517.3M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -544,7 +544,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -571,14 +572,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.089615,
-        "low": 27.856585,
-        "high": 91.09067,
-        "median": 63.971226,
+        "mean": 60.036057,
+        "low": 27.831757,
+        "high": 91.009476,
+        "median": 63.914207,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 140.64724330153578
+        "upside_pct": 140.43275390837286
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -661,8 +662,8 @@
       "volume": 594200.0,
       "volume_x": 0.6600520754649912,
       "last_price_date": "2026-10-28",
-      "market_cap": 1001359104,
-      "enterprise_value": 562359104.0,
+      "market_cap": 956287232,
+      "enterprise_value": 517287232.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],

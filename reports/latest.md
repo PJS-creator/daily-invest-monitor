@@ -1,4 +1,4 @@
-## Daily Report (2026-10-29 12:00:58 KST)
+## Daily Report (2026-10-29 18:00:52 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -12,9 +12,9 @@
 | MGTX | 9.75 | +3.72% | 27.75 | +184.62% | $936.4M | $765.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 285.48 | +6.69% | 650.00 | +127.69% | $7.97B | $6.42B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 9.06 | +4.02% | 39.67 | +337.82% | $269.7M | $229.5M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 24.97 | +2.84% | 60.09 | +140.65% | $1.73B | $1.56B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 24.97 | +2.84% | 60.04 | +140.43% | $1.73B | $1.56B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 15.73 | +2.14% | 25.80 | +64.02% | $775.6M | $470.2M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 15.56 | +4.85% | 34.60 | +122.37% | $1.00B | $562.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 15.56 | +4.85% | 34.60 | +122.37% | $956.3M | $517.3M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 12.28 | +3.98% | 23.75 | +93.40% | $1.70B | $1.44B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -280,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -292,8 +293,8 @@
 - **Volume**: `1,194,200` (≈ `0.59x` avg)
 - **Market Cap**: $1.73B
 - **EV**: $1.56B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.09` (low `27.86` / high `91.09`; n=11)
-  - Upside to PT (mean): `+140.6%`
+- **Price Target (consensus)**: mean `60.04` (low `27.83` / high `91.01`; n=11)
+  - Upside to PT (mean): `+140.4%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -366,8 +367,8 @@
 #### Key Metrics
 - **Close (2026-10-28)**: `15.56` (+4.85%)
 - **Volume**: `594,200` (≈ `0.66x` avg)
-- **Market Cap**: $1.00B
-- **EV**: $562.4M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $956.3M
+- **EV**: $517.3M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+122.4%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
