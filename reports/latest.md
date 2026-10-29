@@ -1,6 +1,6 @@
-## Daily Report (2026-10-29 06:01:13 KST)
+## Daily Report (2026-10-29 11:38:23 KST)
 
-**Summary:** 0 new PR / 1 new SEC | **Alerts:** -
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -11,8 +11,8 @@
 | IMMX | 8.12 | +0.93% | 24.43 | +200.62% | $673.6M | $565.1M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.75 | +3.72% | 27.75 | +184.62% | $936.4M | $765.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 285.48 | +6.69% | 650.00 | +127.69% | $7.97B | $6.42B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
-| QTTB | 9.06 | +4.02% | 39.67 | +337.82% | $269.7M | $229.5M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 1 | - |
-| QURE | 24.97 | +2.84% | 60.13 | +140.81% | $1.73B | $1.56B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QTTB | 9.06 | +4.02% | 39.67 | +337.82% | $269.7M | $229.5M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
+| QURE | 24.97 | +2.84% | 60.12 | +140.75% | $1.73B | $1.56B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 15.73 | +2.14% | 25.80 | +64.02% | $775.6M | $470.2M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 15.56 | +4.85% | 34.60 | +122.37% | $1.00B | $562.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 12.28 | +3.98% | 23.75 | +93.40% | $1.70B | $1.44B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -26,7 +26,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `1.42` (+4.41%)
-- **Volume**: `227,331` (≈ `0.39x` avg)
+- **Volume**: `227,400` (≈ `0.39x` avg)
 - **Market Cap**: $111.3M
 - **EV**: $78.2M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `21.48` (-0.32%)
-- **Volume**: `986,891` (≈ `0.92x` avg)
+- **Volume**: `987,400` (≈ `0.92x` avg)
 - **Market Cap**: $1.53B
 - **EV**: $21.7M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `107.29` (low `70.00` / high `145.00`; n=14)
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `1.62` (+3.18%)
-- **Volume**: `386,644` (≈ `0.68x` avg)
+- **Volume**: `386,600` (≈ `0.68x` avg)
 - **Market Cap**: $226.0M
 - **EV**: $65.9M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -137,7 +137,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `8.12` (+0.93%)
-- **Volume**: `1,229,694` (≈ `0.80x` avg)
+- **Volume**: `1,234,100` (≈ `0.80x` avg)
 - **Market Cap**: $673.6M
 - **EV**: $565.1M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.43` (low `17.40` / high `30.00`; n=8)
@@ -175,7 +175,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `9.75` (+3.72%)
-- **Volume**: `633,144` (≈ `0.79x` avg)
+- **Volume**: `633,100` (≈ `0.79x` avg)
 - **Market Cap**: $936.4M
 - **EV**: $765.5M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `285.48` (+6.69%)
-- **Volume**: `334,732` (≈ `0.73x` avg)
+- **Volume**: `334,700` (≈ `0.73x` avg)
 - **Market Cap**: $7.97B
 - **EV**: $6.42B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
@@ -246,7 +246,7 @@
 
 </details>
 <details>
-<summary><strong>QTTB — Q32 Bio</strong> — Close 9.06 (+4.02%) | PR 0 / SEC 1 | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
+<summary><strong>QTTB — Q32 Bio</strong> — Close 9.06 (+4.02%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
 
 
 #### Key Metrics
@@ -276,7 +276,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000007085826000536/0000070858-26-000536-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -290,10 +290,10 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `24.97` (+2.84%)
-- **Volume**: `1,193,761` (≈ `0.59x` avg)
+- **Volume**: `1,194,200` (≈ `0.59x` avg)
 - **Market Cap**: $1.73B
 - **EV**: $1.56B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.13` (low `27.88` / high `91.15`; n=11)
+- **Price Target (consensus)**: mean `60.12` (low `27.87` / high `91.13`; n=11)
   - Upside to PT (mean): `+140.8%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
@@ -328,7 +328,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `15.73` (+2.14%)
-- **Volume**: `989,991` (≈ `0.85x` avg)
+- **Volume**: `990,000` (≈ `0.85x` avg)
 - **Market Cap**: $775.6M
 - **EV**: $470.2M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `25.80` (low `20.00` / high `30.00`; n=10)
@@ -366,7 +366,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `15.56` (+4.85%)
-- **Volume**: `594,218` (≈ `0.66x` avg)
+- **Volume**: `594,200` (≈ `0.66x` avg)
 - **Market Cap**: $1.00B
 - **EV**: $562.4M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
@@ -403,7 +403,7 @@
 
 #### Key Metrics
 - **Close (2026-10-28)**: `12.28` (+3.98%)
-- **Volume**: `1,411,909` (≈ `0.53x` avg)
+- **Volume**: `1,413,600` (≈ `0.53x` avg)
 - **Market Cap**: $1.70B
 - **EV**: $1.44B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)

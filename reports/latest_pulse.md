@@ -1,16 +1,13 @@
-# Pulse Input (2026-10-29 06:01:13 KST)
+# Pulse Input (2026-10-29 11:38:23 KST)
 
-- 전체 판단: **추가 확인 필요**
-- 요약: PR 0건 / SEC 1건 / Alert -
+- 전체 판단: **감시만**
+- 요약: PR 0건 / SEC 0건 / Alert -
 
 ## Must Watch
-- **QTTB** (Q32 Bio) — SEC 1건 | 주가 +4.02%
-  - 변화: SEC: SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors
-  - 다음 촉매: mid-2026: SIGNAL-AA Part B topline (W36, open-label)
-  - 체크포인트: SIGNAL-AA Phase 2 업데이트
+- 오늘은 즉시 대응할 내용 없음
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
