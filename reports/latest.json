@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-30 12:00:58 KST",
-    "generated_at_utc": "2026-10-30T03:01:14.011313+00:00",
+    "generated_at_local": "2026-10-30 18:00:48 KST",
+    "generated_at_utc": "2026-10-30T09:01:04.994797+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 25.299999237060547,
       "pct": 1.3215856338833154,
-      "pt": 60.345345,
-      "pt_upside": 138.5191573903429,
+      "pt": 60.33183,
+      "pt_upside": 138.4657384164,
       "mktcap": "$1.75B",
       "ev": "$1.58B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -150,12 +150,12 @@
     },
     {
       "ticker": "CGEM",
-      "close": null,
-      "pct": null,
+      "close": 15.449999809265137,
+      "pct": -0.7069447775392312,
       "pt": 34.6,
-      "pt_upside": null,
-      "mktcap": "$994.3M",
-      "ev": "$555.3M",
+      "pt_upside": 123.94822282943264,
+      "mktcap": "$949.5M",
+      "ev": "$510.5M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -572,14 +572,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.345345,
-        "low": 27.975138,
-        "high": 91.478325,
-        "median": 64.24348,
+        "mean": 60.33183,
+        "low": 27.968872,
+        "high": 91.45784,
+        "median": 64.22909,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 138.5191573903429
+        "upside_pct": 138.4657384164
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -657,13 +657,13 @@
     {
       "ticker": "CGEM",
       "name": "Cullinan Therapeutics",
-      "close": null,
-      "pct": null,
-      "volume": null,
-      "volume_x": null,
-      "last_price_date": null,
-      "market_cap": 994280064,
-      "enterprise_value": 555280064.0,
+      "close": 15.449999809265137,
+      "pct": -0.7069447775392312,
+      "volume": 459700.0,
+      "volume_x": 0.5113874652780481,
+      "last_price_date": "2026-10-29",
+      "market_cap": 949526848,
+      "enterprise_value": 510526848.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
@@ -683,7 +683,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": null
+        "upside_pct": 123.94822282943264
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
@@ -699,7 +699,7 @@
         }
       },
       "errors": {
-        "price_error": "Not enough price rows (need >= 2 trading days).",
+        "price_error": null,
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
