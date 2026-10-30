@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-30 11:46:18 KST",
-    "generated_at_utc": "2026-10-30T02:46:33.746676+00:00",
+    "generated_at_local": "2026-10-30 12:00:58 KST",
+    "generated_at_utc": "2026-10-30T03:01:14.011313+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -150,12 +150,12 @@
     },
     {
       "ticker": "CGEM",
-      "close": 15.449999809265137,
-      "pct": -0.7069447775392312,
+      "close": null,
+      "pct": null,
       "pt": 34.6,
-      "pt_upside": 123.94822282943264,
-      "mktcap": "$949.5M",
-      "ev": "$510.5M",
+      "pt_upside": null,
+      "mktcap": "$994.3M",
+      "ev": "$555.3M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -657,13 +657,13 @@
     {
       "ticker": "CGEM",
       "name": "Cullinan Therapeutics",
-      "close": 15.449999809265137,
-      "pct": -0.7069447775392312,
-      "volume": 459700.0,
-      "volume_x": 0.5113874652780481,
-      "last_price_date": "2026-10-29",
-      "market_cap": 949526848,
-      "enterprise_value": 510526848.0,
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
+      "market_cap": 994280064,
+      "enterprise_value": 555280064.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
@@ -683,7 +683,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 123.94822282943264
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
@@ -699,7 +699,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
