@@ -1,4 +1,4 @@
-## Daily Report (2026-10-30 06:00:51 KST)
+## Daily Report (2026-10-30 11:46:18 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -12,7 +12,7 @@
 | MGTX | 9.70 | -0.46% | 27.75 | +185.94% | $932.1M | $761.2M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 288.62 | +1.10% | 650.00 | +125.21% | $8.06B | $6.51B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.87 | -2.10% | 39.67 | +347.20% | $264.1M | $223.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 25.30 | +1.32% | 60.25 | +138.15% | $1.75B | $1.58B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 25.30 | +1.32% | 60.35 | +138.52% | $1.75B | $1.58B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 15.95 | +1.40% | 25.80 | +61.76% | $786.5M | $481.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 15.45 | -0.71% | 34.60 | +123.95% | $949.5M | $510.5M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 12.19 | -0.73% | 23.75 | +94.83% | $1.69B | $1.43B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -26,7 +26,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `1.42` (+0.00%)
-- **Volume**: `283,928` (≈ `0.49x` avg)
+- **Volume**: `284,900` (≈ `0.49x` avg)
 - **Market Cap**: $111.3M
 - **EV**: $78.2M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `21.94` (+2.14%)
-- **Volume**: `929,353` (≈ `0.86x` avg)
+- **Volume**: `929,400` (≈ `0.86x` avg)
 - **Market Cap**: $1.56B
 - **EV**: $54.5M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `107.29` (low `70.00` / high `145.00`; n=14)
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `1.67` (+3.09%)
-- **Volume**: `852,337` (≈ `1.50x` avg)
+- **Volume**: `852,300` (≈ `1.49x` avg)
 - **Market Cap**: $233.0M
 - **EV**: $72.9M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -137,7 +137,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `7.98` (-1.78%)
-- **Volume**: `1,073,785` (≈ `0.70x` avg)
+- **Volume**: `1,073,800` (≈ `0.70x` avg)
 - **Market Cap**: $661.6M
 - **EV**: $553.1M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.43` (low `17.40` / high `30.00`; n=8)
@@ -175,7 +175,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `9.70` (-0.46%)
-- **Volume**: `499,163` (≈ `0.62x` avg)
+- **Volume**: `499,200` (≈ `0.62x` avg)
 - **Market Cap**: $932.1M
 - **EV**: $761.2M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `288.62` (+1.10%)
-- **Volume**: `392,098` (≈ `0.85x` avg)
+- **Volume**: `508,500` (≈ `1.10x` avg)
 - **Market Cap**: $8.06B
 - **EV**: $6.51B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
@@ -251,7 +251,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `8.87` (-2.10%)
-- **Volume**: `317,788` (≈ `0.44x` avg)
+- **Volume**: `317,800` (≈ `0.45x` avg)
 - **Market Cap**: $264.1M
 - **EV**: $223.9M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -290,11 +290,11 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `25.30` (+1.32%)
-- **Volume**: `1,713,272` (≈ `0.86x` avg)
+- **Volume**: `1,713,300` (≈ `0.86x` avg)
 - **Market Cap**: $1.75B
 - **EV**: $1.58B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.25` (low `27.93` / high `91.34`; n=11)
-  - Upside to PT (mean): `+138.1%`
+- **Price Target (consensus)**: mean `60.35` (low `27.98` / high `91.48`; n=11)
+  - Upside to PT (mean): `+138.5%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -328,7 +328,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `15.95` (+1.40%)
-- **Volume**: `658,022` (≈ `0.56x` avg)
+- **Volume**: `658,000` (≈ `0.56x` avg)
 - **Market Cap**: $786.5M
 - **EV**: $481.1M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `25.80` (low `20.00` / high `30.00`; n=10)
@@ -366,7 +366,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `15.45` (-0.71%)
-- **Volume**: `459,088` (≈ `0.51x` avg)
+- **Volume**: `459,700` (≈ `0.51x` avg)
 - **Market Cap**: $949.5M
 - **EV**: $510.5M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
@@ -403,7 +403,7 @@
 
 #### Key Metrics
 - **Close (2026-10-29)**: `12.19` (-0.73%)
-- **Volume**: `1,379,844` (≈ `0.52x` avg)
+- **Volume**: `1,380,100` (≈ `0.52x` avg)
 - **Market Cap**: $1.69B
 - **EV**: $1.43B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)
