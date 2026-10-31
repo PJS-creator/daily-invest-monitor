@@ -1,4 +1,4 @@
-## Daily Report (2026-10-31 11:37:59 KST)
+## Daily Report (2026-10-31 12:00:55 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -14,7 +14,7 @@
 | QTTB | 8.91 | +0.45% | 39.67 | +345.19% | $265.2M | $225.0M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 24.83 | -1.86% | 60.16 | +142.27% | $1.72B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 14.87 | -6.77% | 25.80 | +73.50% | $733.2M | $427.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 15.03 | -2.72% | 34.60 | +130.21% | $923.7M | $484.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 15.03 | -2.72% | 34.60 | +130.21% | $967.3M | $528.3M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.57 | -5.09% | 23.75 | +105.27% | $1.60B | $1.34B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -367,8 +367,8 @@
 #### Key Metrics
 - **Close (2026-10-30)**: `15.03` (-2.72%)
 - **Volume**: `389,400` (≈ `0.43x` avg)
-- **Market Cap**: $923.7M
-- **EV**: $484.7M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $967.3M
+- **EV**: $528.3M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+130.2%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
