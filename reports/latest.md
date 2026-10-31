@@ -1,4 +1,4 @@
-## Daily Report (2026-10-31 12:00:55 KST)
+## Daily Report (2026-10-31 18:00:52 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -8,7 +8,7 @@
 | EQ | 1.37 | -3.52% | 8.56 | +524.49% | $107.4M | $74.3M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 21.87 | -0.32% | 107.29 | +390.56% | $1.56B | $49.5M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.55 | -7.19% | 5.55 | +258.06% | $216.3M | $56.2M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | 7.68 | -3.76% | 24.43 | +218.03% | $636.7M | $528.2M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| IMMX | 7.68 | -3.76% | 24.05 | +213.15% | $636.7M | $528.2M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.49 | -2.22% | 27.75 | +192.41% | $911.4M | $740.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 285.93 | -0.93% | 650.00 | +127.33% | $7.98B | $6.43B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.91 | +0.45% | 39.67 | +345.19% | $265.2M | $225.0M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
@@ -140,8 +140,8 @@
 - **Volume**: `1,381,200` (≈ `0.90x` avg)
 - **Market Cap**: $636.7M
 - **EV**: $528.2M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
-- **Price Target (consensus)**: mean `24.43` (low `17.40` / high `30.00`; n=8)
-  - Upside to PT (mean): `+218.0%`
+- **Price Target (consensus)**: mean `24.05` (low `17.40` / high `30.00`; n=8)
+  - Upside to PT (mean): `+213.2%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months

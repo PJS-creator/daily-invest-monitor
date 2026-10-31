@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-10-31 12:00:55 KST",
-    "generated_at_utc": "2026-10-31T03:01:13.182220+00:00",
+    "generated_at_local": "2026-10-31 18:00:52 KST",
+    "generated_at_utc": "2026-10-31T09:01:07.424503+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -62,8 +62,8 @@
       "ticker": "IMMX",
       "close": 7.679999828338623,
       "pct": -3.759400877416219,
-      "pt": 24.425,
-      "pt_upside": 218.03386127527742,
+      "pt": 24.05,
+      "pt_upside": 213.15104866613805,
       "mktcap": "$636.7M",
       "ev": "$528.2M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
@@ -365,14 +365,14 @@
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
-        "mean": 24.425,
+        "mean": 24.05,
         "low": 17.4,
         "high": 30.0,
-        "median": 24.5,
+        "median": 23.5,
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 218.03386127527742
+        "upside_pct": 213.15104866613805
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
