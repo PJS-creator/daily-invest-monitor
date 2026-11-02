@@ -1,20 +1,21 @@
-# Pulse Input (2026-11-03 00:00:56 KST)
+# Pulse Input (2026-11-03 05:50:23 KST)
 
-- 전체 판단: **추가 확인 필요**
-- 요약: PR 2건 / SEC 1건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 0건 / SEC 0건 / Alert QURE, AVBP, CMPS
 
 ## Must Watch
-- **QURE** (uniQure) — SEC 1건 | PR 1건 | 주가 -5.74%
-  - 변화: SEC: 8-K  - Current report / PR: uniQure Announces FDA Acceptance and Priority Review of the Biologics License Application for ifezuntirgene inilparvovec for the Treatment of Huntington’s Disease | QURE Stock News
-  - 다음 촉매: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes
-  - 체크포인트: AMT-130 / AMT-191 / AMT-260 업데이트
-- **CMPS** (Compass Pathways) — PR 1건 | 주가 -1.82%
-  - 변화: PR: New Joint Survey from Compass Pathways and the Depression and Bipolar Support Alliance Reveals the Lived Burden of Treatment-Resistant Depression on Patients and Caregivers | CMPS Stock News
+- **CMPS** (Compass Pathways) — PRICE -25.9%, VOL 5.9x | 주가 -25.89%
   - 다음 촉매: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing
   - 체크포인트: Phase 3 관련 데이터/일정 업데이트
+- **AVBP** (ArriVent BioPharma) — PRICE -9.4% | 주가 -9.38%
+  - 다음 촉매: early-2026: FURVENT Phase 3 topline
+  - 체크포인트: FURVENT / ALPACCA 관련 업데이트
+- **QURE** (uniQure) — VOL 3.0x | 주가 -6.46%
+  - 다음 촉매: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes
+  - 체크포인트: AMT-130 / AMT-191 / AMT-260 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, AVBP, CGEM, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, CGEM, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
