@@ -1,4 +1,4 @@
-## Daily Report (2026-11-02 12:01:11 KST)
+## Daily Report (2026-11-02 18:00:55 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -12,7 +12,7 @@
 | MGTX | 9.49 | -2.22% | 27.75 | +192.41% | $911.4M | $740.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 285.93 | -0.93% | 650.00 | +127.33% | $7.98B | $6.43B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.91 | +0.45% | 39.67 | +345.19% | $265.2M | $225.0M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 24.83 | -1.86% | 60.18 | +142.38% | $1.72B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 24.83 | -1.86% | 60.51 | +143.68% | $1.72B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 14.87 | -6.77% | 25.80 | +73.50% | $733.2M | $427.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 15.03 | -2.72% | 34.60 | +130.21% | $923.7M | $484.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 11.57 | -5.09% | 23.75 | +105.27% | $1.60B | $1.34B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -293,8 +293,8 @@
 - **Volume**: `1,882,600` (≈ `0.94x` avg)
 - **Market Cap**: $1.72B
 - **EV**: $1.55B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.18` (low `27.90` / high `91.24`; n=11)
-  - Upside to PT (mean): `+142.4%`
+- **Price Target (consensus)**: mean `60.51` (low `28.05` / high `91.74`; n=11)
+  - Upside to PT (mean): `+143.7%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
