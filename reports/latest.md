@@ -1,4 +1,4 @@
-## Daily Report (2026-11-03 12:58:32 KST)
+## Daily Report (2026-11-03 18:00:55 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** QURE, AVBP, CMPS
 
@@ -12,7 +12,7 @@
 | MGTX | 9.32 | -1.79% | 27.75 | +197.75% | $895.1M | $724.2M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 273.99 | -4.18% | 650.00 | +137.23% | $7.65B | $6.10B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.71 | -2.24% | 39.67 | +355.42% | $259.3M | $219.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.97 | -7.49% | 60.30 | +162.53% | $1.59B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | VOL 3.2x |
+| QURE | 22.97 | -7.49% | 60.32 | +162.59% | $1.59B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | VOL 3.2x |
 | AVBP | 13.35 | -10.22% | 25.80 | +93.26% | $658.3M | $352.9M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -10.2% |
 | CGEM | 14.93 | -0.67% | 34.60 | +131.75% | $960.8M | $521.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.41 | -27.31% | 23.75 | +182.40% | $1.16B | $905.6M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE -27.3%; VOL 6.3x |
@@ -280,7 +280,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -293,8 +292,8 @@
 - **Volume**: `6,440,800` (≈ `3.23x` avg)
 - **Market Cap**: $1.59B
 - **EV**: $1.42B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.30` (low `27.96` / high `91.43`; n=11)
-  - Upside to PT (mean): `+162.5%`
+- **Price Target (consensus)**: mean `60.32` (low `27.97` / high `91.45`; n=11)
+  - Upside to PT (mean): `+162.6%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -319,6 +318,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QURE -> HTTP 429
 </details>
 
 </details>

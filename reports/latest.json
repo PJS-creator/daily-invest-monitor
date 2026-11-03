@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-03 12:58:32 KST",
-    "generated_at_utc": "2026-11-03T03:59:16.934688+00:00",
+    "generated_at_local": "2026-11-03 18:00:55 KST",
+    "generated_at_utc": "2026-11-03T09:01:24.055763+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -126,8 +126,8 @@
       "ticker": "QURE",
       "close": 22.969999313354492,
       "pct": -7.4909408621292695,
-      "pt": 60.303738,
-      "pt_upside": 162.5326068901539,
+      "pt": 60.31724,
+      "pt_upside": 162.5913879106311,
       "mktcap": "$1.59B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -548,8 +548,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
@@ -578,14 +577,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.303738,
-        "low": 27.95948,
-        "high": 91.42713,
-        "median": 64.20752,
+        "mean": 60.31724,
+        "low": 27.965742,
+        "high": 91.44761,
+        "median": 64.2219,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 162.5326068901539
+        "upside_pct": 162.5913879106311
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -603,7 +602,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QURE -> HTTP 429"
         ],
         "sec_error": null
       }
