@@ -1,13 +1,15 @@
-# Pulse Input (2026-11-04 03:31:45 KST)
+# Pulse Input (2026-11-04 06:01:00 KST)
 
-- 전체 판단: **감시만**
-- 요약: PR 0건 / SEC 0건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 0건 / SEC 0건 / Alert CMPS
 
 ## Must Watch
-- 오늘은 즉시 대응할 내용 없음
+- **CMPS** (Compass Pathways) — VOL 3.0x | 주가 +2.14%
+  - 다음 촉매: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing
+  - 체크포인트: Phase 3 관련 데이터/일정 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
