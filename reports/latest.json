@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-03 12:00:53 KST",
-    "generated_at_utc": "2026-11-03T03:01:10.322570+00:00",
+    "generated_at_local": "2026-11-03 12:58:32 KST",
+    "generated_at_utc": "2026-11-03T03:59:16.934688+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 1,
-    "total_new_sec": 1,
+    "total_new_press": 0,
+    "total_new_sec": 0,
     "alert_tickers": [
       "QURE",
       "AVBP",
@@ -126,8 +126,8 @@
       "ticker": "QURE",
       "close": 22.969999313354492,
       "pct": -7.4909408621292695,
-      "pt": 60.283493,
-      "pt_upside": 162.4444701874757,
+      "pt": 60.303738,
+      "pt_upside": 162.5326068901539,
       "mktcap": "$1.59B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -148,8 +148,8 @@
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
-      "new_pr": 1,
-      "new_sec": 1,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "PRICE -10.2%"
     },
     {
@@ -158,8 +158,8 @@
       "pct": -0.6653321994147587,
       "pt": 34.6,
       "pt_upside": 131.7481533339636,
-      "mktcap": "$917.6M",
-      "ev": "$478.6M",
+      "mktcap": "$960.8M",
+      "ev": "$521.8M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -578,14 +578,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.283493,
-        "low": 27.950094,
-        "high": 91.39644,
-        "median": 64.18597,
+        "mean": 60.303738,
+        "low": 27.95948,
+        "high": 91.42713,
+        "median": 64.20752,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 162.4444701874757
+        "upside_pct": 162.5326068901539
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -623,24 +623,10 @@
       "alerts": [
         "PRICE -10.2%"
       ],
-      "new_pr_count": 1,
-      "new_sec_count": 1,
-      "new_press": [
-        {
-          "title": "Aarvik Therapeutics Announces Milestone Achievement, Partnership Update, and Presentations on MUTTA™ and AQUALINK™ Platforms at the 17th Annual WADC Conference | AVBP Stock News",
-          "url": "https://www.stocktitan.net/news/AVBP/aarvik-therapeutics-announces-milestone-achievement-partnership-kgdxr46cmhxt.html",
-          "date_text": "Mon, 02 Nov 2026 22:00:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000110465926121410/0001104659-26-121410-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "early-2026: FURVENT Phase 3 topline",
       "checklist": [
         "FURVENT / ALPACCA 관련 업데이트"
@@ -684,8 +670,8 @@
       "volume": 730800.0,
       "volume_x": 0.8135412086230025,
       "last_price_date": "2026-11-02",
-      "market_cap": 917568704,
-      "enterprise_value": 478568704.0,
+      "market_cap": 960815616,
+      "enterprise_value": 521815616.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],

@@ -1,6 +1,6 @@
-## Daily Report (2026-11-03 12:00:53 KST)
+## Daily Report (2026-11-03 12:58:32 KST)
 
-**Summary:** 1 new PR / 1 new SEC | **Alerts:** QURE, AVBP, CMPS
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** QURE, AVBP, CMPS
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -12,9 +12,9 @@
 | MGTX | 9.32 | -1.79% | 27.75 | +197.75% | $895.1M | $724.2M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 273.99 | -4.18% | 650.00 | +137.23% | $7.65B | $6.10B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.71 | -2.24% | 39.67 | +355.42% | $259.3M | $219.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.97 | -7.49% | 60.28 | +162.44% | $1.59B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | VOL 3.2x |
-| AVBP | 13.35 | -10.22% | 25.80 | +93.26% | $658.3M | $352.9M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 1 | 1 | PRICE -10.2% |
-| CGEM | 14.93 | -0.67% | 34.60 | +131.75% | $917.6M | $478.6M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| QURE | 22.97 | -7.49% | 60.30 | +162.53% | $1.59B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | VOL 3.2x |
+| AVBP | 13.35 | -10.22% | 25.80 | +93.26% | $658.3M | $352.9M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -10.2% |
+| CGEM | 14.93 | -0.67% | 34.60 | +131.75% | $960.8M | $521.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.41 | -27.31% | 23.75 | +182.40% | $1.16B | $905.6M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE -27.3%; VOL 6.3x |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -293,8 +293,8 @@
 - **Volume**: `6,440,800` (≈ `3.23x` avg)
 - **Market Cap**: $1.59B
 - **EV**: $1.42B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.28` (low `27.95` / high `91.40`; n=11)
-  - Upside to PT (mean): `+162.4%`
+- **Price Target (consensus)**: mean `60.30` (low `27.96` / high `91.43`; n=11)
+  - Upside to PT (mean): `+162.5%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -323,7 +323,7 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 13.35 (-10.22%) | ⚠️ PRICE -10.2% | PR 1 / SEC 1 | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 13.35 (-10.22%) | ⚠️ PRICE -10.2% | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics
@@ -350,10 +350,10 @@
 - FURVENT / ALPACCA 관련 업데이트
 
 #### New Press Releases
-- [Aarvik Therapeutics Announces Milestone Achievement, Partnership Update, and Presentations on MUTTA™ and AQUALINK™ Platforms at the 17th Annual WADC Conference | AVBP Stock News](https://www.stocktitan.net/news/AVBP/aarvik-therapeutics-announces-milestone-achievement-partnership-kgdxr46cmhxt.html) — _RSS_, Mon, 02 Nov 2026 22:00:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [4  - Statement of changes in beneficial ownership of securities](https://www.sec.gov/Archives/edgar/data/1868279/000110465926121410/0001104659-26-121410-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -367,8 +367,8 @@
 #### Key Metrics
 - **Close (2026-11-02)**: `14.93` (-0.67%)
 - **Volume**: `730,800` (≈ `0.81x` avg)
-- **Market Cap**: $917.6M
-- **EV**: $478.6M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $960.8M
+- **EV**: $521.8M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+131.7%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
