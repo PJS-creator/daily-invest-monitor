@@ -1,13 +1,14 @@
-# Pulse Input (2026-11-03 06:00:50 KST)
+# Pulse Input (2026-11-03 12:00:53 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert QURE, AVBP, CMPS
+- 요약: PR 1건 / SEC 1건 / Alert QURE, AVBP, CMPS
 
 ## Must Watch
 - **CMPS** (Compass Pathways) — PRICE -27.3%, VOL 6.3x | 주가 -27.31%
   - 다음 촉매: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing
   - 체크포인트: Phase 3 관련 데이터/일정 업데이트
-- **AVBP** (ArriVent BioPharma) — PRICE -10.4% | 주가 -10.42%
+- **AVBP** (ArriVent BioPharma) — PRICE -10.2% | SEC 1건 | PR 1건 | 주가 -10.22%
+  - 변화: SEC: 4  - Statement of changes in beneficial ownership of securities / PR: Aarvik Therapeutics Announces Milestone Achievement, Partnership Update, and Presentations on MUTTA™ and AQUALINK™ Platforms at the 17th Annual WADC Conference | AVBP Stock News
   - 다음 촉매: early-2026: FURVENT Phase 3 topline
   - 체크포인트: FURVENT / ALPACCA 관련 업데이트
 - **QURE** (uniQure) — VOL 3.2x | 주가 -7.49%
