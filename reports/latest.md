@@ -1,4 +1,4 @@
-## Daily Report (2026-11-04 12:05:43 KST)
+## Daily Report (2026-11-04 18:00:56 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** CMPS
 
@@ -6,13 +6,13 @@
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
 | EQ | 1.41 | +2.17% | 8.56 | +506.78% | $110.5M | $77.4M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
-| GPCR | - | - | 107.29 | - | $1.45B | -$58.8M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
+| GPCR | 20.35 | -0.59% | 107.29 | +427.20% | $1.45B | -$58.8M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.48 | -3.90% | 5.55 | +275.00% | $206.5M | $46.4M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | 7.71 | +6.20% | 24.05 | +211.93% | $639.2M | $530.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| IMMX | - | - | 24.05 | - | $639.2M | $530.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.52 | +2.15% | 27.75 | +191.49% | $914.3M | $743.4M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 280.51 | +2.38% | 650.00 | +131.72% | $7.83B | $6.28B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.76 | +0.57% | 39.67 | +352.82% | $260.8M | $220.6M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 23.87 | +3.92% | 60.63 | +154.00% | $1.66B | $1.48B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 23.87 | +3.92% | 60.62 | +153.94% | $1.66B | $1.48B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.02 | -2.47% | 25.80 | +98.16% | $642.0M | $336.6M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 15.75 | +5.49% | 34.60 | +119.68% | $968.0M | $529.0M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.59 | +2.14% | 23.75 | +176.48% | $1.19B | $930.5M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | VOL 3.1x |
@@ -58,17 +58,20 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 20.35 (-0.59%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
-- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
+- **Close (2026-11-03)**: `20.35` (-0.59%)
+- **Volume**: `612,900` (≈ `0.55x` avg)
 - **Market Cap**: $1.45B
 - **EV**: -$58.8M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `107.29` (low `70.00` / high `145.00`; n=14)
+  - Upside to PT (mean): `+427.2%`
 - **Net Cash (anchor)**: $1.51B (as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Burn (anchor)**: ~$53.0M / quarter
 - **Buyout/SOTP (anchor)**: Bear `42.88` / Base `106.51` / Bull `336.75` (USD/share)
+  - Upside to Base (simple): `+423.4%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -129,21 +132,18 @@
 
 </details>
 <details>
-<summary><strong>IMMX — Immix Biopharma</strong> — Close 7.71 (+6.20%) | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
+<summary><strong>IMMX — Immix Biopharma</strong> — Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
 
 
 #### Key Metrics
-- **Close (2026-11-03)**: `7.71` (+6.20%)
-- **Volume**: `1,072,300` (≈ `0.70x` avg)
+- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
 - **Market Cap**: $639.2M
 - **EV**: $530.7M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.05` (low `17.40` / high `30.00`; n=8)
-  - Upside to PT (mean): `+211.9%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months
 - **Buyout/SOTP (anchor)**: Bear `8.82` / Base `32.69` / Bull `67.43` (USD/share)
-  - Upside to Base (simple): `+324.0%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -277,6 +277,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -289,8 +290,8 @@
 - **Volume**: `1,838,900` (≈ `0.88x` avg)
 - **Market Cap**: $1.66B
 - **EV**: $1.48B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.63` (low `28.11` / high `91.92`; n=11)
-  - Upside to PT (mean): `+154.0%`
+- **Price Target (consensus)**: mean `60.62` (low `28.10` / high `91.90`; n=11)
+  - Upside to PT (mean): `+153.9%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -353,7 +354,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/AVBP -> HTTP 429
 </details>
 
 </details>
