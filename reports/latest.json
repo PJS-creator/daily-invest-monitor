@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-04 12:00:53 KST",
-    "generated_at_utc": "2026-11-04T03:01:10.892556+00:00",
+    "generated_at_local": "2026-11-04 12:05:43 KST",
+    "generated_at_utc": "2026-11-04T03:06:32.802770+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 1,
+    "total_new_sec": 0,
     "alert_tickers": [
       "CMPS"
     ],
@@ -32,10 +32,10 @@
     },
     {
       "ticker": "GPCR",
-      "close": 20.350000381469727,
-      "pct": -0.5862185437714218,
+      "close": null,
+      "pct": null,
       "pt": 107.28571,
-      "pt_upside": 427.20249625986276,
+      "pt_upside": null,
       "mktcap": "$1.45B",
       "ev": "-$58.8M",
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
@@ -124,15 +124,15 @@
       "ticker": "QURE",
       "close": 23.8700008392334,
       "pct": 3.918160874108767,
-      "pt": 60.65679,
-      "pt_upside": 154.11306186593347,
+      "pt": 60.629482,
+      "pt_upside": 153.9986588536172,
       "mktcap": "$1.66B",
       "ev": "$1.48B",
       "net_cash": "$177.0M (2025-09-30)",
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -250,11 +250,11 @@
     {
       "ticker": "GPCR",
       "name": "Structure Therapeutics",
-      "close": 20.350000381469727,
-      "pct": -0.5862185437714218,
-      "volume": 612900.0,
-      "volume_x": 0.554982573601519,
-      "last_price_date": "2026-11-03",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 1451155584,
       "enterprise_value": -58844416.0,
       "net_cash_m": 1510.0,
@@ -274,7 +274,7 @@
         "analyst_count": 14,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 427.20249625986276
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
@@ -290,7 +290,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -565,29 +565,22 @@
       "runway_months": 15.9,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000585/0000904454-26-000585-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "checklist": [
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.65679,
-        "low": 28.123173,
-        "high": 91.9624,
-        "median": 64.58343,
+        "mean": 60.629482,
+        "low": 28.11051,
+        "high": 91.921,
+        "median": 64.55435,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 154.11306186593347
+        "upside_pct": 153.9986588536172
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -657,7 +650,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/AVBP -> HTTP 429"
         ],
         "sec_error": null
       }
