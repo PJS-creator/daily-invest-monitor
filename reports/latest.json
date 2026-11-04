@@ -1,56 +1,58 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-05 00:01:03 KST",
-    "generated_at_utc": "2026-11-04T15:01:40.332122+00:00",
+    "generated_at_local": "2026-11-05 03:44:48 KST",
+    "generated_at_utc": "2026-11-04T18:45:26.993769+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 6,
-    "total_new_sec": 6,
-    "alert_tickers": [],
-    "overall_judgement": "추가 확인 필요"
+    "total_new_press": 0,
+    "total_new_sec": 0,
+    "alert_tickers": [
+      "CGEM"
+    ],
+    "overall_judgement": "행동 고려"
   },
   "dashboard": [
     {
       "ticker": "EQ",
-      "close": 1.4759999513626099,
-      "pct": 4.680850092454847,
+      "close": 1.4049999713897705,
+      "pct": -0.3546095992902232,
       "pt": 8.55556,
-      "pt_upside": 479.64500555042025,
-      "mktcap": "$115.7M",
-      "ev": "$82.6M",
+      "pt_upside": 508.93666720414075,
+      "mktcap": "$110.1M",
+      "ev": "$77.0M",
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "GPCR",
-      "close": 20.899999618530273,
-      "pct": 2.702698902951206,
+      "close": 20.40999984741211,
+      "pct": 0.29483766495168595,
       "pt": 107.28571,
-      "pt_upside": 413.3287653502097,
-      "mktcap": "$1.49B",
-      "ev": "-$19.6M",
+      "pt_upside": 425.65267418952635,
+      "mktcap": "$1.46B",
+      "ev": "-$54.6M",
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
       "runway": "-",
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "IKT",
-      "close": 1.5499999523162842,
-      "pct": 4.729725158153664,
+      "close": 1.5950000286102295,
+      "pct": 7.77027081450552,
       "pt": 5.55,
-      "pt_upside": 258.0645271444175,
-      "mktcap": "$217.0M",
-      "ev": "$56.9M",
+      "pt_upside": 247.96237620358403,
+      "mktcap": "$222.6M",
+      "ev": "$62.5M",
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
       "runway": "71.0m",
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
@@ -60,27 +62,27 @@
     },
     {
       "ticker": "IMMX",
-      "close": 7.960000038146973,
-      "pct": 3.242542137004767,
+      "close": 7.795000076293945,
+      "pct": 1.1024648213542987,
       "pt": 24.05,
-      "pt_upside": 202.13567694402496,
-      "mktcap": "$659.9M",
-      "ev": "$551.4M",
+      "pt_upside": 208.5311066659326,
+      "mktcap": "$646.2M",
+      "ev": "$537.7M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
       "runway": "76.0m",
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "MGTX",
-      "close": 9.729999542236328,
-      "pct": 2.205872629989214,
+      "close": 9.604999542236328,
+      "pct": 0.892847483041237,
       "pt": 27.75,
-      "pt_upside": 185.2004245174094,
-      "mktcap": "$934.5M",
-      "ev": "$763.6M",
+      "pt_upside": 188.91203875621403,
+      "mktcap": "$922.5M",
+      "ev": "$751.6M",
       "net_cash": "$170.9M (2025 Q3 (pro forma))",
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
@@ -90,12 +92,12 @@
     },
     {
       "ticker": "PRAX",
-      "close": 282.114990234375,
-      "pct": 0.5721651323925991,
+      "close": 284.94500732421875,
+      "pct": 1.5810478785763582,
       "pt": 650.0,
-      "pt_upside": 130.40250341181593,
-      "mktcap": "$7.88B",
-      "ev": "$6.33B",
+      "pt_upside": 128.11419161326486,
+      "mktcap": "$7.96B",
+      "ev": "$6.41B",
       "net_cash": "$1.55B ((pro forma))",
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
@@ -105,42 +107,42 @@
     },
     {
       "ticker": "QTTB",
-      "close": 9.0600004196167,
-      "pct": 3.424659622105475,
+      "close": 8.770000457763672,
+      "pct": 0.11415786096518055,
       "pt": 39.66667,
-      "pt_upside": 337.82194440205313,
-      "mktcap": "$267.3M",
-      "ev": "$227.1M",
+      "pt_upside": 352.2995202911871,
+      "mktcap": "$261.1M",
+      "ev": "$220.9M",
       "net_cash": "$40.2M ((pro forma est.))",
       "runway": "13.2m",
       "next": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
-      "new_pr": 1,
-      "new_sec": 2,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "QURE",
-      "close": 23.299999237060547,
-      "pct": -2.387941274120031,
-      "pt": 60.602207,
-      "pt_upside": 160.0953175294841,
-      "mktcap": "$1.62B",
-      "ev": "$1.44B",
+      "close": 22.825000762939453,
+      "pct": -4.377880350034824,
+      "pt": 60.479748,
+      "pt_upside": 164.97150483429505,
+      "mktcap": "$1.58B",
+      "ev": "$1.41B",
       "net_cash": "$177.0M (2025-09-30)",
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
-      "new_pr": 1,
-      "new_sec": 2,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "AVBP",
-      "close": 13.199999809265137,
-      "pct": 1.3824834498691096,
+      "close": 13.069999694824219,
+      "pct": 0.3840187043214094,
       "pt": 25.8,
-      "pt_upside": 95.45454827878763,
-      "mktcap": "$650.9M",
-      "ev": "$345.5M",
+      "pt_upside": 97.39862740943232,
+      "mktcap": "$644.0M",
+      "ev": "$338.6M",
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
@@ -150,31 +152,31 @@
     },
     {
       "ticker": "CGEM",
-      "close": 15.729999542236328,
-      "pct": -0.12698703342013395,
+      "close": 12.6899995803833,
+      "pct": -19.42857409280444,
       "pt": 34.6,
-      "pt_upside": 119.96186272667195,
-      "mktcap": "$1.01B",
-      "ev": "$573.3M",
+      "pt_upside": 172.65564337359032,
+      "mktcap": "$770.7M",
+      "ev": "$331.7M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
-      "new_pr": 1,
-      "new_sec": 1,
-      "alert": "-"
+      "new_pr": 0,
+      "new_sec": 0,
+      "alert": "PRICE -19.4%"
     },
     {
       "ticker": "CMPS",
-      "close": 8.25,
-      "pct": -3.9580925092936092,
+      "close": 8.770000457763672,
+      "pct": 2.095463352483784,
       "pt": 23.75,
-      "pt_upside": 187.87878787878788,
-      "mktcap": "$1.17B",
-      "ev": "$912.9M",
+      "pt_upside": 170.80956397186085,
+      "mktcap": "$1.24B",
+      "ev": "$983.8M",
       "net_cash": "$259.0M ((pro forma))",
       "runway": "19.5m",
       "next": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
@@ -198,27 +200,20 @@
     {
       "ticker": "EQ",
       "name": "Equillium",
-      "close": 1.4759999513626099,
-      "pct": 4.680850092454847,
-      "volume": 19774.0,
-      "volume_x": 0.03480976447868971,
+      "close": 1.4049999713897705,
+      "pct": -0.3546095992902232,
+      "volume": 95474.0,
+      "volume_x": 0.16807057013444027,
       "last_price_date": "2026-11-04",
-      "market_cap": 115667240,
-      "enterprise_value": 82567240.0,
+      "market_cap": 110103304,
+      "enterprise_value": 77003304.0,
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000171677426000029/0001716774-26-000029-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -229,7 +224,7 @@
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.11111,
-        "upside_pct": 479.64500555042025
+        "upside_pct": 508.93666720414075
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -255,26 +250,19 @@
     {
       "ticker": "GPCR",
       "name": "Structure Therapeutics",
-      "close": 20.899999618530273,
-      "pct": 2.702698902951206,
-      "volume": 112112.0,
-      "volume_x": 0.10189823083250396,
+      "close": 20.40999984741211,
+      "pct": 0.29483766495168595,
+      "volume": 306145.0,
+      "volume_x": 0.2782541911500725,
       "last_price_date": "2026-11-04",
-      "market_cap": 1490375936,
-      "enterprise_value": -19624064.0,
+      "market_cap": 1455434112,
+      "enterprise_value": -54565888.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Structure Therapeutics to Participate in the Jefferies Global Healthcare Conference | GPCR Stock News",
-          "url": "https://www.stocktitan.net/news/GPCR/structure-therapeutics-to-participate-in-the-jefferies-global-brrzrpxxjdgn.html",
-          "date_text": "Wed, 04 Nov 2026 12:30:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
@@ -286,7 +274,7 @@
         "analyst_count": 14,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 413.3287653502097
+        "upside_pct": 425.65267418952635
       },
       "anchors": {
         "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
@@ -312,13 +300,13 @@
     {
       "ticker": "IKT",
       "name": "Inhibikase Therapeutics",
-      "close": 1.5499999523162842,
-      "pct": 4.729725158153664,
-      "volume": 42650.0,
-      "volume_x": 0.07557206190353001,
+      "close": 1.5950000286102295,
+      "pct": 7.77027081450552,
+      "volume": 309142.0,
+      "volume_x": 0.5477725289796266,
       "last_price_date": "2026-11-04",
-      "market_cap": 216978320,
-      "enterprise_value": 56878320.0,
+      "market_cap": 222559776,
+      "enterprise_value": 62459776.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
       "alerts": [],
@@ -336,7 +324,7 @@
         "analyst_count": 10,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 258.0645271444175
+        "upside_pct": 247.96237620358403
       },
       "anchors": {
         "as_of": "2025-09-30 + Nov-2025 offering (pro forma est.)",
@@ -362,26 +350,19 @@
     {
       "ticker": "IMMX",
       "name": "Immix Biopharma",
-      "close": 7.960000038146973,
-      "pct": 3.242542137004767,
-      "volume": 193006.0,
-      "volume_x": 0.12722798612269273,
+      "close": 7.795000076293945,
+      "pct": 1.1024648213542987,
+      "volume": 620378.0,
+      "volume_x": 0.40894813412445147,
       "last_price_date": "2026-11-04",
-      "market_cap": 659907520,
-      "enterprise_value": 551407520.0,
+      "market_cap": 646228544,
+      "enterprise_value": 537728544.0,
       "net_cash_m": 108.5,
       "runway_months": 76.0,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Immix Biopharma’s NXC-201 NEXICART-2 Interim Clinical Trial Results Selected for Oral Presentation at ASH 2026 | IMMX Stock News",
-          "url": "https://www.stocktitan.net/news/IMMX/immix-biopharma-s-nxc-201-nexicart-2-interim-clinical-trial-results-tar0uyfj2xht.html",
-          "date_text": "Wed, 04 Nov 2026 14:15:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
@@ -393,7 +374,7 @@
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 202.13567694402496
+        "upside_pct": 208.5311066659326
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -419,13 +400,13 @@
     {
       "ticker": "MGTX",
       "name": "MeiraGTx",
-      "close": 9.729999542236328,
-      "pct": 2.205872629989214,
-      "volume": 46036.0,
-      "volume_x": 0.057249948080082276,
+      "close": 9.604999542236328,
+      "pct": 0.892847483041237,
+      "volume": 232015.0,
+      "volume_x": 0.2885317295985813,
       "last_price_date": "2026-11-04",
-      "market_cap": 934498240,
-      "enterprise_value": 763598240.0,
+      "market_cap": 922492864,
+      "enterprise_value": 751592864.0,
       "net_cash_m": 170.9,
       "runway_months": 21.4,
       "alerts": [],
@@ -443,7 +424,7 @@
         "analyst_count": 8,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 185.2004245174094
+        "upside_pct": 188.91203875621403
       },
       "anchors": {
         "as_of": "2025 Q3 (pro forma)",
@@ -469,13 +450,13 @@
     {
       "ticker": "PRAX",
       "name": "Praxis Precision Medicines",
-      "close": 282.114990234375,
-      "pct": 0.5721651323925991,
-      "volume": 26751.0,
-      "volume_x": 0.058340530213812775,
+      "close": 284.94500732421875,
+      "pct": 1.5810478785763582,
+      "volume": 145947.0,
+      "volume_x": 0.31829185313129726,
       "last_price_date": "2026-11-04",
-      "market_cap": 7879021056,
-      "enterprise_value": 6329021056.0,
+      "market_cap": 7955661312,
+      "enterprise_value": 6405661312.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
       "alerts": [],
@@ -495,7 +476,7 @@
         "analyst_count": 21,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.47619,
-        "upside_pct": 130.40250341181593
+        "upside_pct": 128.11419161326486
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -521,40 +502,20 @@
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "close": 9.0600004196167,
-      "pct": 3.424659622105475,
-      "volume": 19451.0,
-      "volume_x": 0.027709792949395545,
+      "close": 8.770000457763672,
+      "pct": 0.11415786096518055,
+      "volume": 111509.0,
+      "volume_x": 0.15885513865580936,
       "last_price_date": "2026-11-04",
-      "market_cap": 267329792,
-      "enterprise_value": 227129792.0,
+      "market_cap": 261078224,
+      "enterprise_value": 220878224.0,
       "net_cash_m": 40.2,
       "runway_months": 13.2,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 2,
-      "new_press": [
-        {
-          "title": "Q32 Bio Reports Third Quarter 2026 Financial Results and Provides Corporate Update | QTTB Stock News",
-          "url": "https://www.stocktitan.net/news/QTTB/q32-bio-reports-third-quarter-2026-financial-results-and-provides-lmt8jdjnur4t.html",
-          "date_text": "Wed, 04 Nov 2026 11:59:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526446206/0001193125-26-446206-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000119312526446183/0001193125-26-446183-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
       "checklist": [
         "SIGNAL-AA Phase 2 업데이트"
@@ -567,7 +528,7 @@
         "analyst_count": 6,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 337.82194440205313
+        "upside_pct": 352.2995202911871
       },
       "anchors": {
         "as_of": "(pro forma est.)",
@@ -585,7 +546,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -593,53 +555,33 @@
     {
       "ticker": "QURE",
       "name": "uniQure",
-      "close": 23.299999237060547,
-      "pct": -2.387941274120031,
-      "volume": 281835.0,
-      "volume_x": 0.13491041155968758,
+      "close": 22.825000762939453,
+      "pct": -4.377880350034824,
+      "volume": 1528328.0,
+      "volume_x": 0.7315889065523948,
       "last_price_date": "2026-11-04",
-      "market_cap": 1616237440,
-      "enterprise_value": 1439237440.0,
+      "market_cap": 1582247936,
+      "enterprise_value": 1405247936.0,
       "net_cash_m": 177.0,
       "runway_months": 15.9,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 2,
-      "new_press": [
-        {
-          "title": "uniQure Announces Third Quarter 2026 Financial Results and Provides Company Update | QURE Stock News",
-          "url": "https://www.stocktitan.net/news/QURE/uni-qure-announces-third-quarter-2026-financial-results-and-provides-i2stzum7gog4.html",
-          "date_text": "Wed, 04 Nov 2026 12:05:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
-          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926122367/0001104659-26-122367-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000110465926122362/0001104659-26-122362-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "checklist": [
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.602207,
-        "low": 28.097864,
-        "high": 91.87965,
-        "median": 64.525314,
+        "mean": 60.479748,
+        "low": 28.041088,
+        "high": 91.693985,
+        "median": 64.39493,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 160.0953175294841
+        "upside_pct": 164.97150483429505
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -665,13 +607,13 @@
     {
       "ticker": "AVBP",
       "name": "ArriVent BioPharma",
-      "close": 13.199999809265137,
-      "pct": 1.3824834498691096,
-      "volume": 107854.0,
-      "volume_x": 0.08836102722745914,
+      "close": 13.069999694824219,
+      "pct": 0.3840187043214094,
+      "volume": 600866.0,
+      "volume_x": 0.4922685944522639,
       "last_price_date": "2026-11-04",
-      "market_cap": 650862016,
-      "enterprise_value": 345462016.0,
+      "market_cap": 643958976,
+      "enterprise_value": 338558976.0,
       "net_cash_m": 305.4,
       "runway_months": 21.2,
       "alerts": [],
@@ -691,7 +633,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 95.45454827878763
+        "upside_pct": 97.39862740943232
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -717,34 +659,22 @@
     {
       "ticker": "CGEM",
       "name": "Cullinan Therapeutics",
-      "close": 15.729999542236328,
-      "pct": -0.12698703342013395,
-      "volume": 73900.0,
-      "volume_x": 0.08160407777453864,
+      "close": 12.6899995803833,
+      "pct": -19.42857409280444,
+      "volume": 874024.0,
+      "volume_x": 0.9651410348147952,
       "last_price_date": "2026-11-04",
-      "market_cap": 1012299328,
-      "enterprise_value": 573299328.0,
+      "market_cap": 770683904,
+      "enterprise_value": 331683904.0,
       "net_cash_m": 439.0,
       "runway_months": null,
-      "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 1,
-      "new_press": [
-        {
-          "title": "Cullinan Therapeutics Announces Presentations for CLN-049, a FLT3 T Cell Engager, and Velinotamig, a BCMA T Cell Engager, at the 68th ASH Annual Meeting | CGEM Stock News",
-          "url": "https://www.stocktitan.net/news/CGEM/cullinan-therapeutics-announces-presentations-for-cln-049-a-flt3-t-2d2pc4nssm6m.html",
-          "date_text": "Wed, 04 Nov 2026 14:14:00 GMT",
-          "source": "RSS"
-        }
+      "alerts": [
+        "PRICE -19.4%"
       ],
-      "new_sec": [
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526446348/0001193125-26-446348-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [
         "CLN-978 / CLN-049 업데이트"
@@ -757,7 +687,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 119.96186272667195
+        "upside_pct": 172.65564337359032
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
@@ -783,26 +713,19 @@
     {
       "ticker": "CMPS",
       "name": "Compass Pathways",
-      "close": 8.25,
-      "pct": -3.9580925092936092,
-      "volume": 997169.0,
-      "volume_x": 0.33518815255232604,
+      "close": 8.770000457763672,
+      "pct": 2.095463352483784,
+      "volume": 3567526.0,
+      "volume_x": 1.19918734850601,
       "last_price_date": "2026-11-04",
-      "market_cap": 1171944704,
-      "enterprise_value": 912944704.0,
+      "market_cap": 1242799872,
+      "enterprise_value": 983799872.0,
       "net_cash_m": 259.0,
       "runway_months": 19.5,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Compass Pathways to Participate in Stifel 2026 Healthcare Conference on November 11th | CMPS Stock News",
-          "url": "https://www.stocktitan.net/news/CMPS/compass-pathways-to-participate-in-stifel-2026-healthcare-conference-mh4wwfcafbwd.html",
-          "date_text": "Wed, 04 Nov 2026 11:30:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
       "checklist": [
@@ -816,7 +739,7 @@
         "analyst_count": 16,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.3125,
-        "upside_pct": 187.87878787878788
+        "upside_pct": 170.80956397186085
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -886,8 +809,7 @@
       "errors": {
         "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/CRNX -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
