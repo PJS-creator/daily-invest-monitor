@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-05 12:00:56 KST",
-    "generated_at_utc": "2026-11-05T03:02:09.960784+00:00",
+    "generated_at_local": "2026-11-05 12:36:26 KST",
+    "generated_at_utc": "2026-11-05T03:36:43.542834+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 1,
+    "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
       "CGEM"
@@ -101,16 +101,16 @@
       "net_cash": "$1.55B ((pro forma))",
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "QTTB",
-      "close": 8.970000267028809,
-      "pct": 2.3972606468045443,
+      "close": null,
+      "pct": null,
       "pt": 39.66667,
-      "pt_upside": 342.21481403744764,
+      "pt_upside": null,
       "mktcap": "$267.0M",
       "ev": "$226.8M",
       "net_cash": "$40.2M ((pro forma est.))",
@@ -124,8 +124,8 @@
       "ticker": "QURE",
       "close": 23.030000686645508,
       "pct": -3.5190620990982246,
-      "pt": 60.65679,
-      "pt_upside": 163.3816248002688,
+      "pt": 60.677284,
+      "pt_upside": 163.47061307377712,
       "mktcap": "$1.60B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -156,8 +156,8 @@
       "pct": -20.698414151630708,
       "pt": 34.6,
       "pt_upside": 177.02162237031365,
-      "mktcap": "$767.6M",
-      "ev": "$328.6M",
+      "mktcap": "$803.8M",
+      "ev": "$364.8M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -460,16 +460,9 @@
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Praxis Precision Medicines, Inc. Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | PRAX Stock News",
-          "url": "https://www.stocktitan.net/news/PRAX/praxis-precision-medicines-inc-announces-inducement-grants-under-xutal7l54soi.html",
-          "date_text": "Wed, 04 Nov 2026 21:01:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
@@ -509,11 +502,11 @@
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "close": 8.970000267028809,
-      "pct": 2.3972606468045443,
-      "volume": 220500.0,
-      "volume_x": 0.3141231476706451,
-      "last_price_date": "2026-11-04",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 267032112,
       "enterprise_value": 226832112.0,
       "net_cash_m": 40.2,
@@ -535,7 +528,7 @@
         "analyst_count": 6,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 342.21481403744764
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "(pro forma est.)",
@@ -551,9 +544,10 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -580,14 +574,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.65679,
-        "low": 28.123173,
-        "high": 91.9624,
-        "median": 64.58343,
+        "mean": 60.677284,
+        "low": 28.132673,
+        "high": 91.99347,
+        "median": 64.60525,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 163.3816248002688
+        "upside_pct": 163.47061307377712
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -670,8 +664,8 @@
       "volume": 2202900.0,
       "volume_x": 2.432552407706782,
       "last_price_date": "2026-11-04",
-      "market_cap": 767611008,
-      "enterprise_value": 328611008.0,
+      "market_cap": 803790144,
+      "enterprise_value": 364790144.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [

@@ -1,6 +1,6 @@
-## Daily Report (2026-11-05 12:00:56 KST)
+## Daily Report (2026-11-05 12:36:26 KST)
 
-**Summary:** 1 new PR / 0 new SEC | **Alerts:** CGEM
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** CGEM
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -10,11 +10,11 @@
 | IKT | 1.57 | +5.74% | 5.55 | +254.63% | $218.4M | $58.3M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 7.97 | +3.37% | 24.05 | +201.76% | $660.7M | $552.2M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.42 | -1.05% | 27.75 | +194.59% | $904.7M | $733.8M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 284.79 | +1.53% | 650.00 | +128.24% | $7.95B | $6.40B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 1 | 0 | - |
-| QTTB | 8.97 | +2.40% | 39.67 | +342.21% | $267.0M | $226.8M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 23.03 | -3.52% | 60.66 | +163.38% | $1.60B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| PRAX | 284.79 | +1.53% | 650.00 | +128.24% | $7.95B | $6.40B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
+| QTTB | - | - | 39.67 | - | $267.0M | $226.8M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
+| QURE | 23.03 | -3.52% | 60.68 | +163.47% | $1.60B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.49 | +3.61% | 25.80 | +91.25% | $665.2M | $359.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 12.49 | -20.70% | 34.60 | +177.02% | $767.6M | $328.6M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | PRICE -20.7% |
+| CGEM | 12.49 | -20.70% | 34.60 | +177.02% | $803.8M | $364.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | PRICE -20.7% |
 | CMPS | 8.60 | +0.12% | 23.75 | +176.16% | $1.22B | $959.7M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -208,7 +208,7 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 284.79 (+1.53%) | PR 1 / SEC 0 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 284.79 (+1.53%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
@@ -235,7 +235,7 @@
 - vormatrigine / elsunersen 등 주요 마일스톤 업데이트
 
 #### New Press Releases
-- [Praxis Precision Medicines, Inc. Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | PRAX Stock News](https://www.stocktitan.net/news/PRAX/praxis-precision-medicines-inc-announces-inducement-grants-under-xutal7l54soi.html) — _RSS_, Wed, 04 Nov 2026 21:01:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
 - (신규 없음)
@@ -246,21 +246,18 @@
 
 </details>
 <details>
-<summary><strong>QTTB — Q32 Bio</strong> — Close 8.97 (+2.40%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
+<summary><strong>QTTB — Q32 Bio</strong> — Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
 
 
 #### Key Metrics
-- **Close (2026-11-04)**: `8.97` (+2.40%)
-- **Volume**: `220,500` (≈ `0.31x` avg)
+- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
 - **Market Cap**: $267.0M
 - **EV**: $226.8M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
-  - Upside to PT (mean): `+342.2%`
 - **Net Cash (anchor)**: $40.2M (as-of (pro forma est.))
 - **Burn (anchor)**: ~$3.0M / month
 - **Runway (anchor)**: ~13.2 months
 - **Buyout/SOTP (anchor)**: Bear `4.26` / Base `11.96` / Bull `42.84` (USD/share)
-  - Upside to Base (simple): `+33.3%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -280,6 +277,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -292,8 +290,8 @@
 - **Volume**: `2,661,100` (≈ `1.27x` avg)
 - **Market Cap**: $1.60B
 - **EV**: $1.42B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.66` (low `28.12` / high `91.96`; n=11)
-  - Upside to PT (mean): `+163.4%`
+- **Price Target (consensus)**: mean `60.68` (low `28.13` / high `91.99`; n=11)
+  - Upside to PT (mean): `+163.5%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -366,8 +364,8 @@
 #### Key Metrics
 - **Close (2026-11-04)**: `12.49` (-20.70%)
 - **Volume**: `2,202,900` (≈ `2.43x` avg)
-- **Market Cap**: $767.6M
-- **EV**: $328.6M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $803.8M
+- **EV**: $364.8M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+177.0%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
