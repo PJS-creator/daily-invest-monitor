@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-05 12:36:26 KST",
-    "generated_at_utc": "2026-11-05T03:36:43.542834+00:00",
+    "generated_at_local": "2026-11-05 18:00:55 KST",
+    "generated_at_utc": "2026-11-05T09:01:11.851049+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -107,10 +107,10 @@
     },
     {
       "ticker": "QTTB",
-      "close": null,
-      "pct": null,
+      "close": 8.970000267028809,
+      "pct": 2.3972606468045443,
       "pt": 39.66667,
-      "pt_upside": null,
+      "pt_upside": 342.21481403744764,
       "mktcap": "$267.0M",
       "ev": "$226.8M",
       "net_cash": "$40.2M ((pro forma est.))",
@@ -124,8 +124,8 @@
       "ticker": "QURE",
       "close": 23.030000686645508,
       "pct": -3.5190620990982246,
-      "pt": 60.677284,
-      "pt_upside": 163.47061307377712,
+      "pt": 60.602207,
+      "pt_upside": 163.1446165572267,
       "mktcap": "$1.60B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -156,8 +156,8 @@
       "pct": -20.698414151630708,
       "pt": 34.6,
       "pt_upside": 177.02162237031365,
-      "mktcap": "$803.8M",
-      "ev": "$364.8M",
+      "mktcap": "$767.6M",
+      "ev": "$328.6M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -502,11 +502,11 @@
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "close": null,
-      "pct": null,
-      "volume": null,
-      "volume_x": null,
-      "last_price_date": null,
+      "close": 8.970000267028809,
+      "pct": 2.3972606468045443,
+      "volume": 220500.0,
+      "volume_x": 0.3141231476706451,
+      "last_price_date": "2026-11-04",
       "market_cap": 267032112,
       "enterprise_value": 226832112.0,
       "net_cash_m": 40.2,
@@ -528,7 +528,7 @@
         "analyst_count": 6,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": null
+        "upside_pct": 342.21481403744764
       },
       "anchors": {
         "as_of": "(pro forma est.)",
@@ -544,7 +544,7 @@
         }
       },
       "errors": {
-        "price_error": "Not enough price rows (need >= 2 trading days).",
+        "price_error": null,
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
           "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
@@ -574,14 +574,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.677284,
-        "low": 28.132673,
-        "high": 91.99347,
-        "median": 64.60525,
+        "mean": 60.602207,
+        "low": 28.097864,
+        "high": 91.87965,
+        "median": 64.525314,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 163.47061307377712
+        "upside_pct": 163.1446165572267
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -664,8 +664,8 @@
       "volume": 2202900.0,
       "volume_x": 2.432552407706782,
       "last_price_date": "2026-11-04",
-      "market_cap": 803790144,
-      "enterprise_value": 364790144.0,
+      "market_cap": 767611008,
+      "enterprise_value": 328611008.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [
