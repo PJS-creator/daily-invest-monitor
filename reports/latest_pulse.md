@@ -1,15 +1,13 @@
-# Pulse Input (2026-11-05 18:00:55 KST)
+# Pulse Input (2026-11-06 00:00:58 KST)
 
-- 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert CGEM
+- 전체 판단: **감시만**
+- 요약: PR 0건 / SEC 0건 / Alert -
 
 ## Must Watch
-- **CGEM** (Cullinan Therapeutics) — PRICE -20.7% | 주가 -20.70%
-  - 다음 촉매: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)
-  - 체크포인트: CLN-978 / CLN-049 업데이트
+- 오늘은 즉시 대응할 내용 없음
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
