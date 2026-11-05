@@ -1,32 +1,33 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-06 03:52:46 KST",
-    "generated_at_utc": "2026-11-05T18:53:06.009136+00:00",
+    "generated_at_local": "2026-11-06 06:00:53 KST",
+    "generated_at_utc": "2026-11-05T21:01:23.094295+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 3,
+    "total_new_sec": 0,
     "alert_tickers": [
       "IMMX",
       "MGTX",
       "QURE",
       "AVBP",
-      "CGEM"
+      "CGEM",
+      "CMPS"
     ],
     "overall_judgement": "행동 고려"
   },
   "dashboard": [
     {
       "ticker": "EQ",
-      "close": 1.3200000524520874,
-      "pct": -5.7142803620318094,
+      "close": 1.3300000429153442,
+      "pct": -4.999995316777827,
       "pt": 8.55556,
-      "pt_upside": 548.1484590933791,
-      "mktcap": "$103.4M",
-      "ev": "$70.3M",
+      "pt_upside": 543.2751672132516,
+      "mktcap": "$104.2M",
+      "ev": "$71.1M",
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
@@ -36,17 +37,17 @@
     },
     {
       "ticker": "GPCR",
-      "close": 18.864999771118164,
-      "pct": -7.342832978469072,
+      "close": 19.059999465942383,
+      "pct": -6.385074191737616,
       "pt": 107.28571,
-      "pt_upside": 468.70241877368954,
-      "mktcap": "$1.35B",
-      "ev": "-$164.7M",
+      "pt_upside": 462.8841186050656,
+      "mktcap": "$1.36B",
+      "ev": "-$150.8M",
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
       "runway": "-",
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -55,8 +56,8 @@
       "pct": -7.667731653729093,
       "pt": 5.55,
       "pt_upside": 284.0830310408604,
-      "mktcap": "$201.6M",
-      "ev": "$41.5M",
+      "mktcap": "$202.3M",
+      "ev": "$42.2M",
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
       "runway": "71.0m",
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
@@ -66,57 +67,57 @@
     },
     {
       "ticker": "IMMX",
-      "close": 7.21999979019165,
-      "pct": -9.410288829906799,
+      "close": 7.150000095367432,
+      "pct": -10.28857862497511,
       "pt": 24.05,
-      "pt_upside": 233.10250275452722,
-      "mktcap": "$598.6M",
-      "ev": "$490.1M",
+      "pt_upside": 236.36363187718382,
+      "mktcap": "$591.1M",
+      "ev": "$482.6M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
       "runway": "76.0m",
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE -9.4%"
+      "alert": "PRICE -10.3%"
     },
     {
       "ticker": "MGTX",
-      "close": 8.59000015258789,
-      "pct": -8.811039458426384,
+      "close": 8.505000114440918,
+      "pct": -9.713375312551065,
       "pt": 27.75,
-      "pt_upside": 223.0500524687397,
-      "mktcap": "$825.0M",
-      "ev": "$654.1M",
+      "pt_upside": 226.27865522167795,
+      "mktcap": "$816.8M",
+      "ev": "$645.9M",
       "net_cash": "$170.9M (2025 Q3 (pro forma))",
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE -8.8%"
+      "alert": "PRICE -9.7%"
     },
     {
       "ticker": "PRAX",
-      "close": 264.95001220703125,
-      "pct": -6.966535251450412,
+      "close": 262.1099853515625,
+      "pct": -7.963770677643667,
       "pt": 650.0,
-      "pt_upside": 145.3292961134464,
-      "mktcap": "$7.40B",
-      "ev": "$5.85B",
+      "pt_upside": 147.9875000291076,
+      "mktcap": "$7.35B",
+      "ev": "$5.80B",
       "net_cash": "$1.55B ((pro forma))",
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "QTTB",
-      "close": 8.520000457763672,
-      "pct": -5.016720132319385,
+      "close": 8.864999771118164,
+      "pct": -1.1705740555727373,
       "pt": 39.66667,
-      "pt_upside": 365.5712191171842,
-      "mktcap": "$255.0M",
-      "ev": "$214.8M",
+      "pt_upside": 347.45257782445213,
+      "mktcap": "$265.3M",
+      "ev": "$225.1M",
       "net_cash": "$40.2M ((pro forma est.))",
       "runway": "13.2m",
       "next": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
@@ -126,63 +127,63 @@
     },
     {
       "ticker": "QURE",
-      "close": 20.83009910583496,
-      "pct": -9.55232963621322,
-      "pt": 60.49333,
-      "pt_upside": 190.4130685727487,
-      "mktcap": "$1.46B",
-      "ev": "$1.28B",
+      "close": 21.010000228881836,
+      "pct": -8.771169767854225,
+      "pt": 60.452602,
+      "pt_upside": 187.7325147141006,
+      "mktcap": "$1.47B",
+      "ev": "$1.30B",
       "net_cash": "$177.0M (2025-09-30)",
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE -9.6%"
+      "alert": "PRICE -8.8%"
     },
     {
       "ticker": "AVBP",
-      "close": 12.345000267028809,
-      "pct": -8.487765185443353,
+      "close": 12.199999809265137,
+      "pct": -9.562638871313345,
       "pt": 25.8,
-      "pt_upside": 108.99149001160401,
-      "mktcap": "$608.7M",
-      "ev": "$303.3M",
+      "pt_upside": 111.47541314227327,
+      "mktcap": "$602.0M",
+      "ev": "$296.6M",
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
       "new_pr": 0,
-      "new_sec": 1,
-      "alert": "PRICE -8.5%"
+      "new_sec": 0,
+      "alert": "PRICE -9.6%"
     },
     {
       "ticker": "CGEM",
-      "close": 11.279999732971191,
-      "pct": -9.687750683110286,
+      "close": 10.805000305175781,
+      "pct": -13.490788605447134,
       "pt": 34.6,
-      "pt_upside": 206.73759591380986,
-      "mktcap": "$727.9M",
-      "ev": "$288.9M",
+      "pt_upside": 220.22211034483732,
+      "mktcap": "$661.9M",
+      "ev": "$222.9M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE -9.7%"
+      "alert": "PRICE -13.5%"
     },
     {
       "ticker": "CMPS",
-      "close": 8.010000228881836,
-      "pct": -6.860466586247527,
+      "close": 7.784999847412109,
+      "pct": -9.476749975659127,
       "pt": 23.75,
-      "pt_upside": 196.50436106561017,
-      "mktcap": "$1.14B",
-      "ev": "$877.5M",
+      "pt_upside": 205.07386596667664,
+      "mktcap": "$1.11B",
+      "ev": "$847.0M",
       "net_cash": "$259.0M ((pro forma))",
       "runway": "19.5m",
       "next": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PRICE -9.5%"
     },
     {
       "ticker": "CRNX",
@@ -204,13 +205,13 @@
     {
       "ticker": "EQ",
       "name": "Equillium",
-      "close": 1.3200000524520874,
-      "pct": -5.7142803620318094,
-      "volume": 198488.0,
-      "volume_x": 0.35064524392075114,
+      "close": 1.3300000429153442,
+      "pct": -4.999995316777827,
+      "volume": 261374.0,
+      "volume_x": 0.4617384929292572,
       "last_price_date": "2026-11-05",
-      "market_cap": 103442256,
-      "enterprise_value": 70342256.0,
+      "market_cap": 104225912,
+      "enterprise_value": 71125912.0,
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
@@ -228,7 +229,7 @@
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.11111,
-        "upside_pct": 548.1484590933791
+        "upside_pct": 543.2751672132516
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -254,27 +255,20 @@
     {
       "ticker": "GPCR",
       "name": "Structure Therapeutics",
-      "close": 18.864999771118164,
-      "pct": -7.342832978469072,
-      "volume": 483460.0,
-      "volume_x": 0.439259511641113,
+      "close": 19.059999465942383,
+      "pct": -6.385074191737616,
+      "volume": 932338.0,
+      "volume_x": 0.8470986939239069,
       "last_price_date": "2026-11-05",
-      "market_cap": 1345260416,
-      "enterprise_value": -164739584.0,
+      "market_cap": 1359165824,
+      "enterprise_value": -150834176.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000031506626002858/0000315066-26-002858-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
       "price_target": {
@@ -285,7 +279,7 @@
         "analyst_count": 14,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 468.70241877368954
+        "upside_pct": 462.8841186050656
       },
       "anchors": {
         "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
@@ -313,11 +307,11 @@
       "name": "Inhibikase Therapeutics",
       "close": 1.4450000524520874,
       "pct": -7.667731653729093,
-      "volume": 447714.0,
-      "volume_x": 0.8029376160116214,
+      "volume": 580005.0,
+      "volume_x": 1.0401904608183359,
       "last_price_date": "2026-11-05",
-      "market_cap": 201629392,
-      "enterprise_value": 41529392.0,
+      "market_cap": 202327072,
+      "enterprise_value": 42227072.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
       "alerts": [],
@@ -361,17 +355,17 @@
     {
       "ticker": "IMMX",
       "name": "Immix Biopharma",
-      "close": 7.21999979019165,
-      "pct": -9.410288829906799,
-      "volume": 637319.0,
-      "volume_x": 0.42040648856598367,
+      "close": 7.150000095367432,
+      "pct": -10.28857862497511,
+      "volume": 1103872.0,
+      "volume_x": 0.728167450438963,
       "last_price_date": "2026-11-05",
-      "market_cap": 598559296,
-      "enterprise_value": 490059296.0,
+      "market_cap": 591106304,
+      "enterprise_value": 482606304.0,
       "net_cash_m": 108.5,
       "runway_months": 76.0,
       "alerts": [
-        "PRICE -9.4%"
+        "PRICE -10.3%"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -387,7 +381,7 @@
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 233.10250275452722
+        "upside_pct": 236.36363187718382
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -413,17 +407,17 @@
     {
       "ticker": "MGTX",
       "name": "MeiraGTx",
-      "close": 8.59000015258789,
-      "pct": -8.811039458426384,
-      "volume": 284684.0,
-      "volume_x": 0.3528128710196332,
+      "close": 8.505000114440918,
+      "pct": -9.713375312551065,
+      "volume": 527684.0,
+      "volume_x": 0.6539661766419052,
       "last_price_date": "2026-11-05",
-      "market_cap": 825009344,
-      "enterprise_value": 654109344.0,
+      "market_cap": 816845632,
+      "enterprise_value": 645945632.0,
       "net_cash_m": 170.9,
       "runway_months": 21.4,
       "alerts": [
-        "PRICE -8.8%"
+        "PRICE -9.7%"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -439,7 +433,7 @@
         "analyst_count": 8,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 223.0500524687397
+        "upside_pct": 226.27865522167795
       },
       "anchors": {
         "as_of": "2025 Q3 (pro forma)",
@@ -465,27 +459,20 @@
     {
       "ticker": "PRAX",
       "name": "Praxis Precision Medicines",
-      "close": 264.95001220703125,
-      "pct": -6.966535251450412,
-      "volume": 144136.0,
-      "volume_x": 0.31329554148987965,
+      "close": 262.1099853515625,
+      "pct": -7.963770677643667,
+      "volume": 239666.0,
+      "volume_x": 0.5209405647909856,
       "last_price_date": "2026-11-05",
-      "market_cap": 7397401088,
-      "enterprise_value": 5847401088.0,
+      "market_cap": 7347144704,
+      "enterprise_value": 5797144704.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000031506626002828/0000315066-26-002828-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -498,7 +485,7 @@
         "analyst_count": 21,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.47619,
-        "upside_pct": 145.3292961134464
+        "upside_pct": 147.9875000291076
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -524,13 +511,13 @@
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "close": 8.520000457763672,
-      "pct": -5.016720132319385,
-      "volume": 316655.0,
-      "volume_x": 0.45547387089860636,
+      "close": 8.864999771118164,
+      "pct": -1.1705740555727373,
+      "volume": 538391.0,
+      "volume_x": 0.7744170558714423,
       "last_price_date": "2026-11-05",
-      "market_cap": 254951488,
-      "enterprise_value": 214751488.0,
+      "market_cap": 265275200,
+      "enterprise_value": 225075200.0,
       "net_cash_m": 40.2,
       "runway_months": 13.2,
       "alerts": [],
@@ -550,7 +537,7 @@
         "analyst_count": 6,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 365.5712191171842
+        "upside_pct": 347.45257782445213
       },
       "anchors": {
         "as_of": "(pro forma est.)",
@@ -568,8 +555,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
@@ -577,17 +563,17 @@
     {
       "ticker": "QURE",
       "name": "uniQure",
-      "close": 20.83009910583496,
-      "pct": -9.55232963621322,
-      "volume": 1633546.0,
-      "volume_x": 0.7712193846092834,
+      "close": 21.010000228881836,
+      "pct": -8.771169767854225,
+      "volume": 2481763.0,
+      "volume_x": 1.1716742189115514,
       "last_price_date": "2026-11-05",
-      "market_cap": 1460999552,
-      "enterprise_value": 1283999552.0,
+      "market_cap": 1473617536,
+      "enterprise_value": 1296617536.0,
       "net_cash_m": 177.0,
       "runway_months": 15.9,
       "alerts": [
-        "PRICE -9.6%"
+        "PRICE -8.8%"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -598,14 +584,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.49333,
-        "low": 28.047382,
-        "high": 91.71457,
-        "median": 64.409386,
+        "mean": 60.452602,
+        "low": 28.028502,
+        "high": 91.652824,
+        "median": 64.36602,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 190.4130685727487
+        "upside_pct": 187.7325147141006
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -631,29 +617,22 @@
     {
       "ticker": "AVBP",
       "name": "ArriVent BioPharma",
-      "close": 12.345000267028809,
-      "pct": -8.487765185443353,
-      "volume": 535110.0,
-      "volume_x": 0.43090265614997164,
+      "close": 12.199999809265137,
+      "pct": -9.562638871313345,
+      "volume": 935626.0,
+      "volume_x": 0.7534221535067058,
       "last_price_date": "2026-11-05",
-      "market_cap": 608703936,
-      "enterprise_value": 303303936.0,
+      "market_cap": 602047360,
+      "enterprise_value": 296647360.0,
       "net_cash_m": 305.4,
       "runway_months": 21.2,
       "alerts": [
-        "PRICE -8.5%"
+        "PRICE -9.6%"
       ],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1868279/000031506626002691/0000315066-26-002691-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "early-2026: FURVENT Phase 3 topline",
       "checklist": [
         "FURVENT / ALPACCA 관련 업데이트"
@@ -666,7 +645,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 108.99149001160401
+        "upside_pct": 111.47541314227327
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -692,17 +671,17 @@
     {
       "ticker": "CGEM",
       "name": "Cullinan Therapeutics",
-      "close": 11.279999732971191,
-      "pct": -9.687750683110286,
-      "volume": 980399.0,
-      "volume_x": 1.0510968234414986,
+      "close": 10.805000305175781,
+      "pct": -13.490788605447134,
+      "volume": 1568000.0,
+      "volume_x": 1.6810704816674333,
       "last_price_date": "2026-11-05",
-      "market_cap": 727851648,
-      "enterprise_value": 288851648.0,
+      "market_cap": 661903232,
+      "enterprise_value": 222903232.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [
-        "PRICE -9.7%"
+        "PRICE -13.5%"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -720,7 +699,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 206.73759591380986
+        "upside_pct": 220.22211034483732
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
@@ -746,16 +725,18 @@
     {
       "ticker": "CMPS",
       "name": "Compass Pathways",
-      "close": 8.010000228881836,
-      "pct": -6.860466586247527,
-      "volume": 2635332.0,
-      "volume_x": 0.8970686400825131,
+      "close": 7.784999847412109,
+      "pct": -9.476749975659127,
+      "volume": 4286946.0,
+      "volume_x": 1.459279065532225,
       "last_price_date": "2026-11-05",
-      "market_cap": 1136517120,
-      "enterprise_value": 877517120.0,
+      "market_cap": 1106049280,
+      "enterprise_value": 847049280.0,
       "net_cash_m": 259.0,
       "runway_months": 19.5,
-      "alerts": [],
+      "alerts": [
+        "PRICE -9.5%"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -772,7 +753,7 @@
         "analyst_count": 16,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.3125,
-        "upside_pct": 196.50436106561017
+        "upside_pct": 205.07386596667664
       },
       "anchors": {
         "as_of": "(pro forma)",
