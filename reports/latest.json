@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-06 12:31:26 KST",
-    "generated_at_utc": "2026-11-06T03:31:43.490402+00:00",
+    "generated_at_local": "2026-11-06 18:01:12 KST",
+    "generated_at_utc": "2026-11-06T09:01:28.414787+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -129,8 +129,8 @@
       "ticker": "QURE",
       "close": 21.010000228881836,
       "pct": -8.771169767854225,
-      "pt": 60.378075,
-      "pt_upside": 187.37779315680362,
+      "pt": 60.236313,
+      "pt_upside": 186.70305732407795,
       "mktcap": "$1.47B",
       "ev": "$1.30B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -161,8 +161,8 @@
       "pct": -13.5308215480616,
       "pt": 34.6,
       "pt_upside": 220.37036471242618,
-      "mktcap": "$663.7M",
-      "ev": "$224.7M",
+      "mktcap": "$695.0M",
+      "ev": "$256.0M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -585,14 +585,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.378075,
-        "low": 27.993948,
-        "high": 91.53984,
-        "median": 64.286674,
+        "mean": 60.236313,
+        "low": 27.92822,
+        "high": 91.32491,
+        "median": 64.135735,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 187.37779315680362
+        "upside_pct": 186.70305732407795
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -677,8 +677,8 @@
       "volume": 1789000.0,
       "volume_x": 1.9180070737902029,
       "last_price_date": "2026-11-05",
-      "market_cap": 663746944,
-      "enterprise_value": 224746944.0,
+      "market_cap": 695030720,
+      "enterprise_value": 256030720.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [
