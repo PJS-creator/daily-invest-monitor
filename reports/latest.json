@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-06 12:00:52 KST",
-    "generated_at_utc": "2026-11-06T03:01:47.544598+00:00",
+    "generated_at_local": "2026-11-06 12:31:26 KST",
+    "generated_at_utc": "2026-11-06T03:31:43.490402+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 2,
-    "total_new_sec": 1,
+    "total_new_press": 0,
+    "total_new_sec": 0,
     "alert_tickers": [
       "IMMX",
       "MGTX",
@@ -31,7 +31,7 @@
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
@@ -129,8 +129,8 @@
       "ticker": "QURE",
       "close": 21.010000228881836,
       "pct": -8.771169767854225,
-      "pt": 60.391613,
-      "pt_upside": 187.44222913896692,
+      "pt": 60.378075,
+      "pt_upside": 187.37779315680362,
       "mktcap": "$1.47B",
       "ev": "$1.30B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -161,13 +161,13 @@
       "pct": -13.5308215480616,
       "pt": 34.6,
       "pt_upside": 220.37036471242618,
-      "mktcap": "$695.0M",
-      "ev": "$256.0M",
+      "mktcap": "$663.7M",
+      "ev": "$224.7M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "PRICE -13.5%"
     },
     {
@@ -181,7 +181,7 @@
       "net_cash": "$259.0M ((pro forma))",
       "runway": "19.5m",
       "next": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "PRICE -9.2%"
     },
@@ -215,16 +215,9 @@
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Equillium to Participate in Upcoming Investor Conferences | EQ Stock News",
-          "url": "https://www.stocktitan.net/news/EQ/equillium-to-participate-in-upcoming-investor-e89u2kgsmznt.html",
-          "date_text": "Thu, 05 Nov 2026 21:05:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
@@ -592,14 +585,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.391613,
-        "low": 28.000225,
-        "high": 91.56036,
-        "median": 64.30109,
+        "mean": 60.378075,
+        "low": 27.993948,
+        "high": 91.53984,
+        "median": 64.286674,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 187.44222913896692
+        "upside_pct": 187.37779315680362
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -684,24 +677,17 @@
       "volume": 1789000.0,
       "volume_x": 1.9180070737902029,
       "last_price_date": "2026-11-05",
-      "market_cap": 695030720,
-      "enterprise_value": 256030720.0,
+      "market_cap": 663746944,
+      "enterprise_value": 224746944.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [
         "PRICE -13.5%"
       ],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "144  - Report of proposed sale of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000195004726010744/0001950047-26-010744-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [
         "CLN-978 / CLN-049 업데이트"
@@ -752,16 +738,9 @@
       "alerts": [
         "PRICE -9.2%"
       ],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | CMPS Stock News",
-          "url": "https://www.stocktitan.net/news/CMPS/compass-pathways-announces-new-employee-inducement-grants-under-9i2lx62jwffp.html",
-          "date_text": "Thu, 05 Nov 2026 21:30:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
       "checklist": [

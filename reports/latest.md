@@ -1,27 +1,27 @@
-## Daily Report (2026-11-06 12:00:52 KST)
+## Daily Report (2026-11-06 12:31:26 KST)
 
-**Summary:** 2 new PR / 1 new SEC | **Alerts:** IMMX, MGTX, QURE, AVBP, CGEM, CMPS
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** IMMX, MGTX, QURE, AVBP, CGEM, CMPS
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.33 | -5.00% | 8.56 | +543.28% | $104.2M | $71.1M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 1 | 0 | - |
+| EQ | 1.33 | -5.00% | 8.56 | +543.28% | $104.2M | $71.1M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 19.08 | -6.29% | 107.29 | +462.29% | $1.36B | -$149.4M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.44 | -7.99% | 5.55 | +285.42% | $200.9M | $40.8M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 7.20 | -9.66% | 24.05 | +234.03% | $596.9M | $488.4M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | PRICE -9.7% |
 | MGTX | 8.51 | -9.66% | 27.75 | +226.09% | $817.3M | $646.4M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | PRICE -9.7% |
 | PRAX | 262.59 | -7.80% | 650.00 | +147.53% | $7.33B | $5.78B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.85 | -1.34% | 39.67 | +348.21% | $264.8M | $224.6M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 21.01 | -8.77% | 60.39 | +187.44% | $1.47B | $1.30B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE -8.8% |
+| QURE | 21.01 | -8.77% | 60.38 | +187.38% | $1.47B | $1.30B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE -8.8% |
 | AVBP | 12.23 | -9.34% | 25.80 | +110.96% | $603.0M | $297.6M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -9.3% |
-| CGEM | 10.80 | -13.53% | 34.60 | +220.37% | $695.0M | $256.0M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 1 | PRICE -13.5% |
-| CMPS | 7.81 | -9.19% | 23.75 | +204.10% | $1.11B | $847.8M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 1 | 0 | PRICE -9.2% |
+| CGEM | 10.80 | -13.53% | 34.60 | +220.37% | $663.7M | $224.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | PRICE -13.5% |
+| CMPS | 7.81 | -9.19% | 23.75 | +204.10% | $1.11B | $847.8M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE -9.2% |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.33 (-5.00%) | PR 1 / SEC 0 | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.33 (-5.00%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
@@ -47,7 +47,7 @@
 - (없음)
 
 #### New Press Releases
-- [Equillium to Participate in Upcoming Investor Conferences | EQ Stock News](https://www.stocktitan.net/news/EQ/equillium-to-participate-in-upcoming-investor-e89u2kgsmznt.html) — _RSS_, Thu, 05 Nov 2026 21:05:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
 - (신규 없음)
@@ -293,7 +293,7 @@
 - **Volume**: `5,134,200` (≈ `2.42x` avg)
 - **Market Cap**: $1.47B
 - **EV**: $1.30B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.39` (low `28.00` / high `91.56`; n=11)
+- **Price Target (consensus)**: mean `60.38` (low `27.99` / high `91.54`; n=11)
   - Upside to PT (mean): `+187.4%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
@@ -361,14 +361,14 @@
 
 </details>
 <details>
-<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 10.80 (-13.53%) | ⚠️ PRICE -13.5% | PR 0 / SEC 1 | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
+<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 10.80 (-13.53%) | ⚠️ PRICE -13.5% | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-05)**: `10.80` (-13.53%)
 - **Volume**: `1,789,000` (≈ `1.92x` avg)
-- **Market Cap**: $695.0M
-- **EV**: $256.0M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $663.7M
+- **EV**: $224.7M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+220.4%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
@@ -390,7 +390,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [144  - Report of proposed sale of securities](https://www.sec.gov/Archives/edgar/data/1789972/000195004726010744/0001950047-26-010744-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -398,7 +398,7 @@
 
 </details>
 <details>
-<summary><strong>CMPS — Compass Pathways</strong> — Close 7.81 (-9.19%) | ⚠️ PRICE -9.2% | PR 1 / SEC 0 | Next: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing</summary>
+<summary><strong>CMPS — Compass Pathways</strong> — Close 7.81 (-9.19%) | ⚠️ PRICE -9.2% | Next: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing</summary>
 
 
 #### Key Metrics
@@ -425,7 +425,7 @@
 - Phase 3 관련 데이터/일정 업데이트
 
 #### New Press Releases
-- [Compass Pathways Announces New Employee Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | CMPS Stock News](https://www.stocktitan.net/news/CMPS/compass-pathways-announces-new-employee-inducement-grants-under-9i2lx62jwffp.html) — _RSS_, Thu, 05 Nov 2026 21:30:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
 - (신규 없음)
