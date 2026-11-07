@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-07 12:01:14 KST",
-    "generated_at_utc": "2026-11-07T03:01:30.536416+00:00",
+    "generated_at_local": "2026-11-07 18:00:50 KST",
+    "generated_at_utc": "2026-11-07T09:01:07.371032+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 4,
+    "total_new_sec": 0,
     "alert_tickers": [
       "EQ",
       "IMMX",
@@ -120,7 +120,7 @@
       "runway": "13.2m",
       "next": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
       "new_pr": 0,
-      "new_sec": 2,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -135,7 +135,7 @@
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -159,13 +159,13 @@
       "pct": 4.722224258101004,
       "pt": 34.6,
       "pt_upside": 205.9239497461717,
-      "mktcap": "$727.9M",
-      "ev": "$288.9M",
+      "mktcap": "$695.1M",
+      "ev": "$256.1M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -520,22 +520,9 @@
       "runway_months": 13.2,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 2,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000121390026116951/0001213900-26-116951-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000149315226050448/0001493152-26-050448-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
       "checklist": [
         "SIGNAL-AA Phase 2 업데이트"
@@ -586,16 +573,9 @@
       "runway_months": 15.9,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "144  - Report of proposed sale of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000197337926000363/0001973379-26-000363-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "checklist": [
         "AMT-130 / AMT-191 / AMT-260 업데이트"
@@ -693,22 +673,15 @@
       "volume": 755500.0,
       "volume_x": 0.7941020970391711,
       "last_price_date": "2026-11-06",
-      "market_cap": 727851648,
-      "enterprise_value": 288851648.0,
+      "market_cap": 695090560,
+      "enterprise_value": 256090560.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526452004/0001193125-26-452004-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [
         "CLN-978 / CLN-049 업데이트"

@@ -1,6 +1,6 @@
-## Daily Report (2026-11-07 12:01:14 KST)
+## Daily Report (2026-11-07 18:00:50 KST)
 
-**Summary:** 0 new PR / 4 new SEC | **Alerts:** EQ, IMMX, AVBP, CMPS
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, IMMX, AVBP, CMPS
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -11,10 +11,10 @@
 | IMMX | 8.06 | +11.94% | 24.05 | +198.39% | $668.2M | $559.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | PRICE +11.9% |
 | MGTX | 9.00 | +5.76% | 27.75 | +208.33% | $864.4M | $693.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 277.62 | +5.72% | 650.00 | +134.13% | $7.75B | $6.20B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
-| QTTB | 9.25 | +4.52% | 39.67 | +328.83% | $276.8M | $236.6M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 2 | - |
-| QURE | 21.70 | +3.28% | 60.03 | +176.66% | $1.52B | $1.35B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 1 | - |
+| QTTB | 9.25 | +4.52% | 39.67 | +328.83% | $276.8M | $236.6M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
+| QURE | 21.70 | +3.28% | 60.03 | +176.66% | $1.52B | $1.35B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.64 | +11.53% | 25.80 | +89.15% | $672.6M | $367.2M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE +11.5% |
-| CGEM | 11.31 | +4.72% | 34.60 | +205.92% | $727.9M | $288.9M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 1 | - |
+| CGEM | 11.31 | +4.72% | 34.60 | +205.92% | $695.1M | $256.1M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.61 | +10.24% | 23.75 | +175.84% | $1.22B | $961.1M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE +10.2% |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -246,7 +246,7 @@
 
 </details>
 <details>
-<summary><strong>QTTB — Q32 Bio</strong> — Close 9.25 (+4.52%) | PR 0 / SEC 2 | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
+<summary><strong>QTTB — Q32 Bio</strong> — Close 9.25 (+4.52%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
 
 
 #### Key Metrics
@@ -276,8 +276,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000121390026116951/0001213900-26-116951-index.htm)
-- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000149315226050448/0001493152-26-050448-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -286,7 +285,7 @@
 
 </details>
 <details>
-<summary><strong>QURE — uniQure</strong> — Close 21.70 (+3.28%) | PR 0 / SEC 1 | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
+<summary><strong>QURE — uniQure</strong> — Close 21.70 (+3.28%) | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
 
 
 #### Key Metrics
@@ -316,7 +315,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [144  - Report of proposed sale of securities](https://www.sec.gov/Archives/edgar/data/1590560/000197337926000363/0001973379-26-000363-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -362,14 +361,14 @@
 
 </details>
 <details>
-<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 11.31 (+4.72%) | PR 0 / SEC 1 | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
+<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 11.31 (+4.72%) | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-06)**: `11.31` (+4.72%)
 - **Volume**: `755,500` (≈ `0.79x` avg)
-- **Market Cap**: $727.9M
-- **EV**: $288.9M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $695.1M
+- **EV**: $256.1M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+205.9%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
@@ -391,7 +390,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [4  - Statement of changes in beneficial ownership of securities](https://www.sec.gov/Archives/edgar/data/1789972/000119312526452004/0001193125-26-452004-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403
