@@ -1,4 +1,4 @@
-## Daily Report (2026-11-07 18:00:50 KST)
+## Daily Report (2026-11-08 00:00:46 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, IMMX, AVBP, CMPS
 
@@ -15,7 +15,7 @@
 | QURE | 21.70 | +3.28% | 60.03 | +176.66% | $1.52B | $1.35B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.64 | +11.53% | 25.80 | +89.15% | $672.6M | $367.2M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE +11.5% |
 | CGEM | 11.31 | +4.72% | 34.60 | +205.92% | $695.1M | $256.1M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
-| CMPS | 8.61 | +10.24% | 23.75 | +175.84% | $1.22B | $961.1M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE +10.2% |
+| CMPS | 8.61 | +10.24% | 23.56 | +173.66% | $1.22B | $961.1M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE +10.2% |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
 ### Details
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-11-06)**: `20.35` (+6.66%)
-- **Volume**: `1,616,100` (≈ `1.45x` avg)
+- **Volume**: `1,616,100` (≈ `1.43x` avg)
 - **Market Cap**: $1.45B
 - **EV**: -$58.8M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `107.29` (low `70.00` / high `145.00`; n=14)
@@ -175,7 +175,7 @@
 
 #### Key Metrics
 - **Close (2026-11-06)**: `9.00` (+5.76%)
-- **Volume**: `703,300` (≈ `0.87x` avg)
+- **Volume**: `703,300` (≈ `0.86x` avg)
 - **Market Cap**: $864.4M
 - **EV**: $693.5M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-11-06)**: `277.62` (+5.72%)
-- **Volume**: `314,600` (≈ `0.71x` avg)
+- **Volume**: `314,600` (≈ `0.72x` avg)
 - **Market Cap**: $7.75B
 - **EV**: $6.20B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
@@ -266,7 +266,7 @@
 | When | D-day | Event | Importance |
 |---|---:|---|---:|
 | mid-2026 | - | SIGNAL-AA Part B topline (W36, open-label) | 9 |
-| 2026-05-28 | D+163 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
+| 2026-05-28 | D+164 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
 | 2026 H2 | - | SIGNAL-AA Part A OLE / durability update (conference season, est.) | 6 |
 
 #### Today’s Checklist
@@ -328,7 +328,7 @@
 
 #### Key Metrics
 - **Close (2026-11-06)**: `13.64` (+11.53%)
-- **Volume**: `1,400,500` (≈ `1.11x` avg)
+- **Volume**: `1,400,500` (≈ `1.10x` avg)
 - **Market Cap**: $672.6M
 - **EV**: $367.2M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `25.80` (low `20.00` / high `30.00`; n=10)
@@ -406,8 +406,8 @@
 - **Volume**: `3,757,100` (≈ `1.26x` avg)
 - **Market Cap**: $1.22B
 - **EV**: $961.1M (calc; net cash as-of (pro forma))
-- **Price Target (consensus)**: mean `23.75` (low `13.00` / high `65.00`; n=16)
-  - Upside to PT (mean): `+175.8%`
+- **Price Target (consensus)**: mean `23.56` (low `10.00` / high `65.00`; n=16)
+  - Upside to PT (mean): `+173.7%`
 - **Net Cash (anchor)**: $259.0M (as-of (pro forma))
 - **Burn (anchor)**: ~$13.3M / month
 - **Runway (anchor)**: ~19.5 months
