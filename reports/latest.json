@@ -1,16 +1,17 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-09 02:09:11 KST",
-    "generated_at_utc": "2026-11-08T17:09:29.758368+00:00",
+    "generated_at_local": "2026-11-09 06:00:54 KST",
+    "generated_at_utc": "2026-11-08T21:01:12.492195+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 1,
+    "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
       "EQ",
+      "IMMX",
       "AVBP",
       "CMPS"
     ],
@@ -64,10 +65,10 @@
     },
     {
       "ticker": "IMMX",
-      "close": null,
-      "pct": null,
+      "close": 8.0600004196167,
+      "pct": 11.944453237969421,
       "pt": 24.05,
-      "pt_upside": null,
+      "pt_upside": 198.38708123967717,
       "mktcap": "$668.2M",
       "ev": "$559.7M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
@@ -75,7 +76,7 @@
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PRICE +11.9%"
     },
     {
       "ticker": "MGTX",
@@ -126,8 +127,8 @@
       "ticker": "QURE",
       "close": 21.700000762939453,
       "pct": 3.284152910712934,
-      "pt": 59.717262,
-      "pt_upside": 175.19474608493414,
+      "pt": 59.710613,
+      "pt_upside": 175.16410553301603,
       "mktcap": "$1.52B",
       "ev": "$1.35B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -158,12 +159,12 @@
       "pct": 4.722224258101004,
       "pt": 34.6,
       "pt_upside": 205.9239497461717,
-      "mktcap": "$695.1M",
-      "ev": "$256.1M",
+      "mktcap": "$727.9M",
+      "ev": "$288.9M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
@@ -354,16 +355,18 @@
     {
       "ticker": "IMMX",
       "name": "Immix Biopharma",
-      "close": null,
-      "pct": null,
-      "volume": null,
-      "volume_x": null,
-      "last_price_date": null,
+      "close": 8.0600004196167,
+      "pct": 11.944453237969421,
+      "volume": 1444900.0,
+      "volume_x": 0.9527885335668541,
+      "last_price_date": "2026-11-06",
       "market_cap": 668197824,
       "enterprise_value": 559697824.0,
       "net_cash_m": 108.5,
       "runway_months": 76.0,
-      "alerts": [],
+      "alerts": [
+        "PRICE +11.9%"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -378,7 +381,7 @@
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": null
+        "upside_pct": 198.38708123967717
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -394,7 +397,7 @@
         }
       },
       "errors": {
-        "price_error": "Not enough price rows (need >= 2 trading days).",
+        "price_error": null,
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -578,14 +581,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.717262,
-        "low": 27.803656,
-        "high": 91.019615,
-        "median": 59.987743,
+        "mean": 59.710613,
+        "low": 27.800558,
+        "high": 91.009476,
+        "median": 59.981064,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 175.19474608493414
+        "upside_pct": 175.16410553301603
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -670,21 +673,14 @@
       "volume": 755500.0,
       "volume_x": 0.7889993337106884,
       "last_price_date": "2026-11-06",
-      "market_cap": 695090560,
-      "enterprise_value": 256090560.0,
+      "market_cap": 727851648,
+      "enterprise_value": 288851648.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Velinotamig, a BCMAxCD3 T Cell Engager, Achieves Complete Renal Responses and Significantly Reduces Disease Activity in Systemic Lupus Erythematosus in Data Presented at ACR Convergence 2026 | CGEM Stock News",
-          "url": "https://www.stocktitan.net/news/CGEM/velinotamig-a-bcm-ax-cd3-t-cell-engager-achieves-complete-renal-rl6yvqesg9wm.html",
-          "date_text": "Sun, 08 Nov 2026 15:30:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [

@@ -1,6 +1,6 @@
-## Daily Report (2026-11-09 02:09:11 KST)
+## Daily Report (2026-11-09 06:00:54 KST)
 
-**Summary:** 1 new PR / 0 new SEC | **Alerts:** EQ, AVBP, CMPS
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, IMMX, AVBP, CMPS
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -8,13 +8,13 @@
 | EQ | 1.51 | +13.53% | 8.56 | +466.59% | $118.3M | $85.2M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | PRICE +13.5% |
 | GPCR | 20.35 | +6.66% | 107.29 | +427.20% | $1.45B | -$58.8M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.50 | +4.17% | 5.55 | +270.00% | $209.3M | $49.2M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | - | - | 24.05 | - | $668.2M | $559.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| IMMX | 8.06 | +11.94% | 24.05 | +198.39% | $668.2M | $559.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | PRICE +11.9% |
 | MGTX | 9.00 | +5.76% | 27.75 | +208.33% | $864.4M | $693.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 277.62 | +5.72% | 650.00 | +134.13% | $7.75B | $6.20B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 9.25 | +4.52% | 39.67 | +328.83% | $276.8M | $236.6M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 21.70 | +3.28% | 59.72 | +175.19% | $1.52B | $1.35B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 21.70 | +3.28% | 59.71 | +175.16% | $1.52B | $1.35B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.64 | +11.53% | 25.80 | +89.15% | $672.6M | $367.2M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE +11.5% |
-| CGEM | 11.31 | +4.72% | 34.60 | +205.92% | $695.1M | $256.1M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 1 | 0 | - |
+| CGEM | 11.31 | +4.72% | 34.60 | +205.92% | $727.9M | $288.9M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.61 | +10.24% | 23.56 | +173.66% | $1.22B | $961.1M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE +10.2% |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -132,18 +132,21 @@
 
 </details>
 <details>
-<summary><strong>IMMX — Immix Biopharma</strong> — Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
+<summary><strong>IMMX — Immix Biopharma</strong> — Close 8.06 (+11.94%) | ⚠️ PRICE +11.9% | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
 
 
 #### Key Metrics
-- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
+- **Close (2026-11-06)**: `8.06` (+11.94%)
+- **Volume**: `1,444,900` (≈ `0.95x` avg)
 - **Market Cap**: $668.2M
 - **EV**: $559.7M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.05` (low `17.40` / high `30.00`; n=8)
+  - Upside to PT (mean): `+198.4%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months
 - **Buyout/SOTP (anchor)**: Bear `8.82` / Base `32.69` / Bull `67.43` (USD/share)
+  - Upside to Base (simple): `+305.6%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -290,7 +293,7 @@
 - **Volume**: `1,172,900` (≈ `0.54x` avg)
 - **Market Cap**: $1.52B
 - **EV**: $1.35B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.72` (low `27.80` / high `91.02`; n=11)
+- **Price Target (consensus)**: mean `59.71` (low `27.80` / high `91.01`; n=11)
   - Upside to PT (mean): `+175.2%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
@@ -358,14 +361,14 @@
 
 </details>
 <details>
-<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 11.31 (+4.72%) | PR 1 / SEC 0 | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
+<summary><strong>CGEM — Cullinan Therapeutics</strong> — Close 11.31 (+4.72%) | Next: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-06)**: `11.31` (+4.72%)
 - **Volume**: `755,500` (≈ `0.79x` avg)
-- **Market Cap**: $695.1M
-- **EV**: $256.1M (calc; net cash as-of (net cash as of latest filings))
+- **Market Cap**: $727.9M
+- **EV**: $288.9M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+205.9%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
@@ -384,7 +387,7 @@
 - CLN-978 / CLN-049 업데이트
 
 #### New Press Releases
-- [Velinotamig, a BCMAxCD3 T Cell Engager, Achieves Complete Renal Responses and Significantly Reduces Disease Activity in Systemic Lupus Erythematosus in Data Presented at ACR Convergence 2026 | CGEM Stock News](https://www.stocktitan.net/news/CGEM/velinotamig-a-bcm-ax-cd3-t-cell-engager-achieves-complete-renal-rl6yvqesg9wm.html) — _RSS_, Sun, 08 Nov 2026 15:30:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
 - (신규 없음)
