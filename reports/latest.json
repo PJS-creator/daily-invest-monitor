@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-09 06:00:54 KST",
-    "generated_at_utc": "2026-11-08T21:01:12.492195+00:00",
+    "generated_at_local": "2026-11-09 11:52:31 KST",
+    "generated_at_utc": "2026-11-09T02:52:48.832394+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -127,8 +127,8 @@
       "ticker": "QURE",
       "close": 21.700000762939453,
       "pct": 3.284152910712934,
-      "pt": 59.710613,
-      "pt_upside": 175.16410553301603,
+      "pt": 59.8437,
+      "pt_upside": 175.7774096589186,
       "mktcap": "$1.52B",
       "ev": "$1.35B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -159,8 +159,8 @@
       "pct": 4.722224258101004,
       "pt": 34.6,
       "pt_upside": 205.9239497461717,
-      "mktcap": "$727.9M",
-      "ev": "$288.9M",
+      "mktcap": "$695.1M",
+      "ev": "$256.1M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -172,8 +172,8 @@
       "ticker": "CMPS",
       "close": 8.609999656677246,
       "pct": 10.243274260678014,
-      "pt": 23.5625,
-      "pt_upside": 173.6643546986295,
+      "pt": 23.3125,
+      "pt_upside": 170.7607541182727,
       "mktcap": "$1.22B",
       "ev": "$961.1M",
       "net_cash": "$259.0M ((pro forma))",
@@ -581,14 +581,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.710613,
-        "low": 27.800558,
-        "high": 91.009476,
-        "median": 59.981064,
+        "mean": 59.8437,
+        "low": 27.837778,
+        "high": 91.13132,
+        "median": 60.64599,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 175.16410553301603
+        "upside_pct": 175.7774096589186
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -673,8 +673,8 @@
       "volume": 755500.0,
       "volume_x": 0.7889993337106884,
       "last_price_date": "2026-11-06",
-      "market_cap": 727851648,
-      "enterprise_value": 288851648.0,
+      "market_cap": 695090560,
+      "enterprise_value": 256090560.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
@@ -741,14 +741,14 @@
         "Phase 3 관련 데이터/일정 업데이트"
       ],
       "price_target": {
-        "mean": 23.5625,
+        "mean": 23.3125,
         "low": 10.0,
         "high": 65.0,
         "median": 21.0,
         "analyst_count": 16,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.3125,
-        "upside_pct": 173.6643546986295
+        "upside_pct": 170.7607541182727
       },
       "anchors": {
         "as_of": "(pro forma)",
