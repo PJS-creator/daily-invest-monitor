@@ -1,22 +1,24 @@
-# Pulse Input (2026-11-09 18:00:57 KST)
+# Pulse Input (2026-11-10 00:00:55 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert EQ, IMMX, AVBP, CMPS
+- 요약: PR 3건 / SEC 2건 / Alert PRAX
 
 ## Must Watch
-- **EQ** (Equillium) — PRICE +13.5% | 주가 +13.53%
-  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
-- **IMMX** (Immix Biopharma) — PRICE +11.9% | 주가 +11.94%
-  - 다음 촉매: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates
-- **AVBP** (ArriVent BioPharma) — PRICE +11.5% | 주가 +11.53%
-  - 다음 촉매: early-2026: FURVENT Phase 3 topline
-  - 체크포인트: FURVENT / ALPACCA 관련 업데이트
-- **CMPS** (Compass Pathways) — PRICE +10.2% | 주가 +10.24%
+- **PRAX** (Praxis Precision Medicines) — PRICE +10.5% | SEC 1건 | PR 1건 | 주가 +10.45%
+  - 변화: SEC: 8-K  - Current report / PR: Praxis Precision Medicines Provides Corporate Update and Reports Third Quarter 2026 Financial Results  | PRAX Stock News
+  - 다음 촉매: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline
+  - 체크포인트: vormatrigine / elsunersen 등 주요 마일스톤 업데이트
+- **CGEM** (Cullinan Therapeutics) — SEC 1건 | PR 1건 | 주가 -0.44%
+  - 변화: SEC: 8-K  - Current report / PR: Cullinan Therapeutics to Participate in Upcoming Investor Conferences | CGEM Stock News
+  - 다음 촉매: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)
+  - 체크포인트: CLN-978 / CLN-049 업데이트
+- **CMPS** (Compass Pathways) — PR 1건 | 주가 +4.76%
+  - 변화: PR: Compass Pathways Completes COMP360 Psilocybin New Drug Application to U.S. FDA for Treatment-Resistant Depression | CMPS Stock News
   - 다음 촉매: early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing
   - 체크포인트: Phase 3 관련 데이터/일정 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: GPCR, IKT, MGTX, PRAX, QTTB, QURE, CGEM, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, QTTB, QURE, AVBP, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
