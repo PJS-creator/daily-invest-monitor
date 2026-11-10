@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-10 13:43:35 KST",
-    "generated_at_utc": "2026-11-10T04:43:52.698379+00:00",
+    "generated_at_local": "2026-11-10 18:00:51 KST",
+    "generated_at_utc": "2026-11-10T09:02:04.976083+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -10,6 +10,7 @@
     "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
+      "GPCR",
       "IKT",
       "PRAX"
     ],
@@ -35,8 +36,8 @@
       "ticker": "GPCR",
       "close": 21.40999984741211,
       "pct": 5.208842486841414,
-      "pt": 107.28571,
-      "pt_upside": 401.1009377142426,
+      "pt": 106.57143,
+      "pt_upside": 397.76473965216593,
       "mktcap": "$1.53B",
       "ev": "$16.7M",
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
@@ -44,7 +45,7 @@
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 107.29→106.57"
     },
     {
       "ticker": "IKT",
@@ -95,8 +96,8 @@
       "ticker": "PRAX",
       "close": 332.9700012207031,
       "pct": 19.937326949433732,
-      "pt": 650.0,
-      "pt_upside": 95.21278121663556,
+      "pt": 675.8,
+      "pt_upside": 102.96122699415741,
       "mktcap": "$9.30B",
       "ev": "$7.75B",
       "net_cash": "$1.55B ((pro forma))",
@@ -104,7 +105,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PRICE +19.9%; VOL 2.5x"
+      "alert": "PRICE +19.9%; VOL 2.5x; PT 650.00→675.80"
     },
     {
       "ticker": "QTTB",
@@ -125,8 +126,8 @@
       "ticker": "QURE",
       "close": 22.790000915527344,
       "pct": 5.023042001221767,
-      "pt": 60.233475,
-      "pt_upside": 164.29781737727603,
+      "pt": 60.29442,
+      "pt_upside": 164.56523728755118,
       "mktcap": "$1.60B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -157,8 +158,8 @@
       "pct": 3.713519956119171,
       "pt": 34.6,
       "pt_upside": 194.97017348905626,
-      "mktcap": "$754.9M",
-      "ev": "$315.9M",
+      "mktcap": "$720.9M",
+      "ev": "$281.9M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -223,8 +224,8 @@
         "high": 20.0,
         "median": 7.0,
         "analyst_count": 9,
-        "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.11111,
+        "recommendation_key": "none",
+        "recommendation_mean": null,
         "upside_pct": 470.37066666666664
       },
       "anchors": {
@@ -260,7 +261,9 @@
       "enterprise_value": 16744064.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
-      "alerts": [],
+      "alerts": [
+        "PT 107.29→106.57"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -268,14 +271,14 @@
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
       "price_target": {
-        "mean": 107.28571,
+        "mean": 106.57143,
         "low": 70.0,
         "high": 145.0,
         "median": 102.5,
         "analyst_count": 14,
-        "recommendation_key": "none",
-        "recommendation_mean": null,
-        "upside_pct": 401.1009377142426
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.375,
+        "upside_pct": 397.76473965216593
       },
       "anchors": {
         "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
@@ -464,7 +467,8 @@
       "runway_months": 31.0,
       "alerts": [
         "PRICE +19.9%",
-        "VOL 2.5x"
+        "VOL 2.5x",
+        "PT 650.00→675.80"
       ],
       "new_pr_count": 0,
       "new_sec_count": 0,
@@ -475,14 +479,14 @@
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
       ],
       "price_target": {
-        "mean": 650.0,
-        "low": 188.0,
+        "mean": 675.8,
+        "low": 362.0,
         "high": 1201.0,
-        "median": 582.0,
-        "analyst_count": 21,
+        "median": 604.5,
+        "analyst_count": 20,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.47619,
-        "upside_pct": 95.21278121663556
+        "upside_pct": 102.96122699415741
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -580,14 +584,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.233475,
-        "low": 28.01909,
-        "high": 91.72488,
-        "median": 61.040985,
+        "mean": 60.29442,
+        "low": 28.04744,
+        "high": 91.81768,
+        "median": 61.102745,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 164.29781737727603
+        "upside_pct": 164.56523728755118
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -670,8 +674,8 @@
       "volume": 1035100.0,
       "volume_x": 1.0809969693235388,
       "last_price_date": "2026-11-09",
-      "market_cap": 754880576,
-      "enterprise_value": 315880576.0,
+      "market_cap": 720902848,
+      "enterprise_value": 281902848.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
