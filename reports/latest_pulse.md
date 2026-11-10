@@ -1,19 +1,16 @@
-# Pulse Input (2026-11-10 18:00:51 KST)
+# Pulse Input (2026-11-11 00:00:58 KST)
 
-- 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert GPCR, IKT, PRAX
+- 전체 판단: **추가 확인 필요**
+- 요약: PR 1건 / SEC 3건 / Alert -
 
 ## Must Watch
-- **PRAX** (Praxis Precision Medicines) — PRICE +19.9%, VOL 2.5x, PT 650.00→675.80 | 주가 +19.94%
-  - 다음 촉매: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline
-  - 체크포인트: vormatrigine / elsunersen 등 주요 마일스톤 업데이트
-- **IKT** (Inhibikase Therapeutics) — PRICE +12.0% | 주가 +12.00%
-  - 다음 촉매: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed
-- **GPCR** (Structure Therapeutics) — PT 107.29→106.57 | 주가 +5.21%
-  - 다음 촉매: 2026 Q1: ACCESS II 44-week results (company guidance)
+- **CGEM** (Cullinan Therapeutics) — SEC 3건 | PR 1건 | 주가 +0.26%
+  - 변화: SEC: 10-Q  - Quarterly report [Sections 13 or 15(d)]; 8-K  - Current report / PR: Cullinan Therapeutics Provides Corporate Update and Reports Third Quarter 2026 Financial Results | CGEM Stock News
+  - 다음 촉매: 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)
+  - 체크포인트: CLN-978 / CLN-049 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, IMMX, MGTX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
