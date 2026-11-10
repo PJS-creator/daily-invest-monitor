@@ -1,20 +1,20 @@
-## Daily Report (2026-11-10 06:31:26 KST)
+## Daily Report (2026-11-10 12:00:57 KST)
 
-**Summary:** 2 new PR / 4 new SEC | **Alerts:** IKT, PRAX
+**Summary:** 0 new PR / 1 new SEC | **Alerts:** IKT, PRAX
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
 | EQ | 1.50 | -0.66% | 8.56 | +470.37% | $117.5M | $84.4M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
-| GPCR | 21.41 | +5.21% | 107.29 | +401.10% | $1.53B | $16.7M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 1 | 2 | - |
+| GPCR | 21.41 | +5.21% | 107.29 | +401.10% | $1.53B | $16.7M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.68 | +12.00% | 5.55 | +230.36% | $234.4M | $74.3M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | PRICE +12.0% |
 | IMMX | 8.57 | +6.33% | 24.05 | +180.63% | $710.5M | $602.0M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.49 | +5.44% | 27.75 | +192.41% | $911.4M | $740.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 332.97 | +19.94% | 650.00 | +95.21% | $9.30B | $7.75B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PRICE +19.9% |
+| PRAX | 332.97 | +19.94% | 650.00 | +95.21% | $9.30B | $7.75B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 1 | PRICE +19.9%; VOL 2.5x |
 | QTTB | 9.34 | +0.97% | 39.67 | +324.70% | $279.5M | $239.3M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.79 | +5.02% | 60.22 | +164.24% | $1.60B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 14.16 | +3.81% | 25.80 | +82.20% | $698.2M | $392.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 1 | 2 | - |
-| CGEM | 11.73 | +3.71% | 34.60 | +194.97% | $754.9M | $315.9M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| QURE | 22.79 | +5.02% | 60.20 | +164.15% | $1.60B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| AVBP | 14.16 | +3.81% | 25.80 | +82.20% | $698.2M | $392.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
+| CGEM | 11.73 | +3.71% | 34.60 | +194.97% | $720.9M | $281.9M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 9.18 | +6.62% | 23.31 | +153.95% | $1.30B | $1.04B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -26,7 +26,7 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `1.50` (-0.66%)
-- **Volume**: `213,287` (≈ `0.38x` avg)
+- **Volume**: `213,300` (≈ `0.38x` avg)
 - **Market Cap**: $117.5M
 - **EV**: $84.4M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -58,12 +58,12 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 21.41 (+5.21%) | PR 1 / SEC 2 | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 21.41 (+5.21%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-09)**: `21.41` (+5.21%)
-- **Volume**: `1,234,965` (≈ `1.09x` avg)
+- **Volume**: `1,235,700` (≈ `1.09x` avg)
 - **Market Cap**: $1.53B
 - **EV**: $16.7M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `107.29` (low `70.00` / high `145.00`; n=14)
@@ -84,11 +84,10 @@
 - (없음)
 
 #### New Press Releases
-- [Structure Therapeutics Reports Third Quarter 2026 Financial Results and Recent Highlights | GPCR Stock News](https://www.stocktitan.net/news/GPCR/structure-therapeutics-reports-third-quarter-2026-financial-results-92w5079wvzks.html) — _RSS_, Mon, 09 Nov 2026 21:05:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [10-Q  - Quarterly report [Sections 13 or 15(d)]](https://www.sec.gov/Archives/edgar/data/1888886/000110465926124503/0001104659-26-124503-index.htm)
-- [8-K  - Current report](https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/0001104659-26-124494-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -101,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `1.68` (+12.00%)
-- **Volume**: `558,723` (≈ `0.99x` avg)
+- **Volume**: `558,700` (≈ `0.99x` avg)
 - **Market Cap**: $234.4M
 - **EV**: $74.3M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -138,7 +137,7 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `8.57` (+6.33%)
-- **Volume**: `1,270,819` (≈ `0.84x` avg)
+- **Volume**: `1,270,800` (≈ `0.84x` avg)
 - **Market Cap**: $710.5M
 - **EV**: $602.0M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.05` (low `17.40` / high `30.00`; n=8)
@@ -176,7 +175,7 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `9.49` (+5.44%)
-- **Volume**: `544,741` (≈ `0.67x` avg)
+- **Volume**: `544,700` (≈ `0.67x` avg)
 - **Market Cap**: $911.4M
 - **EV**: $740.5M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -209,12 +208,12 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 332.97 (+19.94%) | ⚠️ PRICE +19.9% | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 332.97 (+19.94%) | ⚠️ PRICE +19.9%, VOL 2.5x | PR 0 / SEC 1 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-09)**: `332.97` (+19.94%)
-- **Volume**: `1,067,978` (≈ `2.43x` avg)
+- **Volume**: `1,120,600` (≈ `2.55x` avg)
 - **Market Cap**: $9.30B
 - **EV**: $7.75B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `650.00` (low `188.00` / high `1201.00`; n=21)
@@ -239,7 +238,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [10-Q  - Quarterly report [Sections 13 or 15(d)]](https://www.sec.gov/Archives/edgar/data/1689548/000168954826000089/0001689548-26-000089-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -252,7 +251,7 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `9.34` (+0.97%)
-- **Volume**: `413,223` (≈ `0.60x` avg)
+- **Volume**: `413,200` (≈ `0.60x` avg)
 - **Market Cap**: $279.5M
 - **EV**: $239.3M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -291,11 +290,11 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `22.79` (+5.02%)
-- **Volume**: `1,294,391` (≈ `0.60x` avg)
+- **Volume**: `1,322,300` (≈ `0.61x` avg)
 - **Market Cap**: $1.60B
 - **EV**: $1.42B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `60.22` (low `28.01` / high `91.70`; n=11)
-  - Upside to PT (mean): `+164.2%`
+- **Price Target (consensus)**: mean `60.20` (low `28.00` / high `91.67`; n=11)
+  - Upside to PT (mean): `+164.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -324,12 +323,12 @@
 
 </details>
 <details>
-<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 14.16 (+3.81%) | PR 1 / SEC 2 | Next: early-2026: FURVENT Phase 3 topline</summary>
+<summary><strong>AVBP — ArriVent BioPharma</strong> — Close 14.16 (+3.81%) | Next: early-2026: FURVENT Phase 3 topline</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-09)**: `14.16` (+3.81%)
-- **Volume**: `905,949` (≈ `0.71x` avg)
+- **Volume**: `906,000` (≈ `0.71x` avg)
 - **Market Cap**: $698.2M
 - **EV**: $392.8M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `25.80` (low `20.00` / high `30.00`; n=10)
@@ -351,11 +350,10 @@
 - FURVENT / ALPACCA 관련 업데이트
 
 #### New Press Releases
-- [ArriVent BioPharma Reports Third Quarter 2026 Financial Results | AVBP Stock News](https://www.stocktitan.net/news/AVBP/arri-vent-bio-pharma-reports-third-quarter-2026-financial-gp812072ioc3.html) — _RSS_, Mon, 09 Nov 2026 21:01:00 GMT
+- (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [10-Q  - Quarterly report [Sections 13 or 15(d)]](https://www.sec.gov/Archives/edgar/data/1868279/000110465926124513/0001104659-26-124513-index.htm)
-- [8-K  - Current report](https://www.sec.gov/Archives/edgar/data/1868279/000110465926124484/0001104659-26-124484-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -368,9 +366,9 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `11.73` (+3.71%)
-- **Volume**: `1,034,134` (≈ `1.08x` avg)
-- **Market Cap**: $754.9M
-- **EV**: $315.9M (calc; net cash as-of (net cash as of latest filings))
+- **Volume**: `1,035,100` (≈ `1.08x` avg)
+- **Market Cap**: $720.9M
+- **EV**: $281.9M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+195.0%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
@@ -405,7 +403,7 @@
 
 #### Key Metrics
 - **Close (2026-11-09)**: `9.18` (+6.62%)
-- **Volume**: `3,401,545` (≈ `1.14x` avg)
+- **Volume**: `3,405,100` (≈ `1.14x` avg)
 - **Market Cap**: $1.30B
 - **EV**: $1.04B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.31` (low `10.00` / high `65.00`; n=16)
