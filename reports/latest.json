@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-10 12:00:57 KST",
-    "generated_at_utc": "2026-11-10T03:01:12.164402+00:00",
+    "generated_at_local": "2026-11-10 13:43:35 KST",
+    "generated_at_utc": "2026-11-10T04:43:52.698379+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 1,
+    "total_new_sec": 0,
     "alert_tickers": [
       "IKT",
       "PRAX"
@@ -103,7 +103,7 @@
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "PRICE +19.9%; VOL 2.5x"
     },
     {
@@ -125,8 +125,8 @@
       "ticker": "QURE",
       "close": 22.790000915527344,
       "pct": 5.023042001221767,
-      "pt": 60.199677,
-      "pt_upside": 164.14951549644124,
+      "pt": 60.233475,
+      "pt_upside": 164.29781737727603,
       "mktcap": "$1.60B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -157,8 +157,8 @@
       "pct": 3.713519956119171,
       "pt": 34.6,
       "pt_upside": 194.97017348905626,
-      "mktcap": "$720.9M",
-      "ev": "$281.9M",
+      "mktcap": "$754.9M",
+      "ev": "$315.9M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -467,16 +467,9 @@
         "VOL 2.5x"
       ],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000089/0001689548-26-000089-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -587,14 +580,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.199677,
-        "low": 28.003368,
-        "high": 91.6734,
-        "median": 61.006733,
+        "mean": 60.233475,
+        "low": 28.01909,
+        "high": 91.72488,
+        "median": 61.040985,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 164.14951549644124
+        "upside_pct": 164.29781737727603
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -677,8 +670,8 @@
       "volume": 1035100.0,
       "volume_x": 1.0809969693235388,
       "last_price_date": "2026-11-09",
-      "market_cap": 720902848,
-      "enterprise_value": 281902848.0,
+      "market_cap": 754880576,
+      "enterprise_value": 315880576.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
