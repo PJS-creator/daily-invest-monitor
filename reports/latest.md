@@ -1,41 +1,41 @@
-## Daily Report (2026-11-11 06:00:59 KST)
+## Daily Report (2026-11-11 11:54:58 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
+**Summary:** 1 new PR / 3 new SEC | **Alerts:** GPCR
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.46 | -3.00% | 8.56 | +488.01% | $114.0M | $80.9M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
-| GPCR | 21.73 | +1.49% | 106.57 | +390.43% | $1.55B | $39.6M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
-| IKT | 1.55 | -7.74% | 5.55 | +258.06% | $216.3M | $56.2M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
+| EQ | 1.46 | -2.67% | 8.56 | +486.00% | $114.0M | $80.9M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
+| GPCR | 21.73 | +1.49% | 104.31 | +380.02% | $1.55B | $39.6M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | PT 106.57→104.31 |
+| IKT | 1.55 | -7.74% | 5.55 | +258.06% | $216.3M | $56.2M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 1 | 2 | - |
 | IMMX | 8.35 | -2.57% | 24.05 | +188.02% | $692.2M | $583.7M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.62 | +1.37% | 27.75 | +188.46% | $923.9M | $753.0M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 337.59 | +1.39% | 675.80 | +100.18% | $9.43B | $7.88B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
+| PRAX | 337.59 | +1.39% | 676.20 | +100.30% | $9.43B | $7.88B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 9.33 | -0.11% | 39.67 | +325.15% | $279.2M | $239.0M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.71 | -0.35% | 59.89 | +163.72% | $1.59B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 22.71 | -0.35% | 60.20 | +165.08% | $1.59B | $1.42B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 1 | - |
 | AVBP | 13.49 | -4.73% | 25.80 | +91.25% | $665.2M | $359.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 11.23 | -4.26% | 34.60 | +208.10% | $722.7M | $283.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 11.23 | -4.26% | 34.60 | +208.10% | $690.2M | $251.2M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 9.25 | +0.76% | 23.31 | +152.03% | $1.31B | $1.05B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.46 (-3.00%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.46 (-2.67%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
-- **Close (2026-11-10)**: `1.46` (-3.00%)
-- **Volume**: `157,065` (≈ `0.28x` avg)
+- **Close (2026-11-10)**: `1.46` (-2.67%)
+- **Volume**: `157,300` (≈ `0.28x` avg)
 - **Market Cap**: $114.0M
 - **EV**: $80.9M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
-  - Upside to PT (mean): `+488.0%`
+  - Upside to PT (mean): `+486.0%`
 - **Net Cash (anchor)**: $33.1M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$2.2M / month
 - **Runway (anchor)**: ~15.2 months
 - **Buyout/SOTP (anchor)**: Bear `0.52` / Base `1.56` / Bull `4.99` (USD/share)
-  - Upside to Base (simple): `+7.2%`
+  - Upside to Base (simple): `+6.8%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -58,16 +58,16 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 21.73 (+1.49%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 21.73 (+1.49%) | ⚠️ PT 106.57→104.31 | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-10)**: `21.73` (+1.49%)
-- **Volume**: `1,423,719` (≈ `1.24x` avg)
+- **Volume**: `1,441,700` (≈ `1.26x` avg)
 - **Market Cap**: $1.55B
 - **EV**: $39.6M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
-- **Price Target (consensus)**: mean `106.57` (low `70.00` / high `145.00`; n=14)
-  - Upside to PT (mean): `+390.4%`
+- **Price Target (consensus)**: mean `104.31` (low `70.00` / high `145.00`; n=13)
+  - Upside to PT (mean): `+380.0%`
 - **Net Cash (anchor)**: $1.51B (as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Burn (anchor)**: ~$53.0M / quarter
 - **Buyout/SOTP (anchor)**: Bear `42.88` / Base `106.51` / Bull `336.75` (USD/share)
@@ -95,12 +95,12 @@
 
 </details>
 <details>
-<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.55 (-7.74%) | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
+<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.55 (-7.74%) | PR 1 / SEC 2 | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-10)**: `1.55` (-7.74%)
-- **Volume**: `480,830` (≈ `0.85x` avg)
+- **Volume**: `483,900` (≈ `0.86x` avg)
 - **Market Cap**: $216.3M
 - **EV**: $56.2M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -121,10 +121,11 @@
 - (없음)
 
 #### New Press Releases
-- (신규 없음)
+- [Inhibikase Therapeutics Announces Third Quarter 2026 Financial Results and Highlights Recent Activity | IKT Stock News](https://www.stocktitan.net/news/IKT/inhibikase-therapeutics-announces-third-quarter-2026-financial-he7q8sgqu53j.html) — _RSS_, Tue, 10 Nov 2026 21:01:00 GMT
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [10-Q  - Quarterly report [Sections 13 or 15(d)]](https://www.sec.gov/Archives/edgar/data/1750149/000119312526455625/0001193125-26-455625-index.htm)
+- [8-K  - Current report](https://www.sec.gov/Archives/edgar/data/1750149/000119312526455560/0001193125-26-455560-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -137,7 +138,7 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `8.35` (-2.57%)
-- **Volume**: `802,847` (≈ `0.53x` avg)
+- **Volume**: `825,500` (≈ `0.55x` avg)
 - **Market Cap**: $692.2M
 - **EV**: $583.7M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `24.05` (low `17.40` / high `30.00`; n=8)
@@ -175,7 +176,7 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `9.62` (+1.37%)
-- **Volume**: `765,635` (≈ `0.93x` avg)
+- **Volume**: `774,700` (≈ `0.94x` avg)
 - **Market Cap**: $923.9M
 - **EV**: $753.0M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -213,11 +214,11 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `337.59` (+1.39%)
-- **Volume**: `503,503` (≈ `1.12x` avg)
+- **Volume**: `518,100` (≈ `1.16x` avg)
 - **Market Cap**: $9.43B
 - **EV**: $7.88B (calc; net cash as-of (pro forma))
-- **Price Target (consensus)**: mean `675.80` (low `362.00` / high `1201.00`; n=20)
-  - Upside to PT (mean): `+100.2%`
+- **Price Target (consensus)**: mean `676.20` (low `362.00` / high `1201.00`; n=20)
+  - Upside to PT (mean): `+100.3%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
@@ -251,7 +252,7 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `9.33` (-0.11%)
-- **Volume**: `323,314` (≈ `0.47x` avg)
+- **Volume**: `324,100` (≈ `0.47x` avg)
 - **Market Cap**: $279.2M
 - **EV**: $239.0M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -280,20 +281,21 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
 <details>
-<summary><strong>QURE — uniQure</strong> — Close 22.71 (-0.35%) | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
+<summary><strong>QURE — uniQure</strong> — Close 22.71 (-0.35%) | PR 0 / SEC 1 | Next: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-10)**: `22.71` (-0.35%)
-- **Volume**: `912,063` (≈ `0.42x` avg)
+- **Volume**: `1,137,500` (≈ `0.52x` avg)
 - **Market Cap**: $1.59B
 - **EV**: $1.42B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.89` (low `27.86` / high `91.20`; n=11)
-  - Upside to PT (mean): `+163.7%`
+- **Price Target (consensus)**: mean `60.20` (low `27.86` / high `94.53`; n=11)
+  - Upside to PT (mean): `+165.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -314,7 +316,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [4  - Statement of changes in beneficial ownership of securities](https://www.sec.gov/Archives/edgar/data/1590560/000090445426000605/0000904454-26-000605-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -327,7 +329,7 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `13.49` (-4.73%)
-- **Volume**: `763,985` (≈ `0.60x` avg)
+- **Volume**: `776,300` (≈ `0.61x` avg)
 - **Market Cap**: $665.2M
 - **EV**: $359.8M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `25.80` (low `20.00` / high `30.00`; n=10)
@@ -365,9 +367,9 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `11.23` (-4.26%)
-- **Volume**: `792,273` (≈ `0.82x` avg)
-- **Market Cap**: $722.7M
-- **EV**: $283.7M (calc; net cash as-of (net cash as of latest filings))
+- **Volume**: `810,400` (≈ `0.84x` avg)
+- **Market Cap**: $690.2M
+- **EV**: $251.2M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.60` (low `27.00` / high `42.00`; n=10)
   - Upside to PT (mean): `+208.1%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
@@ -402,7 +404,7 @@
 
 #### Key Metrics
 - **Close (2026-11-10)**: `9.25` (+0.76%)
-- **Volume**: `2,611,178` (≈ `0.87x` avg)
+- **Volume**: `2,637,900` (≈ `0.88x` avg)
 - **Market Cap**: $1.31B
 - **EV**: $1.05B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.31` (low `10.00` / high `65.00`; n=16)
@@ -431,7 +433,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/CMPS -> HTTP 429
 </details>
 
 </details>
