@@ -1,18 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-11 11:54:58 KST",
-    "generated_at_utc": "2026-11-11T02:55:16.240137+00:00",
+    "generated_at_local": "2026-11-11 12:00:55 KST",
+    "generated_at_utc": "2026-11-11T03:01:10.221935+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 1,
-    "total_new_sec": 3,
-    "alert_tickers": [
-      "GPCR"
-    ],
-    "overall_judgement": "행동 고려"
+    "total_new_press": 0,
+    "total_new_sec": 0,
+    "alert_tickers": [],
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -43,7 +41,7 @@
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 106.57→104.31"
+      "alert": "-"
     },
     {
       "ticker": "IKT",
@@ -56,8 +54,8 @@
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
       "runway": "71.0m",
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
-      "new_pr": 1,
-      "new_sec": 2,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -124,15 +122,15 @@
       "ticker": "QURE",
       "close": 22.709999084472656,
       "pct": -0.35103917437835364,
-      "pt": 60.199074,
-      "pt_upside": 165.0773950984414,
+      "pt": 60.205795,
+      "pt_upside": 165.10698999175247,
       "mktcap": "$1.59B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -259,9 +257,7 @@
       "enterprise_value": 39563136.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
-      "alerts": [
-        "PT 106.57→104.31"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -312,30 +308,10 @@
       "net_cash_m": 160.1,
       "runway_months": 71.0,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 2,
-      "new_press": [
-        {
-          "title": "Inhibikase Therapeutics Announces Third Quarter 2026 Financial Results and Highlights Recent Activity | IKT Stock News",
-          "url": "https://www.stocktitan.net/news/IKT/inhibikase-therapeutics-announces-third-quarter-2026-financial-he7q8sgqu53j.html",
-          "date_text": "Tue, 10 Nov 2026 21:01:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
-          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526455625/0001193125-26-455625-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1750149/000119312526455560/0001193125-26-455560-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "checklist": [],
       "price_target": {
@@ -588,29 +564,22 @@
       "runway_months": 15.9,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000605/0000904454-26-000605-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "checklist": [
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.199074,
-        "low": 27.862646,
-        "high": 94.533775,
-        "median": 60.700165,
+        "mean": 60.205795,
+        "low": 27.865757,
+        "high": 94.544334,
+        "median": 60.706944,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 165.0773950984414
+        "upside_pct": 165.10698999175247
       },
       "anchors": {
         "as_of": "2025-09-30",
