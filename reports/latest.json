@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-11 12:00:55 KST",
-    "generated_at_utc": "2026-11-11T03:01:10.221935+00:00",
+    "generated_at_local": "2026-11-11 18:00:51 KST",
+    "generated_at_utc": "2026-11-11T09:01:08.282117+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 22.709999084472656,
       "pct": -0.35103917437835364,
-      "pt": 60.205795,
-      "pt_upside": 165.10698999175247,
+      "pt": 60.118515,
+      "pt_upside": 164.7226658899533,
       "mktcap": "$1.59B",
       "ev": "$1.42B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -135,10 +135,10 @@
     },
     {
       "ticker": "AVBP",
-      "close": 13.489999771118164,
-      "pct": -4.731639007866195,
+      "close": null,
+      "pct": null,
       "pt": 25.8,
-      "pt_upside": 91.25278308185976,
+      "pt_upside": null,
       "mktcap": "$665.2M",
       "ev": "$359.8M",
       "net_cash": "$305.4M (2025-09-30)",
@@ -154,8 +154,8 @@
       "pct": -4.262574761402549,
       "pt": 34.6,
       "pt_upside": 208.10330730529842,
-      "mktcap": "$690.2M",
-      "ev": "$251.2M",
+      "mktcap": "$722.7M",
+      "ev": "$283.7M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
@@ -572,14 +572,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 60.205795,
-        "low": 27.865757,
-        "high": 94.544334,
-        "median": 60.706944,
+        "mean": 60.118515,
+        "low": 27.82536,
+        "high": 94.407265,
+        "median": 60.618935,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 165.10698999175247
+        "upside_pct": 164.7226658899533
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -605,11 +605,11 @@
     {
       "ticker": "AVBP",
       "name": "ArriVent BioPharma",
-      "close": 13.489999771118164,
-      "pct": -4.731639007866195,
-      "volume": 776300.0,
-      "volume_x": 0.6064099950240478,
-      "last_price_date": "2026-11-10",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 665161216,
       "enterprise_value": 359761216.0,
       "net_cash_m": 305.4,
@@ -631,7 +631,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 91.25278308185976
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -647,7 +647,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -662,8 +662,8 @@
       "volume": 810400.0,
       "volume_x": 0.8412372332595971,
       "last_price_date": "2026-11-10",
-      "market_cap": 690173824,
-      "enterprise_value": 251173824.0,
+      "market_cap": 722703232,
+      "enterprise_value": 283703232.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
