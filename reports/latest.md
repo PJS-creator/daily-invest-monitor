@@ -1,4 +1,4 @@
-## Daily Report (2026-11-12 13:00:53 KST)
+## Daily Report (2026-11-12 18:00:58 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** QURE
 
@@ -12,7 +12,7 @@
 | MGTX | 9.68 | +0.62% | 27.75 | +186.67% | $929.7M | $758.8M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 346.21 | +2.55% | 653.00 | +88.61% | $9.68B | $8.13B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 9.20 | -1.39% | 39.67 | +331.16% | $275.3M | $235.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 24.58 | +8.26% | 59.71 | +142.87% | $1.72B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE +8.3% |
+| QURE | 24.58 | +8.26% | 59.81 | +143.28% | $1.72B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE +8.3% |
 | AVBP | 13.51 | +0.11% | 26.10 | +93.26% | $698.5M | $393.1M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 11.35 | +1.07% | 34.70 | +205.73% | $736.9M | $297.9M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 9.30 | +0.54% | 23.31 | +150.67% | $1.32B | $1.06B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -293,8 +293,8 @@
 - **Volume**: `2,465,300` (≈ `1.13x` avg)
 - **Market Cap**: $1.72B
 - **EV**: $1.55B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.71` (low `27.64` / high `93.78`; n=11)
-  - Upside to PT (mean): `+142.9%`
+- **Price Target (consensus)**: mean `59.81` (low `27.69` / high `93.94`; n=11)
+  - Upside to PT (mean): `+143.3%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
