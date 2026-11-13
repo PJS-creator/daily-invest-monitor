@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-13 06:00:57 KST",
-    "generated_at_utc": "2026-11-12T21:01:41.379370+00:00",
+    "generated_at_local": "2026-11-13 12:01:00 KST",
+    "generated_at_utc": "2026-11-13T03:01:16.355292+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 0,
-    "total_new_sec": 0,
+    "total_new_press": 4,
+    "total_new_sec": 6,
     "alert_tickers": [
       "MGTX",
       "CGEM"
@@ -27,8 +27,8 @@
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
-      "new_pr": 0,
-      "new_sec": 0,
+      "new_pr": 1,
+      "new_sec": 3,
       "alert": "-"
     },
     {
@@ -72,8 +72,8 @@
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
       "runway": "76.0m",
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
-      "new_pr": 0,
-      "new_sec": 0,
+      "new_pr": 1,
+      "new_sec": 2,
       "alert": "-"
     },
     {
@@ -102,8 +102,8 @@
       "net_cash": "$1.55B ((pro forma))",
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
-      "new_pr": 0,
-      "new_sec": 0,
+      "new_pr": 1,
+      "new_sec": 1,
       "alert": "-"
     },
     {
@@ -125,8 +125,8 @@
       "ticker": "QURE",
       "close": 24.6299991607666,
       "pct": 0.18303875521543667,
-      "pt": 59.61171,
-      "pt_upside": 142.02887548188045,
+      "pt": 59.631496,
+      "pt_upside": 142.1092084119421,
       "mktcap": "$1.73B",
       "ev": "$1.55B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -162,7 +162,7 @@
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
-      "new_pr": 0,
+      "new_pr": 1,
       "new_sec": 0,
       "alert": "PRICE -10.2%"
     },
@@ -203,18 +203,44 @@
       "name": "Equillium",
       "close": 1.3200000524520874,
       "pct": -7.042247017941749,
-      "volume": 163193.0,
-      "volume_x": 0.3066183170967712,
+      "volume": 163600.0,
+      "volume_x": 0.3073830169004293,
       "last_price_date": "2026-11-12",
       "market_cap": 103442256,
       "enterprise_value": 70342256.0,
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
-      "new_pr_count": 0,
-      "new_sec_count": 0,
-      "new_press": [],
-      "new_sec": [],
+      "new_pr_count": 1,
+      "new_sec_count": 3,
+      "new_press": [
+        {
+          "title": "Equillium Reports Third Quarter 2026 Financial Results and Recent Corporate and Clinical Highlights | EQ Stock News",
+          "url": "https://www.stocktitan.net/news/EQ/equillium-reports-third-quarter-2026-financial-results-and-recent-imias4ulu702.html",
+          "date_text": "Thu, 12 Nov 2026 21:05:00 GMT",
+          "source": "RSS"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "S-3  - Registration statement under Securities Act of 1933",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526458652/0001193125-26-458652-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526458443/0001193125-26-458443-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526458379/0001193125-26-458379-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -253,8 +279,8 @@
       "name": "Structure Therapeutics",
       "close": 19.84000015258789,
       "pct": -5.298332076031009,
-      "volume": 1027826.0,
-      "volume_x": 0.8920389404463206,
+      "volume": 1037700.0,
+      "volume_x": 0.9006084770195996,
       "last_price_date": "2026-11-12",
       "market_cap": 1414787584,
       "enterprise_value": -95212416.0,
@@ -303,8 +329,8 @@
       "name": "Inhibikase Therapeutics",
       "close": 1.5299999713897705,
       "pct": -6.134970805791173,
-      "volume": 663522.0,
-      "volume_x": 1.1771232310473476,
+      "volume": 727000.0,
+      "volume_x": 1.2897365708618882,
       "last_price_date": "2026-11-12",
       "market_cap": 214612528,
       "enterprise_value": 54512528.0,
@@ -353,18 +379,38 @@
       "name": "Immix Biopharma",
       "close": 8.069999694824219,
       "pct": -6.812934907431922,
-      "volume": 943909.0,
-      "volume_x": 0.6342110567619866,
+      "volume": 960300.0,
+      "volume_x": 0.6452241453450871,
       "last_price_date": "2026-11-12",
       "market_cap": 669026816,
       "enterprise_value": 560526816.0,
       "net_cash_m": 108.5,
       "runway_months": 76.0,
       "alerts": [],
-      "new_pr_count": 0,
-      "new_sec_count": 0,
-      "new_press": [],
-      "new_sec": [],
+      "new_pr_count": 1,
+      "new_sec_count": 2,
+      "new_press": [
+        {
+          "title": "Immix Biopharma Reports Third Quarter 2026 Financial Results and Update on Corporate Progress | IMMX Stock News",
+          "url": "https://www.stocktitan.net/news/IMMX/immix-biopharma-reports-third-quarter-2026-financial-results-and-byrgut9wmqxr.html",
+          "date_text": "Thu, 12 Nov 2026 21:15:00 GMT",
+          "source": "RSS"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226051402/0001493152-26-051402-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226051383/0001493152-26-051383-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
@@ -403,8 +449,8 @@
       "name": "MeiraGTx",
       "close": 8.789999961853027,
       "pct": -9.194218132894905,
-      "volume": 1362155.0,
-      "volume_x": 1.6391125732823766,
+      "volume": 1363100.0,
+      "volume_x": 1.640249713609103,
       "last_price_date": "2026-11-12",
       "market_cap": 844217920,
       "enterprise_value": 673317920.0,
@@ -455,18 +501,32 @@
       "name": "Praxis Precision Medicines",
       "close": 324.760009765625,
       "pct": -6.195656456736409,
-      "volume": 579204.0,
-      "volume_x": 1.2735412204978913,
+      "volume": 590100.0,
+      "volume_x": 1.2974991094947648,
       "last_price_date": "2026-11-12",
       "market_cap": 9077545984,
       "enterprise_value": 7527545984.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
       "alerts": [],
-      "new_pr_count": 0,
-      "new_sec_count": 0,
-      "new_press": [],
-      "new_sec": [],
+      "new_pr_count": 1,
+      "new_sec_count": 1,
+      "new_press": [
+        {
+          "title": "Praxis Precision Medicines Details Launch Readiness for Relutrigine and Ulixacaltamide and Outlines Expanded Pipeline in Preparation to be the Preeminent CNS Biotech at Investor Day | PRAX Stock News",
+          "url": "https://www.stocktitan.net/news/PRAX/praxis-precision-medicines-details-launch-readiness-for-relutrigine-5qbe1edx2bvf.html",
+          "date_text": "Thu, 12 Nov 2026 21:30:00 GMT",
+          "source": "RSS"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000091/0001689548-26-000091-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -507,8 +567,8 @@
       "name": "Q32 Bio",
       "close": 8.819999694824219,
       "pct": -4.130436112164126,
-      "volume": 342945.0,
-      "volume_x": 0.5008397347898472,
+      "volume": 355600.0,
+      "volume_x": 0.5193212022081374,
       "last_price_date": "2026-11-12",
       "market_cap": 263928624,
       "enterprise_value": 223728624.0,
@@ -549,7 +609,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -559,8 +620,8 @@
       "name": "uniQure",
       "close": 24.6299991607666,
       "pct": 0.18303875521543667,
-      "volume": 2081282.0,
-      "volume_x": 0.9455129428226166,
+      "volume": 2133200.0,
+      "volume_x": 0.9690989542162982,
       "last_price_date": "2026-11-12",
       "market_cap": 1727520128,
       "enterprise_value": 1550520128.0,
@@ -576,14 +637,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.61171,
-        "low": 27.594559,
-        "high": 93.6242,
-        "median": 60.116123,
+        "mean": 59.631496,
+        "low": 27.603716,
+        "high": 93.655266,
+        "median": 60.136074,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 142.02887548188045
+        "upside_pct": 142.1092084119421
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -611,8 +672,8 @@
       "name": "ArriVent BioPharma",
       "close": 13.069999694824219,
       "pct": -3.2210323282526487,
-      "volume": 778593.0,
-      "volume_x": 0.601314624912536,
+      "volume": 793900.0,
+      "volume_x": 0.6131363635661538,
       "last_price_date": "2026-11-12",
       "market_cap": 676020544,
       "enterprise_value": 370620544.0,
@@ -663,8 +724,8 @@
       "name": "Cullinan Therapeutics",
       "close": 10.1899995803833,
       "pct": -10.220271031710892,
-      "volume": 1126589.0,
-      "volume_x": 1.163616438695737,
+      "volume": 1135200.0,
+      "volume_x": 1.1725104551947523,
       "last_price_date": "2026-11-12",
       "market_cap": 661544192,
       "enterprise_value": 222544192.0,
@@ -673,9 +734,16 @@
       "alerts": [
         "PRICE -10.2%"
       ],
-      "new_pr_count": 0,
+      "new_pr_count": 1,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "New Drug Application Submission Completed for Zipalertinib Plus Chemotherapy in First-Line EGFR Exon 20 Insertion Mutation Non-Small Cell Lung Cancer | CGEM Stock News",
+          "url": "https://www.stocktitan.net/news/CGEM/new-drug-application-submission-completed-for-zipalertinib-plus-gqomqlsc2p1p.html",
+          "date_text": "Thu, 12 Nov 2026 21:30:00 GMT",
+          "source": "RSS"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [
@@ -717,8 +785,8 @@
       "name": "Compass Pathways",
       "close": 9.119999885559082,
       "pct": -1.9354871127326034,
-      "volume": 2202064.0,
-      "volume_x": 0.7376251238132435,
+      "volume": 2386600.0,
+      "volume_x": 0.7994391264253388,
       "last_price_date": "2026-11-12",
       "market_cap": 1292398336,
       "enterprise_value": 1033398336.0,
