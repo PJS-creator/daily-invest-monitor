@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-13 12:01:00 KST",
-    "generated_at_utc": "2026-11-13T03:01:16.355292+00:00",
+    "generated_at_local": "2026-11-13 12:30:29 KST",
+    "generated_at_utc": "2026-11-13T03:30:45.660178+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 4,
-    "total_new_sec": 6,
+    "total_new_press": 0,
+    "total_new_sec": 0,
     "alert_tickers": [
       "MGTX",
       "CGEM"
@@ -27,8 +27,8 @@
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
-      "new_pr": 1,
-      "new_sec": 3,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -72,8 +72,8 @@
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
       "runway": "76.0m",
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
-      "new_pr": 1,
-      "new_sec": 2,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -102,8 +102,8 @@
       "net_cash": "$1.55B ((pro forma))",
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
-      "new_pr": 1,
-      "new_sec": 1,
+      "new_pr": 0,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -162,7 +162,7 @@
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "PRICE -10.2%"
     },
@@ -211,36 +211,10 @@
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 3,
-      "new_press": [
-        {
-          "title": "Equillium Reports Third Quarter 2026 Financial Results and Recent Corporate and Clinical Highlights | EQ Stock News",
-          "url": "https://www.stocktitan.net/news/EQ/equillium-reports-third-quarter-2026-financial-results-and-recent-imias4ulu702.html",
-          "date_text": "Thu, 12 Nov 2026 21:05:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "S-3  - Registration statement under Securities Act of 1933",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526458652/0001193125-26-458652-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526458443/0001193125-26-458443-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000119312526458379/0001193125-26-458379-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -387,30 +361,10 @@
       "net_cash_m": 108.5,
       "runway_months": 76.0,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 2,
-      "new_press": [
-        {
-          "title": "Immix Biopharma Reports Third Quarter 2026 Financial Results and Update on Corporate Progress | IMMX Stock News",
-          "url": "https://www.stocktitan.net/news/IMMX/immix-biopharma-reports-third-quarter-2026-financial-results-and-byrgut9wmqxr.html",
-          "date_text": "Thu, 12 Nov 2026 21:15:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226051402/0001493152-26-051402-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
-          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226051383/0001493152-26-051383-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
@@ -509,24 +463,10 @@
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
       "alerts": [],
-      "new_pr_count": 1,
-      "new_sec_count": 1,
-      "new_press": [
-        {
-          "title": "Praxis Precision Medicines Details Launch Readiness for Relutrigine and Ulixacaltamide and Outlines Expanded Pipeline in Preparation to be the Preeminent CNS Biotech at Investor Day | PRAX Stock News",
-          "url": "https://www.stocktitan.net/news/PRAX/praxis-precision-medicines-details-launch-readiness-for-relutrigine-5qbe1edx2bvf.html",
-          "date_text": "Thu, 12 Nov 2026 21:30:00 GMT",
-          "source": "RSS"
-        }
-      ],
-      "new_sec": [
-        {
-          "title": "8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000091/0001689548-26-000091-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_pr_count": 0,
+      "new_sec_count": 0,
+      "new_press": [],
+      "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -734,16 +674,9 @@
       "alerts": [
         "PRICE -10.2%"
       ],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "New Drug Application Submission Completed for Zipalertinib Plus Chemotherapy in First-Line EGFR Exon 20 Insertion Mutation Non-Small Cell Lung Cancer | CGEM Stock News",
-          "url": "https://www.stocktitan.net/news/CGEM/new-drug-application-submission-completed-for-zipalertinib-plus-gqomqlsc2p1p.html",
-          "date_text": "Thu, 12 Nov 2026 21:30:00 GMT",
-          "source": "RSS"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [
