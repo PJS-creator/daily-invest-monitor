@@ -1,18 +1,18 @@
-## Daily Report (2026-11-13 12:30:29 KST)
+## Daily Report (2026-11-13 18:00:47 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** MGTX, CGEM
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** IKT, MGTX, PRAX, CGEM
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
 | EQ | 1.32 | -7.04% | 8.56 | +548.15% | $103.4M | $70.3M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 19.84 | -5.30% | 105.50 | +431.75% | $1.41B | -$95.2M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
-| IKT | 1.53 | -6.13% | 5.55 | +262.75% | $214.6M | $54.5M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
+| IKT | 1.53 | -6.13% | 6.00 | +292.16% | $214.6M | $54.5M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | PT 5.55→6.00 |
 | IMMX | 8.07 | -6.81% | 24.05 | +198.02% | $669.0M | $560.5M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 8.79 | -9.19% | 27.75 | +215.70% | $844.2M | $673.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | PRICE -9.2% |
-| PRAX | 324.76 | -6.20% | 653.00 | +101.07% | $9.08B | $7.53B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
+| PRAX | 324.76 | -6.20% | 661.75 | +103.77% | $9.08B | $7.53B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PT 653.00→661.75 |
 | QTTB | 8.82 | -4.13% | 39.67 | +349.74% | $263.9M | $223.7M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 24.63 | +0.18% | 59.63 | +142.11% | $1.73B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 24.63 | +0.18% | 59.62 | +142.08% | $1.73B | $1.55B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.07 | -3.22% | 26.40 | +101.99% | $676.0M | $370.6M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 10.19 | -10.22% | 34.70 | +240.53% | $661.5M | $222.5M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | PRICE -10.2% |
 | CMPS | 9.12 | -1.94% | 23.31 | +155.62% | $1.29B | $1.03B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -95,7 +95,7 @@
 
 </details>
 <details>
-<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.53 (-6.13%) | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
+<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.53 (-6.13%) | ⚠️ PT 5.55→6.00 | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
 
 
 #### Key Metrics
@@ -103,8 +103,8 @@
 - **Volume**: `727,000` (≈ `1.29x` avg)
 - **Market Cap**: $214.6M
 - **EV**: $54.5M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
-- **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
-  - Upside to PT (mean): `+262.7%`
+- **Price Target (consensus)**: mean `6.00` (low `3.00` / high `8.00`; n=9)
+  - Upside to PT (mean): `+292.2%`
 - **Net Cash (anchor)**: $160.1M (as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Burn (anchor)**: ~$2.3M / month
 - **Runway (anchor)**: ~71.0 months
@@ -208,7 +208,7 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 324.76 (-6.20%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 324.76 (-6.20%) | ⚠️ PT 653.00→661.75 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
@@ -216,8 +216,8 @@
 - **Volume**: `590,100` (≈ `1.30x` avg)
 - **Market Cap**: $9.08B
 - **EV**: $7.53B (calc; net cash as-of (pro forma))
-- **Price Target (consensus)**: mean `653.00` (low `189.00` / high `1201.00`; n=21)
-  - Upside to PT (mean): `+101.1%`
+- **Price Target (consensus)**: mean `661.75` (low `189.00` / high `1201.00`; n=20)
+  - Upside to PT (mean): `+103.8%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
@@ -293,7 +293,7 @@
 - **Volume**: `2,133,200` (≈ `0.97x` avg)
 - **Market Cap**: $1.73B
 - **EV**: $1.55B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.63` (low `27.60` / high `93.66`; n=11)
+- **Price Target (consensus)**: mean `59.62` (low `27.60` / high `93.64`; n=11)
   - Upside to PT (mean): `+142.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month

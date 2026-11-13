@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-13 12:30:29 KST",
-    "generated_at_utc": "2026-11-13T03:30:45.660178+00:00",
+    "generated_at_local": "2026-11-13 18:00:47 KST",
+    "generated_at_utc": "2026-11-13T09:01:04.270496+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -10,7 +10,9 @@
     "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
+      "IKT",
       "MGTX",
+      "PRAX",
       "CGEM"
     ],
     "overall_judgement": "행동 고려"
@@ -50,8 +52,8 @@
       "ticker": "IKT",
       "close": 1.5299999713897705,
       "pct": -6.134970805791173,
-      "pt": 5.55,
-      "pt_upside": 262.74510482236644,
+      "pt": 6.0,
+      "pt_upside": 292.156870078234,
       "mktcap": "$214.6M",
       "ev": "$54.5M",
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
@@ -59,7 +61,7 @@
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 5.55→6.00"
     },
     {
       "ticker": "IMMX",
@@ -95,8 +97,8 @@
       "ticker": "PRAX",
       "close": 324.760009765625,
       "pct": -6.195656456736409,
-      "pt": 653.0,
-      "pt_upside": 101.07155449073346,
+      "pt": 661.75,
+      "pt_upside": 103.76585173697225,
       "mktcap": "$9.08B",
       "ev": "$7.53B",
       "net_cash": "$1.55B ((pro forma))",
@@ -104,7 +106,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 653.00→661.75"
     },
     {
       "ticker": "QTTB",
@@ -125,8 +127,8 @@
       "ticker": "QURE",
       "close": 24.6299991607666,
       "pct": 0.18303875521543667,
-      "pt": 59.631496,
-      "pt_upside": 142.1092084119421,
+      "pt": 59.6249,
+      "pt_upside": 142.08242806186192,
       "mktcap": "$1.73B",
       "ev": "$1.55B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -223,8 +225,8 @@
         "high": 20.0,
         "median": 7.0,
         "analyst_count": 9,
-        "recommendation_key": "none",
-        "recommendation_mean": null,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.11111,
         "upside_pct": 548.1484590933791
       },
       "anchors": {
@@ -310,7 +312,9 @@
       "enterprise_value": 54512528.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
-      "alerts": [],
+      "alerts": [
+        "PT 5.55→6.00"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -318,14 +322,14 @@
       "next_catalyst": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "checklist": [],
       "price_target": {
-        "mean": 5.55,
-        "low": 1.5,
+        "mean": 6.0,
+        "low": 3.0,
         "high": 8.0,
-        "median": 5.5,
-        "analyst_count": 10,
+        "median": 6.0,
+        "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.33333,
-        "upside_pct": 262.74510482236644
+        "upside_pct": 292.156870078234
       },
       "anchors": {
         "as_of": "2025-09-30 + Nov-2025 offering (pro forma est.)",
@@ -425,8 +429,8 @@
         "high": 50.0,
         "median": 23.5,
         "analyst_count": 8,
-        "recommendation_key": "none",
-        "recommendation_mean": null,
+        "recommendation_key": "strong_buy",
+        "recommendation_mean": 1.5,
         "upside_pct": 215.69966007314974
       },
       "anchors": {
@@ -462,7 +466,9 @@
       "enterprise_value": 7527545984.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [],
+      "alerts": [
+        "PT 653.00→661.75"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -472,14 +478,14 @@
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
       ],
       "price_target": {
-        "mean": 653.0,
+        "mean": 661.75,
         "low": 189.0,
         "high": 1201.0,
-        "median": 593.0,
-        "analyst_count": 21,
+        "median": 604.5,
+        "analyst_count": 20,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.47619,
-        "upside_pct": 101.07155449073346
+        "upside_pct": 103.76585173697225
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -577,14 +583,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.631496,
-        "low": 27.603716,
-        "high": 93.655266,
-        "median": 60.136074,
+        "mean": 59.6249,
+        "low": 27.600664,
+        "high": 93.64491,
+        "median": 60.129425,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 142.1092084119421
+        "upside_pct": 142.08242806186192
       },
       "anchors": {
         "as_of": "2025-09-30",
