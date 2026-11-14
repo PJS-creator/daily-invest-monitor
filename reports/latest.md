@@ -1,4 +1,4 @@
-## Daily Report (2026-11-15 00:00:52 KST)
+## Daily Report (2026-11-15 02:14:34 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -280,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
