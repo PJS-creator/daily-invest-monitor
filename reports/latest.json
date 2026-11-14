@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-15 02:14:34 KST",
-    "generated_at_utc": "2026-11-14T17:14:50.125890+00:00",
+    "generated_at_local": "2026-11-15 06:00:49 KST",
+    "generated_at_utc": "2026-11-14T21:01:10.366981+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,8 +9,10 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [],
-    "overall_judgement": "감시만"
+    "alert_tickers": [
+      "IKT"
+    ],
+    "overall_judgement": "행동 고려"
   },
   "dashboard": [
     {
@@ -47,8 +49,8 @@
       "ticker": "IKT",
       "close": 1.5199999809265137,
       "pct": -0.653594160147164,
-      "pt": 6.0,
-      "pt_upside": 294.7368470585578,
+      "pt": 5.55,
+      "pt_upside": 265.131583529166,
       "mktcap": "$213.2M",
       "ev": "$53.1M",
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
@@ -56,7 +58,7 @@
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 6.00→5.55"
     },
     {
       "ticker": "IMMX",
@@ -307,7 +309,9 @@
       "enterprise_value": 53109840.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
-      "alerts": [],
+      "alerts": [
+        "PT 6.00→5.55"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -315,14 +319,14 @@
       "next_catalyst": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "checklist": [],
       "price_target": {
-        "mean": 6.0,
-        "low": 3.0,
+        "mean": 5.55,
+        "low": 1.5,
         "high": 8.0,
-        "median": 6.0,
-        "analyst_count": 9,
+        "median": 5.5,
+        "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.33333,
-        "upside_pct": 294.7368470585578
+        "upside_pct": 265.131583529166
       },
       "anchors": {
         "as_of": "2025-09-30 + Nov-2025 offering (pro forma est.)",
@@ -473,7 +477,7 @@
         "median": 604.5,
         "analyst_count": 20,
         "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.47619,
+        "recommendation_mean": 1.47368,
         "upside_pct": 105.48258006481302
       },
       "anchors": {
@@ -544,8 +548,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }

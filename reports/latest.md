@@ -1,13 +1,13 @@
-## Daily Report (2026-11-15 02:14:34 KST)
+## Daily Report (2026-11-15 06:00:49 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** IKT
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
 | EQ | 1.29 | -2.27% | 8.56 | +563.22% | $106.2M | $73.1M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 20.00 | +0.81% | 104.86 | +424.29% | $1.43B | -$78.2M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
-| IKT | 1.52 | -0.65% | 6.00 | +294.74% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
+| IKT | 1.52 | -0.65% | 5.55 | +265.13% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | PT 6.00→5.55 |
 | IMMX | 7.84 | -2.85% | 23.80 | +203.57% | $657.1M | $548.6M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.18 | +4.44% | 27.75 | +202.29% | $897.2M | $726.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 328.13 | +1.04% | 674.25 | +105.48% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
@@ -95,7 +95,7 @@
 
 </details>
 <details>
-<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.52 (-0.65%) | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
+<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.52 (-0.65%) | ⚠️ PT 6.00→5.55 | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
 
 
 #### Key Metrics
@@ -103,8 +103,8 @@
 - **Volume**: `333,100` (≈ `0.58x` avg)
 - **Market Cap**: $213.2M
 - **EV**: $53.1M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
-- **Price Target (consensus)**: mean `6.00` (low `3.00` / high `8.00`; n=9)
-  - Upside to PT (mean): `+294.7%`
+- **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
+  - Upside to PT (mean): `+265.1%`
 - **Net Cash (anchor)**: $160.1M (as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Burn (anchor)**: ~$2.3M / month
 - **Runway (anchor)**: ~71.0 months
@@ -280,7 +280,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>

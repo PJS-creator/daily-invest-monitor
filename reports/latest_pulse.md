@@ -1,13 +1,14 @@
-# Pulse Input (2026-11-15 02:14:34 KST)
+# Pulse Input (2026-11-15 06:00:49 KST)
 
-- 전체 판단: **감시만**
-- 요약: PR 0건 / SEC 0건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 0건 / SEC 0건 / Alert IKT
 
 ## Must Watch
-- 오늘은 즉시 대응할 내용 없음
+- **IKT** (Inhibikase Therapeutics) — PT 6.00→5.55 | 주가 -0.65%
+  - 다음 촉매: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
