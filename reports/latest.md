@@ -1,35 +1,36 @@
-## Daily Report (2026-11-14 06:01:00 KST)
+## Daily Report (2026-11-14 12:00:52 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
+**Summary:** 0 new PR / 1 new SEC | **Alerts:** GPCR, PRAX
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.29 | -2.27% | - | - | - | - | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
-| GPCR | 20.00 | +0.81% | - | - | - | - | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
-| IKT | 1.52 | -0.65% | - | - | - | - | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | 7.84 | -2.85% | - | - | - | - | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
-| MGTX | 9.18 | +4.44% | - | - | - | - | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 328.13 | +1.04% | - | - | - | - | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
-| QTTB | 8.71 | -1.25% | - | - | - | - | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 23.81 | -3.33% | - | - | - | - | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
-| AVBP | 13.01 | -0.46% | - | - | - | - | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 10.28 | +0.88% | - | - | - | - | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
-| CMPS | 9.01 | -1.21% | - | - | - | - | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
-| CRNX | - | - | - | - | - | - | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
+| EQ | 1.29 | -2.27% | 8.56 | +563.22% | $101.1M | $68.0M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 1 | - |
+| GPCR | 20.00 | +0.81% | 104.86 | +424.29% | $1.43B | -$83.8M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | PT 105.50→104.86 |
+| IKT | 1.52 | -0.65% | 6.00 | +294.74% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
+| IMMX | 7.84 | -2.85% | 23.80 | +203.57% | $650.0M | $541.5M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| MGTX | 9.18 | +4.44% | 27.75 | +202.29% | $881.7M | $710.8M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
+| PRAX | 328.13 | +1.04% | 674.25 | +105.48% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PT 661.75→674.25 |
+| QTTB | 8.71 | -1.25% | 39.67 | +355.42% | $260.6M | $220.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
+| QURE | 23.81 | -3.33% | 59.44 | +149.65% | $1.67B | $1.49B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| AVBP | 13.01 | -0.46% | 26.40 | +102.92% | $672.9M | $367.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
+| CGEM | 10.28 | +0.88% | 34.70 | +237.55% | $667.4M | $228.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CMPS | 9.01 | -1.21% | 23.31 | +158.74% | $1.28B | $1.02B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
+| CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.29 (-2.27%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.29 (-2.27%) | PR 0 / SEC 1 | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-13)**: `1.29` (-2.27%)
-- **Volume**: `468,754`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `469,600` (≈ `0.89x` avg)
+- **Market Cap**: $101.1M
+- **EV**: $68.0M (calc; net cash as-of 2025-09-30)
+- **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
+  - Upside to PT (mean): `+563.2%`
 - **Net Cash (anchor)**: $33.1M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$2.2M / month
 - **Runway (anchor)**: ~15.2 months
@@ -49,7 +50,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1746466/000101143826000692/0001011438-26-000692-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -57,15 +58,16 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 20.00 (+0.81%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 20.00 (+0.81%) | ⚠️ PT 105.50→104.86 | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-13)**: `20.00` (+0.81%)
-- **Volume**: `1,281,957`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `1,346,200` (≈ `1.16x` avg)
+- **Market Cap**: $1.43B
+- **EV**: -$83.8M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
+- **Price Target (consensus)**: mean `104.86` (low `70.00` / high `145.00`; n=14)
+  - Upside to PT (mean): `+424.3%`
 - **Net Cash (anchor)**: $1.51B (as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Burn (anchor)**: ~$53.0M / quarter
 - **Buyout/SOTP (anchor)**: Bear `42.88` / Base `106.51` / Bull `336.75` (USD/share)
@@ -98,10 +100,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `1.52` (-0.65%)
-- **Volume**: `282,854`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `333,100` (≈ `0.58x` avg)
+- **Market Cap**: $213.2M
+- **EV**: $53.1M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
+- **Price Target (consensus)**: mean `6.00` (low `3.00` / high `8.00`; n=9)
+  - Upside to PT (mean): `+294.7%`
 - **Net Cash (anchor)**: $160.1M (as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Burn (anchor)**: ~$2.3M / month
 - **Runway (anchor)**: ~71.0 months
@@ -134,10 +137,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `7.84` (-2.85%)
-- **Volume**: `1,009,646`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `1,027,800` (≈ `0.69x` avg)
+- **Market Cap**: $650.0M
+- **EV**: $541.5M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
+- **Price Target (consensus)**: mean `23.80` (low `17.40` / high `30.00`; n=8)
+  - Upside to PT (mean): `+203.6%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months
@@ -171,10 +175,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `9.18` (+4.44%)
-- **Volume**: `725,526`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `732,200` (≈ `0.87x` avg)
+- **Market Cap**: $881.7M
+- **EV**: $710.8M (calc; net cash as-of 2025 Q3 (pro forma))
+- **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
+  - Upside to PT (mean): `+202.3%`
 - **Net Cash (anchor)**: $170.9M (as-of 2025 Q3 (pro forma))
 - **Burn (anchor)**: ~$34.5M / quarter
 - **Runway (anchor)**: ~21.4 months
@@ -203,15 +208,16 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 328.13 (+1.04%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 328.13 (+1.04%) | ⚠️ PT 661.75→674.25 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-13)**: `328.13` (+1.04%)
-- **Volume**: `333,659`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `350,900` (≈ `0.76x` avg)
+- **Market Cap**: $9.17B
+- **EV**: $7.62B (calc; net cash as-of (pro forma))
+- **Price Target (consensus)**: mean `674.25` (low `189.00` / high `1201.00`; n=20)
+  - Upside to PT (mean): `+105.5%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
@@ -245,10 +251,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `8.71` (-1.25%)
-- **Volume**: `238,465`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `243,800` (≈ `0.35x` avg)
+- **Market Cap**: $260.6M
+- **EV**: $220.4M (calc; net cash as-of (pro forma est.))
+- **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
+  - Upside to PT (mean): `+355.4%`
 - **Net Cash (anchor)**: $40.2M (as-of (pro forma est.))
 - **Burn (anchor)**: ~$3.0M / month
 - **Runway (anchor)**: ~13.2 months
@@ -273,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -282,10 +290,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `23.81` (-3.33%)
-- **Volume**: `1,376,058`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `1,394,500` (≈ `0.63x` avg)
+- **Market Cap**: $1.67B
+- **EV**: $1.49B (calc; net cash as-of 2025-09-30)
+- **Price Target (consensus)**: mean `59.44` (low `27.52` / high `93.36`; n=11)
+  - Upside to PT (mean): `+149.6%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -319,10 +328,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `13.01` (-0.46%)
-- **Volume**: `597,228`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `616,100` (≈ `0.47x` avg)
+- **Market Cap**: $672.9M
+- **EV**: $367.5M (calc; net cash as-of 2025-09-30)
+- **Price Target (consensus)**: mean `26.40` (low `22.00` / high `30.00`; n=10)
+  - Upside to PT (mean): `+102.9%`
 - **Net Cash (anchor)**: $305.4M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$14.4M / month
 - **Runway (anchor)**: ~21.2 months
@@ -356,10 +366,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `10.28` (+0.88%)
-- **Volume**: `1,376,747`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `1,376,900` (≈ `1.44x` avg)
+- **Market Cap**: $667.4M
+- **EV**: $228.4M (calc; net cash as-of (net cash as of latest filings))
+- **Price Target (consensus)**: mean `34.70` (low `27.00` / high `44.00`; n=10)
+  - Upside to PT (mean): `+237.5%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
 - **Burn (anchor)**: ~$36.5M / quarter
 - **Buyout/SOTP (anchor)**: Bear `8.6` / Base `17.9` / Bull `45.9` (USD/share)
@@ -392,10 +403,11 @@
 
 #### Key Metrics
 - **Close (2026-11-13)**: `9.01` (-1.21%)
-- **Volume**: `2,569,865`
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Volume**: `2,639,300` (≈ `0.88x` avg)
+- **Market Cap**: $1.28B
+- **EV**: $1.02B (calc; net cash as-of (pro forma))
+- **Price Target (consensus)**: mean `23.31` (low `10.00` / high `65.00`; n=16)
+  - Upside to PT (mean): `+158.7%`
 - **Net Cash (anchor)**: $259.0M (as-of (pro forma))
 - **Burn (anchor)**: ~$13.3M / month
 - **Runway (anchor)**: ~19.5 months
@@ -429,9 +441,9 @@
 
 #### Key Metrics
 - ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
-- **Market Cap**: -
-- **EV**: - (yfinance)
-- **Price Target (consensus)**: -
+- **Market Cap**: $9.01B
+- **EV**: $7.66B (calc; net cash as-of 2025-09-30)
+- **Price Target (consensus)**: mean `85.00` (low `85.00` / high `85.00`; n=8)
 - **Net Cash (anchor)**: $1.35B (as-of 2025-09-30)
 - **Burn (anchor)**: ~$31.7M / month
 - **Runway (anchor)**: ~43.0 months

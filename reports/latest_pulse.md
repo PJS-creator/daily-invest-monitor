@@ -1,13 +1,20 @@
-# Pulse Input (2026-11-14 06:01:00 KST)
+# Pulse Input (2026-11-14 12:00:52 KST)
 
-- 전체 판단: **감시만**
-- 요약: PR 0건 / SEC 0건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 0건 / SEC 1건 / Alert GPCR, PRAX
 
 ## Must Watch
-- 오늘은 즉시 대응할 내용 없음
+- **PRAX** (Praxis Precision Medicines) — PT 661.75→674.25 | 주가 +1.04%
+  - 다음 촉매: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline
+  - 체크포인트: vormatrigine / elsunersen 등 주요 마일스톤 업데이트
+- **GPCR** (Structure Therapeutics) — PT 105.50→104.86 | 주가 +0.81%
+  - 다음 촉매: 2026 Q1: ACCESS II 44-week results (company guidance)
+- **EQ** (Equillium) — SEC 1건 | 주가 -2.27%
+  - 변화: SEC: SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors
+  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: IKT, IMMX, MGTX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
