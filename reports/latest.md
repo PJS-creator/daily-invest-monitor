@@ -1,16 +1,16 @@
-## Daily Report (2026-11-14 12:00:52 KST)
+## Daily Report (2026-11-14 12:26:40 KST)
 
-**Summary:** 0 new PR / 1 new SEC | **Alerts:** GPCR, PRAX
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.29 | -2.27% | 8.56 | +563.22% | $101.1M | $68.0M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 1 | - |
-| GPCR | 20.00 | +0.81% | 104.86 | +424.29% | $1.43B | -$83.8M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | PT 105.50→104.86 |
+| EQ | 1.29 | -2.27% | 8.56 | +563.22% | $101.1M | $68.0M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
+| GPCR | 20.00 | +0.81% | 104.86 | +424.29% | $1.43B | -$83.8M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.52 | -0.65% | 6.00 | +294.74% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 7.84 | -2.85% | 23.80 | +203.57% | $650.0M | $541.5M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.18 | +4.44% | 27.75 | +202.29% | $881.7M | $710.8M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 328.13 | +1.04% | 674.25 | +105.48% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PT 661.75→674.25 |
+| PRAX | 328.13 | +1.04% | 674.25 | +105.48% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.71 | -1.25% | 39.67 | +355.42% | $260.6M | $220.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 23.81 | -3.33% | 59.44 | +149.65% | $1.67B | $1.49B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.01 | -0.46% | 26.40 | +102.92% | $672.9M | $367.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
@@ -21,7 +21,7 @@
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.29 (-2.27%) | PR 0 / SEC 1 | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.29 (-2.27%) | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
@@ -50,7 +50,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1746466/000101143826000692/0001011438-26-000692-index.htm)
+- (신규 없음)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -58,7 +58,7 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 20.00 (+0.81%) | ⚠️ PT 105.50→104.86 | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 20.00 (+0.81%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
@@ -208,7 +208,7 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 328.13 (+1.04%) | ⚠️ PT 661.75→674.25 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 328.13 (+1.04%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics

@@ -1,19 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-14 12:00:52 KST",
-    "generated_at_utc": "2026-11-14T03:01:08.307332+00:00",
+    "generated_at_local": "2026-11-14 12:26:40 KST",
+    "generated_at_utc": "2026-11-14T03:26:56.414257+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 1,
-    "alert_tickers": [
-      "GPCR",
-      "PRAX"
-    ],
-    "overall_judgement": "행동 고려"
+    "total_new_sec": 0,
+    "alert_tickers": [],
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -28,7 +25,7 @@
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -44,7 +41,7 @@
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 105.50→104.86"
+      "alert": "-"
     },
     {
       "ticker": "IKT",
@@ -104,7 +101,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 661.75→674.25"
+      "alert": "-"
     },
     {
       "ticker": "QTTB",
@@ -212,16 +209,9 @@
       "runway_months": 15.2,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000101143826000692/0001011438-26-000692-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -267,9 +257,7 @@
       "enterprise_value": -83802880.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
-      "alerts": [
-        "PT 105.50→104.86"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -469,9 +457,7 @@
       "enterprise_value": 7621742720.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [
-        "PT 661.75→674.25"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
