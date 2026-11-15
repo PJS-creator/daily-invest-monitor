@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-15 06:00:49 KST",
-    "generated_at_utc": "2026-11-14T21:01:10.366981+00:00",
+    "generated_at_local": "2026-11-15 11:56:34 KST",
+    "generated_at_utc": "2026-11-15T02:56:52.681576+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,10 +9,8 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [
-      "IKT"
-    ],
-    "overall_judgement": "행동 고려"
+    "alert_tickers": [],
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -58,7 +56,7 @@
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 6.00→5.55"
+      "alert": "-"
     },
     {
       "ticker": "IMMX",
@@ -154,8 +152,8 @@
       "ticker": "CGEM",
       "close": 10.279999732971191,
       "pct": 0.8832203758001089,
-      "pt": 34.7,
-      "pt_upside": 237.54864690031258,
+      "pt": 34.27273,
+      "pt_upside": 233.39232383515133,
       "mktcap": "$667.4M",
       "ev": "$228.4M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
@@ -309,9 +307,7 @@
       "enterprise_value": 53109840.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
-      "alerts": [
-        "PT 6.00→5.55"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -548,7 +544,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -679,14 +676,14 @@
         "CLN-978 / CLN-049 업데이트"
       ],
       "price_target": {
-        "mean": 34.7,
+        "mean": 34.27273,
         "low": 27.0,
         "high": 44.0,
         "median": 35.0,
-        "analyst_count": 10,
+        "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 237.54864690031258
+        "upside_pct": 233.39232383515133
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",

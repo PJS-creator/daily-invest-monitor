@@ -1,20 +1,20 @@
-## Daily Report (2026-11-15 06:00:49 KST)
+## Daily Report (2026-11-15 11:56:34 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** IKT
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
 | EQ | 1.29 | -2.27% | 8.56 | +563.22% | $106.2M | $73.1M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 20.00 | +0.81% | 104.86 | +424.29% | $1.43B | -$78.2M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
-| IKT | 1.52 | -0.65% | 5.55 | +265.13% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | PT 6.00→5.55 |
+| IKT | 1.52 | -0.65% | 5.55 | +265.13% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 7.84 | -2.85% | 23.80 | +203.57% | $657.1M | $548.6M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.18 | +4.44% | 27.75 | +202.29% | $897.2M | $726.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 328.13 | +1.04% | 674.25 | +105.48% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.71 | -1.25% | 39.67 | +355.42% | $260.6M | $220.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 23.81 | -3.33% | 59.44 | +149.65% | $1.67B | $1.49B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.01 | -0.46% | 26.40 | +102.92% | $672.9M | $367.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
-| CGEM | 10.28 | +0.88% | 34.70 | +237.55% | $667.4M | $228.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
+| CGEM | 10.28 | +0.88% | 34.27 | +233.39% | $667.4M | $228.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 9.01 | -1.21% | 23.31 | +158.74% | $1.28B | $1.02B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
 | CRNX | - | - | 85.00 | - | $9.01B | $7.66B | $1.35B (2025-09-30) | 43.0m | 2026: PALSONIFY quarterly sales / net product revenue updates | 0 | 0 | - |
 
@@ -95,7 +95,7 @@
 
 </details>
 <details>
-<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.52 (-0.65%) | ⚠️ PT 6.00→5.55 | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
+<summary><strong>IKT — Inhibikase Therapeutics</strong> — Close 1.52 (-0.65%) | Next: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed</summary>
 
 
 #### Key Metrics
@@ -280,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -368,8 +369,8 @@
 - **Volume**: `1,376,900` (≈ `1.42x` avg)
 - **Market Cap**: $667.4M
 - **EV**: $228.4M (calc; net cash as-of (net cash as of latest filings))
-- **Price Target (consensus)**: mean `34.70` (low `27.00` / high `44.00`; n=10)
-  - Upside to PT (mean): `+237.5%`
+- **Price Target (consensus)**: mean `34.27` (low `27.00` / high `44.00`; n=11)
+  - Upside to PT (mean): `+233.4%`
 - **Net Cash (anchor)**: $439.0M (as-of (net cash as of latest filings))
 - **Burn (anchor)**: ~$36.5M / quarter
 - **Buyout/SOTP (anchor)**: Bear `8.6` / Base `17.9` / Bull `45.9` (USD/share)
