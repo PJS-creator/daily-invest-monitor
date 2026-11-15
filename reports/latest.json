@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-16 00:00:52 KST",
-    "generated_at_utc": "2026-11-15T15:03:05.581628+00:00",
+    "generated_at_local": "2026-11-16 02:53:49 KST",
+    "generated_at_utc": "2026-11-15T17:56:27.298806+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,10 +9,8 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [
-      "PRAX"
-    ],
-    "overall_judgement": "행동 고려"
+    "alert_tickers": [],
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -47,10 +45,10 @@
     },
     {
       "ticker": "IKT",
-      "close": 1.5199999809265137,
-      "pct": -0.653594160147164,
+      "close": null,
+      "pct": null,
       "pt": 5.55,
-      "pt_upside": 265.131583529166,
+      "pt_upside": null,
       "mktcap": "$213.2M",
       "ev": "$53.1M",
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
@@ -103,7 +101,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 674.25→683.42"
+      "alert": "-"
     },
     {
       "ticker": "QTTB",
@@ -300,11 +298,11 @@
     {
       "ticker": "IKT",
       "name": "Inhibikase Therapeutics",
-      "close": 1.5199999809265137,
-      "pct": -0.653594160147164,
-      "volume": 333100.0,
-      "volume_x": 0.583313486782197,
-      "last_price_date": "2026-11-13",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 213209840,
       "enterprise_value": 53109840.0,
       "net_cash_m": 160.1,
@@ -324,7 +322,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.33333,
-        "upside_pct": 265.131583529166
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "2025-09-30 + Nov-2025 offering (pro forma est.)",
@@ -340,7 +338,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -459,9 +457,7 @@
       "enterprise_value": 7621742720.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [
-        "PT 674.25→683.42"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
