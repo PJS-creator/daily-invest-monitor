@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-15 18:00:51 KST",
-    "generated_at_utc": "2026-11-15T09:01:07.189334+00:00",
+    "generated_at_local": "2026-11-16 00:00:52 KST",
+    "generated_at_utc": "2026-11-15T15:03:05.581628+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,8 +9,10 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [],
-    "overall_judgement": "감시만"
+    "alert_tickers": [
+      "PRAX"
+    ],
+    "overall_judgement": "행동 고려"
   },
   "dashboard": [
     {
@@ -92,8 +94,8 @@
       "ticker": "PRAX",
       "close": 328.1300048828125,
       "pct": 1.0376878358944408,
-      "pt": 674.25,
-      "pt_upside": 105.48258006481302,
+      "pt": 683.421,
+      "pt_upside": 108.27750886240204,
       "mktcap": "$9.17B",
       "ev": "$7.62B",
       "net_cash": "$1.55B ((pro forma))",
@@ -101,7 +103,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 674.25→683.42"
     },
     {
       "ticker": "QTTB",
@@ -457,7 +459,9 @@
       "enterprise_value": 7621742720.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [],
+      "alerts": [
+        "PT 674.25→683.42"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -467,14 +471,14 @@
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
       ],
       "price_target": {
-        "mean": 674.25,
+        "mean": 683.421,
         "low": 189.0,
         "high": 1201.0,
-        "median": 604.5,
-        "analyst_count": 20,
+        "median": 616.0,
+        "analyst_count": 19,
         "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.47368,
-        "upside_pct": 105.48258006481302
+        "recommendation_mean": 1.5,
+        "upside_pct": 108.27750886240204
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -544,8 +548,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }

@@ -1,6 +1,6 @@
-## Daily Report (2026-11-15 18:00:51 KST)
+## Daily Report (2026-11-16 00:00:52 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** PRAX
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -10,7 +10,7 @@
 | IKT | 1.52 | -0.65% | 5.55 | +265.13% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 7.84 | -2.85% | 23.80 | +203.57% | $657.1M | $548.6M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.18 | +4.44% | 27.75 | +202.29% | $897.2M | $726.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 328.13 | +1.04% | 674.25 | +105.48% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
+| PRAX | 328.13 | +1.04% | 683.42 | +108.28% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PT 674.25→683.42 |
 | QTTB | 8.71 | -1.25% | 39.67 | +355.42% | $260.6M | $220.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 23.81 | -3.33% | 59.44 | +149.65% | $1.67B | $1.49B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.01 | -0.46% | 26.40 | +102.92% | $672.9M | $367.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
@@ -208,7 +208,7 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 328.13 (+1.04%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 328.13 (+1.04%) | ⚠️ PT 674.25→683.42 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
@@ -216,8 +216,8 @@
 - **Volume**: `350,900` (≈ `0.76x` avg)
 - **Market Cap**: $9.17B
 - **EV**: $7.62B (calc; net cash as-of (pro forma))
-- **Price Target (consensus)**: mean `674.25` (low `189.00` / high `1201.00`; n=20)
-  - Upside to PT (mean): `+105.5%`
+- **Price Target (consensus)**: mean `683.42` (low `189.00` / high `1201.00`; n=19)
+  - Upside to PT (mean): `+108.3%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
@@ -266,7 +266,7 @@
 | When | D-day | Event | Importance |
 |---|---:|---|---:|
 | mid-2026 | - | SIGNAL-AA Part B topline (W36, open-label) | 9 |
-| 2026-05-28 | D+171 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
+| 2026-05-28 | D+172 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
 | 2026 H2 | - | SIGNAL-AA Part A OLE / durability update (conference season, est.) | 6 |
 
 #### Today’s Checklist
@@ -280,7 +280,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>

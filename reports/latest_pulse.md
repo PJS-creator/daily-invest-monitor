@@ -1,13 +1,15 @@
-# Pulse Input (2026-11-15 18:00:51 KST)
+# Pulse Input (2026-11-16 00:00:52 KST)
 
-- 전체 판단: **감시만**
-- 요약: PR 0건 / SEC 0건 / Alert -
+- 전체 판단: **행동 고려**
+- 요약: PR 0건 / SEC 0건 / Alert PRAX
 
 ## Must Watch
-- 오늘은 즉시 대응할 내용 없음
+- **PRAX** (Praxis Precision Medicines) — PT 674.25→683.42 | 주가 +1.04%
+  - 다음 촉매: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline
+  - 체크포인트: vormatrigine / elsunersen 등 주요 마일스톤 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
