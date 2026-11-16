@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-16 11:56:24 KST",
-    "generated_at_utc": "2026-11-16T02:56:57.122703+00:00",
+    "generated_at_local": "2026-11-16 12:00:50 KST",
+    "generated_at_utc": "2026-11-16T03:01:05.859968+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 23.809999465942383,
       "pct": -3.3292721184108087,
-      "pt": 59.42113,
-      "pt_upside": 149.56376032261346,
+      "pt": 59.41458,
+      "pt_upside": 149.53625087218546,
       "mktcap": "$1.67B",
       "ev": "$1.49B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -544,7 +544,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
@@ -571,14 +572,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.42113,
-        "low": 27.506338,
-        "high": 93.324875,
-        "median": 59.92393,
+        "mean": 59.41458,
+        "low": 27.503307,
+        "high": 93.31459,
+        "median": 59.917328,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 149.56376032261346
+        "upside_pct": 149.53625087218546
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -752,8 +753,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/CMPS -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
