@@ -1,4 +1,4 @@
-## Daily Report (2026-11-16 06:00:50 KST)
+## Daily Report (2026-11-16 11:56:24 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -8,11 +8,11 @@
 | EQ | 1.29 | -2.27% | 8.56 | +563.22% | $106.2M | $73.1M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 20.00 | +0.81% | 104.86 | +424.29% | $1.43B | -$78.2M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.52 | -0.65% | 5.55 | +265.13% | $213.2M | $53.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | - | - | 23.80 | - | $657.1M | $548.6M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| IMMX | 7.84 | -2.85% | 23.80 | +203.57% | $657.1M | $548.6M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 9.18 | +4.44% | 27.75 | +202.29% | $897.2M | $726.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 328.13 | +1.04% | 683.42 | +108.28% | $9.17B | $7.62B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.71 | -1.25% | 39.67 | +355.42% | $260.6M | $220.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 23.81 | -3.33% | 59.46 | +149.73% | $1.67B | $1.49B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 23.81 | -3.33% | 59.42 | +149.56% | $1.67B | $1.49B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 13.01 | -0.46% | 26.40 | +102.92% | $672.9M | $367.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 10.28 | +0.88% | 34.27 | +233.39% | $667.4M | $228.4M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 9.01 | -1.21% | 23.31 | +158.74% | $1.28B | $1.02B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -132,18 +132,21 @@
 
 </details>
 <details>
-<summary><strong>IMMX — Immix Biopharma</strong> — Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
+<summary><strong>IMMX — Immix Biopharma</strong> — Close 7.84 (-2.85%) | Next: 2026 H1~H2: NEXICART-2 enrollment maturity / data updates</summary>
 
 
 #### Key Metrics
-- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
+- **Close (2026-11-13)**: `7.84` (-2.85%)
+- **Volume**: `1,027,800` (≈ `0.69x` avg)
 - **Market Cap**: $657.1M
 - **EV**: $548.6M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `23.80` (low `17.40` / high `30.00`; n=8)
+  - Upside to PT (mean): `+203.6%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months
 - **Buyout/SOTP (anchor)**: Bear `8.82` / Base `32.69` / Bull `67.43` (USD/share)
+  - Upside to Base (simple): `+317.0%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -289,8 +292,8 @@
 - **Volume**: `1,394,500` (≈ `0.63x` avg)
 - **Market Cap**: $1.67B
 - **EV**: $1.49B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.46` (low `27.52` / high `93.39`; n=11)
-  - Upside to PT (mean): `+149.7%`
+- **Price Target (consensus)**: mean `59.42` (low `27.51` / high `93.32`; n=11)
+  - Upside to PT (mean): `+149.6%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -428,6 +431,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/CMPS -> HTTP 429
 </details>
 
 </details>

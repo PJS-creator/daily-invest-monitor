@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-16 06:00:50 KST",
-    "generated_at_utc": "2026-11-15T21:01:47.557283+00:00",
+    "generated_at_local": "2026-11-16 11:56:24 KST",
+    "generated_at_utc": "2026-11-16T02:56:57.122703+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -60,10 +60,10 @@
     },
     {
       "ticker": "IMMX",
-      "close": null,
-      "pct": null,
+      "close": 7.840000152587891,
+      "pct": -2.8500563932343237,
       "pt": 23.8,
-      "pt_upside": null,
+      "pt_upside": 203.57142266309657,
       "mktcap": "$657.1M",
       "ev": "$548.6M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 23.809999465942383,
       "pct": -3.3292721184108087,
-      "pt": 59.46046,
-      "pt_upside": 149.72894302266457,
+      "pt": 59.42113,
+      "pt_upside": 149.56376032261346,
       "mktcap": "$1.67B",
       "ev": "$1.49B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -348,11 +348,11 @@
     {
       "ticker": "IMMX",
       "name": "Immix Biopharma",
-      "close": null,
-      "pct": null,
-      "volume": null,
-      "volume_x": null,
-      "last_price_date": null,
+      "close": 7.840000152587891,
+      "pct": -2.8500563932343237,
+      "volume": 1027800.0,
+      "volume_x": 0.6938467177971885,
+      "last_price_date": "2026-11-13",
       "market_cap": 657089664,
       "enterprise_value": 548589664.0,
       "net_cash_m": 108.5,
@@ -372,7 +372,7 @@
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": null
+        "upside_pct": 203.57142266309657
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -388,7 +388,7 @@
         }
       },
       "errors": {
-        "price_error": "Not enough price rows (need >= 2 trading days).",
+        "price_error": null,
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -571,14 +571,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.46046,
-        "low": 27.524544,
-        "high": 93.38665,
-        "median": 59.963593,
+        "mean": 59.42113,
+        "low": 27.506338,
+        "high": 93.324875,
+        "median": 59.92393,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 149.72894302266457
+        "upside_pct": 149.56376032261346
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -752,7 +752,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/CMPS -> HTTP 429"
         ],
         "sec_error": null
       }
