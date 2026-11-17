@@ -1,17 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-17 12:00:58 KST",
-    "generated_at_utc": "2026-11-17T03:01:15.211082+00:00",
+    "generated_at_local": "2026-11-17 14:10:22 KST",
+    "generated_at_utc": "2026-11-17T05:10:39.940976+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 8,
+    "total_new_sec": 0,
     "alert_tickers": [
       "EQ",
-      "PRAX",
       "QURE",
       "AVBP",
       "CMPS"
@@ -31,7 +30,7 @@
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "PRICE -10.9%"
     },
     {
@@ -46,7 +45,7 @@
       "runway": "-",
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -68,8 +67,8 @@
       "ticker": "IMMX",
       "close": 7.480000019073486,
       "pct": -4.591838348313971,
-      "pt": 23.8,
-      "pt_upside": 218.1818173704764,
+      "pt": 24.05,
+      "pt_upside": 221.52406335125875,
       "mktcap": "$626.9M",
       "ev": "$518.4M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
@@ -91,7 +90,7 @@
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -106,8 +105,8 @@
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
-      "new_sec": 1,
-      "alert": "PT 676.95→666.57"
+      "new_sec": 0,
+      "alert": "-"
     },
     {
       "ticker": "QTTB",
@@ -121,15 +120,15 @@
       "runway": "13.2m",
       "next": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
       "new_pr": 0,
-      "new_sec": 4,
+      "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "QURE",
       "close": 21.8799991607666,
       "pct": -8.105839346768729,
-      "pt": 59.571476,
-      "pt_upside": 172.26452598233467,
+      "pt": 59.591152,
+      "pt_upside": 172.35445285964138,
       "mktcap": "$1.53B",
       "ev": "$1.36B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -143,8 +142,8 @@
       "ticker": "AVBP",
       "close": 11.5600004196167,
       "pct": -11.145271204885743,
-      "pt": 26.4,
-      "pt_upside": 128.3736941324035,
+      "pt": 26.2,
+      "pt_upside": 126.64359038897616,
       "mktcap": "$597.9M",
       "ev": "$292.5M",
       "net_cash": "$305.4M (2025-09-30)",
@@ -217,16 +216,9 @@
         "PRICE -10.9%"
       ],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1746466/000134682426000279/0001346824-26-000279-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -274,16 +266,9 @@
       "runway_months": null,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000090221926000324/0000902219-26-000324-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
       "price_target": {
@@ -387,14 +372,14 @@
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
-        "mean": 23.8,
+        "mean": 24.05,
         "low": 17.4,
         "high": 30.0,
         "median": 23.0,
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 218.1818173704764
+        "upside_pct": 221.52406335125875
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -431,16 +416,9 @@
       "runway_months": 21.4,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000110465926128331/0001104659-26-128331-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "checklist": [],
       "price_target": {
@@ -486,20 +464,11 @@
       "enterprise_value": 7122527360.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [
-        "PT 676.95→666.57"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000094059426000076/0000940594-26-000076-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -549,34 +518,9 @@
       "runway_months": 13.2,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 4,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000134682426000293/0001346824-26-000293-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000092189526003187/0000921895-26-003187-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000008025526000704/0000080255-26-000704-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
-          "url": "https://www.sec.gov/Archives/edgar/data/1661998/000091957426007950/0000919574-26-007950-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
       "checklist": [
         "SIGNAL-AA Phase 2 업데이트"
@@ -637,14 +581,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.571476,
-        "low": 27.460932,
-        "high": 93.170815,
-        "median": 59.82501,
+        "mean": 59.591152,
+        "low": 27.47,
+        "high": 93.201584,
+        "median": 59.844765,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 172.26452598233467
+        "upside_pct": 172.35445285964138
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -691,14 +635,14 @@
         "FURVENT / ALPACCA 관련 업데이트"
       ],
       "price_target": {
-        "mean": 26.4,
+        "mean": 26.2,
         "low": 22.0,
-        "high": 30.0,
+        "high": 29.0,
         "median": 27.0,
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 128.3736941324035
+        "upside_pct": 126.64359038897616
       },
       "anchors": {
         "as_of": "2025-09-30",
