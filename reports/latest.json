@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-17 14:10:22 KST",
-    "generated_at_utc": "2026-11-17T05:10:39.940976+00:00",
+    "generated_at_local": "2026-11-17 18:00:46 KST",
+    "generated_at_utc": "2026-11-17T09:01:01.180925+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -110,10 +110,10 @@
     },
     {
       "ticker": "QTTB",
-      "close": 8.289999961853027,
-      "pct": -4.8220444828298685,
+      "close": null,
+      "pct": null,
       "pt": 39.66667,
-      "pt_upside": 378.48818073014183,
+      "pt_upside": null,
       "mktcap": "$248.1M",
       "ev": "$207.9M",
       "net_cash": "$40.2M ((pro forma est.))",
@@ -127,8 +127,8 @@
       "ticker": "QURE",
       "close": 21.8799991607666,
       "pct": -8.105839346768729,
-      "pt": 59.591152,
-      "pt_upside": 172.35445285964138,
+      "pt": 59.55836,
+      "pt_upside": 172.2045808246424,
       "mktcap": "$1.53B",
       "ev": "$1.36B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -507,11 +507,11 @@
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "close": 8.289999961853027,
-      "pct": -4.8220444828298685,
-      "volume": 344100.0,
-      "volume_x": 0.501340404452474,
-      "last_price_date": "2026-11-16",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 248068976,
       "enterprise_value": 207868976.0,
       "net_cash_m": 40.2,
@@ -533,7 +533,7 @@
         "analyst_count": 6,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.14286,
-        "upside_pct": 378.48818073014183
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "(pro forma est.)",
@@ -549,7 +549,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
           "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
@@ -581,14 +581,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.591152,
-        "low": 27.47,
-        "high": 93.201584,
-        "median": 59.844765,
+        "mean": 59.55836,
+        "low": 27.454884,
+        "high": 93.1503,
+        "median": 59.811836,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 172.35445285964138
+        "upside_pct": 172.2045808246424
       },
       "anchors": {
         "as_of": "2025-09-30",

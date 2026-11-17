@@ -1,4 +1,4 @@
-## Daily Report (2026-11-17 14:10:22 KST)
+## Daily Report (2026-11-17 18:00:46 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, QURE, AVBP, CMPS
 
@@ -11,8 +11,8 @@
 | IMMX | 7.48 | -4.59% | 24.05 | +221.52% | $626.9M | $518.4M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 8.74 | -4.79% | 27.75 | +217.51% | $854.2M | $683.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 310.27 | -5.44% | 666.57 | +114.84% | $8.67B | $7.12B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
-| QTTB | 8.29 | -4.82% | 39.67 | +378.49% | $248.1M | $207.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 21.88 | -8.11% | 59.59 | +172.35% | $1.53B | $1.36B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE -8.1% |
+| QTTB | - | - | 39.67 | - | $248.1M | $207.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
+| QURE | 21.88 | -8.11% | 59.56 | +172.20% | $1.53B | $1.36B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE -8.1% |
 | AVBP | 11.56 | -11.15% | 26.20 | +126.64% | $597.9M | $292.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -11.1% |
 | CGEM | 9.50 | -7.59% | 34.70 | +265.26% | $616.7M | $177.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.27 | -8.21% | 23.31 | +181.89% | $1.17B | $912.9M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE -8.2% |
@@ -246,21 +246,18 @@
 
 </details>
 <details>
-<summary><strong>QTTB — Q32 Bio</strong> — Close 8.29 (-4.82%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
+<summary><strong>QTTB — Q32 Bio</strong> — Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
 
 
 #### Key Metrics
-- **Close (2026-11-16)**: `8.29` (-4.82%)
-- **Volume**: `344,100` (≈ `0.50x` avg)
+- ⚠️ **가격 데이터 오류:** Not enough price rows (need >= 2 trading days).
 - **Market Cap**: $248.1M
 - **EV**: $207.9M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
-  - Upside to PT (mean): `+378.5%`
 - **Net Cash (anchor)**: $40.2M (as-of (pro forma est.))
 - **Burn (anchor)**: ~$3.0M / month
 - **Runway (anchor)**: ~13.2 months
 - **Buyout/SOTP (anchor)**: Bear `4.26` / Base `11.96` / Bull `42.84` (USD/share)
-  - Upside to Base (simple): `+44.3%`
 
 #### Catalyst Calendar
 | When | D-day | Event | Importance |
@@ -293,8 +290,8 @@
 - **Volume**: `1,010,200` (≈ `0.45x` avg)
 - **Market Cap**: $1.53B
 - **EV**: $1.36B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.59` (low `27.47` / high `93.20`; n=11)
-  - Upside to PT (mean): `+172.4%`
+- **Price Target (consensus)**: mean `59.56` (low `27.45` / high `93.15`; n=11)
+  - Upside to PT (mean): `+172.2%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
