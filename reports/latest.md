@@ -1,18 +1,18 @@
-## Daily Report (2026-11-17 06:08:08 KST)
+## Daily Report (2026-11-17 12:00:58 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ, QURE, AVBP, CMPS
+**Summary:** 0 new PR / 8 new SEC | **Alerts:** EQ, PRAX, QURE, AVBP, CMPS
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---|
-| EQ | 1.15 | -10.85% | 8.56 | +643.96% | $94.7M | $61.6M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | PRICE -10.9% |
-| GPCR | 18.57 | -7.15% | 104.86 | +464.66% | $1.33B | -$180.6M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
+| EQ | 1.15 | -10.85% | 8.56 | +643.96% | $94.7M | $61.6M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 1 | PRICE -10.9% |
+| GPCR | 18.57 | -7.15% | 104.86 | +464.66% | $1.33B | -$180.6M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 1 | - |
 | IKT | 1.45 | -4.61% | 5.55 | +282.76% | $203.4M | $43.3M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 7.48 | -4.59% | 23.80 | +218.18% | $626.9M | $518.4M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
-| MGTX | 8.74 | -4.79% | 27.75 | +217.51% | $854.2M | $683.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 310.27 | -5.44% | 676.95 | +118.18% | $8.67B | $7.12B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
-| QTTB | 8.29 | -4.82% | 39.67 | +378.49% | $248.1M | $207.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 21.88 | -8.11% | 59.45 | +171.71% | $1.53B | $1.36B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE -8.1% |
+| MGTX | 8.74 | -4.79% | 27.75 | +217.51% | $854.2M | $683.3M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 1 | - |
+| PRAX | 310.27 | -5.44% | 666.57 | +114.84% | $8.67B | $7.12B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 1 | PT 676.95→666.57 |
+| QTTB | 8.29 | -4.82% | 39.67 | +378.49% | $248.1M | $207.9M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 4 | - |
+| QURE | 21.88 | -8.11% | 59.57 | +172.26% | $1.53B | $1.36B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | PRICE -8.1% |
 | AVBP | 11.56 | -11.15% | 26.40 | +128.37% | $597.9M | $292.5M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE -11.1% |
 | CGEM | 9.50 | -7.59% | 34.70 | +265.26% | $616.7M | $177.7M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.27 | -8.21% | 23.31 | +181.89% | $1.17B | $912.9M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | PRICE -8.2% |
@@ -21,12 +21,12 @@
 ### Details
 
 <details>
-<summary><strong>EQ — Equillium</strong> — Close 1.15 (-10.85%) | ⚠️ PRICE -10.9% | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
+<summary><strong>EQ — Equillium</strong> — Close 1.15 (-10.85%) | ⚠️ PRICE -10.9% | PR 0 / SEC 1 | Next: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-16)**: `1.15` (-10.85%)
-- **Volume**: `570,492` (≈ `1.09x` avg)
+- **Volume**: `570,700` (≈ `1.09x` avg)
 - **Market Cap**: $94.7M
 - **EV**: $61.6M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `8.56` (low `4.00` / high `20.00`; n=9)
@@ -50,7 +50,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1746466/000134682426000279/0001346824-26-000279-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -58,12 +58,12 @@
 
 </details>
 <details>
-<summary><strong>GPCR — Structure Therapeutics</strong> — Close 18.57 (-7.15%) | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
+<summary><strong>GPCR — Structure Therapeutics</strong> — Close 18.57 (-7.15%) | PR 0 / SEC 1 | Next: 2026 Q1: ACCESS II 44-week results (company guidance)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-16)**: `18.57` (-7.15%)
-- **Volume**: `754,483` (≈ `0.64x` avg)
+- **Volume**: `762,600` (≈ `0.65x` avg)
 - **Market Cap**: $1.33B
 - **EV**: -$180.6M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `104.86` (low `70.00` / high `145.00`; n=14)
@@ -87,7 +87,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1888886/000090221926000324/0000902219-26-000324-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-11-16)**: `1.45` (-4.61%)
-- **Volume**: `471,153` (≈ `0.83x` avg)
+- **Volume**: `475,600` (≈ `0.83x` avg)
 - **Market Cap**: $203.4M
 - **EV**: $43.3M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -137,7 +137,7 @@
 
 #### Key Metrics
 - **Close (2026-11-16)**: `7.48` (-4.59%)
-- **Volume**: `990,837` (≈ `0.67x` avg)
+- **Volume**: `1,004,600` (≈ `0.68x` avg)
 - **Market Cap**: $626.9M
 - **EV**: $518.4M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Price Target (consensus)**: mean `23.80` (low `17.40` / high `30.00`; n=8)
@@ -170,12 +170,12 @@
 
 </details>
 <details>
-<summary><strong>MGTX — MeiraGTx</strong> — Close 8.74 (-4.79%) | Next: 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates</summary>
+<summary><strong>MGTX — MeiraGTx</strong> — Close 8.74 (-4.79%) | PR 0 / SEC 1 | Next: 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-16)**: `8.74` (-4.79%)
-- **Volume**: `693,723` (≈ `0.83x` avg)
+- **Volume**: `706,100` (≈ `0.84x` avg)
 - **Market Cap**: $854.2M
 - **EV**: $683.3M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -200,7 +200,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1735438/000110465926128331/0001104659-26-128331-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -208,16 +208,16 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 310.27 (-5.44%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 310.27 (-5.44%) | ⚠️ PT 676.95→666.57 | PR 0 / SEC 1 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-16)**: `310.27` (-5.44%)
-- **Volume**: `635,630` (≈ `1.38x` avg)
+- **Volume**: `665,800` (≈ `1.44x` avg)
 - **Market Cap**: $8.67B
 - **EV**: $7.12B (calc; net cash as-of (pro forma))
-- **Price Target (consensus)**: mean `676.95` (low `189.00` / high `1201.00`; n=20)
-  - Upside to PT (mean): `+118.2%`
+- **Price Target (consensus)**: mean `666.57` (low `189.00` / high `1201.00`; n=21)
+  - Upside to PT (mean): `+114.8%`
 - **Net Cash (anchor)**: $1.55B (as-of (pro forma))
 - **Burn (anchor)**: ~$600M / year
 - **Runway (anchor)**: ~31.0 months
@@ -238,7 +238,7 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1689548/000094059426000076/0000940594-26-000076-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10 -> GlobeNewswire fetch failed: 403
@@ -246,12 +246,12 @@
 
 </details>
 <details>
-<summary><strong>QTTB — Q32 Bio</strong> — Close 8.29 (-4.82%) | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
+<summary><strong>QTTB — Q32 Bio</strong> — Close 8.29 (-4.82%) | PR 0 / SEC 4 | Next: mid-2026: SIGNAL-AA Part B topline (W36, open-label)</summary>
 
 
 #### Key Metrics
 - **Close (2026-11-16)**: `8.29` (-4.82%)
-- **Volume**: `341,283` (≈ `0.50x` avg)
+- **Volume**: `344,100` (≈ `0.50x` avg)
 - **Market Cap**: $248.1M
 - **EV**: $207.9M (calc; net cash as-of (pro forma est.))
 - **Price Target (consensus)**: mean `39.67` (low `29.00` / high `59.00`; n=6)
@@ -276,10 +276,14 @@
 - (신규 없음)
 
 #### New SEC Filings (EDGAR)
-- (신규 없음)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000134682426000293/0001346824-26-000293-index.htm)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000092189526003187/0000921895-26-003187-index.htm)
+- [SCHEDULE 13G  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000008025526000704/0000080255-26-000704-index.htm)
+- [SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors](https://www.sec.gov/Archives/edgar/data/1661998/000091957426007950/0000919574-26-007950-index.htm)
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -289,11 +293,11 @@
 
 #### Key Metrics
 - **Close (2026-11-16)**: `21.88` (-8.11%)
-- **Volume**: `979,974` (≈ `0.44x` avg)
+- **Volume**: `1,010,200` (≈ `0.45x` avg)
 - **Market Cap**: $1.53B
 - **EV**: $1.36B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `59.45` (low `27.44` / high `93.11`; n=11)
-  - Upside to PT (mean): `+171.7%`
+- **Price Target (consensus)**: mean `59.57` (low `27.46` / high `93.17`; n=11)
+  - Upside to PT (mean): `+172.3%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -327,7 +331,7 @@
 
 #### Key Metrics
 - **Close (2026-11-16)**: `11.56` (-11.15%)
-- **Volume**: `639,845` (≈ `0.49x` avg)
+- **Volume**: `644,200` (≈ `0.49x` avg)
 - **Market Cap**: $597.9M
 - **EV**: $292.5M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `26.40` (low `22.00` / high `30.00`; n=10)
@@ -365,7 +369,7 @@
 
 #### Key Metrics
 - **Close (2026-11-16)**: `9.50` (-7.59%)
-- **Volume**: `839,526` (≈ `0.87x` avg)
+- **Volume**: `866,700` (≈ `0.89x` avg)
 - **Market Cap**: $616.7M
 - **EV**: $177.7M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.70` (low `27.00` / high `44.00`; n=10)
@@ -402,7 +406,7 @@
 
 #### Key Metrics
 - **Close (2026-11-16)**: `8.27` (-8.21%)
-- **Volume**: `3,235,831` (≈ `1.08x` avg)
+- **Volume**: `3,277,100` (≈ `1.09x` avg)
 - **Market Cap**: $1.17B
 - **EV**: $912.9M (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.31` (low `10.00` / high `65.00`; n=16)
