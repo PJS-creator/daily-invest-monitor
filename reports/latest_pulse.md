@@ -1,15 +1,14 @@
-# Pulse Input (2026-11-19 04:27:50 KST)
+# Pulse Input (2026-11-19 06:00:53 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert QURE
+- 요약: PR 0건 / SEC 0건 / Alert EQ
 
 ## Must Watch
-- **QURE** (uniQure) — PT 59.44→58.16 | 주가 +0.00%
-  - 다음 촉매: 2026 H1: AMT-130 FDA Type A meeting outcome / minutes
-  - 체크포인트: AMT-130 / AMT-191 / AMT-260 업데이트
+- **EQ** (Equillium) — PRICE -9.1% | 주가 -9.09%
+  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, PRAX, QTTB, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
