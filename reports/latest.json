@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-18 12:00:56 KST",
-    "generated_at_utc": "2026-11-18T03:01:28.751196+00:00",
+    "generated_at_local": "2026-11-18 13:38:21 KST",
+    "generated_at_utc": "2026-11-18T04:38:37.410155+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 2,
+    "total_new_sec": 0,
     "alert_tickers": [],
-    "overall_judgement": "추가 확인 필요"
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -85,7 +85,7 @@
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "new_pr": 0,
-      "new_sec": 2,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -409,22 +409,9 @@
       "runway_months": 21.4,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 2,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000167860426000024/0001678604-26-000024-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "144  - Report of proposed sale of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000167860426000023/0001678604-26-000023-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "checklist": [],
       "price_target": {
@@ -557,7 +544,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
