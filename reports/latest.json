@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-18 13:38:21 KST",
-    "generated_at_utc": "2026-11-18T04:38:37.410155+00:00",
+    "generated_at_local": "2026-11-18 18:01:03 KST",
+    "generated_at_utc": "2026-11-18T09:01:19.200633+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -15,10 +15,10 @@
   "dashboard": [
     {
       "ticker": "EQ",
-      "close": 1.2100000381469727,
-      "pct": 5.217396802848251,
+      "close": null,
+      "pct": null,
       "pt": 8.55556,
-      "pt_upside": 607.0710520887437,
+      "pt_upside": null,
       "mktcap": "$99.6M",
       "ev": "$66.5M",
       "net_cash": "$33.1M (2025-09-30)",
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 20.780000686645508,
       "pct": -5.027415522453582,
-      "pt": 59.509388,
-      "pt_upside": 186.37818110489454,
+      "pt": 59.365833,
+      "pt_upside": 185.68734859644204,
       "mktcap": "$1.46B",
       "ev": "$1.28B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -198,11 +198,11 @@
     {
       "ticker": "EQ",
       "name": "Equillium",
-      "close": 1.2100000381469727,
-      "pct": 5.217396802848251,
-      "volume": 619600.0,
-      "volume_x": 1.1689242727238427,
-      "last_price_date": "2026-11-17",
+      "close": null,
+      "pct": null,
+      "volume": null,
+      "volume_x": null,
+      "last_price_date": null,
       "market_cap": 99612896,
       "enterprise_value": 66512896.0,
       "net_cash_m": 33.1,
@@ -222,7 +222,7 @@
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.11111,
-        "upside_pct": 607.0710520887437
+        "upside_pct": null
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -238,7 +238,7 @@
         }
       },
       "errors": {
-        "price_error": null,
+        "price_error": "Not enough price rows (need >= 2 trading days).",
         "press_errors": [
           "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
@@ -572,14 +572,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.509388,
-        "low": 27.42471,
-        "high": 93.04792,
-        "median": 59.746098,
+        "mean": 59.365833,
+        "low": 27.358553,
+        "high": 92.82346,
+        "median": 59.60197,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 186.37818110489454
+        "upside_pct": 185.68734859644204
       },
       "anchors": {
         "as_of": "2025-09-30",
