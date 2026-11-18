@@ -1,18 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-18 06:00:52 KST",
-    "generated_at_utc": "2026-11-17T21:02:42.771009+00:00",
+    "generated_at_local": "2026-11-18 12:00:56 KST",
+    "generated_at_utc": "2026-11-18T03:01:28.751196+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 0,
-    "alert_tickers": [
-      "PRAX"
-    ],
-    "overall_judgement": "행동 고려"
+    "total_new_sec": 2,
+    "alert_tickers": [],
+    "overall_judgement": "추가 확인 필요"
   },
   "dashboard": [
     {
@@ -64,8 +62,8 @@
       "ticker": "IMMX",
       "close": 7.199999809265137,
       "pct": -3.7433183034006445,
-      "pt": 24.05,
-      "pt_upside": 234.02778662649223,
+      "pt": 23.925,
+      "pt_upside": 232.2916754693899,
       "mktcap": "$603.4M",
       "ev": "$494.9M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
@@ -87,7 +85,7 @@
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "new_pr": 0,
-      "new_sec": 0,
+      "new_sec": 2,
       "alert": "-"
     },
     {
@@ -103,7 +101,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 666.57→674.48"
+      "alert": "-"
     },
     {
       "ticker": "QTTB",
@@ -124,8 +122,8 @@
       "ticker": "QURE",
       "close": 20.780000686645508,
       "pct": -5.027415522453582,
-      "pt": 59.6011,
-      "pt_upside": 186.8195285397815,
+      "pt": 59.509388,
+      "pt_upside": 186.37818110489454,
       "mktcap": "$1.46B",
       "ev": "$1.28B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -202,8 +200,8 @@
       "name": "Equillium",
       "close": 1.2100000381469727,
       "pct": 5.217396802848251,
-      "volume": 613487.0,
-      "volume_x": 1.1573916160434667,
+      "volume": 619600.0,
+      "volume_x": 1.1689242727238427,
       "last_price_date": "2026-11-17",
       "market_cap": 99612896,
       "enterprise_value": 66512896.0,
@@ -252,8 +250,8 @@
       "name": "Structure Therapeutics",
       "close": 18.170000076293945,
       "pct": -2.1540098282379683,
-      "volume": 566117.0,
-      "volume_x": 0.4793579962573773,
+      "volume": 583700.0,
+      "volume_x": 0.4942463526363475,
       "last_price_date": "2026-11-17",
       "market_cap": 1300796672,
       "enterprise_value": -209203328.0,
@@ -302,8 +300,8 @@
       "name": "Inhibikase Therapeutics",
       "close": 1.3799999952316284,
       "pct": -4.827589665525056,
-      "volume": 649838.0,
-      "volume_x": 1.1384069891088606,
+      "volume": 670300.0,
+      "volume_x": 1.1742529750486572,
       "last_price_date": "2026-11-17",
       "market_cap": 193572096,
       "enterprise_value": 33472096.0,
@@ -352,8 +350,8 @@
       "name": "Immix Biopharma",
       "close": 7.199999809265137,
       "pct": -3.7433183034006445,
-      "volume": 972249.0,
-      "volume_x": 0.6580387750889174,
+      "volume": 994000.0,
+      "volume_x": 0.6727603139096917,
       "last_price_date": "2026-11-17",
       "market_cap": 603449664,
       "enterprise_value": 494949664.0,
@@ -367,14 +365,14 @@
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
-        "mean": 24.05,
+        "mean": 23.925,
         "low": 17.4,
         "high": 30.0,
-        "median": 23.0,
+        "median": 22.5,
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 234.02778662649223
+        "upside_pct": 232.2916754693899
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -402,8 +400,8 @@
       "name": "MeiraGTx",
       "close": 8.460000038146973,
       "pct": -3.2036583558785248,
-      "volume": 817608.0,
-      "volume_x": 0.9768793931363424,
+      "volume": 825000.0,
+      "volume_x": 0.9857113669845238,
       "last_price_date": "2026-11-17",
       "market_cap": 826800384,
       "enterprise_value": 655900384.0,
@@ -411,9 +409,22 @@
       "runway_months": 21.4,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 0,
+      "new_sec_count": 2,
       "new_press": [],
-      "new_sec": [],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000167860426000024/0001678604-26-000024-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "144  - Report of proposed sale of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1735438/000167860426000023/0001678604-26-000023-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "checklist": [],
       "price_target": {
@@ -452,16 +463,14 @@
       "name": "Praxis Precision Medicines",
       "close": 305.05999755859375,
       "pct": -1.679179952801868,
-      "volume": 813427.0,
-      "volume_x": 1.764024548924358,
+      "volume": 836900.0,
+      "volume_x": 1.8097600321773561,
       "last_price_date": "2026-11-17",
       "market_cap": 8526900224,
       "enterprise_value": 6976900224.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [
-        "PT 666.57→674.48"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -506,8 +515,8 @@
       "name": "Q32 Bio",
       "close": 8.630000114440918,
       "pct": 4.101328759377854,
-      "volume": 617253.0,
-      "volume_x": 0.8984341340723576,
+      "volume": 621600.0,
+      "volume_x": 0.9047613502718942,
       "last_price_date": "2026-11-17",
       "market_cap": 258243104,
       "enterprise_value": 218043104.0,
@@ -558,8 +567,8 @@
       "name": "uniQure",
       "close": 20.780000686645508,
       "pct": -5.027415522453582,
-      "volume": 1199148.0,
-      "volume_x": 0.538602331020339,
+      "volume": 1213800.0,
+      "volume_x": 0.5451833379970509,
       "last_price_date": "2026-11-17",
       "market_cap": 1457485696,
       "enterprise_value": 1280485696.0,
@@ -575,14 +584,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 59.6011,
-        "low": 27.466974,
-        "high": 93.19132,
-        "median": 59.838177,
+        "mean": 59.509388,
+        "low": 27.42471,
+        "high": 93.04792,
+        "median": 59.746098,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 186.8195285397815
+        "upside_pct": 186.37818110489454
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -610,8 +619,8 @@
       "name": "ArriVent BioPharma",
       "close": 10.6899995803833,
       "pct": -7.525958543712974,
-      "volume": 847297.0,
-      "volume_x": 0.6490409510823771,
+      "volume": 863900.0,
+      "volume_x": 0.6617590734300554,
       "last_price_date": "2026-11-17",
       "market_cap": 552919616,
       "enterprise_value": 247519616.0,
@@ -662,8 +671,8 @@
       "name": "Cullinan Therapeutics",
       "close": 9.274999618530273,
       "pct": -2.3684250681023866,
-      "volume": 1625822.0,
-      "volume_x": 1.6761189783008519,
+      "volume": 1626100.0,
+      "volume_x": 1.6764055786027101,
       "last_price_date": "2026-11-17",
       "market_cap": 602141568,
       "enterprise_value": 163141568.0,
@@ -714,8 +723,8 @@
       "name": "Compass Pathways",
       "close": 7.980000019073486,
       "pct": -3.5066556546310745,
-      "volume": 2607090.0,
-      "volume_x": 0.8674780817118175,
+      "volume": 2694300.0,
+      "volume_x": 0.8895834248185951,
       "last_price_date": "2026-11-17",
       "market_cap": 1130848640,
       "enterprise_value": 871848640.0,

@@ -1,15 +1,15 @@
-# Pulse Input (2026-11-18 06:00:52 KST)
+# Pulse Input (2026-11-18 12:00:56 KST)
 
-- 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert PRAX
+- 전체 판단: **추가 확인 필요**
+- 요약: PR 0건 / SEC 2건 / Alert -
 
 ## Must Watch
-- **PRAX** (Praxis Precision Medicines) — PT 666.57→674.48 | 주가 -1.68%
-  - 다음 촉매: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline
-  - 체크포인트: vormatrigine / elsunersen 등 주요 마일스톤 업데이트
+- **MGTX** (MeiraGTx) — SEC 2건 | 주가 -3.20%
+  - 변화: SEC: 4  - Statement of changes in beneficial ownership of securities; 144  - Report of proposed sale of securities
+  - 다음 촉매: 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IKT, IMMX, MGTX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: EQ, GPCR, IKT, IMMX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
