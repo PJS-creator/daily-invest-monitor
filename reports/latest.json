@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-19 12:00:55 KST",
-    "generated_at_utc": "2026-11-19T03:01:14.215261+00:00",
+    "generated_at_local": "2026-11-19 13:21:53 KST",
+    "generated_at_utc": "2026-11-19T04:22:07.490972+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 4,
+    "total_new_sec": 0,
     "alert_tickers": [
       "EQ"
     ],
@@ -102,7 +102,7 @@
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
-      "new_sec": 4,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -124,8 +124,8 @@
       "ticker": "QURE",
       "close": 20.299999237060547,
       "pct": -2.309920277786315,
-      "pt": 58.121716,
-      "pt_upside": 186.31388268178114,
+      "pt": 58.128094,
+      "pt_upside": 186.3453014021738,
       "mktcap": "$1.42B",
       "ev": "$1.25B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -463,34 +463,9 @@
       "runway_months": 31.0,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 4,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000095/0001689548-26-000095-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000094/0001689548-26-000094-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000093/0001689548-26-000093-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        },
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000092/0001689548-26-000092-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
@@ -601,14 +576,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 58.121716,
-        "low": 27.35555,
-        "high": 92.81328,
-        "median": 59.595432,
+        "mean": 58.128094,
+        "low": 27.358553,
+        "high": 92.82346,
+        "median": 59.60197,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 186.31388268178114
+        "upside_pct": 186.3453014021738
       },
       "anchors": {
         "as_of": "2025-09-30",
