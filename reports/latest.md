@@ -1,4 +1,4 @@
-## Daily Report (2026-11-19 13:21:53 KST)
+## Daily Report (2026-11-19 18:00:58 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** EQ
 
@@ -12,7 +12,7 @@
 | MGTX | 8.32 | -1.65% | 27.75 | +233.53% | $813.1M | $642.2M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 305.19 | +0.04% | 674.43 | +120.99% | $8.53B | $6.98B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.53 | -1.16% | 39.67 | +365.03% | $255.3M | $215.1M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 20.30 | -2.31% | 58.13 | +186.35% | $1.42B | $1.25B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 20.30 | -2.31% | 58.28 | +187.07% | $1.42B | $1.25B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 10.90 | +1.96% | 26.20 | +140.37% | $563.8M | $258.4M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 9.01 | -2.86% | 34.70 | +285.13% | $584.9M | $145.9M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.12 | +1.75% | 23.31 | +187.10% | $1.15B | $891.7M | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -293,8 +293,8 @@
 - **Volume**: `1,283,800` (≈ `0.57x` avg)
 - **Market Cap**: $1.42B
 - **EV**: $1.25B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `58.13` (low `27.36` / high `92.82`; n=11)
-  - Upside to PT (mean): `+186.3%`
+- **Price Target (consensus)**: mean `58.28` (low `27.43` / high `93.06`; n=11)
+  - Upside to PT (mean): `+187.1%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
