@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-20 12:00:56 KST",
-    "generated_at_utc": "2026-11-20T03:01:26.094674+00:00",
+    "generated_at_local": "2026-11-20 13:09:01 KST",
+    "generated_at_utc": "2026-11-20T04:09:25.104009+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -10,7 +10,8 @@
     "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
-      "EQ"
+      "EQ",
+      "PRAX"
     ],
     "overall_judgement": "행동 고려"
   },
@@ -94,8 +95,8 @@
       "ticker": "PRAX",
       "close": 305.19000244140625,
       "pct": 0.0426161685743498,
-      "pt": 674.4286,
-      "pt_upside": 120.98646567869937,
+      "pt": 675.6191,
+      "pt_upside": 121.37655054074479,
       "mktcap": "$8.69B",
       "ev": "$7.14B",
       "net_cash": "$1.55B ((pro forma))",
@@ -103,7 +104,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "-"
+      "alert": "PT 674.43→675.62"
     },
     {
       "ticker": "QTTB",
@@ -124,8 +125,8 @@
       "ticker": "QURE",
       "close": 20.299999237060547,
       "pct": -2.309920277786315,
-      "pt": 58.17274,
-      "pt_upside": 186.56523244492226,
+      "pt": 58.20468,
+      "pt_upside": 186.72257235231342,
       "mktcap": "$1.42B",
       "ev": "$1.24B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -461,7 +462,9 @@
       "enterprise_value": 7140137088.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [],
+      "alerts": [
+        "PT 674.43→675.62"
+      ],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -471,14 +474,14 @@
         "vormatrigine / elsunersen 등 주요 마일스톤 업데이트"
       ],
       "price_target": {
-        "mean": 674.4286,
+        "mean": 675.6191,
         "low": 189.0,
         "high": 1201.0,
         "median": 592.0,
         "analyst_count": 21,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.36842,
-        "upside_pct": 120.98646567869937
+        "upside_pct": 121.37655054074479
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -575,14 +578,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 58.17274,
-        "low": 27.379566,
-        "high": 92.89476,
-        "median": 59.64775,
+        "mean": 58.20468,
+        "low": 27.3946,
+        "high": 92.94576,
+        "median": 59.6805,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 186.56523244492226
+        "upside_pct": 186.72257235231342
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -756,7 +759,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/CMPS -> HTTP 429"
         ],
         "sec_error": null
       }

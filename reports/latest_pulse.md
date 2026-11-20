@@ -1,14 +1,17 @@
-# Pulse Input (2026-11-20 12:00:56 KST)
+# Pulse Input (2026-11-20 13:09:01 KST)
 
 - 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert EQ
+- 요약: PR 0건 / SEC 0건 / Alert EQ, PRAX
 
 ## Must Watch
 - **EQ** (Equillium) — PRICE -9.1% | 주가 -9.09%
   - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
+- **PRAX** (Praxis Precision Medicines) — PT 674.43→675.62 | 주가 +0.04%
+  - 다음 촉매: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline
+  - 체크포인트: vormatrigine / elsunersen 등 주요 마일스톤 업데이트
 
 ## Ignore / Noise
-- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
