@@ -1,180 +1,180 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-20 18:00:56 KST",
-    "generated_at_utc": "2026-11-20T09:02:09.535540+00:00",
+    "generated_at_local": "2026-11-21 00:01:06 KST",
+    "generated_at_utc": "2026-11-20T15:02:21.840374+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 0,
-    "total_new_sec": 0,
+    "total_new_press": 83,
+    "total_new_sec": 3,
     "alert_tickers": [],
-    "overall_judgement": "감시만"
+    "overall_judgement": "추가 확인 필요"
   },
   "dashboard": [
     {
       "ticker": "EQ",
-      "close": 1.1200000047683716,
-      "pct": 1.8181800448205276,
+      "close": 1.159999966621399,
+      "pct": 3.5714251502436234,
       "pt": 8.55556,
-      "pt_upside": 663.8892824620465,
-      "mktcap": "$92.2M",
-      "ev": "$59.1M",
+      "pt_upside": 637.5482970847676,
+      "mktcap": "$95.5M",
+      "ev": "$62.4M",
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
-      "new_pr": 0,
-      "new_sec": 0,
+      "new_pr": 8,
+      "new_sec": 1,
       "alert": "-"
     },
     {
       "ticker": "GPCR",
-      "close": 17.1200008392334,
-      "pct": -1.3824871122127491,
+      "close": 16.959999084472656,
+      "pct": -0.9345896432088385,
       "pt": 104.85714,
-      "pt_upside": 512.4832643682003,
-      "mktcap": "$1.23B",
-      "ev": "-$284.4M",
+      "pt_upside": 518.2614720539672,
+      "mktcap": "$1.21B",
+      "ev": "-$295.8M",
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
       "runway": "-",
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "IKT",
-      "close": 1.2999999523162842,
-      "pct": -5.797104579113899,
+      "close": 1.3650000095367432,
+      "pct": 5.00000458497285,
       "pt": 5.55,
-      "pt_upside": 326.92309258252266,
-      "mktcap": "$182.4M",
-      "ev": "$22.3M",
+      "pt_upside": 306.5934037526909,
+      "mktcap": "$189.4M",
+      "ev": "$29.3M",
       "net_cash": "$160.1M (2025-09-30 + Nov-2025 offering (pro forma est.))",
       "runway": "71.0m",
       "next": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
-      "new_pr": 0,
+      "new_pr": 7,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "IMMX",
-      "close": 7.039999961853027,
-      "pct": -0.9845312285075347,
+      "close": 7.389999866485596,
+      "pct": 4.971589581378977,
       "pt": 24.05,
-      "pt_upside": 241.619320032918,
-      "mktcap": "$590.0M",
-      "ev": "$481.5M",
+      "pt_upside": 225.43978937089304,
+      "mktcap": "$618.5M",
+      "ev": "$510.0M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
       "runway": "76.0m",
       "next": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
-      "new_pr": 0,
-      "new_sec": 0,
+      "new_pr": 7,
+      "new_sec": 2,
       "alert": "-"
     },
     {
       "ticker": "MGTX",
-      "close": 8.140000343322754,
-      "pct": -2.163453823363004,
+      "close": 8.130000114440918,
+      "pct": -0.12285292948469584,
       "pt": 27.75,
-      "pt_upside": 240.90907653048612,
-      "mktcap": "$795.5M",
-      "ev": "$624.6M",
+      "pt_upside": 241.32840847946665,
+      "mktcap": "$791.6M",
+      "ev": "$620.7M",
       "net_cash": "$170.9M (2025 Q3 (pro forma))",
       "runway": "21.4m",
       "next": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "PRAX",
-      "close": 310.8999938964844,
-      "pct": 1.8709628131329037,
+      "close": 311.4800109863281,
+      "pct": 0.18656066298825547,
       "pt": 675.6191,
-      "pt_upside": 117.31074727037485,
-      "mktcap": "$8.69B",
-      "ev": "$7.14B",
+      "pt_upside": 116.90608583857252,
+      "mktcap": "$8.71B",
+      "ev": "$7.16B",
       "net_cash": "$1.55B ((pro forma))",
       "runway": "31.0m",
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "QTTB",
-      "close": 8.479999542236328,
-      "pct": -0.5861687256752957,
+      "close": 8.390000343322754,
+      "pct": -1.0613113652343409,
       "pt": 39.66667,
-      "pt_upside": 367.7673601564746,
-      "mktcap": "$253.8M",
-      "ev": "$213.6M",
+      "pt_upside": 372.78508196449627,
+      "mktcap": "$251.1M",
+      "ev": "$210.9M",
       "net_cash": "$40.2M ((pro forma est.))",
       "runway": "13.2m",
       "next": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
-      "new_pr": 0,
+      "new_pr": 2,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "QURE",
-      "close": 20.229999542236328,
-      "pct": -0.3448260958376026,
-      "pt": 58.1536,
-      "pt_upside": 187.46219137863312,
-      "mktcap": "$1.42B",
-      "ev": "$1.24B",
+      "close": 20.899999618530273,
+      "pct": 3.311913452568871,
+      "pt": 58.230255,
+      "pt_upside": 178.61366537237697,
+      "mktcap": "$1.46B",
+      "ev": "$1.29B",
       "net_cash": "$177.0M (2025-09-30)",
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "AVBP",
-      "close": 11.260000228881836,
-      "pct": 3.302758008720952,
+      "close": 11.15999984741211,
+      "pct": -0.8881028369184807,
       "pt": 26.2,
-      "pt_upside": 132.68205566103944,
-      "mktcap": "$582.4M",
-      "ev": "$277.0M",
+      "pt_upside": 134.76702829951662,
+      "mktcap": "$572.6M",
+      "ev": "$267.2M",
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "CGEM",
-      "close": 9.069999694824219,
-      "pct": 0.665920803753739,
+      "close": 9.345000267028809,
+      "pct": 3.031979949916841,
       "pt": 34.7,
-      "pt_upside": 282.5799467204117,
-      "mktcap": "$588.8M",
-      "ev": "$149.8M",
+      "pt_upside": 271.32155172246644,
+      "mktcap": "$606.7M",
+      "ev": "$167.7M",
       "net_cash": "$439.0M ((net cash as of latest filings))",
       "runway": "-",
       "next": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
     {
       "ticker": "CMPS",
-      "close": 8.649999618530273,
-      "pct": 6.52709039951791,
+      "close": 8.15999984741211,
+      "pct": -5.664737488178295,
       "pt": 23.3125,
-      "pt_upside": 169.50868240571134,
-      "mktcap": "$1.23B",
-      "ev": "$966.8M",
+      "pt_upside": 185.69240730308846,
+      "mktcap": "$1.15B",
+      "ev": "$891.7M",
       "net_cash": "$259.0M ((pro forma))",
       "runway": "19.5m",
       "next": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
-      "new_pr": 0,
+      "new_pr": 8,
       "new_sec": 0,
       "alert": "-"
     },
@@ -189,7 +189,7 @@
       "net_cash": "$1.35B (2025-09-30)",
       "runway": "43.0m",
       "next": "2026: PALSONIFY quarterly sales / net product revenue updates",
-      "new_pr": 0,
+      "new_pr": 3,
       "new_sec": 0,
       "alert": "-"
     }
@@ -198,20 +198,76 @@
     {
       "ticker": "EQ",
       "name": "Equillium",
-      "close": 1.1200000047683716,
-      "pct": 1.8181800448205276,
-      "volume": 598000.0,
-      "volume_x": 1.1101354625162203,
-      "last_price_date": "2026-11-19",
-      "market_cap": 92203672,
-      "enterprise_value": 59103672.0,
+      "close": 1.159999966621399,
+      "pct": 3.5714251502436234,
+      "volume": 27502.0,
+      "volume_x": 0.05053396738131812,
+      "last_price_date": "2026-11-20",
+      "market_cap": 95496656,
+      "enterprise_value": 62396656.0,
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
-      "new_pr_count": 0,
-      "new_sec_count": 0,
-      "new_press": [],
-      "new_sec": [],
+      "new_pr_count": 8,
+      "new_sec_count": 1,
+      "new_press": [
+        {
+          "title": "Conexeu Sciences Appoints Life Sciences Veteran Daniel M. Bradbury as Chairman of the Board of Directors",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406567/0/en/conexeu-sciences-appoints-life-sciences-veteran-daniel-m-bradbury-as-chairman-of-the-board-of-directors.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Reports Third Quarter 2026 Financial Results and Recent Corporate and Clinical Highlights",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3402196/0/en/equillium-reports-third-quarter-2026-financial-results-and-recent-corporate-and-clinical-highlights.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium to Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3397100/0/en/equillium-to-participate-in-upcoming-investor-conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Announces First Subject Dosed in Phase 1 Clinical Trial of EQ504",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388089/0/en/equillium-announces-first-subject-dosed-in-phase-1-clinical-trial-of-eq504.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Announces Poster Presentation at the 50th Anniversary La Jolla Immunology Conference",
+          "url": "https://www.globenewswire.com/news-release/2026/10/06/3375998/0/en/equillium-announces-poster-presentation-at-the-50th-anniversary-la-jolla-immunology-conference.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Receives Australian Regulatory Clearance to Initiate First-in-Human Clinical Trial of EQ504",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374999/0/en/equillium-receives-australian-regulatory-clearance-to-initiate-first-in-human-clinical-trial-of-eq504.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium Announces Poster Presentations at the 7th International AHR Conference",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3371324/0/en/equillium-announces-poster-presentations-at-the-7th-international-ahr-conference.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Equillium to Participate in Stifel’s 2026 Virtual Immunology and Inflammation Forum",
+          "url": "https://www.globenewswire.com/news-release/2026/09/16/3363149/0/en/equillium-to-participate-in-stifel-s-2026-virtual-immunology-and-inflammation-forum.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "EFFECT  - Notice of Effectiveness",
+          "url": "https://www.sec.gov/Archives/edgar/data/1746466/999999999526003588/9999999995-26-003588-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
       "price_target": {
@@ -222,7 +278,7 @@
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.11111,
-        "upside_pct": 663.8892824620465
+        "upside_pct": 637.5482970847676
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -239,28 +295,75 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "GPCR",
       "name": "Structure Therapeutics",
-      "close": 17.1200008392334,
-      "pct": -1.3824871122127491,
-      "volume": 690800.0,
-      "volume_x": 0.582722464507748,
-      "last_price_date": "2026-11-19",
-      "market_cap": 1225626880,
-      "enterprise_value": -284373120.0,
+      "close": 16.959999084472656,
+      "pct": -0.9345896432088385,
+      "volume": 66172.0,
+      "volume_x": 0.05636773447229572,
+      "last_price_date": "2026-11-20",
+      "market_cap": 1214172288,
+      "enterprise_value": -295827712.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "The Cancer Immunotherapy Drug Discovery Outsourcing Industry - Global Forecast 2026-2032 | AI and Strategic Partnerships Drive 10.33% CAGR, Unlocking a USD 3.21 Billion Opportunity by 2032",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407495/28124/en/the-cancer-immunotherapy-drug-discovery-outsourcing-industry-global-forecast-2026-2032-ai-and-strategic-partnerships-drive-10-33-cagr-unlocking-a-usd-3-21-billion-opportunity-by-20.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "The Medical Device Contract Research Organization Market Forecast 2026-2032 | AI, Decentralized Trials, and Regulatory Complexity Accelerate Strategic CRO Outsourcing",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407493/28124/en/the-medical-device-contract-research-organization-market-forecast-2026-2032-ai-decentralized-trials-and-regulatory-complexity-accelerate-strategic-cro-outsourcing.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "The DNA Fragments Market 2026-2032 | AI-Driven Synthesis and Precision Medicine Propel 8.45% CAGR Toward $4.15 Billion by 2032",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407480/28124/en/the-dna-fragments-market-2026-2032-ai-driven-synthesis-and-precision-medicine-propel-8-45-cagr-toward-4-15-billion-by-2032.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Life Sciences Q3 2026 Review Highlights Bioprinting Growth and Expanding Cardiovascular Device Demand",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407429/0/en/life-sciences-q3-2026-review-highlights-bioprinting-growth-and-expanding-cardiovascular-device-demand.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Late-breaking Johnson & Johnson data in psoriatic arthritis (PsA) shows TREMFYA® (guselkumab) is the only advanced therapy to demonstrate MRI-confirmed improvements in spinal pain and stiffness",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407375/0/en/late-breaking-johnson-johnson-data-in-psoriatic-arthritis-psa-shows-tremfya-guselkumab-is-the-only-advanced-therapy-to-demonstrate-mri-confirmed-improvements-in-spinal-pain-and-sti.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Brain Cancer Diagnostics Market to Register Immense Growth at a CAGR of ~10% by 2034 | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3407032/0/en/brain-cancer-diagnostics-market-to-register-immense-growth-at-a-cagr-of-10-by-2034-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Real-World Evidence Solutions - Global Market Share, Trends, and Growth Forecasts, 2026-2031 | AI, Cloud, and Regulatory Adoption Drive 16.33% CAGR to USD 6.04 Billion",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406956/28124/en/real-world-evidence-solutions-global-market-share-trends-and-growth-forecasts-2026-2031-ai-cloud-and-regulatory-adoption-drive-16-33-cagr-to-usd-6-04-billion.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "NEWS: ISS National Lab-Sponsored Research Aims to Improve Cancer Treatments, Muscle Health, and Regenerative Medicine",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406949/0/en/news-iss-national-lab-sponsored-research-aims-to-improve-cancer-treatments-muscle-health-and-regenerative-medicine.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
@@ -272,7 +375,7 @@
         "analyst_count": 14,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.375,
-        "upside_pct": 512.4832643682003
+        "upside_pct": 518.2614720539672
       },
       "anchors": {
         "as_of": "2025-09-30 (pro forma incl. Dec-2025 offering)",
@@ -289,28 +392,69 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "IKT",
       "name": "Inhibikase Therapeutics",
-      "close": 1.2999999523162842,
-      "pct": -5.797104579113899,
-      "volume": 496800.0,
-      "volume_x": 0.8677789888488304,
-      "last_price_date": "2026-11-19",
-      "market_cap": 182350512,
-      "enterprise_value": 22250512.0,
+      "close": 1.3650000095367432,
+      "pct": 5.00000458497285,
+      "volume": 125269.0,
+      "volume_x": 0.2190703034690926,
+      "last_price_date": "2026-11-20",
+      "market_cap": 189364000,
+      "enterprise_value": 29264000.0,
       "net_cash_m": 160.1,
       "runway_months": 71.0,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 7,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Inhibikase Therapeutics Announces Third Quarter 2026 Financial Results and Highlights Recent Activity",
+          "url": "https://www.globenewswire.com/news-release/2026/11/10/3400176/0/en/inhibikase-therapeutics-announces-third-quarter-2026-financial-results-and-highlights-recent-activity.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Announces Participation in Upcoming Investor Conferences During November 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3388939/0/en/inhibikase-therapeutics-announces-participation-in-upcoming-investor-conferences-during-november-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Appoints Scott Wasserman to Board of Directors",
+          "url": "https://www.globenewswire.com/news-release/2026/10/20/3384922/0/en/inhibikase-therapeutics-appoints-scott-wasserman-to-board-of-directors.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/02/3374005/0/en/inhibikase-therapeutics-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Hypertension Clinical Trial Pipeline Accelerates as 100+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/09/16/3363442/0/en/hypertension-clinical-trial-pipeline-accelerates-as-100-pharma-companies-rigorously-develop-drugs-for-market-entry-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Multiple System Atrophy Clinical Trial Pipeline Gains Momentum: 22+ Companies Lead the Charge in Pioneering New Treatments | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/08/26/3351618/0/en/multiple-system-atrophy-clinical-trial-pipeline-gains-momentum-22-companies-lead-the-charge-in-pioneering-new-treatments-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Inhibikase Therapeutics Announces Second Quarter 2026 Financial Results and Highlights Recent Activity",
+          "url": "https://www.globenewswire.com/news-release/2026/08/11/3343135/0/en/inhibikase-therapeutics-announces-second-quarter-2026-financial-results-and-highlights-recent-activity.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed",
       "checklist": [],
@@ -322,7 +466,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.33333,
-        "upside_pct": 326.92309258252266
+        "upside_pct": 306.5934037526909
       },
       "anchors": {
         "as_of": "2025-09-30 + Nov-2025 offering (pro forma est.)",
@@ -339,29 +483,83 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "IMMX",
       "name": "Immix Biopharma",
-      "close": 7.039999961853027,
-      "pct": -0.9845312285075347,
-      "volume": 1133200.0,
-      "volume_x": 0.778981522217334,
-      "last_price_date": "2026-11-19",
-      "market_cap": 590039680,
-      "enterprise_value": 481539680.0,
+      "close": 7.389999866485596,
+      "pct": 4.971589581378977,
+      "volume": 232345.0,
+      "volume_x": 0.16063764180111614,
+      "last_price_date": "2026-11-20",
+      "market_cap": 618535936,
+      "enterprise_value": 510035936.0,
       "net_cash_m": 108.5,
       "runway_months": 76.0,
       "alerts": [],
-      "new_pr_count": 0,
-      "new_sec_count": 0,
-      "new_press": [],
-      "new_sec": [],
+      "new_pr_count": 7,
+      "new_sec_count": 2,
+      "new_press": [
+        {
+          "title": "Immix Biopharma Reports Third Quarter 2026 Financial Results and Update on Corporate Progress",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3402248/0/en/immix-biopharma-reports-third-quarter-2026-financial-results-and-update-on-corporate-progress.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Immix Biopharma’s NXC-201 NEXICART-2 Interim Clinical Trial Results Selected for Oral Presentation at ASH 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395436/0/en/immix-biopharma-s-nxc-201-nexicart-2-interim-clinical-trial-results-selected-for-oral-presentation-at-ash-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Immix Biopharma to Participate in the 45th Annual J.P. Morgan Healthcare Conference",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374561/0/en/immix-biopharma-to-participate-in-the-45th-annual-j-p-morgan-healthcare-conference.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Immix Biopharma Announces Closing of $125 Million Underwritten Offering of Common Stock",
+          "url": "https://www.globenewswire.com/news-release/2026/09/30/3372434/0/en/immix-biopharma-announces-closing-of-125-million-underwritten-offering-of-common-stock.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Immix Biopharma Announces Pricing of $125 Million Underwritten Offering of Common Stock",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3370690/0/en/immix-biopharma-announces-pricing-of-125-million-underwritten-offering-of-common-stock.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Immix Biopharma Announces 89% Complete Response Rate at Interim Update Across All NEXICART-2 Patients, with MRD-Negativity Indicating Potential to Reach up to 98% Complete Response Rate, Supporting Potential Best-in-Class Therapy for Relapsed/Refractory AL Amyloidosis",
+          "url": "https://www.globenewswire.com/news-release/2026/09/29/3370648/0/en/immix-biopharma-announces-89-complete-response-rate-at-interim-update-across-all-nexicart-2-patients-with-mrd-negativity-indicating-potential-to-reach-up-to-98-complete-response-ra.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Immix Biopharma, Inc. - IMMX",
+          "url": "https://www.globenewswire.com/news-release/2026/08/11/3343299/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-immix-biopharma-inc-immx.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
+      "new_sec": [
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226053370/0001493152-26-053370-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        },
+        {
+          "title": "4  - Statement of changes in beneficial ownership of securities",
+          "url": "https://www.sec.gov/Archives/edgar/data/1873835/000149315226053369/0001493152-26-053369-index.htm",
+          "date_text": "",
+          "source": "SEC"
+        }
+      ],
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
@@ -372,7 +570,7 @@
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 241.619320032918
+        "upside_pct": 225.43978937089304
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -389,28 +587,75 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "MGTX",
       "name": "MeiraGTx",
-      "close": 8.140000343322754,
-      "pct": -2.163453823363004,
-      "volume": 964900.0,
-      "volume_x": 1.162915423784989,
-      "last_price_date": "2026-11-19",
-      "market_cap": 795526656,
-      "enterprise_value": 624626656.0,
+      "close": 8.130000114440918,
+      "pct": -0.12285292948469584,
+      "volume": 49319.0,
+      "volume_x": 0.05932513285875472,
+      "last_price_date": "2026-11-20",
+      "market_cap": 791617472,
+      "enterprise_value": 620717472.0,
       "net_cash_m": 170.9,
       "runway_months": 21.4,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "MeiraGTx Announces Oral Presentation at ObesityWeek 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403328/0/en/meiragtx-announces-oral-presentation-at-obesityweek-2026.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Reports Third Quarter 2026 Financial and Operational Results",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3401528/0/en/meiragtx-reports-third-quarter-2026-financial-and-operational-results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Announces Four Posters at the European Society of Gene and Cell Therapy (ESGCT) 2026 Annual Congress and the Network of Excellence for ALS (NEALS) Annual Meeting",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3388913/0/en/meiragtx-announces-four-posters-at-the-european-society-of-gene-and-cell-therapy-esgct-2026-annual-congress-and-the-network-of-excellence-for-als-neals-annual-meeting.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Global Gene Therapy Market Size, Share, Growth, and Forecast 2026-2035 | USD 74.78 Billion Opportunity Driven by Rare Disease R&D, Viral Vectors, and Regulatory Approvals",
+          "url": "https://www.globenewswire.com/news-release/2026/10/08/3377409/28124/en/global-gene-therapy-market-size-share-growth-and-forecast-2026-2035-usd-74-78-billion-opportunity-driven-by-rare-disease-r-d-viral-vectors-and-regulatory-approvals.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Global Cell & Gene Therapy Market Size and Forecast Report 2026-2036 | Market to Reach US$126.86 Billion at 17.3% CAGR as CRISPR, CAR-T and Scalable Manufacturing Drive Growth",
+          "url": "https://www.globenewswire.com/news-release/2026/10/08/3377018/28124/en/global-cell-gene-therapy-market-size-and-forecast-report-2026-2036-market-to-reach-us-126-86-billion-at-17-3-cagr-as-crispr-car-t-and-scalable-manufacturing-drive-growth.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Botaretigene Sparoparvovec Market Size and Sales Forecast for X-Linked Retinitis Pigmentosa in the 7MM - 2034 | Clinical Momentum and Orphan Incentives Drive Growth",
+          "url": "https://www.globenewswire.com/news-release/2026/10/06/3375339/28124/en/botaretigene-sparoparvovec-market-size-and-sales-forecast-for-x-linked-retinitis-pigmentosa-in-the-7mm-2034-clinical-momentum-and-orphan-incentives-drive-growth.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Appoints Accomplished Healthcare Portfolio Manager Alan M. Sebulsky to Board of Directors",
+          "url": "https://www.globenewswire.com/news-release/2026/09/23/3367418/0/en/meiragtx-appoints-accomplished-healthcare-portfolio-manager-alan-m-sebulsky-to-board-of-directors.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "MeiraGTx Reports Second Quarter 2026 Financial and Operational Results",
+          "url": "https://www.globenewswire.com/news-release/2026/08/13/3344472/0/en/meiragtx-reports-second-quarter-2026-financial-and-operational-results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates",
       "checklist": [],
@@ -422,7 +667,7 @@
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.5,
-        "upside_pct": 240.90907653048612
+        "upside_pct": 241.32840847946665
       },
       "anchors": {
         "as_of": "2025 Q3 (pro forma)",
@@ -439,28 +684,75 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "PRAX",
       "name": "Praxis Precision Medicines",
-      "close": 310.8999938964844,
-      "pct": 1.8709628131329037,
-      "volume": 634600.0,
-      "volume_x": 1.3456946676901806,
-      "last_price_date": "2026-11-19",
-      "market_cap": 8690137088,
-      "enterprise_value": 7140137088.0,
+      "close": 311.4800109863281,
+      "pct": 0.18656066298825547,
+      "volume": 59123.0,
+      "volume_x": 0.12480210413438765,
+      "last_price_date": "2026-11-20",
+      "market_cap": 8706209792,
+      "enterprise_value": 7156209792.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Praxis Precision Medicines Details Launch Readiness for Relutrigine and Ulixacaltamide and Outlines Expanded Pipeline in Preparation to be the Preeminent CNS Biotech at Investor Day",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3402276/0/en/praxis-precision-medicines-details-launch-readiness-for-relutrigine-and-ulixacaltamide-and-outlines-expanded-pipeline-in-preparation-to-be-the-preeminent-cns-biotech-at-investor-da.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines Provides Corporate Update and Reports Third Quarter 2026 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398230/0/en/praxis-precision-medicines-provides-corporate-update-and-reports-third-quarter-2026-financial-results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines, Inc. Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395771/0/en/praxis-precision-medicines-inc-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines Announces Third Quarter 2026 Financial Results Date, Investor Day and November Conference Participation",
+          "url": "https://www.globenewswire.com/news-release/2026/10/27/3389586/0/en/praxis-precision-medicines-announces-third-quarter-2026-financial-results-date-investor-day-and-november-conference-participation.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Praxis Precision Medicines, Inc. Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/02/3374007/0/en/praxis-precision-medicines-inc-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Major Depressive Disorder Clinical Trial Pipeline Boom as 75+ Companies are in the Race for Better Treatments | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/09/17/3364290/0/en/major-depressive-disorder-clinical-trial-pipeline-boom-as-75-companies-are-in-the-race-for-better-treatments-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Unilabs treibt mit Proscia die digitale Pathologie in ganz Europa voran und gestaltet die Zukunft der Präzisionsmedizin",
+          "url": "https://www.globenewswire.com/news-release/2026/09/14/3360694/0/de/unilabs-treibt-mit-proscia-die-digitale-pathologie-in-ganz-europa-voran-und-gestaltet-die-zukunft-der-pr%c3%a4zisionsmedizin.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Remix Therapeutics Appoints Nicole Sweeny as Chief Commercial Officer",
+          "url": "https://www.globenewswire.com/news-release/2026/09/09/3358466/0/en/remix-therapeutics-appoints-nicole-sweeny-as-chief-commercial-officer.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "checklist": [
@@ -474,7 +766,7 @@
         "analyst_count": 21,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.36842,
-        "upside_pct": 117.31074727037485
+        "upside_pct": 116.90608583857252
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -491,28 +783,39 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "QTTB",
       "name": "Q32 Bio",
-      "close": 8.479999542236328,
-      "pct": -0.5861687256752957,
-      "volume": 311900.0,
-      "volume_x": 0.4509343260924567,
-      "last_price_date": "2026-11-19",
-      "market_cap": 253754512,
-      "enterprise_value": 213554512.0,
+      "close": 8.390000343322754,
+      "pct": -1.0613113652343409,
+      "volume": 16406.0,
+      "volume_x": 0.023760695644113847,
+      "last_price_date": "2026-11-20",
+      "market_cap": 251061376,
+      "enterprise_value": 210861376.0,
       "net_cash_m": 40.2,
       "runway_months": 13.2,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 2,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Lupus Nephritis Market on a Growth Trajectory at a CAGR of 7% During the Forecast Period (2026–2036), as Innovative Therapies Gain Momentum | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/09/14/3361423/0/en/lupus-nephritis-market-on-a-growth-trajectory-at-a-cagr-of-7-during-the-forecast-period-2026-2036-as-innovative-therapies-gain-momentum-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Akebia Therapeutics Announces First Patient Dosed in Phase 2 Basket Trial of Ebribafusp in Rare Complement-Mediated Kidney Diseases",
+          "url": "https://www.globenewswire.com/news-release/2026/09/14/3361045/37519/en/akebia-therapeutics-announces-first-patient-dosed-in-phase-2-basket-trial-of-ebribafusp-in-rare-complement-mediated-kidney-diseases.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "mid-2026: SIGNAL-AA Part B topline (W36, open-label)",
       "checklist": [
@@ -526,7 +829,7 @@
         "analyst_count": 6,
         "recommendation_key": "none",
         "recommendation_mean": null,
-        "upside_pct": 367.7673601564746
+        "upside_pct": 372.78508196449627
       },
       "anchors": {
         "as_of": "(pro forma est.)",
@@ -543,42 +846,89 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "QURE",
       "name": "uniQure",
-      "close": 20.229999542236328,
-      "pct": -0.3448260958376026,
-      "volume": 1200500.0,
-      "volume_x": 0.5365183289945589,
-      "last_price_date": "2026-11-19",
-      "market_cap": 1418909184,
-      "enterprise_value": 1241909184.0,
+      "close": 20.899999618530273,
+      "pct": 3.311913452568871,
+      "volume": 193894.0,
+      "volume_x": 0.08665382535518441,
+      "last_price_date": "2026-11-20",
+      "market_cap": 1464499456,
+      "enterprise_value": 1287499456.0,
       "net_cash_m": 177.0,
       "runway_months": 15.9,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Viral Vector & Plasmid DNA Manufacturing Market - Global Forecast 2026-2032 | 16.91% CAGR Fuels Growth to USD 15.67 Billion as Gene Therapy and CDMO Demand Accelerate",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406695/28124/en/viral-vector-plasmid-dna-manufacturing-market-global-forecast-2026-2032-16-91-cagr-fuels-growth-to-usd-15-67-billion-as-gene-therapy-and-cdmo-demand-accelerate.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Advanced Therapy Medicinal Products - Global Strategic Business Report: Capitalize on 11.8% CAGR to Secure $25.4B by 2030 as Novartis, Gilead, Bristol-Myers Squibb and Roche Compete",
+          "url": "https://www.globenewswire.com/news-release/2026/11/11/3400804/28124/en/advanced-therapy-medicinal-products-global-strategic-business-report-capitalize-on-11-8-cagr-to-secure-25-4b-by-2030-as-novartis-gilead-bristol-myers-squibb-and-roche-compete.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of ClearPoint Neuro, Inc. - CLPT",
+          "url": "https://www.globenewswire.com/news-release/2026/11/10/3400358/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-clearpoint-neuro-inc-clpt.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "uniQure Announces Third Quarter 2026 Financial Results and Provides Company Update",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395189/0/en/uniqure-announces-third-quarter-2026-financial-results-and-provides-company-update.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of ClearPoint Neuro, Inc. - CLPT",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394926/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-clearpoint-neuro-inc-clpt.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Sickle Cell Disease Clinical Trial Pipeline Gains Momentum: 45+ Companies Lead the Charge in Pioneering New Treatments | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394662/0/en/sickle-cell-disease-clinical-trial-pipeline-gains-momentum-45-companies-lead-the-charge-in-pioneering-new-treatments-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "uniQure Announces FDA Acceptance and Priority Review of the Biologics License Application for ifezuntirgene inilparvovec for the Treatment of Huntington’s Disease",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393020/0/en/uniqure-announces-fda-acceptance-and-priority-review-of-the-biologics-license-application-for-ifezuntirgene-inilparvovec-for-the-treatment-of-huntington-s-disease.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "uniQure to Announce Third Quarter 2026 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/10/28/3390039/0/en/uniqure-to-announce-third-quarter-2026-financial-results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "checklist": [
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 58.1536,
-        "low": 27.370558,
-        "high": 92.86419,
-        "median": 59.628124,
+        "mean": 58.230255,
+        "low": 27.406637,
+        "high": 92.9866,
+        "median": 59.706726,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 187.46219137863312
+        "upside_pct": 178.61366537237697
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -595,28 +945,75 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "AVBP",
       "name": "ArriVent BioPharma",
-      "close": 11.260000228881836,
-      "pct": 3.302758008720952,
-      "volume": 906600.0,
-      "volume_x": 0.6732811502071977,
-      "last_price_date": "2026-11-19",
-      "market_cap": 582401792,
-      "enterprise_value": 277001792.0,
+      "close": 11.15999984741211,
+      "pct": -0.8881028369184807,
+      "volume": 45773.0,
+      "volume_x": 0.03379684972278358,
+      "last_price_date": "2026-11-20",
+      "market_cap": 572574400,
+      "enterprise_value": 267174400.0,
       "net_cash_m": 305.4,
       "runway_months": 21.2,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Shopify Conversion Rate Optimization: Why Most Stores Leave Revenue on the Table",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407478/0/en/shopify-conversion-rate-optimization-why-most-stores-leave-revenue-on-the-table.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "New York Times Bestselling Author J.D. Barker Crosses Into Sci-Fi Thriller Territory with THE FACES OF MARCUS BLAKE",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407468/0/en/new-york-times-bestselling-author-j-d-barker-crosses-into-sci-fi-thriller-territory-with-the-faces-of-marcus-blake.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Hair Loss Treatment: A Normal Blood Count Does Not Rule Out Iron Deficiency Hair Loss, and Most Treatment Never Orders the Ferritin Test",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407435/0/en/hair-loss-treatment-a-normal-blood-count-does-not-rule-out-iron-deficiency-hair-loss-and-most-treatment-never-orders-the-ferritin-test.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Kite Hill Introduces the PEAC Method™: The Framework Behind Its Crisis Communications Work for B2B and Tech Brands",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407447/0/en/kite-hill-introduces-the-peac-method-the-framework-behind-its-crisis-communications-work-for-b2b-and-tech-brands.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "LEVEL8 Spotlights Grace Carry-On Luggage Designed to Simplify Airport Security and Business Travel",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407387/0/en/level8-spotlights-grace-carry-on-luggage-designed-to-simplify-airport-security-and-business-travel.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "iMDx Expands GraftAssure Utilization as First Patient Samples Arrive for GALACTIC Registry Study",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407388/0/en/imdx-expands-graftassure-utilization-as-first-patient-samples-arrive-for-galactic-registry-study.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Time for a Luggage Upgrade? Meet the LEVEL8 Hegent Zipperless Suitcase",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407390/0/en/time-for-a-luggage-upgrade-meet-the-level8-hegent-zipperless-suitcase.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "TVCMALL, a Mobile Accessories Wholesaler, Expands Its Brand Portfolio with Sanag to Support Year-End Wholesale Purchasing",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407359/0/en/tvcmall-a-mobile-accessories-wholesaler-expands-its-brand-portfolio-with-sanag-to-support-year-end-wholesale-purchasing.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "early-2026: FURVENT Phase 3 topline",
       "checklist": [
@@ -630,7 +1027,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.0,
-        "upside_pct": 132.68205566103944
+        "upside_pct": 134.76702829951662
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -647,28 +1044,75 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "CGEM",
       "name": "Cullinan Therapeutics",
-      "close": 9.069999694824219,
-      "pct": 0.665920803753739,
-      "volume": 1000000.0,
-      "volume_x": 1.0083887863133407,
-      "last_price_date": "2026-11-19",
-      "market_cap": 588832768,
-      "enterprise_value": 149832768.0,
+      "close": 9.345000267028809,
+      "pct": 3.031979949916841,
+      "volume": 75602.0,
+      "volume_x": 0.07611930680907447,
+      "last_price_date": "2026-11-20",
+      "market_cap": 606686080,
+      "enterprise_value": 167686080.0,
       "net_cash_m": 439.0,
       "runway_months": null,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "NSCLC Treatment Landscape Shifts as ESMO 2026 Spotlights MET, KRAS, and TROP2 Advances, Says DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/11/18/3406076/0/en/nsclc-treatment-landscape-shifts-as-esmo-2026-spotlights-met-kras-and-trop2-advances-says-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "PRISM MarketView Highlights Seven Small-Cap Lung Cancer Developers for Lung Cancer Awareness Month",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403929/0/en/prism-marketview-highlights-seven-small-cap-lung-cancer-developers-for-lung-cancer-awareness-month.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "New Drug Application Submission Completed for Zipalertinib Plus Chemotherapy in First-Line EGFR Exon 20 Insertion Mutation Non-Small Cell Lung Cancer",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3402277/0/en/new-drug-application-submission-completed-for-zipalertinib-plus-chemotherapy-in-first-line-egfr-exon-20-insertion-mutation-non-small-cell-lung-cancer.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "BCMA Targeted Therapies Competitive Landscape Analysis: 100+ Pipeline Therapies Driving Innovation in Therapeutics Segment | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3402074/0/en/bcma-targeted-therapies-competitive-landscape-analysis-100-pipeline-therapies-driving-innovation-in-therapeutics-segment-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cullinan Therapeutics Provides Corporate Update and Reports Third Quarter 2026 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/11/10/3399334/0/en/cullinan-therapeutics-provides-corporate-update-and-reports-third-quarter-2026-financial-results.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cullinan Therapeutics to Participate in Upcoming Investor Conferences",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398625/0/en/cullinan-therapeutics-to-participate-in-upcoming-investor-conferences.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Velinotamig, a BCMAxCD3 T Cell Engager, Achieves Complete Renal Responses and Significantly Reduces Disease Activity in Systemic Lupus Erythematosus in Data Presented at ACR Convergence 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/11/08/3398003/0/en/velinotamig-a-bcmaxcd3-t-cell-engager-achieves-complete-renal-responses-and-significantly-reduces-disease-activity-in-systemic-lupus-erythematosus-in-data-presented-at-acr-converge.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Cullinan Therapeutics Announces Presentations for CLN-049, a FLT3 T Cell Engager, and Velinotamig, a BCMA T Cell Engager, at the 68th ASH Annual Meeting",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395435/0/en/cullinan-therapeutics-announces-presentations-for-cln-049-a-flt3-t-cell-engager-and-velinotamig-a-bcma-t-cell-engager-at-the-68th-ash-annual-meeting.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE)",
       "checklist": [
@@ -682,7 +1126,7 @@
         "analyst_count": 10,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.08333,
-        "upside_pct": 282.5799467204117
+        "upside_pct": 271.32155172246644
       },
       "anchors": {
         "as_of": "(net cash as of latest filings)",
@@ -699,28 +1143,75 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
     {
       "ticker": "CMPS",
       "name": "Compass Pathways",
-      "close": 8.649999618530273,
-      "pct": 6.52709039951791,
-      "volume": 2896800.0,
-      "volume_x": 0.9616977510919857,
-      "last_price_date": "2026-11-19",
-      "market_cap": 1225794432,
-      "enterprise_value": 966794432.0,
+      "close": 8.15999984741211,
+      "pct": -5.664737488178295,
+      "volume": 753121.0,
+      "volume_x": 0.24891748207371467,
+      "last_price_date": "2026-11-20",
+      "market_cap": 1150688000,
+      "enterprise_value": 891688000.0,
       "net_cash_m": 259.0,
       "runway_months": 19.5,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 8,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Learning Care Raises $560,000 for St. Jude Children’s Research Hospital Through Schoolwide St. Jude Trike-A-Thon",
+          "url": "https://www.globenewswire.com/news-release/2026/11/20/3407427/0/en/learning-care-raises-560-000-for-st-jude-children-s-research-hospital-through-schoolwide-st-jude-trike-a-thon.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Learning Care Names Austin Teacher and Charlotte Director Its Best of 2026 From 20,000 Educators Nationwide",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406743/0/en/learning-care-names-austin-teacher-and-charlotte-director-its-best-of-2026-from-20-000-educators-nationwide.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Preferred Hotels & Resorts Reveals Its New Independent Hotel Openings for 2027",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404707/0/en/preferred-hotels-resorts-reveals-its-new-independent-hotel-openings-for-2027.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "4,000 PEOPLE WILL ‘SLEEP OUT’ NATIONWIDE TO RAISE OVER $16 MILLION TO PROVIDE 24/7 SUPPORT AND SHELTER FOR HOMELESS YOUTH",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404564/0/en/4-000-people-will-sleep-out-nationwide-to-raise-over-16-million-to-provide-24-7-support-and-shelter-for-homeless-youth.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "BCMA Targeted Therapies Competitive Landscape Analysis: 100+ Pipeline Therapies Driving Innovation in Therapeutics Segment | DelveInsight",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3402074/0/en/bcma-targeted-therapies-competitive-landscape-analysis-100-pipeline-therapies-driving-innovation-in-therapeutics-segment-delveinsight.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "The SBB Research Group Foundation Names October 2026 Grant Finalists: CATCH Inc., Love of Angels, People Rebuilding Pathways",
+          "url": "https://www.globenewswire.com/news-release/2026/11/11/3400856/0/en/the-sbb-research-group-foundation-names-october-2026-grant-finalists-catch-inc-love-of-angels-people-rebuilding-pathways.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Compass Therapeutics Reports 2026 Third Quarter Financial Results and Provides Corporate Update",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398382/0/en/compass-therapeutics-reports-2026-third-quarter-financial-results-and-provides-corporate-update.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Colin Kaepernick honored as Humanitarian of the Year at 2026 Muhammad Ali Humanitarian Awards",
+          "url": "https://www.globenewswire.com/news-release/2026/11/08/3397999/0/en/colin-kaepernick-honored-as-humanitarian-of-the-year-at-2026-muhammad-ali-humanitarian-awards.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing",
       "checklist": [
@@ -734,7 +1225,7 @@
         "analyst_count": 16,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.3125,
-        "upside_pct": 169.50868240571134
+        "upside_pct": 185.69240730308846
       },
       "anchors": {
         "as_of": "(pro forma)",
@@ -751,9 +1242,7 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     },
@@ -770,9 +1259,28 @@
       "net_cash_m": 1350.0,
       "runway_months": 43.0,
       "alerts": [],
-      "new_pr_count": 0,
+      "new_pr_count": 3,
       "new_sec_count": 0,
-      "new_press": [],
+      "new_press": [
+        {
+          "title": "Biotechnology Market Companies 2027 Analysis: Amgen, Gilead, Regeneron, Vertex and Moderna Post Strong 2026 Results as Billion-Dollar Deals Reshape a Market Headed for USD 6.34 Trillion by 2035",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404836/0/en/biotechnology-market-companies-2027-analysis-amgen-gilead-regeneron-vertex-and-moderna-post-strong-2026-results-as-billion-dollar-deals-reshape-a-market-headed-for-usd-6-34-trillio.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Lexeo Therapeutics Announces Positive Interim Phase I/II Data and Regulatory Update for LX2020 in PKP2 Arrhythmogenic Cardiomyopathy and Reports Third Quarter 2026 Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403343/0/en/lexeo-therapeutics-announces-positive-interim-phase-i-ii-data-and-regulatory-update-for-lx2020-in-pkp2-arrhythmogenic-cardiomyopathy-and-reports-third-quarter-2026-financial-result.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "CG Oncology Appoints Proven Biopharmaceutical Commercial Leader Isabel Kalofonos as Chief Commercial Officer",
+          "url": "https://www.globenewswire.com/news-release/2026/10/13/3379652/0/en/cg-oncology-appoints-proven-biopharmaceutical-commercial-leader-isabel-kalofonos-as-chief-commercial-officer.html",
+          "date_text": null,
+          "source": "GlobeNewswire"
+        }
+      ],
       "new_sec": [],
       "next_catalyst": "2026: PALSONIFY quarterly sales / net product revenue updates",
       "checklist": [
@@ -803,9 +1311,7 @@
       },
       "errors": {
         "price_error": "Not enough price rows (need >= 2 trading days).",
-        "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403"
-        ],
+        "press_errors": [],
         "sec_error": null
       }
     }
