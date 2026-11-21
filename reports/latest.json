@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-22 00:00:56 KST",
-    "generated_at_utc": "2026-11-21T15:01:23.419420+00:00",
+    "generated_at_local": "2026-11-22 03:06:54 KST",
+    "generated_at_utc": "2026-11-21T18:07:17.340415+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -62,8 +62,8 @@
       "ticker": "IMMX",
       "close": 6.960000038146973,
       "pct": -1.136362558800319,
-      "pt": 24.05,
-      "pt_upside": 245.54597511759587,
+      "pt": 23.9125,
+      "pt_upside": 243.5704004157801,
       "mktcap": "$583.3M",
       "ev": "$474.8M",
       "net_cash": "$108.5M (Sep-2025 + Dec-2025 offering (pro forma))",
@@ -365,14 +365,14 @@
       "next_catalyst": "2026 H1~H2: NEXICART-2 enrollment maturity / data updates",
       "checklist": [],
       "price_target": {
-        "mean": 24.05,
-        "low": 17.4,
+        "mean": 23.9125,
+        "low": 16.3,
         "high": 30.0,
         "median": 22.5,
         "analyst_count": 8,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.42857,
-        "upside_pct": 245.54597511759587
+        "upside_pct": 243.5704004157801
       },
       "anchors": {
         "as_of": "Sep-2025 + Dec-2025 offering (pro forma)",
@@ -473,7 +473,7 @@
         "median": 604.0,
         "analyst_count": 22,
         "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.35,
+        "recommendation_mean": 1.33333,
         "upside_pct": 125.4495944188069
       },
       "anchors": {
@@ -544,8 +544,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }

@@ -1,4 +1,4 @@
-## Daily Report (2026-11-22 00:00:56 KST)
+## Daily Report (2026-11-22 03:06:54 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -8,7 +8,7 @@
 | EQ | 1.06 | -5.36% | 8.56 | +707.13% | $87.3M | $54.2M | $33.1M (2025-09-30) | 15.2m | mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start | 0 | 0 | - |
 | GPCR | 16.13 | -5.78% | 104.86 | +550.08% | $1.15B | -$355.2M | $1.51B (2025-09-30 (pro forma incl. Dec-2025 offering)) | - | 2026 Q1: ACCESS II 44-week results (company guidance) | 0 | 0 | - |
 | IKT | 1.32 | +1.54% | 5.55 | +320.45% | $185.2M | $25.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
-| IMMX | 6.96 | -1.14% | 24.05 | +245.55% | $583.3M | $474.8M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
+| IMMX | 6.96 | -1.14% | 23.91 | +243.57% | $583.3M | $474.8M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 7.98 | -1.97% | 27.75 | +247.74% | $779.9M | $609.0M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 300.43 | -3.37% | 677.32 | +125.45% | $8.40B | $6.85B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.34 | -1.65% | 39.67 | +375.62% | $249.6M | $209.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
@@ -140,8 +140,8 @@
 - **Volume**: `1,572,900` (≈ `1.09x` avg)
 - **Market Cap**: $583.3M
 - **EV**: $474.8M (calc; net cash as-of Sep-2025 + Dec-2025 offering (pro forma))
-- **Price Target (consensus)**: mean `24.05` (low `17.40` / high `30.00`; n=8)
-  - Upside to PT (mean): `+245.5%`
+- **Price Target (consensus)**: mean `23.91` (low `16.30` / high `30.00`; n=8)
+  - Upside to PT (mean): `+243.6%`
 - **Net Cash (anchor)**: $108.5M (as-of Sep-2025 + Dec-2025 offering (pro forma))
 - **Burn (anchor)**: ~$1.4M / month
 - **Runway (anchor)**: ~76.0 months
@@ -280,7 +280,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
