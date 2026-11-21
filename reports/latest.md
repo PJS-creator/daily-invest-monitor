@@ -1,6 +1,6 @@
-## Daily Report (2026-11-21 12:00:49 KST)
+## Daily Report (2026-11-21 13:09:16 KST)
 
-**Summary:** 0 new PR / 0 new SEC | **Alerts:** PRAX
+**Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
 ### Dashboard
 | Ticker | Close | Δ% | PT | Upside to PT | MktCap | EV | Net Cash (anchor) | Runway | Next Catalyst | PR | SEC | Alert |
@@ -10,7 +10,7 @@
 | IKT | 1.32 | +1.54% | 5.55 | +320.45% | $185.2M | $25.1M | $160.1M (2025-09-30 + Nov-2025 offering (pro forma est.)) | 71.0m | 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed | 0 | 0 | - |
 | IMMX | 6.96 | -1.14% | 24.05 | +245.55% | $583.3M | $474.8M | $108.5M (Sep-2025 + Dec-2025 offering (pro forma)) | 76.0m | 2026 H1~H2: NEXICART-2 enrollment maturity / data updates | 0 | 0 | - |
 | MGTX | 7.98 | -1.97% | 27.75 | +247.74% | $779.9M | $609.0M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
-| PRAX | 300.43 | -3.37% | 677.32 | +125.45% | $8.40B | $6.85B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PT 675.62→677.32 |
+| PRAX | 300.43 | -3.37% | 677.32 | +125.45% | $8.40B | $6.85B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 8.34 | -1.65% | 39.67 | +375.62% | $249.6M | $209.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
 | QURE | 19.35 | -4.35% | 58.18 | +200.67% | $1.36B | $1.18B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 10.52 | -6.57% | 26.20 | +149.05% | $544.1M | $238.7M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
@@ -208,7 +208,7 @@
 
 </details>
 <details>
-<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 300.43 (-3.37%) | ⚠️ PT 675.62→677.32 | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
+<summary><strong>PRAX — Praxis Precision Medicines</strong> — Close 300.43 (-3.37%) | Next: 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline</summary>
 
 
 #### Key Metrics
@@ -280,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>

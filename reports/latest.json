@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-21 12:00:49 KST",
-    "generated_at_utc": "2026-11-21T03:01:21.045248+00:00",
+    "generated_at_local": "2026-11-21 13:09:16 KST",
+    "generated_at_utc": "2026-11-21T04:09:32.194869+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -9,10 +9,8 @@
   "summary": {
     "total_new_press": 0,
     "total_new_sec": 0,
-    "alert_tickers": [
-      "PRAX"
-    ],
-    "overall_judgement": "행동 고려"
+    "alert_tickers": [],
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -103,7 +101,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 675.62→677.32"
+      "alert": "-"
     },
     {
       "ticker": "QTTB",
@@ -459,9 +457,7 @@
       "enterprise_value": 6847484544.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [
-        "PT 675.62→677.32"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -548,7 +544,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
         ],
         "sec_error": null
       }
