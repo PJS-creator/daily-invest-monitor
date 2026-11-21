@@ -1,4 +1,4 @@
-## Daily Report (2026-11-21 18:00:53 KST)
+## Daily Report (2026-11-22 00:00:56 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `1.32` (+1.54%)
-- **Volume**: `1,106,100` (≈ `1.93x` avg)
+- **Volume**: `1,106,100` (≈ `1.89x` avg)
 - **Market Cap**: $185.2M
 - **EV**: $25.1M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -175,7 +175,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `7.98` (-1.97%)
-- **Volume**: `1,014,000` (≈ `1.22x` avg)
+- **Volume**: `1,014,000` (≈ `1.21x` avg)
 - **Market Cap**: $779.9M
 - **EV**: $609.0M (calc; net cash as-of 2025 Q3 (pro forma))
 - **Price Target (consensus)**: mean `27.75` (low `16.00` / high `50.00`; n=8)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `300.43` (-3.37%)
-- **Volume**: `806,100` (≈ `1.70x` avg)
+- **Volume**: `806,100` (≈ `1.68x` avg)
 - **Market Cap**: $8.40B
 - **EV**: $6.85B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `677.32` (low `189.00` / high `1201.00`; n=22)
@@ -266,7 +266,7 @@
 | When | D-day | Event | Importance |
 |---|---:|---|---:|
 | mid-2026 | - | SIGNAL-AA Part B topline (W36, open-label) | 9 |
-| 2026-05-28 | D+177 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
+| 2026-05-28 | D+178 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
 | 2026 H2 | - | SIGNAL-AA Part A OLE / durability update (conference season, est.) | 6 |
 
 #### Today’s Checklist
@@ -290,7 +290,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `19.35` (-4.35%)
-- **Volume**: `2,104,200` (≈ `0.94x` avg)
+- **Volume**: `2,104,200` (≈ `0.93x` avg)
 - **Market Cap**: $1.36B
 - **EV**: $1.18B (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `58.18` (low `27.38` / high `92.90`; n=11)
@@ -328,7 +328,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `10.52` (-6.57%)
-- **Volume**: `1,053,400` (≈ `0.78x` avg)
+- **Volume**: `1,053,400` (≈ `0.77x` avg)
 - **Market Cap**: $544.1M
 - **EV**: $238.7M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `26.20` (low `22.00` / high `29.00`; n=10)
@@ -366,7 +366,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `8.89` (-1.98%)
-- **Volume**: `1,009,900` (≈ `1.02x` avg)
+- **Volume**: `1,009,900` (≈ `1.01x` avg)
 - **Market Cap**: $577.1M
 - **EV**: $138.1M (calc; net cash as-of (net cash as of latest filings))
 - **Price Target (consensus)**: mean `34.70` (low `27.00` / high `44.00`; n=10)
@@ -403,7 +403,7 @@
 
 #### Key Metrics
 - **Close (2026-11-20)**: `8.05` (-6.94%)
-- **Volume**: `6,088,300` (≈ `2.01x` avg)
+- **Volume**: `6,088,300` (≈ `1.97x` avg)
 - **Market Cap**: $1.14B
 - **EV**: $881.8M (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.31` (low `10.00` / high `65.00`; n=16)
