@@ -1,4 +1,4 @@
-## Daily Report (2026-11-22 18:00:51 KST)
+## Daily Report (2026-11-23 00:00:48 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -266,7 +266,7 @@
 | When | D-day | Event | Importance |
 |---|---:|---|---:|
 | mid-2026 | - | SIGNAL-AA Part B topline (W36, open-label) | 9 |
-| 2026-05-28 | D+178 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
+| 2026-05-28 | D+179 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
 | 2026 H2 | - | SIGNAL-AA Part A OLE / durability update (conference season, est.) | 6 |
 
 #### Today’s Checklist
