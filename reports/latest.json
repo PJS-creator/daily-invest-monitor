@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-22 12:00:51 KST",
-    "generated_at_utc": "2026-11-22T03:01:08.574793+00:00",
+    "generated_at_local": "2026-11-22 12:21:05 KST",
+    "generated_at_utc": "2026-11-22T03:21:27.502137+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -544,8 +544,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
