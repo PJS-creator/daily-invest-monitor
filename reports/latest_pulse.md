@@ -1,14 +1,15 @@
-# Pulse Input (2026-11-24 18:00:56 KST)
+# Pulse Input (2026-11-25 00:00:55 KST)
 
-- 전체 판단: **행동 고려**
-- 요약: PR 0건 / SEC 0건 / Alert IKT
+- 전체 판단: **추가 확인 필요**
+- 요약: PR 1건 / SEC 0건 / Alert -
 
 ## Must Watch
-- **IKT** (Inhibikase Therapeutics) — PRICE +8.3% | 주가 +8.33%
-  - 다음 촉매: 2026 H1: IMPROVE-PAH Phase 3 initiation / first patient dosed
+- **EQ** (Equillium) — PR 1건 | 주가 -0.70%
+  - 변화: PR: Equillium to Participate in the Piper Sandler 38th Annual Healthcare Conference | EQ Stock News
+  - 다음 촉매: mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start
 
 ## Ignore / Noise
-- 큰 변화 없음: EQ, GPCR, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
+- 큰 변화 없음: GPCR, IKT, IMMX, MGTX, PRAX, QTTB, QURE, AVBP, CGEM, CMPS, CRNX
 
 ## Source Files
 - reports/latest.md : 전체 리포트
