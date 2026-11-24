@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-24 12:00:58 KST",
-    "generated_at_utc": "2026-11-24T03:01:15.462794+00:00",
+    "generated_at_local": "2026-11-24 16:01:10 KST",
+    "generated_at_utc": "2026-11-24T07:01:28.805345+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -10,8 +10,7 @@
     "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
-      "IKT",
-      "PRAX"
+      "IKT"
     ],
     "overall_judgement": "행동 고려"
   },
@@ -104,7 +103,7 @@
       "next": "2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline",
       "new_pr": 0,
       "new_sec": 0,
-      "alert": "PT 677.32→678.82"
+      "alert": "-"
     },
     {
       "ticker": "QTTB",
@@ -125,8 +124,8 @@
       "ticker": "QURE",
       "close": 20.510000228881836,
       "pct": 5.994831134592471,
-      "pt": 57.861626,
-      "pt_upside": 182.11421430663975,
+      "pt": 57.785942,
+      "pt_upside": 181.74520407184986,
       "mktcap": "$1.44B",
       "ev": "$1.26B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -462,9 +461,7 @@
       "enterprise_value": 7031126656.0,
       "net_cash_m": 1550.0,
       "runway_months": 31.0,
-      "alerts": [
-        "PT 677.32→678.82"
-      ],
+      "alerts": [],
       "new_pr_count": 0,
       "new_sec_count": 0,
       "new_press": [],
@@ -579,14 +576,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 57.861626,
-        "low": 27.233137,
-        "high": 92.39795,
-        "median": 59.328747,
+        "mean": 57.785942,
+        "low": 27.197515,
+        "high": 92.27709,
+        "median": 59.251144,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 182.11421430663975
+        "upside_pct": 181.74520407184986
       },
       "anchors": {
         "as_of": "2025-09-30",
