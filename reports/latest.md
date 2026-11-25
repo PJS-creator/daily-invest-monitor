@@ -1,4 +1,4 @@
-## Daily Report (2026-11-25 12:00:52 KST)
+## Daily Report (2026-11-25 14:34:41 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** IKT, PRAX, QTTB, AVBP, CGEM
 
@@ -12,7 +12,7 @@
 | MGTX | 9.06 | +5.96% | 27.75 | +206.29% | $885.4M | $714.5M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 344.49 | +12.21% | 678.82 | +97.05% | $9.63B | $8.08B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | PRICE +12.2% |
 | QTTB | 9.41 | +8.29% | 39.67 | +321.54% | $281.6M | $241.4M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | PRICE +8.3% |
-| QURE | 22.03 | +7.41% | 58.08 | +163.66% | $1.55B | $1.37B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 22.03 | +7.41% | 58.05 | +163.48% | $1.55B | $1.37B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 12.64 | +12.26% | 26.20 | +107.28% | $653.8M | $348.4M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | PRICE +12.3% |
 | CGEM | 10.22 | +10.01% | 34.70 | +239.53% | $663.5M | $224.5M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | PRICE +10.0% |
 | CMPS | 8.97 | +5.04% | 23.31 | +159.89% | $1.27B | $1.01B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -280,6 +280,7 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403
+- rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429
 </details>
 
 </details>
@@ -292,8 +293,8 @@
 - **Volume**: `1,429,700` (≈ `0.63x` avg)
 - **Market Cap**: $1.55B
 - **EV**: $1.37B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `58.08` (low `27.34` / high `92.75`; n=11)
-  - Upside to PT (mean): `+163.7%`
+- **Price Target (consensus)**: mean `58.05` (low `27.32` / high `92.69`; n=11)
+  - Upside to PT (mean): `+163.5%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
