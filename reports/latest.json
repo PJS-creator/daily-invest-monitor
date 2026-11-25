@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-25 06:24:44 KST",
-    "generated_at_utc": "2026-11-24T21:25:48.875202+00:00",
+    "generated_at_local": "2026-11-25 12:00:52 KST",
+    "generated_at_utc": "2026-11-25T03:02:12.279403+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
-    "total_new_press": 17,
+    "total_new_press": 0,
     "total_new_sec": 0,
     "alert_tickers": [
       "IKT",
@@ -30,7 +30,7 @@
       "net_cash": "$33.1M (2025-09-30)",
       "runway": "15.2m",
       "next": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
-      "new_pr": 1,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
@@ -45,7 +45,7 @@
       "net_cash": "$1.51B (2025-09-30 (pro forma incl. Dec-2025 offering))",
       "runway": "-",
       "next": "2026 Q1: ACCESS II 44-week results (company guidance)",
-      "new_pr": 8,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "-"
     },
@@ -128,8 +128,8 @@
       "ticker": "QURE",
       "close": 22.030000686645508,
       "pct": 7.41102116431589,
-      "pt": 58.14722,
-      "pt_upside": 163.94561138279306,
+      "pt": 58.083515,
+      "pt_upside": 163.65643753797053,
       "mktcap": "$1.55B",
       "ev": "$1.37B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -150,7 +150,7 @@
       "net_cash": "$305.4M (2025-09-30)",
       "runway": "21.2m",
       "next": "early-2026: FURVENT Phase 3 topline",
-      "new_pr": 8,
+      "new_pr": 0,
       "new_sec": 0,
       "alert": "PRICE +12.3%"
     },
@@ -206,24 +206,17 @@
       "name": "Equillium",
       "close": 1.2300000190734863,
       "pct": 7.894739869118661,
-      "volume": 1138970.0,
-      "volume_x": 2.083709136546001,
+      "volume": 1139200.0,
+      "volume_x": 2.084129914179657,
       "last_price_date": "2026-11-24",
       "market_cap": 101259384,
       "enterprise_value": 68159384.0,
       "net_cash_m": 33.1,
       "runway_months": 15.2,
       "alerts": [],
-      "new_pr_count": 1,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Equillium to Participate in the Piper Sandler 38th Annual Healthcare Conference",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409266/0/en/equillium-to-participate-in-the-piper-sandler-38th-annual-healthcare-conference.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "mid-2026: EQ504 Phase 1 SAD/MAD + PoM (Colon biopsy PD) start",
       "checklist": [],
@@ -252,7 +245,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Equillium?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -261,66 +256,17 @@
       "name": "Structure Therapeutics",
       "close": 17.18000030517578,
       "pct": 3.4939753637204696,
-      "volume": 1963629.0,
-      "volume_x": 1.6700550354783648,
+      "volume": 2009300.0,
+      "volume_x": 1.708897955156844,
       "last_price_date": "2026-11-24",
       "market_cap": 1229922304,
       "enterprise_value": -280077696.0,
       "net_cash_m": 1510.0,
       "runway_months": null,
       "alerts": [],
-      "new_pr_count": 8,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "PolyPid Announces FDA Approval of BACFENSSI® (D-PLEX₁₀₀) to Reduce the Occurrence of Surgical Site Infections in Patients Undergoing Colorectal Surgery",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409851/0/en/polypid-announces-fda-approval-of-bacfenssi-d-plex-to-reduce-the-occurrence-of-surgical-site-infections-in-patients-undergoing-colorectal-surgery.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "India Pharmaceutical Demand and Manufacturing Market Strategic Intelligence Suite, 2026-2031 | Demand to Reach $50 Billion as Manufacturing Hits $55.5 Billion by 2031",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409615/28124/en/india-pharmaceutical-demand-and-manufacturing-market-strategic-intelligence-suite-2026-2031-demand-to-reach-50-billion-as-manufacturing-hits-55-5-billion-by-2031.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Global Electrophysiology Catheters Market 2026-2033 | Set to Reach USD 23.3 Billion as PFA and Advanced Cardiac Mapping Drive 10.7% CAGR",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409588/28124/en/global-electrophysiology-catheters-market-2026-2033-set-to-reach-usd-23-3-billion-as-pfa-and-advanced-cardiac-mapping-drive-10-7-cagr.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Healthcare Market to Reach USD 20 Trillion by 2035 as Ageing, Chronic Disease and New Treatments Lift Global Spending",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409455/0/en/healthcare-market-to-reach-usd-20-trillion-by-2035-as-ageing-chronic-disease-and-new-treatments-lift-global-spending.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Dermatology Collaboration and Licensing Deals Report 2016-2026 | Benchmark 506 Real-World Deals, Financial Terms, Top Dealmakers, and Contract Structures to Guide Partnering Strategy",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409346/28124/en/dermatology-collaboration-and-licensing-deals-report-2016-2026-benchmark-506-real-world-deals-financial-terms-top-dealmakers-and-contract-structures-to-guide-partnering-strategy.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Hematology Collaboration and Licensing Deals Analysis 2016-2026 | Benchmark 234 Real-World Deals, Financial Terms, Leading Dealmakers, Partner Prospects, and Contract Structures",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409343/28124/en/hematology-collaboration-and-licensing-deals-analysis-2016-2026-benchmark-234-real-world-deals-financial-terms-leading-dealmakers-partner-prospects-and-contract-structures.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "First Pulmonary Arterial Hypertension (PAH) Patient Dosed with tiakis Biotech’s Lead Compound Tiprelestat in Phase II Athena Study in the U.S.",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409039/0/en/first-pulmonary-arterial-hypertension-pah-patient-dosed-with-tiakis-biotech-s-lead-compound-tiprelestat-in-phase-ii-athena-study-in-the-u-s.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "First-Ever Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9 Approved by FDA, a Milestone for a Community That Has Waited Decades",
-          "url": "https://www.globenewswire.com/news-release/2026/11/23/3408893/0/en/first-ever-treatment-for-limb-girdle-muscular-dystrophy-type-2i-r9-approved-by-fda-a-milestone-for-a-community-that-has-waited-decades.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "2026 Q1: ACCESS II 44-week results (company guidance)",
       "checklist": [],
@@ -349,7 +295,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Structure%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -358,8 +306,8 @@
       "name": "Inhibikase Therapeutics",
       "close": 1.6100000143051147,
       "pct": 12.587417717452132,
-      "volume": 916111.0,
-      "volume_x": 1.5707677140040293,
+      "volume": 916100.0,
+      "volume_x": 1.5707488533584808,
       "last_price_date": "2026-11-24",
       "market_cap": 225834112,
       "enterprise_value": 65734112.0,
@@ -399,7 +347,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Inhibikase?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -408,8 +358,8 @@
       "name": "Immix Biopharma",
       "close": 7.889999866485596,
       "pct": 7.786880894223391,
-      "volume": 1438198.0,
-      "volume_x": 0.9967578641546467,
+      "volume": 1438500.0,
+      "volume_x": 0.996967168349879,
       "last_price_date": "2026-11-24",
       "market_cap": 661280256,
       "enterprise_value": 552780256.0,
@@ -429,7 +379,7 @@
         "median": 22.0,
         "analyst_count": 9,
         "recommendation_key": "strong_buy",
-        "recommendation_mean": 1.42857,
+        "recommendation_mean": 1.5,
         "upside_pct": 198.97199491978043
       },
       "anchors": {
@@ -447,7 +397,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Immix%20Biopharma?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -456,8 +408,8 @@
       "name": "MeiraGTx",
       "close": 9.0600004196167,
       "pct": 5.964914824615941,
-      "volume": 1000475.0,
-      "volume_x": 1.195063624842177,
+      "volume": 1000500.0,
+      "volume_x": 1.1950934872481553,
       "last_price_date": "2026-11-24",
       "market_cap": 885438784,
       "enterprise_value": 714538784.0,
@@ -495,7 +447,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/MeiraGTx?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -504,8 +458,8 @@
       "name": "Praxis Precision Medicines",
       "close": 344.489990234375,
       "pct": 12.211723203379488,
-      "volume": 662700.0,
-      "volume_x": 1.3646472550553932,
+      "volume": 670400.0,
+      "volume_x": 1.380503274164985,
       "last_price_date": "2026-11-24",
       "market_cap": 9629029376,
       "enterprise_value": 8079029376.0,
@@ -547,7 +501,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Praxis%20Precision%20Medicines?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -556,8 +512,8 @@
       "name": "Q32 Bio",
       "close": 9.40999984741211,
       "pct": 8.285388973483144,
-      "volume": 230215.0,
-      "volume_x": 0.3359096400660686,
+      "volume": 230200.0,
+      "volume_x": 0.33588775337492777,
       "last_price_date": "2026-11-24",
       "market_cap": 281583712,
       "enterprise_value": 241383712.0,
@@ -599,7 +555,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -608,8 +566,8 @@
       "name": "uniQure",
       "close": 22.030000686645508,
       "pct": 7.41102116431589,
-      "volume": 1425585.0,
-      "volume_x": 0.6289597172122179,
+      "volume": 1429700.0,
+      "volume_x": 0.6307752310092404,
       "last_price_date": "2026-11-24",
       "market_cap": 1545159168,
       "enterprise_value": 1368159168.0,
@@ -625,14 +583,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 58.14722,
-        "low": 27.367556,
-        "high": 92.85401,
-        "median": 59.621586,
+        "mean": 58.083515,
+        "low": 27.337572,
+        "high": 92.75227,
+        "median": 59.556263,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 163.94561138279306
+        "upside_pct": 163.65643753797053
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -649,7 +607,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/uniQure?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -658,8 +618,8 @@
       "name": "ArriVent BioPharma",
       "close": 12.640000343322754,
       "pct": 12.255773413762693,
-      "volume": 1959195.0,
-      "volume_x": 1.4214245914627246,
+      "volume": 1960200.0,
+      "volume_x": 1.4221537336432732,
       "last_price_date": "2026-11-24",
       "market_cap": 653779648,
       "enterprise_value": 348379648.0,
@@ -668,58 +628,9 @@
       "alerts": [
         "PRICE +12.3%"
       ],
-      "new_pr_count": 8,
+      "new_pr_count": 0,
       "new_sec_count": 0,
-      "new_press": [
-        {
-          "title": "Casino $150 No Deposit Bonus Codes 2026 Launch By BitStarz Exploring New $150 Casinos No Deposit Offers and Real-Money Gaming Opportunities For Eligible Players.",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409829/0/en/casino-150-no-deposit-bonus-codes-2026-launch-by-bitstarz-exploring-new-150-casinos-no-deposit-offers-and-real-money-gaming-opportunities-for-eligible-players.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "QCI Helps Casino Resorts Strengthen Cyber Protection and Operational Resilience",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409804/0/en/qci-helps-casino-resorts-strengthen-cyber-protection-and-operational-resilience.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Darktrace detects more than 1,200% rise in Black Friday phishing ahead of holiday shopping weekend",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409777/0/en/darktrace-detects-more-than-1-200-rise-in-black-friday-phishing-ahead-of-holiday-shopping-weekend.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Dua Travels Announces New Ramadan Umrah Packages for 2027 From USA",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409725/0/en/dua-travels-announces-new-ramadan-umrah-packages-for-2027-from-usa.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Darktrace detects more than 1,200% rise in Black Friday phishing ahead of holiday shopping weekend",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409724/0/en/darktrace-detects-more-than-1-200-rise-in-black-friday-phishing-ahead-of-holiday-shopping-weekend.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Optimove Insights: 2027 Marketing Predictions Name It The Year of Judgment, as 55% of Consumers Have Switched Brands Multiple Times Over Marketing Bombardment",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409706/0/en/optimove-insights-2027-marketing-predictions-name-it-the-year-of-judgment-as-55-of-consumers-have-switched-brands-multiple-times-over-marketing-bombardment.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Find a Store in New Jersey or Delaware Who Sells Cardio Equipment For Home, According to Fitness Superstore USA",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409669/0/en/find-a-store-in-new-jersey-or-delaware-who-sells-cardio-equipment-for-home-according-to-fitness-superstore-usa.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Free Business Phone Numbers: Three Costs That Do Not Appear on Any Invoice",
-          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409670/0/en/free-business-phone-numbers-three-costs-that-do-not-appear-on-any-invoice.html",
-          "date_text": null,
-          "source": "GlobeNewswire"
-        }
-      ],
+      "new_press": [],
       "new_sec": [],
       "next_catalyst": "early-2026: FURVENT Phase 3 topline",
       "checklist": [
@@ -750,7 +661,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -759,8 +672,8 @@
       "name": "Cullinan Therapeutics",
       "close": 10.220000267028809,
       "pct": 10.010767588746884,
-      "volume": 866573.0,
-      "volume_x": 0.868384449962622,
+      "volume": 866600.0,
+      "volume_x": 0.8684115064023553,
       "last_price_date": "2026-11-24",
       "market_cap": 663491840,
       "enterprise_value": 224491840.0,
@@ -802,7 +715,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Cullinan%20Therapeutics?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -811,8 +726,8 @@
       "name": "Compass Pathways",
       "close": 8.970000267028809,
       "pct": 5.035132401598741,
-      "volume": 6035429.0,
-      "volume_x": 1.9418856025932867,
+      "volume": 5734600.0,
+      "volume_x": 1.8449918570181179,
       "last_price_date": "2026-11-24",
       "market_cap": 1271141888,
       "enterprise_value": 1012141888.0,
@@ -852,7 +767,9 @@
       },
       "errors": {
         "price_error": null,
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Compass%20Pathways?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     },
@@ -902,7 +819,9 @@
       },
       "errors": {
         "price_error": "Not enough price rows (need >= 2 trading days).",
-        "press_errors": [],
+        "press_errors": [
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Crinetics%20Pharmaceuticals?pageSize=10 -> GlobeNewswire fetch failed: 403"
+        ],
         "sec_error": null
       }
     }
