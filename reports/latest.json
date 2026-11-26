@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-26 12:00:55 KST",
-    "generated_at_utc": "2026-11-26T03:01:14.612880+00:00",
+    "generated_at_local": "2026-11-26 14:17:19 KST",
+    "generated_at_utc": "2026-11-26T05:17:42.958571+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
   },
   "summary": {
     "total_new_press": 0,
-    "total_new_sec": 1,
+    "total_new_sec": 0,
     "alert_tickers": [],
-    "overall_judgement": "추가 확인 필요"
+    "overall_judgement": "감시만"
   },
   "dashboard": [
     {
@@ -122,15 +122,15 @@
       "ticker": "QURE",
       "close": 22.399999618530273,
       "pct": 1.6795230156713359,
-      "pt": 58.1536,
-      "pt_upside": 159.6142901354907,
+      "pt": 58.121716,
+      "pt_upside": 159.47195084735242,
       "mktcap": "$1.57B",
       "ev": "$1.39B",
       "net_cash": "$177.0M (2025-09-30)",
       "runway": "15.9m",
       "next": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "new_pr": 0,
-      "new_sec": 1,
+      "new_sec": 0,
       "alert": "-"
     },
     {
@@ -564,29 +564,22 @@
       "runway_months": 15.9,
       "alerts": [],
       "new_pr_count": 0,
-      "new_sec_count": 1,
+      "new_sec_count": 0,
       "new_press": [],
-      "new_sec": [
-        {
-          "title": "4  - Statement of changes in beneficial ownership of securities",
-          "url": "https://www.sec.gov/Archives/edgar/data/1590560/000090445426000640/0000904454-26-000640-index.htm",
-          "date_text": "",
-          "source": "SEC"
-        }
-      ],
+      "new_sec": [],
       "next_catalyst": "2026 H1: AMT-130 FDA Type A meeting outcome / minutes",
       "checklist": [
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 58.1536,
-        "low": 27.370558,
-        "high": 92.86419,
-        "median": 59.628124,
+        "mean": 58.121716,
+        "low": 27.35555,
+        "high": 92.81328,
+        "median": 59.595432,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 159.6142901354907
+        "upside_pct": 159.47195084735242
       },
       "anchors": {
         "as_of": "2025-09-30",
