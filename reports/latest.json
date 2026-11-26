@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at_local": "2026-11-26 14:17:19 KST",
-    "generated_at_utc": "2026-11-26T05:17:42.958571+00:00",
+    "generated_at_local": "2026-11-26 18:01:01 KST",
+    "generated_at_utc": "2026-11-26T09:01:27.967869+00:00",
     "timezone": "Asia/Seoul",
     "repository": "PJS-creator/daily-invest-monitor",
     "ref_name": "main"
@@ -122,8 +122,8 @@
       "ticker": "QURE",
       "close": 22.399999618530273,
       "pct": 1.6795230156713359,
-      "pt": 58.121716,
-      "pt_upside": 159.47195084735242,
+      "pt": 58.16636,
+      "pt_upside": 159.67125442217508,
       "mktcap": "$1.57B",
       "ev": "$1.39B",
       "net_cash": "$177.0M (2025-09-30)",
@@ -544,8 +544,7 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403",
-          "rss https://www.stocktitan.net/rss/news/QTTB -> HTTP 429"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/Q32%20Bio?pageSize=10 -> GlobeNewswire fetch failed: 403"
         ],
         "sec_error": null
       }
@@ -572,14 +571,14 @@
         "AMT-130 / AMT-191 / AMT-260 업데이트"
       ],
       "price_target": {
-        "mean": 58.121716,
-        "low": 27.35555,
-        "high": 92.81328,
-        "median": 59.595432,
+        "mean": 58.16636,
+        "low": 27.376562,
+        "high": 92.88457,
+        "median": 59.64121,
         "analyst_count": 11,
         "recommendation_key": "strong_buy",
         "recommendation_mean": 1.38462,
-        "upside_pct": 159.47195084735242
+        "upside_pct": 159.67125442217508
       },
       "anchors": {
         "as_of": "2025-09-30",
@@ -649,7 +648,8 @@
       "errors": {
         "price_error": null,
         "press_errors": [
-          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403"
+          "globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403",
+          "rss https://www.stocktitan.net/rss/news/AVBP -> HTTP 429"
         ],
         "sec_error": null
       }
