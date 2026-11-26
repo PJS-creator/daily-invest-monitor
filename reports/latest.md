@@ -1,4 +1,4 @@
-## Daily Report (2026-11-26 18:01:01 KST)
+## Daily Report (2026-11-27 00:00:57 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -12,7 +12,7 @@
 | MGTX | 9.10 | +0.44% | 27.75 | +204.95% | $889.3M | $718.4M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 347.09 | +0.75% | 678.82 | +95.57% | $9.70B | $8.15B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 9.42 | +0.11% | 39.67 | +321.09% | $281.9M | $241.7M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.40 | +1.68% | 58.17 | +159.67% | $1.57B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 22.40 | +1.68% | 58.22 | +159.93% | $1.57B | $1.39B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 12.61 | -0.24% | 26.20 | +107.77% | $652.2M | $346.8M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 10.07 | -1.47% | 34.70 | +244.59% | $653.8M | $214.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 8.92 | -0.56% | 23.31 | +161.35% | $1.26B | $1.01B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -63,7 +63,7 @@
 
 #### Key Metrics
 - **Close (2026-11-25)**: `18.00` (+4.77%)
-- **Volume**: `2,156,600` (≈ `1.80x` avg)
+- **Volume**: `2,156,600` (≈ `1.77x` avg)
 - **Market Cap**: $1.29B
 - **EV**: -$221.4M (calc; net cash as-of 2025-09-30 (pro forma incl. Dec-2025 offering))
 - **Price Target (consensus)**: mean `104.86` (low `70.00` / high `145.00`; n=14)
@@ -100,7 +100,7 @@
 
 #### Key Metrics
 - **Close (2026-11-25)**: `1.63` (+1.24%)
-- **Volume**: `541,400` (≈ `0.92x` avg)
+- **Volume**: `541,400` (≈ `0.91x` avg)
 - **Market Cap**: $228.6M
 - **EV**: $68.5M (calc; net cash as-of 2025-09-30 + Nov-2025 offering (pro forma est.))
 - **Price Target (consensus)**: mean `5.55` (low `1.50` / high `8.00`; n=10)
@@ -213,7 +213,7 @@
 
 #### Key Metrics
 - **Close (2026-11-25)**: `347.09` (+0.75%)
-- **Volume**: `400,100` (≈ `0.81x` avg)
+- **Volume**: `400,100` (≈ `0.82x` avg)
 - **Market Cap**: $9.70B
 - **EV**: $8.15B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `678.82` (low `189.00` / high `1201.00`; n=22)
@@ -266,7 +266,7 @@
 | When | D-day | Event | Importance |
 |---|---:|---|---:|
 | mid-2026 | - | SIGNAL-AA Part B topline (W36, open-label) | 9 |
-| 2026-05-28 | D+182 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
+| 2026-05-28 | D+183 | ADX-097 asset sale cash receipt ($3.0M) | 4 |
 | 2026 H2 | - | SIGNAL-AA Part A OLE / durability update (conference season, est.) | 6 |
 
 #### Today’s Checklist
@@ -292,8 +292,8 @@
 - **Volume**: `1,511,000` (≈ `0.67x` avg)
 - **Market Cap**: $1.57B
 - **EV**: $1.39B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `58.17` (low `27.38` / high `92.88`; n=11)
-  - Upside to PT (mean): `+159.7%`
+- **Price Target (consensus)**: mean `58.22` (low `27.40` / high `92.98`; n=11)
+  - Upside to PT (mean): `+159.9%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
 - **Runway (anchor)**: ~15.9 months
@@ -327,7 +327,7 @@
 
 #### Key Metrics
 - **Close (2026-11-25)**: `12.61` (-0.24%)
-- **Volume**: `2,726,800` (≈ `1.96x` avg)
+- **Volume**: `2,726,800` (≈ `1.91x` avg)
 - **Market Cap**: $652.2M
 - **EV**: $346.8M (calc; net cash as-of 2025-09-30)
 - **Price Target (consensus)**: mean `26.20` (low `22.00` / high `29.00`; n=10)
@@ -356,7 +356,6 @@
 
 <details><summary>DEBUG(Press source errors)</summary>
 - globenewswire_keyword https://www.globenewswire.com/en/search/keyword/ArriVent?pageSize=10 -> GlobeNewswire fetch failed: 403
-- rss https://www.stocktitan.net/rss/news/AVBP -> HTTP 429
 </details>
 
 </details>
@@ -403,7 +402,7 @@
 
 #### Key Metrics
 - **Close (2026-11-25)**: `8.92` (-0.56%)
-- **Volume**: `3,642,000` (≈ `1.15x` avg)
+- **Volume**: `3,642,000` (≈ `1.14x` avg)
 - **Market Cap**: $1.26B
 - **EV**: $1.01B (calc; net cash as-of (pro forma))
 - **Price Target (consensus)**: mean `23.31` (low `10.00` / high `65.00`; n=16)
