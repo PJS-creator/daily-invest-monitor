@@ -1,4 +1,4 @@
-## Daily Report (2026-11-28 05:06:44 KST)
+## Daily Report (2026-11-28 06:00:49 KST)
 
 **Summary:** 0 new PR / 0 new SEC | **Alerts:** -
 
@@ -12,7 +12,7 @@
 | MGTX | 8.97 | -1.43% | 27.75 | +209.36% | $876.6M | $705.7M | $170.9M (2025 Q3 (pro forma)) | 21.4m | 2026: AAV-AQP1 (AQUAx2) pivotal Phase 2 enrollment/progress updates | 0 | 0 | - |
 | PRAX | 359.64 | +3.62% | 678.82 | +88.75% | $10.05B | $8.50B | $1.55B ((pro forma)) | 31.0m | 2026 Q2: Vormatrigine POWER1 (adjunctive FOS) topline | 0 | 0 | - |
 | QTTB | 9.92 | +5.31% | 39.67 | +299.87% | $296.8M | $256.6M | $40.2M ((pro forma est.)) | 13.2m | mid-2026: SIGNAL-AA Part B topline (W36, open-label) | 0 | 0 | - |
-| QURE | 22.26 | -0.62% | 57.99 | +160.50% | $1.56B | $1.38B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
+| QURE | 22.26 | -0.62% | 57.98 | +160.48% | $1.56B | $1.38B | $177.0M (2025-09-30) | 15.9m | 2026 H1: AMT-130 FDA Type A meeting outcome / minutes | 0 | 0 | - |
 | AVBP | 12.68 | +0.56% | 26.20 | +106.62% | $655.8M | $350.4M | $305.4M (2025-09-30) | 21.2m | early-2026: FURVENT Phase 3 topline | 0 | 0 | - |
 | CGEM | 10.24 | +1.69% | 34.70 | +238.87% | $664.8M | $225.8M | $439.0M ((net cash as of latest filings)) | - | 2026 H1: CLN-978 initial safety + B-cell depletion data (RA/SLE) | 0 | 0 | - |
 | CMPS | 9.57 | +7.29% | 23.31 | +143.60% | $1.36B | $1.10B | $259.0M ((pro forma)) | 19.5m | early Q3 2026: COMP005 Part B 26-week data + COMP006 durability / re-dosing | 0 | 0 | - |
@@ -292,7 +292,7 @@
 - **Volume**: `685,168` (≈ `0.30x` avg)
 - **Market Cap**: $1.56B
 - **EV**: $1.38B (calc; net cash as-of 2025-09-30)
-- **Price Target (consensus)**: mean `57.99` (low `27.29` / high `92.60`; n=11)
+- **Price Target (consensus)**: mean `57.98` (low `27.29` / high `92.59`; n=11)
   - Upside to PT (mean): `+160.5%`
 - **Net Cash (anchor)**: $177.0M (as-of 2025-09-30)
 - **Burn (anchor)**: ~$11.2M / month
